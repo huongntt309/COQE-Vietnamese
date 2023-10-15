@@ -1,5 +1,5 @@
 from data_utils import shared_utils
-from transformers import BertTokenizer
+from transformers import BertTokenizer, AutoTokenizer
 
 
 class BaseConfig(object):
@@ -25,21 +25,21 @@ class BaseConfig(object):
 
         self.premodel_path = args.premodel_path
 
-        self.data_type = "eng" if args.file_type == "Camera-COQE" else "cn"
+        self.data_type = "eng" if args.file_type == "Camera-COQE" else "vie"
 
         self.path = PathConfig(
             self.device, self.file_type, self.program_mode, self.premodel_path
         )
         self.val = GlobalConfig(self.position_sys)
         print('self.path.bert_model_path', self.path.bert_model_path)
-        self.bert_tokenizer = BertTokenizer.from_pretrained(self.path.bert_model_path)
-
+        # self.bert_tokenizer = BertTokenizer.from_pretrained(self.path.bert_model_path)
+        self.bert_tokenizer = AutoTokenizer.from_pretrained(self.path.bert_model_path)
 
 class PathConfig(object):
     def __init__(self, device, file_type, program_mode, premodel_path):
         # store split train and test data file path
         dir_name = file_type
-        dir_name = dir_name if program_mode in {"run", "test"} else "test_" + dir_name
+        dir_name = dir_name if program_mode in {"run", "test", "dev"} else "test_" + dir_name
 
         self.standard_path = {
             "train": "../data/{}/train.txt".format(dir_name),
@@ -50,12 +50,10 @@ class PathConfig(object):
         # nlp tool file path
         if device == "cpu":
             self.stanford_path = r"D:/stanford-corenlp-full-2018-10-05"
-            self.bert_model_path = r"D:/base_uncased/" if file_type == "Camera-COQE" else r"D:/base_chinese/"
+            self.bert_model_path = "vinai/phobert-base-v2" if file_type == "Smartphone-COQE" else r"bert-base-uncased"
         else:
-            self.stanford_path = premodel_path + "stanford-corenlp-full-2018-02-27"
-            self.bert_model_path = premodel_path + "base_uncased/" if file_type == "Camera-COQE" else premodel_path + "base_chinese/"
-            self.GloVe_path = premodel_path + "vector/glove.840B.300d.txt"
-            self.Word2Vec_path = premodel_path + "vector/word2vec.txt"
+            self.stanford_path = r"D:/stanford-corenlp-full-2018-10-05"
+            self.bert_model_path = "vinai/phobert-base-v2" if file_type == "Smartphone-COQE" else r"bert-base-uncased"
 
         self.pre_process_data = {
             "train": "../data/pre_process/{}_train_data.txt".format(file_type),
