@@ -1,10 +1,12 @@
+import collections
 import os
 import numpy as np
+import torch
 from data_utils.label_parse import LabelParser
 from data_utils import shared_utils
 from data_utils import current_program_code as cpc
 from open_source_utils import stanford_utils
-from transformers import BertTokenizer
+from transformers import BertTokenizer, AutoTokenizer, AutoModel
 
 
 class DataGenerator(object):
@@ -20,8 +22,8 @@ class DataGenerator(object):
 
         # store some data using in model
         self.train_data_dict, self.dev_data_dict, self.test_data_dict = {}, {}, {}
-        self.bert_tokenizer = BertTokenizer.from_pretrained(config.path.bert_model_path)
-
+        # self.bert_tokenizer = BertTokenizer.from_pretrained(config.path.bert_model_path)
+        self.bert_tokenizer = AutoTokenizer.from_pretrained(config.path.bert_model_path)
         self.elem_col = ["entity_1", "entity_2", "aspect", "result"]
 
     def create_data_dict(self, data_path, data_type, label_path=None):
@@ -33,31 +35,42 @@ class DataGenerator(object):
         """
         data_dict = {}
 
-        sent_col, sent_label_col, label_col = cpc.read_standard_file(data_path)
-
-        LP = LabelParser(label_col, ["entity_1", "entity_2", "aspect", "result"])
-        label_col, tuple_pair_col = LP.parse_sequence_label("&&", sent_col, file_type="eng")
-
-        # using stanford tool to get some feature data.
-        if not os.path.exists(self.config.path.pre_process_data[data_type]):
-            sf = stanford_utils.stanfordFeature(sent_col, self.config.path.stanford_path)
-            data_dict['standard_token'] = sf.get_tokenizer()
-            shared_utils.write_pickle(data_dict, self.config.path.pre_process_data[data_type])
-
-        else:
-            data_dict = shared_utils.read_pickle(self.config.path.pre_process_data[data_type])
-
-        self.token_max_len = max(self.token_max_len, shared_utils.get_max_token_length(data_dict['standard_token']))
+        sent_col, sent_label_col, label_col, tuple_pair_col = cpc.read_standard_file(data_path)
 
         data_dict['label_col'] = label_col
         data_dict['comparative_label'] = sent_label_col
+
+        print("---------CHECK FREQUENCY------------")
+        print(collections.Counter(sent_label_col))
+        print("---------END CHECK FREQUENCY------------")
+
+        segmented_sent_col_tokens, label_col, tuple_pair_col, new_sent_col = cpc.mapping_segmented_col(sent_col, label_col, tuple_pair_col)
+        data_dict['sent_col'] = new_sent_col
+        sent_col = [" ".join(value) for value in segmented_sent_col_tokens]
+
+        data_dict['standard_token'] = segmented_sent_col_tokens
+
+        self.token_max_len = max(self.token_max_len, shared_utils.get_max_token_length(data_dict['standard_token']))
 
         if self.config.model_mode == "bert":
             data_dict['bert_token'] = shared_utils.get_token_col(sent_col, bert_tokenizer=self.bert_tokenizer, dim=1)
 
             mapping_col = shared_utils.token_mapping_bert(data_dict['bert_token'], data_dict['standard_token'])
 
+            # for i in range(len(sent_col)):
+            #     if data_dict['comparative_label'][i] == 1:
+            #         print(sent_col[i])
+            #         print(data_dict['standard_token'][i])
+            #         print(data_dict['bert_token'][i])
+            #         print(mapping_col[i])
+            #         break
+
             label_col = cpc.convert_eng_label_dict_by_mapping(label_col, mapping_col)
+            for i in range(len(data_dict['comparative_label'])):
+                if data_dict['comparative_label'] == 1:
+                    print(data_dict['bert_token'][i])
+                    print(data_dict['label_col'][i])
+                    print(label_col[i])
 
             tuple_pair_col = cpc.convert_eng_tuple_pair_by_mapping(tuple_pair_col, mapping_col)
 
@@ -66,6 +79,9 @@ class DataGenerator(object):
                 data_dict['bert_token'],
                 "tokens"
             )
+
+            # print(data_dict['bert_token'][:2])
+            # print(data_dict['input_ids'][:2])
 
             self.char_max_len = max(self.char_max_len, shared_utils.get_max_token_length(data_dict['input_ids'])) + 2
 

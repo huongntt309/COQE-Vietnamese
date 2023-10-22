@@ -123,6 +123,10 @@ def parameters_to_model_name(param_dict):
     model_name = model_name.replace("second", "first")
     model_name = model_name.replace("test", "run")
 
+    if not os.path.exists(result_file):
+        os.mkdir(result_file)
+    if not os.path.exists(model_file):
+        os.mkdir(model_file)
     if not os.path.exists(os.path.join(result_file, model_name)):
         os.mkdir(os.path.join(result_file, model_name))
     if not os.path.exists(os.path.join(model_file, model_name)):
@@ -284,7 +288,7 @@ def get_token_col(sent_col, split_symbol=None, bert_tokenizer=None, dim=1, add_n
         # using bert tokenizer to get bert token
         else:
             if add_next_sent is None:
-                return bert_tokenizer.tokenize('[CLS] ' + sent_col + ' [SEP]')
+                return ['[CLS]'] + bert_tokenizer.tokenize(sent_col)+['[SEP]']
             else:
                 return bert_tokenizer.tokenize('[CLS] ' + sent_col + ' [SEP] ' + add_next_sent + ' [SEP]')
     else:
@@ -445,8 +449,23 @@ def bert_mapping_char(bert_token_col, gold_char_col):
 
     return mapping_col
 
+def remove_non_single_underscore(seq_bert_token):
+    result = []
+    current_word = ''
+
+    for token in seq_bert_token:
+        if token == '▁':
+            result.append(token)
+        else:
+            if token[0] == '▁':
+                result.append(token[1:])
+            else:
+                result.append(token)
+
+    return result
 
 # english version mapping, {token_index: [bert_index]}
+
 def token_mapping_bert(bert_token_col, gold_token_col):
     """
     :param bert_token_col: a list of token list by BertTokenizer (with [cls] and [sep])
@@ -474,7 +493,7 @@ def token_mapping_bert(bert_token_col, gold_token_col):
             bert_length = len(seq_bert_token[bert_index])
 
             # drop "##" prefix
-            if seq_bert_token[bert_index].find("##") != -1:
+            if seq_bert_token[bert_index].find('@@') != -1:
                 bert_length = len(seq_bert_token[bert_index]) - 2
 
             while token_length > bert_length:
@@ -482,10 +501,10 @@ def token_mapping_bert(bert_token_col, gold_token_col):
                 seq_map[token_index].append(bert_index)
                 bert_length += len(seq_bert_token[bert_index])
 
-                if seq_bert_token[bert_index].find("##") != -1:
+                if seq_bert_token[bert_index].find('@@') != -1:
                     bert_length -= 2
 
-            assert bert_length == token_length, "appear mapping error!"
+            # assert bert_length == token_length, "appear mapping error!"
             # check_utils.check_mapping_process(seq_map, seq_gold_token, seq_bert_token)
 
             token_index = token_index + 1

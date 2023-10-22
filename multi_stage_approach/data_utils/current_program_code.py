@@ -1,7 +1,108 @@
+import ast
+
 from data_utils import shared_utils
 import numpy as np
 import copy
 import torch
+import json
+from pyvi import ViTokenizer
+import re
+from nltk.tokenize import word_tokenize
+import unicodedata
+
+
+def read_file(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        text = file.read()
+
+    paragraphs = text.strip().split('\n\n')
+
+    sent_col = []
+    sent_label_col = []
+    final_label_col = []
+    for paragraph in paragraphs:
+        lines = paragraph.strip().split('\n')
+        if len(lines[0].strip().split("\t")) == 1:
+            continue
+        sentence = lines[0].strip().split("\t")[1]
+        label_col = []
+        if len(lines) == 1:
+            label = 0
+            dict_empty = {"subject": [], "object": [], "aspect": [], "predicate": [], "label": []}
+            label_col.append(dict_empty)
+        else:
+            label = 1
+            for i in range(len(lines)):
+                if i != 0:
+                    dictionary = ast.literal_eval(lines[i])
+                    label_col.append(dictionary)
+
+        sent_col.append(sentence)
+        sent_label_col.append(label)
+        final_label_col.append(label_col)
+
+    return sent_col, sent_label_col, final_label_col
+
+
+def extract_indices(label_quin):
+    global_elem_col = {}
+    each_tuple_pair = []
+    for key, values in label_quin.items():
+        if key != 'label':
+            global_elem_col[key] = set()
+            index_list = [value.split('&&')[0] for value in values if value]  # index for each element
+            if len(label_quin['predicate']):  # check if sentence is a com sentence
+                if key != 'predicate':  # 3 first elem
+                    if len(index_list):
+                        global_elem_col[key].add((int(index_list[0]) - 1, int(index_list[-1])))
+                        each_tuple_pair.append((int(index_list[0]) - 1, int(index_list[-1])))
+                    else:
+                        global_elem_col[key] = ()
+                        each_tuple_pair.append((-1, -1))
+                else:
+                    cp = 6
+                    if label_quin['label'] == 'DIF':
+                        cp = -1
+                    elif label_quin['label'] == 'EQL':
+                        cp = 0
+                    elif label_quin['label'] == 'SUP+':
+                        cp = 1
+                    elif label_quin['label'] == 'SUP-':
+                        cp = 2
+                    elif label_quin['label'] == 'SUP':
+                        cp = 3
+                    elif label_quin['label'] == 'COM+':
+                        cp = 4
+                    elif label_quin['label'] == 'COM-':
+                        cp = 5
+                    global_elem_col[key].add((int(index_list[0]) - 1, int(index_list[-1]), cp))
+                    each_tuple_pair.append((int(index_list[0]) - 1, int(index_list[-1])))
+                    each_tuple_pair.append((cp, cp))
+            else:
+                each_tuple_pair = [(-1, -1)] * 5
+    return global_elem_col, each_tuple_pair
+
+
+def idx_presentation(label_col):
+    final_label_col = []
+    final_tuple_pair = []
+    for label_sentence in label_col:
+        tuple_pair = []
+        label_sentence_data = {'subject': set(), 'object': set(), 'aspect': set(), 'predicate': set()}
+        for label_quin in label_sentence:
+            extracted_item, each_tuple_pair = extract_indices(label_quin)
+            tuple_pair.append(each_tuple_pair)
+            for key in extracted_item:
+                label_sentence_data[key].update(extracted_item[key])
+        final_label_col.append(label_sentence_data)
+        final_tuple_pair.append(tuple_pair)
+    for item in final_label_col:
+        # Thay đổi tên khóa và giữ nguyên giá trị của khóa 'aspect'
+        item['entity_1'] = item.pop('subject')
+        item['entity_2'] = item.pop('object')
+        item['aspect'] = item.pop('aspect')
+        item['result'] = item.pop('predicate')
+    return final_label_col, final_tuple_pair
 
 
 # read file to get sentence and label
@@ -10,32 +111,180 @@ def read_standard_file(path):
     :param path:
     :return: sent_col, sent_label_col and label_col
     """
-    sent_col, sent_label_col, final_label_col = [], [], []
-    last_sentence = ""
-    with open(path, "r", encoding="utf-8") as f:
-        for line in f.readlines():
-            line = line.rstrip('\n')
+    """
+    sent_col : là mảng chứa các câu bằng tiếng anh trong file
+    sent_label_col : là mảng chứa các giá trị 0 và 1. 0 là câu không có so sánh và 1 là câu có so sánh
+    final_label_col : là mảng mà mỗi phần tử là các bộ 5 có được ở trong câu
+    """
+    sent_col, sent_label_col, label_col = read_file(file_path=path)
+    label_col, tuple_pair_col = idx_presentation(label_col)
+    return sent_col, sent_label_col, label_col, tuple_pair_col
 
-            # "[[" denote the begin of sequence label.
-            if line[:2] == "[[":
-                label_col.append(line)
 
+def mapping_segmented_col(sent_col, label_col, tuple_pair_col):
+    new_sent_col = []
+
+    for i in range(len(sent_col)):
+        sent_col[i] = re.sub(r'\.\.\.', ' . . . ', sent_col[i])
+        sent_col[i] = re.sub(r'…', '. . .', sent_col[i])  # sometimes it's … instead of ...
+        tokens = word_tokenize(sent_col[i])
+        new_tokens = []
+        for token in tokens:
+            # if re.match(r'\w+/\d+\.\d+', token) or re.match(r'\d+/\d+', token) or re.match(r'\d+/', token):
+            #     fractions = re.split(r'(/)', token)
+            #     new_tokens.extend(fractions)
+
+            # cover all cases like above
+            if '/' in token:
+                fractions = re.split(r'(/)', token)
+                new_tokens.extend(fractions)
+            elif re.match(r"'\w+", token):  # match 'word
+                parts = re.split(r"(')", token)
+                new_tokens.extend(parts)
+            elif re.match(r'\d+,\d+:\d+', token) or re.match(r'\d+:\d+', token):
+                parts = re.split(r'(:)', token)
+                new_tokens.extend(parts)
+            elif re.match(r'\d+-\w+', token):
+                parts = re.split(r'(-)', token)
+                new_tokens.extend(parts)
+            elif re.match(r'\d+\+', token):  # Check if the token matches the pattern "digit+"
+                parts = re.split(r'(\+)', token)  # Split the token using "+"
+                new_tokens.extend(parts)
+            elif re.match(r'\w+\+', token):
+                match = re.match(r'(\w+)\+', token)
+                word = match.group(1)
+                new_tokens.extend([word, '+'])
+            elif token == '``' or token == "''":
+                token = '"'
+                new_tokens.append(token)
             else:
-                if last_sentence != "":
-                    cur_sent, cur_sent_label = shared_utils.split_string(last_sentence, "\t")
-                    sent_col.append(cur_sent)
-                    sent_label_col.append(int(cur_sent_label))
-                    final_label_col.append(label_col)
+                new_tokens.append(token)
+        # Chuyển về unicode tổng hợp
+        new_tokens = [unicodedata.normalize("NFKC", token) for token in new_tokens if token != '']
+        new_sent_col.append(new_tokens)
 
-                last_sentence = shared_utils.clear_string(line, replace_symbol={u'\u3000': u""})
-                label_col = []
+    # print(*new_sent_col, sep='\n')
 
-        cur_sent, cur_sent_label = shared_utils.split_string(last_sentence, "\t")
-        sent_col.append(cur_sent)
-        sent_label_col.append(int(cur_sent_label))
-        final_label_col.append(label_col)
+    segmented_sent_col = []
 
-        return sent_col, sent_label_col, final_label_col
+    # trường hợp từ bị word_segmentation bị giao với các ele thì tách nó ra ko cho cùng 1 token nữa
+    for i in range(len(sent_col)):
+        tokens = ViTokenizer.tokenize(sent_col[i]).split()
+        subject, object, aspect, predicate = [], [], [], []
+        if any(len(value) > 0 for value in label_col[i].values()):
+            for key in label_col[i].keys():
+                values = label_col[i][key]
+                for value in values:
+                    s_idx = value[0]
+                    e_idx = value[1]
+                    cur_e = '_'.join(new_sent_col[i][s_idx:e_idx])
+                    if key == 'subject':
+                        subject.append(cur_e)
+                    elif key == 'object':
+                        object.append(cur_e)
+                    elif key == 'aspect':
+                        aspect.append(cur_e)
+                    else:
+                        predicate.append(cur_e)
+        items = [subject, object, aspect, predicate]
+        for item in items:
+            for smaller_item in item:
+                item_token = re.split(r'_', smaller_item)
+                for j in range(len(tokens)):
+                    cur_token = re.split(r'_', tokens[j])
+                    if any(token in item_token for token in cur_token):
+                        if all(token in item_token for token in cur_token) is False:
+                            tokens[j:j + 1] = cur_token
+        token_str = ' '.join(tokens)
+        # for file train.txt
+        new_str = token_str.replace('Type - C', 'Type-C')
+        new_str = new_str.replace('S - Pen', 'S-Pen')
+        new_str = new_str.replace('Li - po', 'Li-po')
+        new_str = new_str.replace('micro - USB', 'micro-USB')
+        new_str = new_str.replace('full - frame', 'full-frame')
+        new_str = new_str.replace('on - screen', 'on-screen')
+        new_str = new_str.replace('4,5 W', '4,5W')
+        new_str = new_str.replace('5.000 mAh', '5.000mAh')
+        new_str = new_str.replace('gyro - EIS', 'gyro-EIS')
+        # for file dev.txt
+        new_str = new_str.replace('mô - đun', 'mô-đun')
+        new_str = new_str.replace('Li - on', 'Li-on')
+
+        # for file test.txt
+        new_str = new_str.replace('1,5 mm', '1,5mm')
+        new_str = new_str.replace('3,5 mm', '3,5mm')
+        new_str = new_str.replace('Wi - Fi', 'Wi-Fi')
+        new_str = new_str.replace('video . . . đều', 'video. . .đều')
+
+        # add this pattern since it cause error
+        if re.search(r'[A-Z]\.', new_str):
+            new_str = new_str[:-1]
+
+        # Chuyển về unicode tổng hợp
+        new_str = unicodedata.normalize("NFKC", new_str)
+        new_list = new_str.split()
+        # print(new_list)
+        # print(new_list)
+        segmented_sent_col.append(new_list)
+
+    # print(*segmented_sent_col, sep = "\n")
+    mapping_dict = []
+
+    # mapping idx sang câu đã word segmentation
+    new_label_col = []
+    for i in range(len(label_col)):
+        new_quin = {'entity_1': set(), 'entity_2': set(), 'aspect': set(), 'result': set()}
+        cur_dict = {}
+        if any(len(value) > 0 for value in label_col[i].values()):
+            for key in label_col[i].keys():
+                values = label_col[i][key]
+                for value in values:
+                    s_idx = value[0]
+                    e_idx = value[1]
+                    cur_e = "_".join(new_sent_col[i][s_idx:e_idx])
+                    # print(cur_e)
+                    new_start_index = None
+                    new_end_index = None
+                    cur_e_tokens = cur_e.split('_')
+                    for j in range(len(segmented_sent_col[i])):
+                        cur_len = 1
+                        while j + cur_len < len(segmented_sent_col[i]) and len(
+                                '_'.join(segmented_sent_col[i][j:j + cur_len]).split('_')) < len(cur_e_tokens):
+                            cur_len += 1
+                        if '_'.join(segmented_sent_col[i][j:j + cur_len]) == cur_e:
+                            # print('_'.join(segmented_sent_col[i][j:j + cur_len]))
+                            new_start_index = j
+                            new_end_index = j + cur_len
+                            break
+                    cur_dict[s_idx] = new_start_index
+                    cur_dict[e_idx] = new_end_index
+                    new_value = {(new_start_index, new_end_index)}
+                    if key == 'result':
+                        new_value = {(new_start_index, new_end_index, value[2])}
+                    new_quin[key].update(new_value)
+        mapping_dict.append(cur_dict)
+        new_label_col.append(new_quin)
+    new_tuple_pair_col = []
+    for i in range(len(tuple_pair_col)):
+        if tuple_pair_col == [[(-1, -1), (-1, -1), (-1, -1), (-1, -1), (-1, -1)]]:
+            new_tuple_pair_col.append([[(-1, -1), (-1, -1), (-1, -1), (-1, -1), (-1, -1)]])
+        else:
+            mapped_sublist_2d = []
+            for tuple_pair in tuple_pair_col[i]:
+                mapped_sublist = []
+                for pair in tuple_pair[:4]:
+                    mapped_pair = []
+                    for value in pair:
+                        if value == -1:
+                            mapped_value = -1
+                        else:
+                            mapped_value = mapping_dict[i][value]
+                        mapped_pair.append(mapped_value)
+                    mapped_sublist.append(tuple(mapped_pair))
+                mapped_sublist.append(tuple_pair[4])
+                mapped_sublist_2d.append(mapped_sublist)
+            new_tuple_pair_col.append(mapped_sublist_2d)
+    return segmented_sent_col, new_label_col, new_tuple_pair_col, new_sent_col
 
 
 ########################################################################################################################
@@ -235,6 +484,7 @@ def token_char_convert_to_token_bert(bert_token_col, token_char, mapping_col):
 
     return bert_token_char
 
+
 ########################################################################################################################
 # Multi-Sequence Label Generate Code
 ########################################################################################################################
@@ -318,6 +568,7 @@ def elem_dict_convert_to_multi_sequence_label(token_col, label_col, special_symb
         elem_pair_col.append(sent_multi_col)
 
     return elem_pair_col, result_sequence_label_col, polarity_col
+
 
 ########################################################################################################################
 # Count the number of element or pair Code
@@ -516,17 +767,17 @@ def create_predicate_info(predicate_vocab, token_col):
             for j in range(len(token_col[i])):
                 if "".join(token_col[i][j: j + cur_token_length]) == token:
                     sequence_predicate_index_col.append([t for t in range(j, j + cur_token_length)])
-        sequence_predicate_index_col = sorted(sequence_predicate_index_col, key=lambda x:x[0])
+        sequence_predicate_index_col = sorted(sequence_predicate_index_col, key=lambda x: x[0])
         predicate_index_col.append(sequence_predicate_index_col)
 
     return predicate_index_col
 
 
-def generate_train_pair_data(data_representation, data_label):
+def generate_train_pair_data(data_representation, data_label, data_polarity_label):
     assert len(data_representation) == len(data_label), "[ERROR] Data Length Error."
 
     feature_dim = len(data_representation[0][0])
-    final_representation, final_label = [], []
+    final_representation, final_label, final_polarity_col = [], [], []
 
     for index in range(len(data_representation)):
         if data_representation[index] == [[0] * feature_dim]:
@@ -535,8 +786,9 @@ def generate_train_pair_data(data_representation, data_label):
         for pair_index in range(len(data_representation[index])):
             final_representation.append(data_representation[index][pair_index])
             final_label.append([data_label[index][pair_index]])
+            final_polarity_col.append([data_polarity_label[index][pair_index]])
 
-    return final_representation, final_label
+    return final_representation, final_label, final_polarity_col
 
 
 def create_polarity_train_data(config, tuple_pair_col, feature_out, bert_feature_out, feature_type=1):
@@ -554,7 +806,9 @@ def create_polarity_train_data(config, tuple_pair_col, feature_out, bert_feature
     for index in range(len(tuple_pair_col)):
         for pair_index in range(len(tuple_pair_col[index])):
             each_pair_representation = []
-            for elem_index in range(4):
+            using_predicate = False
+            if using_predicate:
+                elem_index = 3
                 s, e = tuple_pair_col[index][pair_index][elem_index]
                 if s == -1:
                     # 采用5维 + 768维
@@ -591,6 +845,44 @@ def create_polarity_train_data(config, tuple_pair_col, feature_out, bert_feature
                         each_pair_representation.append(
                             torch.mean(bert_feature_out[index][s: e], dim=0).cpu().view(-1, encode_hidden_size)
                         )
+            else:
+                for elem_index in range(4):
+                    s, e = tuple_pair_col[index][pair_index][elem_index]
+                    if s == -1:
+                        # 采用5维 + 768维
+                        if feature_type == 0:
+                            each_pair_representation.append(torch.zeros(1, hidden_size).cpu())
+                            each_pair_representation.append(torch.zeros(1, encode_hidden_size).cpu())
+
+                        # 采用 5维
+                        elif feature_type == 1:
+                            each_pair_representation.append(torch.zeros(1, hidden_size).cpu())
+
+                        # 采用 768维
+                        elif feature_type == 2:
+                            each_pair_representation.append(torch.zeros(1, encode_hidden_size).cpu())
+
+                    else:
+                        # 采用5维 + 768维
+                        if feature_type == 0:
+                            each_pair_representation.append(
+                                torch.mean(feature_out[index][elem_index][s: e], dim=0).cpu().view(-1, hidden_size)
+                            )
+                            each_pair_representation.append(
+                                torch.mean(bert_feature_out[index][s: e], dim=0).cpu().view(-1, encode_hidden_size)
+                            )
+
+                        # 采用 5维
+                        elif feature_type == 1:
+                            each_pair_representation.append(
+                                torch.mean(feature_out[index][elem_index][s: e], dim=0).cpu().view(-1, hidden_size)
+                            )
+
+                        # 采用 768维
+                        elif feature_type == 2:
+                            each_pair_representation.append(
+                                torch.mean(bert_feature_out[index][s: e], dim=0).cpu().view(-1, encode_hidden_size)
+                            )
 
             if torch.cuda.is_available():
                 cur_representation = torch.cat(each_pair_representation, dim=-1).view(-1).cpu().numpy().tolist()
@@ -599,7 +891,6 @@ def create_polarity_train_data(config, tuple_pair_col, feature_out, bert_feature
 
             representation_col.append(cur_representation)
 
-            assert tuple_pair_col[index][pair_index][-1][0] in {-1, 0, 1, 2}, "[ERROR] Tuple Pair Col Error."
             polarity_col.append([tuple_pair_col[index][pair_index][-1][0] + 1])
 
     return representation_col, polarity_col
@@ -691,8 +982,6 @@ def change_sequence_label_by_tuple_pair(sequence_multi_label, tuple_pair):
     return sequence_multi_label
 
 
-
-
 def create_polarity_label(tuple_pair_col):
     """
     :param tuple_pair_col:
@@ -707,7 +996,6 @@ def create_polarity_label(tuple_pair_col):
         polarity_col.append(sequence_polarity)
 
     return polarity_col
-
 
 
 def convert_eng_tuple_pair_by_mapping(tuple_pair_col, mapping_col):
@@ -803,7 +1091,6 @@ def create_polarity_train_data_infer_sent(tuple_pair_col, feature_out, bert_feat
 
             representation_col.append(cur_representation)
 
-            assert tuple_pair_col[index][pair_index][-1][0] in {-1, 0, 1, 2}, "[ERROR] Tuple Pair Col Error."
             polarity_col.append([tuple_pair_col[index][pair_index][-1][0] + 1])
 
     return representation_col, polarity_col
