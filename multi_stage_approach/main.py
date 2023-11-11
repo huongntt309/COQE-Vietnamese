@@ -230,7 +230,7 @@ def main():
             )
 
         dev_pair_polarity_parameters = ["./ModelResult/" + cross_model_name + "/dev_pair_result.txt",
-                               "./PreTrainModel/" + cross_model_name + "/dev_pair_model"]
+                                        "./PreTrainModel/" + cross_model_name + "/dev_pair_model"]
 
         # dev_polarity_parameters = ["./ModelResult/" + cross_model_name + "/dev_polarity_result.txt",
         #                            "./PreTrainModel/" + cross_model_name + "/dev_polarity_model"]
@@ -248,8 +248,8 @@ def main():
             elem_col=config.val.elem_col,
             ids_to_tags=config.val.norm_id_map,
             save_model=False,
-            test_tokens = data_gene.test_data_dict['bert_token'],
-            test_sent = data_gene.test_data_dict['sent_col']
+            test_tokens=data_gene.test_data_dict['bert_token'],
+            test_sent=data_gene.test_data_dict['sent_col']
         )
 
         test_pair_loader = data_loader_utils.get_loader([test_pair_representation], 1)
@@ -385,7 +385,8 @@ def main():
 
         elem_model = torch.load(pre_train_model_path).to(config.device)
 
-        train_first_process_data_path = "./ModelResult/" + model_name + "/train_first_data_" + str(feature_type) + ".txt"
+        train_first_process_data_path = "./ModelResult/" + model_name + "/train_first_data_" + str(
+            feature_type) + ".txt"
         dev_first_process_data_path = "./ModelResult/" + model_name + "/dev_first_data_" + str(feature_type) + ".txt"
         test_first_process_data_path = "./ModelResult/" + model_name + "/test_first_data_" + str(feature_type) + ".txt"
 
@@ -452,7 +453,8 @@ def main():
             )
 
         pair_representation = [train_pair_representation, dev_pair_representation, test_pair_representation]
-        make_pair_label = [[train_make_pair_label, train_polarity_label], dev_make_pair_polarity_label, test_make_pair_polarity_label]
+        make_pair_label = [[train_make_pair_label, train_polarity_label], dev_make_pair_polarity_label,
+                           test_make_pair_polarity_label]
 
         dev_pair_eval = PairEvaluation(
             config,

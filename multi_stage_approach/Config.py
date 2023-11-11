@@ -44,7 +44,7 @@ class PathConfig(object):
         self.standard_path = {
             "train": "../data/{}/train.txt".format(dir_name),
             "dev": "../data/{}/dev.txt".format(dir_name),
-            "test": "../data/{}/test.txt".format(dir_name)
+            "test": "../data/{}/dev.txt".format(dir_name)
         }
 
         # nlp tool file path
