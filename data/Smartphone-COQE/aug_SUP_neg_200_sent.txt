@@ -1,0 +1,600 @@
+Pixel 7 Pro có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Pixel 7 Pro có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": [], "aspect": ["5&&pin"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP-"}
+
+iPhone 12 Pro Max có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	iPhone 12 Pro Max có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": ["6&&chụp", "7&&ảnh"], "predicate": ["8&&đứng", "9&&vị", "10&&trí", "11&&cuối", "12&&cùng"], "label": "SUP-"}
+
+ROG Phone 2 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	ROG Phone 2 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&ROG", "2&&Phone", "3&&2"], "object": [], "aspect": ["5&&chụp", "6&&ảnh"], "predicate": ["7&&đứng", "8&&vị", "9&&trí", "10&&cuối", "11&&cùng"], "label": "SUP-"}
+
+hai chiếc smartphone cao cấp có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	hai chiếc smartphone cao cấp có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&hai", "2&&chiếc", "3&&smartphone", "4&&cao", "5&&cấp"], "object": [], "aspect": ["7&&thời", "8&&lượng", "9&&pin"], "predicate": ["10&&ngắn", "11&&nhất"], "label": "SUP-"}
+
+iPhone của Apple có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	iPhone của Apple có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&iPhone", "2&&của", "3&&Apple"], "object": [], "aspect": ["5&&chụp", "6&&ảnh"], "predicate": ["7&&đứng", "8&&vị", "9&&trí", "10&&cuối", "11&&cùng"], "label": "SUP-"}
+
+smartphone Xiaomi có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	smartphone Xiaomi có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&smartphone", "2&&Xiaomi"], "object": [], "aspect": ["4&&chụp", "5&&ảnh"], "predicate": ["6&&đứng", "7&&vị", "8&&trí", "9&&cuối", "10&&cùng"], "label": "SUP-"}
+
+Samsung Galaxy S22 Ultra có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Samsung Galaxy S22 Ultra có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S22", "4&&Ultra"], "object": [], "aspect": ["6&&kích", "7&&thước", "8&&cảm", "9&&biến"], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+Galaxy Note20 Ultra có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy Note20 Ultra có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&Note20", "3&&Ultra"], "object": [], "aspect": ["5&&chụp", "6&&ảnh"], "predicate": ["7&&đứng", "8&&vị", "9&&trí", "10&&cuối", "11&&cùng"], "label": "SUP-"}
+
+Snapdragon 8 Gen 2 có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Snapdragon 8 Gen 2 có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Snapdragon", "2&&8", "3&&Gen", "4&&2"], "object": [], "aspect": ["6&&kích", "7&&thước", "8&&cảm", "9&&biến"], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+iPhone 13 Pro Max có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	iPhone 13 Pro Max có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&iPhone", "2&&13", "3&&Pro", "4&&Max"], "object": [], "aspect": ["6&&chụp", "7&&ảnh"], "predicate": ["8&&đứng", "9&&vị", "10&&trí", "11&&cuối", "12&&cùng"], "label": "SUP-"}
+
+Cả hai điện thoại có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Cả hai điện thoại có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": [], "aspect": ["6&&thời", "7&&lượng", "8&&pin"], "predicate": ["9&&ngắn", "10&&nhất"], "label": "SUP-"}
+
+iPhone 11 Pro Max có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	iPhone 11 Pro Max có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&iPhone", "2&&11", "3&&Pro", "4&&Max"], "object": [], "aspect": ["6&&thời", "7&&lượng", "8&&pin"], "predicate": ["9&&ngắn", "10&&nhất"], "label": "SUP-"}
+
+hệ điều hành có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	hệ điều hành có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&hệ", "2&&điều", "3&&hành"], "object": [], "aspect": ["5&&chụp", "6&&ảnh"], "predicate": ["7&&đứng", "8&&vị", "9&&trí", "10&&cuối", "11&&cùng"], "label": "SUP-"}
+
+Samsung Galaxy A73 có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Samsung Galaxy A73 có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A73"], "object": [], "aspect": ["5&&thời", "6&&lượng", "7&&pin"], "predicate": ["8&&ngắn", "9&&nhất"], "label": "SUP-"}
+
+Galaxy M32 5G có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy M32 5G có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&M32", "3&&5G"], "object": [], "aspect": ["5&&pin"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP-"}
+
+Galaxy A24 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy A24 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&A24"], "object": [], "aspect": ["4&&chụp", "5&&ảnh"], "predicate": ["6&&đứng", "7&&vị", "8&&trí", "9&&cuối", "10&&cùng"], "label": "SUP-"}
+
+S21 Ultra có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	S21 Ultra có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&S21", "2&&Ultra"], "object": [], "aspect": ["4&&thời", "5&&lượng", "6&&pin"], "predicate": ["7&&ngắn", "8&&nhất"], "label": "SUP-"}
+
+ROG Phone 2 có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	ROG Phone 2 có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&ROG", "2&&Phone", "3&&2"], "object": [], "aspect": ["5&&thời", "6&&lượng", "7&&pin"], "predicate": ["8&&ngắn", "9&&nhất"], "label": "SUP-"}
+
+Galaxy S20 Ultra có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy S20 Ultra có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&S20", "3&&Ultra"], "object": [], "aspect": ["5&&chụp", "6&&ảnh"], "predicate": ["7&&đứng", "8&&vị", "9&&trí", "10&&cuối", "11&&cùng"], "label": "SUP-"}
+
+chiếc máy có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	chiếc máy có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&chiếc", "2&&máy"], "object": [], "aspect": ["4&&chụp", "5&&ảnh"], "predicate": ["6&&đứng", "7&&vị", "8&&trí", "9&&cuối", "10&&cùng"], "label": "SUP-"}
+
+điện thoại màn hình gập Galaxy Z Fold 4 có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	điện thoại màn hình gập Galaxy Z Fold 4 có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&điện", "2&&thoại", "3&&màn", "4&&hình", "5&&gập", "6&&Galaxy", "7&&Z", "8&&Fold", "9&&4"], "object": [], "aspect": ["11&&pin"], "predicate": ["12&&nhỏ", "13&&nhất"], "label": "SUP-"}
+
+đây có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	đây có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&đây"], "object": [], "aspect": ["3&&kích", "4&&thước", "5&&cảm", "6&&biến"], "predicate": ["7&&nhỏ", "8&&nhất"], "label": "SUP-"}
+
+đây có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	đây có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&đây"], "object": [], "aspect": ["3&&chụp", "4&&ảnh"], "predicate": ["5&&đứng", "6&&vị", "7&&trí", "8&&cuối", "9&&cùng"], "label": "SUP-"}
+
+Galaxy S23 Ultra có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy S23 Ultra có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&S23", "3&&Ultra"], "object": [], "aspect": ["5&&kích", "6&&thước", "7&&cảm", "8&&biến"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+Galaxy M32 5G có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy M32 5G có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&M32", "3&&5G"], "object": [], "aspect": ["5&&kích", "6&&thước", "7&&cảm", "8&&biến"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+Galaxy Z Fold3 có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy Z Fold3 có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold3"], "object": [], "aspect": ["5&&pin"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP-"}
+
+Pixel 7 Pro có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Pixel 7 Pro có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": [], "aspect": ["5&&kích", "6&&thước", "7&&cảm", "8&&biến"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+Galaxy Z Fold 4 có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy Z Fold 4 có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold", "4&&4"], "object": [], "aspect": ["6&&pin"], "predicate": ["7&&nhỏ", "8&&nhất"], "label": "SUP-"}
+
+S21 Ultra có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	S21 Ultra có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&S21", "2&&Ultra"], "object": [], "aspect": ["4&&thời", "5&&lượng", "6&&pin"], "predicate": ["7&&ngắn", "8&&nhất"], "label": "SUP-"}
+
+Galaxy S20 Ultra có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy S20 Ultra có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&S20", "3&&Ultra"], "object": [], "aspect": ["5&&pin"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP-"}
+
+iPhone 12 Pro Max có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	iPhone 12 Pro Max có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": ["6&&kích", "7&&thước", "8&&cảm", "9&&biến"], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+Redmi Note 11 có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Redmi Note 11 có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Redmi", "2&&Note", "3&&11"], "object": [], "aspect": ["5&&kích", "6&&thước", "7&&cảm", "8&&biến"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+vi xử lý Apple M1 trên iPad Pro có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	vi xử lý Apple M1 trên iPad Pro có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&vi", "2&&xử", "3&&lý", "4&&Apple", "5&&M1", "6&&trên", "7&&iPad", "8&&Pro"], "object": [], "aspect": ["10&&pin"], "predicate": ["11&&nhỏ", "12&&nhất"], "label": "SUP-"}
+
+model của Apple có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	model của Apple có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&model", "2&&của", "3&&Apple"], "object": [], "aspect": ["5&&kích", "6&&thước", "7&&cảm", "8&&biến"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+Snapdragon 8 Gen 2 có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Snapdragon 8 Gen 2 có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Snapdragon", "2&&8", "3&&Gen", "4&&2"], "object": [], "aspect": ["6&&thời", "7&&lượng", "8&&pin"], "predicate": ["9&&ngắn", "10&&nhất"], "label": "SUP-"}
+
+Samsung Galaxy S22 Ultra có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Samsung Galaxy S22 Ultra có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S22", "4&&Ultra"], "object": [], "aspect": ["6&&kích", "7&&thước", "8&&cảm", "9&&biến"], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+iPhone của Apple có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	iPhone của Apple có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&iPhone", "2&&của", "3&&Apple"], "object": [], "aspect": ["5&&chụp", "6&&ảnh"], "predicate": ["7&&đứng", "8&&vị", "9&&trí", "10&&cuối", "11&&cùng"], "label": "SUP-"}
+
+Galaxy Z Fold 4 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy Z Fold 4 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold", "4&&4"], "object": [], "aspect": ["6&&chụp", "7&&ảnh"], "predicate": ["8&&đứng", "9&&vị", "10&&trí", "11&&cuối", "12&&cùng"], "label": "SUP-"}
+
+iPhone 12 Pro Max có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	iPhone 12 Pro Max có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": ["6&&kích", "7&&thước", "8&&cảm", "9&&biến"], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+iPhone của Apple có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	iPhone của Apple có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&iPhone", "2&&của", "3&&Apple"], "object": [], "aspect": ["5&&thời", "6&&lượng", "7&&pin"], "predicate": ["8&&ngắn", "9&&nhất"], "label": "SUP-"}
+
+điện thoại màn hình gập Galaxy Z Fold 4 có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	điện thoại màn hình gập Galaxy Z Fold 4 có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&điện", "2&&thoại", "3&&màn", "4&&hình", "5&&gập", "6&&Galaxy", "7&&Z", "8&&Fold", "9&&4"], "object": [], "aspect": ["11&&kích", "12&&thước", "13&&cảm", "14&&biến"], "predicate": ["15&&nhỏ", "16&&nhất"], "label": "SUP-"}
+
+đây có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	đây có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&đây"], "object": [], "aspect": ["3&&thời", "4&&lượng", "5&&pin"], "predicate": ["6&&ngắn", "7&&nhất"], "label": "SUP-"}
+
+Galaxy Note20 Ultra có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy Note20 Ultra có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&Note20", "3&&Ultra"], "object": [], "aspect": ["5&&chụp", "6&&ảnh"], "predicate": ["7&&đứng", "8&&vị", "9&&trí", "10&&cuối", "11&&cùng"], "label": "SUP-"}
+
+Realme 6 Pro có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Realme 6 Pro có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Realme", "2&&6", "3&&Pro"], "object": [], "aspect": ["5&&kích", "6&&thước", "7&&cảm", "8&&biến"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+Galaxy S21 Ultra có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy S21 Ultra có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&S21", "3&&Ultra"], "object": [], "aspect": ["5&&chụp", "6&&ảnh"], "predicate": ["7&&đứng", "8&&vị", "9&&trí", "10&&cuối", "11&&cùng"], "label": "SUP-"}
+
+đây có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	đây có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&đây"], "object": [], "aspect": ["3&&chụp", "4&&ảnh"], "predicate": ["5&&đứng", "6&&vị", "7&&trí", "8&&cuối", "9&&cùng"], "label": "SUP-"}
+
+iPhone 13 Pro Max có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	iPhone 13 Pro Max có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&iPhone", "2&&13", "3&&Pro", "4&&Max"], "object": [], "aspect": ["6&&thời", "7&&lượng", "8&&pin"], "predicate": ["9&&ngắn", "10&&nhất"], "label": "SUP-"}
+
+Galaxy Z Fold3 có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy Z Fold3 có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold3"], "object": [], "aspect": ["5&&thời", "6&&lượng", "7&&pin"], "predicate": ["8&&ngắn", "9&&nhất"], "label": "SUP-"}
+
+Redmi Note 11 có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Redmi Note 11 có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Redmi", "2&&Note", "3&&11"], "object": [], "aspect": ["5&&thời", "6&&lượng", "7&&pin"], "predicate": ["8&&ngắn", "9&&nhất"], "label": "SUP-"}
+
+Realme 6 Pro có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Realme 6 Pro có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Realme", "2&&6", "3&&Pro"], "object": [], "aspect": ["5&&kích", "6&&thước", "7&&cảm", "8&&biến"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+M51 đang là một trong những smartphone nhỏ nhất .	M51 đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&M51"], "object": [], "aspect": [], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP-"}
+
+MediaTek HeliO G99 đang là một trong những smartphone đứng vị trí cuối cùng .	MediaTek HeliO G99 đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&MediaTek", "2&&HeliO", "3&&G99"], "object": [], "aspect": [], "predicate": ["10&&đứng", "11&&vị", "12&&trí", "13&&cuối", "14&&cùng"], "label": "SUP-"}
+
+ảnh đang là một trong những smartphone đứng vị trí cuối cùng .	ảnh đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&ảnh"], "object": [], "aspect": [], "predicate": ["8&&đứng", "9&&vị", "10&&trí", "11&&cuối", "12&&cùng"], "label": "SUP-"}
+
+hệ điều hành đang là một trong những smartphone đứng vị trí cuối cùng .	hệ điều hành đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&hệ", "2&&điều", "3&&hành"], "object": [], "aspect": [], "predicate": ["10&&đứng", "11&&vị", "12&&trí", "13&&cuối", "14&&cùng"], "label": "SUP-"}
+
+Galaxy S21 Ultra đang là một trong những smartphone ngắn nhất .	Galaxy S21 Ultra đang là một trong những smartphone ngắn nhất .
+{"subject": ["1&&Galaxy", "2&&S21", "3&&Ultra"], "object": [], "aspect": [], "predicate": ["10&&ngắn", "11&&nhất"], "label": "SUP-"}
+
+Realme 6 Pro đang là một trong những smartphone đứng vị trí cuối cùng .	Realme 6 Pro đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&Realme", "2&&6", "3&&Pro"], "object": [], "aspect": [], "predicate": ["10&&đứng", "11&&vị", "12&&trí", "13&&cuối", "14&&cùng"], "label": "SUP-"}
+
+iPhone 12 Pro Max đang là một trong những smartphone đứng vị trí cuối cùng .	iPhone 12 Pro Max đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": [], "predicate": ["11&&đứng", "12&&vị", "13&&trí", "14&&cuối", "15&&cùng"], "label": "SUP-"}
+
+iPhone 12 Pro Max đang là một trong những smartphone nhỏ nhất .	iPhone 12 Pro Max đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": [], "predicate": ["11&&nhỏ", "12&&nhất"], "label": "SUP-"}
+
+Samsung Galaxy M51 đang là một trong những smartphone đứng vị trí cuối cùng .	Samsung Galaxy M51 đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&M51"], "object": [], "aspect": [], "predicate": ["10&&đứng", "11&&vị", "12&&trí", "13&&cuối", "14&&cùng"], "label": "SUP-"}
+
+đây đang là một trong những smartphone nhỏ nhất .	đây đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP-"}
+
+iPhone 12 Pro Max đang là một trong những smartphone đứng vị trí cuối cùng .	iPhone 12 Pro Max đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": [], "predicate": ["11&&đứng", "12&&vị", "13&&trí", "14&&cuối", "15&&cùng"], "label": "SUP-"}
+
+đây đang là một trong những smartphone đứng vị trí cuối cùng .	đây đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&đứng", "9&&vị", "10&&trí", "11&&cuối", "12&&cùng"], "label": "SUP-"}
+
+iPhone SE 2016 đang là một trong những smartphone ngắn nhất .	iPhone SE 2016 đang là một trong những smartphone ngắn nhất .
+{"subject": ["1&&iPhone", "2&&SE", "3&&2016"], "object": [], "aspect": [], "predicate": ["10&&ngắn", "11&&nhất"], "label": "SUP-"}
+
+M51 đang là một trong những smartphone nhỏ nhất .	M51 đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&M51"], "object": [], "aspect": [], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP-"}
+
+Snapdragon 888 đang là một trong những smartphone nhỏ nhất .	Snapdragon 888 đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Snapdragon", "2&&888"], "object": [], "aspect": [], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+Hộp đựng Galaxy S20 Ultra đang là một trong những smartphone nhỏ nhất .	Hộp đựng Galaxy S20 Ultra đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Hộp", "2&&đựng", "3&&Galaxy", "4&&S20", "5&&Ultra"], "object": [], "aspect": [], "predicate": ["12&&nhỏ", "13&&nhất"], "label": "SUP-"}
+
+đây đang là một trong những smartphone ngắn nhất .	đây đang là một trong những smartphone ngắn nhất .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&ngắn", "9&&nhất"], "label": "SUP-"}
+
+Pixel 5 đang là một trong những smartphone đứng vị trí cuối cùng .	Pixel 5 đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&Pixel", "2&&5"], "object": [], "aspect": [], "predicate": ["9&&đứng", "10&&vị", "11&&trí", "12&&cuối", "13&&cùng"], "label": "SUP-"}
+
+Thiết bị đang là một trong những smartphone đứng vị trí cuối cùng .	Thiết bị đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&Thiết", "2&&bị"], "object": [], "aspect": [], "predicate": ["9&&đứng", "10&&vị", "11&&trí", "12&&cuối", "13&&cùng"], "label": "SUP-"}
+
+Galaxy A24 đang là một trong những smartphone đứng vị trí cuối cùng .	Galaxy A24 đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&Galaxy", "2&&A24"], "object": [], "aspect": [], "predicate": ["9&&đứng", "10&&vị", "11&&trí", "12&&cuối", "13&&cùng"], "label": "SUP-"}
+
+đây đang là một trong những smartphone nhỏ nhất .	đây đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP-"}
+
+Galaxy Note 20 Ultra đang là một trong những smartphone đứng vị trí cuối cùng .	Galaxy Note 20 Ultra đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&Galaxy", "2&&Note", "3&&20", "4&&Ultra"], "object": [], "aspect": [], "predicate": ["11&&đứng", "12&&vị", "13&&trí", "14&&cuối", "15&&cùng"], "label": "SUP-"}
+
+Xiaomi 13 Pro đang là một trong những smartphone nhỏ nhất .	Xiaomi 13 Pro đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Xiaomi", "2&&13", "3&&Pro"], "object": [], "aspect": [], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+điện thoại màn hình gập Galaxy Z Fold 4 đang là một trong những smartphone ngắn nhất .	điện thoại màn hình gập Galaxy Z Fold 4 đang là một trong những smartphone ngắn nhất .
+{"subject": ["1&&điện", "2&&thoại", "3&&màn", "4&&hình", "5&&gập", "6&&Galaxy", "7&&Z", "8&&Fold", "9&&4"], "object": [], "aspect": [], "predicate": ["16&&ngắn", "17&&nhất"], "label": "SUP-"}
+
+điện thoại đang là một trong những smartphone nhỏ nhất .	điện thoại đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&điện", "2&&thoại"], "object": [], "aspect": [], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+iPhone 12 Pro Max đang là một trong những smartphone nhỏ nhất .	iPhone 12 Pro Max đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": [], "predicate": ["11&&nhỏ", "12&&nhất"], "label": "SUP-"}
+
+iPhone 12 Pro Max đang là một trong những smartphone ngắn nhất .	iPhone 12 Pro Max đang là một trong những smartphone ngắn nhất .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": [], "predicate": ["11&&ngắn", "12&&nhất"], "label": "SUP-"}
+
+Đây đang là một trong những smartphone đứng vị trí cuối cùng .	Đây đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&Đây"], "object": [], "aspect": [], "predicate": ["8&&đứng", "9&&vị", "10&&trí", "11&&cuối", "12&&cùng"], "label": "SUP-"}
+
+đây đang là một trong những smartphone đứng vị trí cuối cùng .	đây đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&đứng", "9&&vị", "10&&trí", "11&&cuối", "12&&cùng"], "label": "SUP-"}
+
+smartphone Xiaomi đang là một trong những smartphone ngắn nhất .	smartphone Xiaomi đang là một trong những smartphone ngắn nhất .
+{"subject": ["1&&smartphone", "2&&Xiaomi"], "object": [], "aspect": [], "predicate": ["9&&ngắn", "10&&nhất"], "label": "SUP-"}
+
+Thiết bị đang là một trong những smartphone nhỏ nhất .	Thiết bị đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Thiết", "2&&bị"], "object": [], "aspect": [], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+iPhone 12 Pro Max đang là một trong những smartphone đứng vị trí cuối cùng .	iPhone 12 Pro Max đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": [], "predicate": ["11&&đứng", "12&&vị", "13&&trí", "14&&cuối", "15&&cùng"], "label": "SUP-"}
+
+iPhone 12 Pro Max đang là một trong những smartphone ngắn nhất .	iPhone 12 Pro Max đang là một trong những smartphone ngắn nhất .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": [], "predicate": ["11&&ngắn", "12&&nhất"], "label": "SUP-"}
+
+Redmi Note 11 đang là một trong những smartphone nhỏ nhất .	Redmi Note 11 đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Redmi", "2&&Note", "3&&11"], "object": [], "aspect": [], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+đây đang là một trong những smartphone nhỏ nhất .	đây đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP-"}
+
+đây đang là một trong những smartphone nhỏ nhất .	đây đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP-"}
+
+Cả hai đang là một trong những smartphone nhỏ nhất .	Cả hai đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Cả", "2&&hai"], "object": [], "aspect": [], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+Pixel 5 đang là một trong những smartphone nhỏ nhất .	Pixel 5 đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Pixel", "2&&5"], "object": [], "aspect": [], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+chiếc máy đang là một trong những smartphone nhỏ nhất .	chiếc máy đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&chiếc", "2&&máy"], "object": [], "aspect": [], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+Realme 6 Pro đang là một trong những smartphone đứng vị trí cuối cùng .	Realme 6 Pro đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&Realme", "2&&6", "3&&Pro"], "object": [], "aspect": [], "predicate": ["10&&đứng", "11&&vị", "12&&trí", "13&&cuối", "14&&cùng"], "label": "SUP-"}
+
+Galaxy Z Fold2 đang là một trong những smartphone nhỏ nhất .	Galaxy Z Fold2 đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold2"], "object": [], "aspect": [], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+Sản phẩm đang là một trong những smartphone nhỏ nhất .	Sản phẩm đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Sản", "2&&phẩm"], "object": [], "aspect": [], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+đây đang là một trong những smartphone đứng vị trí cuối cùng .	đây đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&đứng", "9&&vị", "10&&trí", "11&&cuối", "12&&cùng"], "label": "SUP-"}
+
+Google Pixel 5 đang là một trong những smartphone ngắn nhất .	Google Pixel 5 đang là một trong những smartphone ngắn nhất .
+{"subject": ["1&&Google", "2&&Pixel", "3&&5"], "object": [], "aspect": [], "predicate": ["10&&ngắn", "11&&nhất"], "label": "SUP-"}
+
+Galaxy Z Fold2 đang là một trong những smartphone ngắn nhất .	Galaxy Z Fold2 đang là một trong những smartphone ngắn nhất .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold2"], "object": [], "aspect": [], "predicate": ["10&&ngắn", "11&&nhất"], "label": "SUP-"}
+
+iPhone SE 2016 đang là một trong những smartphone nhỏ nhất .	iPhone SE 2016 đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&iPhone", "2&&SE", "3&&2016"], "object": [], "aspect": [], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+iPhone 13 Pro Max đang là một trong những smartphone đứng vị trí cuối cùng .	iPhone 13 Pro Max đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&iPhone", "2&&13", "3&&Pro", "4&&Max"], "object": [], "aspect": [], "predicate": ["11&&đứng", "12&&vị", "13&&trí", "14&&cuối", "15&&cùng"], "label": "SUP-"}
+
+iPhone 12 Pro Max đang là một trong những smartphone nhỏ nhất .	iPhone 12 Pro Max đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": [], "predicate": ["11&&nhỏ", "12&&nhất"], "label": "SUP-"}
+
+Galaxy S22 Ultra đang là một trong những smartphone nhỏ nhất .	Galaxy S22 Ultra đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&S22", "3&&Ultra"], "object": [], "aspect": [], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+iPhone 12 Pro Max đang là một trong những smartphone nhỏ nhất .	iPhone 12 Pro Max đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": [], "predicate": ["11&&nhỏ", "12&&nhất"], "label": "SUP-"}
+
+MediaTek HeliO G99 có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	MediaTek HeliO G99 có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&MediaTek", "2&&HeliO", "3&&G99"], "object": [], "aspect": ["5&&kích", "6&&thước", "7&&cảm", "8&&biến"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+Pixel 7 Pro có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Pixel 7 Pro có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": [], "aspect": ["5&&chụp", "6&&ảnh"], "predicate": ["7&&đứng", "8&&vị", "9&&trí", "10&&cuối", "11&&cùng"], "label": "SUP-"}
+
+đây có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	đây có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&đây"], "object": [], "aspect": ["3&&pin"], "predicate": ["4&&nhỏ", "5&&nhất"], "label": "SUP-"}
+
+Pixel 7 Pro có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Pixel 7 Pro có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": [], "aspect": ["5&&pin"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP-"}
+
+Pixel 7 Pro có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Pixel 7 Pro có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": [], "aspect": ["5&&pin"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP-"}
+
+mẫu flagship mới nhất của Samsung có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	mẫu flagship mới nhất của Samsung có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&mẫu", "2&&flagship", "3&&mới", "4&&nhất", "5&&của", "6&&Samsung"], "object": [], "aspect": ["8&&chụp", "9&&ảnh"], "predicate": ["10&&đứng", "11&&vị", "12&&trí", "13&&cuối", "14&&cùng"], "label": "SUP-"}
+
+Pixel 5 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Pixel 5 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Pixel", "2&&5"], "object": [], "aspect": ["4&&chụp", "5&&ảnh"], "predicate": ["6&&đứng", "7&&vị", "8&&trí", "9&&cuối", "10&&cùng"], "label": "SUP-"}
+
+Galaxy S23 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy S23 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&S23"], "object": [], "aspect": ["4&&chụp", "5&&ảnh"], "predicate": ["6&&đứng", "7&&vị", "8&&trí", "9&&cuối", "10&&cùng"], "label": "SUP-"}
+
+đây có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	đây có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&đây"], "object": [], "aspect": ["3&&chụp", "4&&ảnh"], "predicate": ["5&&đứng", "6&&vị", "7&&trí", "8&&cuối", "9&&cùng"], "label": "SUP-"}
+
+vi xử lý Apple M1 trên iPad Pro có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	vi xử lý Apple M1 trên iPad Pro có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&vi", "2&&xử", "3&&lý", "4&&Apple", "5&&M1", "6&&trên", "7&&iPad", "8&&Pro"], "object": [], "aspect": ["10&&kích", "11&&thước", "12&&cảm", "13&&biến"], "predicate": ["14&&nhỏ", "15&&nhất"], "label": "SUP-"}
+
+Sản phẩm có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Sản phẩm có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Sản", "2&&phẩm"], "object": [], "aspect": ["4&&thời", "5&&lượng", "6&&pin"], "predicate": ["7&&ngắn", "8&&nhất"], "label": "SUP-"}
+
+Redmi Note 11 có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Redmi Note 11 có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Redmi", "2&&Note", "3&&11"], "object": [], "aspect": ["5&&pin"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP-"}
+
+iPhone SE 2016 có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	iPhone SE 2016 có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&iPhone", "2&&SE", "3&&2016"], "object": [], "aspect": ["5&&kích", "6&&thước", "7&&cảm", "8&&biến"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+vi xử lý Apple M1 trên iPad Pro có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	vi xử lý Apple M1 trên iPad Pro có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&vi", "2&&xử", "3&&lý", "4&&Apple", "5&&M1", "6&&trên", "7&&iPad", "8&&Pro"], "object": [], "aspect": ["10&&chụp", "11&&ảnh"], "predicate": ["12&&đứng", "13&&vị", "14&&trí", "15&&cuối", "16&&cùng"], "label": "SUP-"}
+
+Cả hai điện thoại có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Cả hai điện thoại có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": [], "aspect": ["6&&pin"], "predicate": ["7&&nhỏ", "8&&nhất"], "label": "SUP-"}
+
+Samsung Galaxy M51 có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Samsung Galaxy M51 có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&M51"], "object": [], "aspect": ["5&&kích", "6&&thước", "7&&cảm", "8&&biến"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+Galaxy A24 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy A24 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&A24"], "object": [], "aspect": ["4&&chụp", "5&&ảnh"], "predicate": ["6&&đứng", "7&&vị", "8&&trí", "9&&cuối", "10&&cùng"], "label": "SUP-"}
+
+OPPO Find X6 Pro có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	OPPO Find X6 Pro có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&OPPO", "2&&Find", "3&&X6", "4&&Pro"], "object": [], "aspect": ["6&&thời", "7&&lượng", "8&&pin"], "predicate": ["9&&ngắn", "10&&nhất"], "label": "SUP-"}
+
+Dòng Galaxy S22 series có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Dòng Galaxy S22 series có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Dòng", "2&&Galaxy", "3&&S22", "4&&series"], "object": [], "aspect": ["6&&pin"], "predicate": ["7&&nhỏ", "8&&nhất"], "label": "SUP-"}
+
+Galaxy A24 có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy A24 có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&A24"], "object": [], "aspect": ["4&&pin"], "predicate": ["5&&nhỏ", "6&&nhất"], "label": "SUP-"}
+
+Cả hai điện thoại có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Cả hai điện thoại có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": [], "aspect": ["6&&pin"], "predicate": ["7&&nhỏ", "8&&nhất"], "label": "SUP-"}
+
+Cả hai điện thoại có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Cả hai điện thoại có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": [], "aspect": ["6&&thời", "7&&lượng", "8&&pin"], "predicate": ["9&&ngắn", "10&&nhất"], "label": "SUP-"}
+
+Pixel 5 có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Pixel 5 có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Pixel", "2&&5"], "object": [], "aspect": ["4&&pin"], "predicate": ["5&&nhỏ", "6&&nhất"], "label": "SUP-"}
+
+Galaxy A24 có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy A24 có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&A24"], "object": [], "aspect": ["4&&pin"], "predicate": ["5&&nhỏ", "6&&nhất"], "label": "SUP-"}
+
+iPhone 12 Pro Max có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	iPhone 12 Pro Max có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": ["6&&kích", "7&&thước", "8&&cảm", "9&&biến"], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+iPhone SE 2016 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	iPhone SE 2016 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&iPhone", "2&&SE", "3&&2016"], "object": [], "aspect": ["5&&chụp", "6&&ảnh"], "predicate": ["7&&đứng", "8&&vị", "9&&trí", "10&&cuối", "11&&cùng"], "label": "SUP-"}
+
+Galaxy S20 Ultra có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy S20 Ultra có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&S20", "3&&Ultra"], "object": [], "aspect": ["5&&kích", "6&&thước", "7&&cảm", "8&&biến"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+Xiaomi 13 Pro có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Xiaomi 13 Pro có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Xiaomi", "2&&13", "3&&Pro"], "object": [], "aspect": ["5&&chụp", "6&&ảnh"], "predicate": ["7&&đứng", "8&&vị", "9&&trí", "10&&cuối", "11&&cùng"], "label": "SUP-"}
+
+đây có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	đây có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&đây"], "object": [], "aspect": ["3&&chụp", "4&&ảnh"], "predicate": ["5&&đứng", "6&&vị", "7&&trí", "8&&cuối", "9&&cùng"], "label": "SUP-"}
+
+Sản phẩm có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Sản phẩm có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Sản", "2&&phẩm"], "object": [], "aspect": ["4&&thời", "5&&lượng", "6&&pin"], "predicate": ["7&&ngắn", "8&&nhất"], "label": "SUP-"}
+
+iPhone12 Pro Max có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	iPhone12 Pro Max có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&iPhone12", "2&&Pro", "3&&Max"], "object": [], "aspect": ["5&&kích", "6&&thước", "7&&cảm", "8&&biến"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+iPhone 12 Pro Max có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	iPhone 12 Pro Max có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": ["6&&thời", "7&&lượng", "8&&pin"], "predicate": ["9&&ngắn", "10&&nhất"], "label": "SUP-"}
+
+hệ điều hành có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	hệ điều hành có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&hệ", "2&&điều", "3&&hành"], "object": [], "aspect": ["5&&pin"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP-"}
+
+Snapdragon 8 Gen 2 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Snapdragon 8 Gen 2 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Snapdragon", "2&&8", "3&&Gen", "4&&2"], "object": [], "aspect": ["6&&chụp", "7&&ảnh"], "predicate": ["8&&đứng", "9&&vị", "10&&trí", "11&&cuối", "12&&cùng"], "label": "SUP-"}
+
+iPhone SE 2016 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	iPhone SE 2016 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&iPhone", "2&&SE", "3&&2016"], "object": [], "aspect": ["5&&chụp", "6&&ảnh"], "predicate": ["7&&đứng", "8&&vị", "9&&trí", "10&&cuối", "11&&cùng"], "label": "SUP-"}
+
+đây có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	đây có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&đây"], "object": [], "aspect": ["3&&thời", "4&&lượng", "5&&pin"], "predicate": ["6&&ngắn", "7&&nhất"], "label": "SUP-"}
+
+Samsung Galaxy A51 có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Samsung Galaxy A51 có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A51"], "object": [], "aspect": ["5&&pin"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP-"}
+
+Realme 6 Pro có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Realme 6 Pro có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Realme", "2&&6", "3&&Pro"], "object": [], "aspect": ["5&&chụp", "6&&ảnh"], "predicate": ["7&&đứng", "8&&vị", "9&&trí", "10&&cuối", "11&&cùng"], "label": "SUP-"}
+
+đây có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	đây có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&đây"], "object": [], "aspect": ["3&&chụp", "4&&ảnh"], "predicate": ["5&&đứng", "6&&vị", "7&&trí", "8&&cuối", "9&&cùng"], "label": "SUP-"}
+
+chiếc máy có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	chiếc máy có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&chiếc", "2&&máy"], "object": [], "aspect": ["4&&thời", "5&&lượng", "6&&pin"], "predicate": ["7&&ngắn", "8&&nhất"], "label": "SUP-"}
+
+M51 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	M51 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&M51"], "object": [], "aspect": ["3&&chụp", "4&&ảnh"], "predicate": ["5&&đứng", "6&&vị", "7&&trí", "8&&cuối", "9&&cùng"], "label": "SUP-"}
+
+ROG Phone 2 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	ROG Phone 2 có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&ROG", "2&&Phone", "3&&2"], "object": [], "aspect": ["5&&chụp", "6&&ảnh"], "predicate": ["7&&đứng", "8&&vị", "9&&trí", "10&&cuối", "11&&cùng"], "label": "SUP-"}
+
+ROG Phone 2 có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	ROG Phone 2 có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&ROG", "2&&Phone", "3&&2"], "object": [], "aspect": ["5&&thời", "6&&lượng", "7&&pin"], "predicate": ["8&&ngắn", "9&&nhất"], "label": "SUP-"}
+
+iPhone 13 Pro Max có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	iPhone 13 Pro Max có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&iPhone", "2&&13", "3&&Pro", "4&&Max"], "object": [], "aspect": ["6&&thời", "7&&lượng", "8&&pin"], "predicate": ["9&&ngắn", "10&&nhất"], "label": "SUP-"}
+
+Pixel 7 Pro có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Pixel 7 Pro có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": [], "aspect": ["5&&chụp", "6&&ảnh"], "predicate": ["7&&đứng", "8&&vị", "9&&trí", "10&&cuối", "11&&cùng"], "label": "SUP-"}
+
+Galaxy S20 Ultra có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy S20 Ultra có thời lượng pin ngắn nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&S20", "3&&Ultra"], "object": [], "aspect": ["5&&thời", "6&&lượng", "7&&pin"], "predicate": ["8&&ngắn", "9&&nhất"], "label": "SUP-"}
+
+Galaxy Note20 Ultra có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Galaxy Note20 Ultra có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Galaxy", "2&&Note20", "3&&Ultra"], "object": [], "aspect": ["5&&pin"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP-"}
+
+chiếc máy có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	chiếc máy có chụp ảnh đứng vị trí cuối cùng , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&chiếc", "2&&máy"], "object": [], "aspect": ["4&&chụp", "5&&ảnh"], "predicate": ["6&&đứng", "7&&vị", "8&&trí", "9&&cuối", "10&&cùng"], "label": "SUP-"}
+
+Sản phẩm có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Sản phẩm có kích thước cảm biến nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Sản", "2&&phẩm"], "object": [], "aspect": ["4&&kích", "5&&thước", "6&&cảm", "7&&biến"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP-"}
+
+Hộp đựng Galaxy S20 Ultra có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .	Hộp đựng Galaxy S20 Ultra có pin nhỏ nhất , từ đó có thể dự đoán được chất lượng ảnh chụp camera tele của iPhone 14 Pro Max .
+{"subject": ["1&&Hộp", "2&&đựng", "3&&Galaxy", "4&&S20", "5&&Ultra"], "object": [], "aspect": ["7&&pin"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP-"}
+
+Realme 6 Pro đang là một trong những smartphone ngắn nhất .	Realme 6 Pro đang là một trong những smartphone ngắn nhất .
+{"subject": ["1&&Realme", "2&&6", "3&&Pro"], "object": [], "aspect": [], "predicate": ["10&&ngắn", "11&&nhất"], "label": "SUP-"}
+
+M51 đang là một trong những smartphone nhỏ nhất .	M51 đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&M51"], "object": [], "aspect": [], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP-"}
+
+Galaxy S22 Ultra đang là một trong những smartphone đứng vị trí cuối cùng .	Galaxy S22 Ultra đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&Galaxy", "2&&S22", "3&&Ultra"], "object": [], "aspect": [], "predicate": ["10&&đứng", "11&&vị", "12&&trí", "13&&cuối", "14&&cùng"], "label": "SUP-"}
+
+M51 đang là một trong những smartphone đứng vị trí cuối cùng .	M51 đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&M51"], "object": [], "aspect": [], "predicate": ["8&&đứng", "9&&vị", "10&&trí", "11&&cuối", "12&&cùng"], "label": "SUP-"}
+
+S20 Ultra đang là một trong những smartphone nhỏ nhất .	S20 Ultra đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&S20", "2&&Ultra"], "object": [], "aspect": [], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+Đây đang là một trong những smartphone nhỏ nhất .	Đây đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Đây"], "object": [], "aspect": [], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP-"}
+
+đây đang là một trong những smartphone đứng vị trí cuối cùng .	đây đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&đứng", "9&&vị", "10&&trí", "11&&cuối", "12&&cùng"], "label": "SUP-"}
+
+iPhone 13 Pro Max đang là một trong những smartphone đứng vị trí cuối cùng .	iPhone 13 Pro Max đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&iPhone", "2&&13", "3&&Pro", "4&&Max"], "object": [], "aspect": [], "predicate": ["11&&đứng", "12&&vị", "13&&trí", "14&&cuối", "15&&cùng"], "label": "SUP-"}
+
+Galaxy A24 đang là một trong những smartphone nhỏ nhất .	Galaxy A24 đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&A24"], "object": [], "aspect": [], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+Redmi Note 11 đang là một trong những smartphone đứng vị trí cuối cùng .	Redmi Note 11 đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&Redmi", "2&&Note", "3&&11"], "object": [], "aspect": [], "predicate": ["10&&đứng", "11&&vị", "12&&trí", "13&&cuối", "14&&cùng"], "label": "SUP-"}
+
+hệ điều hành đang là một trong những smartphone nhỏ nhất .	hệ điều hành đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&hệ", "2&&điều", "3&&hành"], "object": [], "aspect": [], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+iPhone 12 Pro Max đang là một trong những smartphone nhỏ nhất .	iPhone 12 Pro Max đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": [], "predicate": ["11&&nhỏ", "12&&nhất"], "label": "SUP-"}
+
+đây đang là một trong những smartphone nhỏ nhất .	đây đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP-"}
+
+Đây đang là một trong những smartphone nhỏ nhất .	Đây đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Đây"], "object": [], "aspect": [], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP-"}
+
+Galaxy S23 đang là một trong những smartphone nhỏ nhất .	Galaxy S23 đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&S23"], "object": [], "aspect": [], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+Galaxy Z Fold2 đang là một trong những smartphone đứng vị trí cuối cùng .	Galaxy Z Fold2 đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold2"], "object": [], "aspect": [], "predicate": ["10&&đứng", "11&&vị", "12&&trí", "13&&cuối", "14&&cùng"], "label": "SUP-"}
+
+chiếc máy đang là một trong những smartphone ngắn nhất .	chiếc máy đang là một trong những smartphone ngắn nhất .
+{"subject": ["1&&chiếc", "2&&máy"], "object": [], "aspect": [], "predicate": ["9&&ngắn", "10&&nhất"], "label": "SUP-"}
+
+Cả ba chiếc máy đang là một trong những smartphone ngắn nhất .	Cả ba chiếc máy đang là một trong những smartphone ngắn nhất .
+{"subject": ["1&&Cả", "2&&ba", "3&&chiếc", "4&&máy"], "object": [], "aspect": [], "predicate": ["11&&ngắn", "12&&nhất"], "label": "SUP-"}
+
+đây đang là một trong những smartphone đứng vị trí cuối cùng .	đây đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&đứng", "9&&vị", "10&&trí", "11&&cuối", "12&&cùng"], "label": "SUP-"}
+
+Galaxy S21 Ultra đang là một trong những smartphone nhỏ nhất .	Galaxy S21 Ultra đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&S21", "3&&Ultra"], "object": [], "aspect": [], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+cả hai đang là một trong những smartphone nhỏ nhất .	cả hai đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&cả", "2&&hai"], "object": [], "aspect": [], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+Redmi Note 11 đang là một trong những smartphone nhỏ nhất .	Redmi Note 11 đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Redmi", "2&&Note", "3&&11"], "object": [], "aspect": [], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+Cả hai điện thoại đang là một trong những smartphone nhỏ nhất .	Cả hai điện thoại đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": [], "aspect": [], "predicate": ["11&&nhỏ", "12&&nhất"], "label": "SUP-"}
+
+Galaxy S21 Ultra đang là một trong những smartphone đứng vị trí cuối cùng .	Galaxy S21 Ultra đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&Galaxy", "2&&S21", "3&&Ultra"], "object": [], "aspect": [], "predicate": ["10&&đứng", "11&&vị", "12&&trí", "13&&cuối", "14&&cùng"], "label": "SUP-"}
+
+Đây đang là một trong những smartphone đứng vị trí cuối cùng .	Đây đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&Đây"], "object": [], "aspect": [], "predicate": ["8&&đứng", "9&&vị", "10&&trí", "11&&cuối", "12&&cùng"], "label": "SUP-"}
+
+Đây đang là một trong những smartphone nhỏ nhất .	Đây đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Đây"], "object": [], "aspect": [], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP-"}
+
+Pixel 7 Pro đang là một trong những smartphone ngắn nhất .	Pixel 7 Pro đang là một trong những smartphone ngắn nhất .
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": [], "aspect": [], "predicate": ["10&&ngắn", "11&&nhất"], "label": "SUP-"}
+
+iPhone12 Pro Max đang là một trong những smartphone ngắn nhất .	iPhone12 Pro Max đang là một trong những smartphone ngắn nhất .
+{"subject": ["1&&iPhone12", "2&&Pro", "3&&Max"], "object": [], "aspect": [], "predicate": ["10&&ngắn", "11&&nhất"], "label": "SUP-"}
+
+Galaxy Note20 Ultra đang là một trong những smartphone nhỏ nhất .	Galaxy Note20 Ultra đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&Note20", "3&&Ultra"], "object": [], "aspect": [], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+Galaxy S22 Ultra đang là một trong những smartphone đứng vị trí cuối cùng .	Galaxy S22 Ultra đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&Galaxy", "2&&S22", "3&&Ultra"], "object": [], "aspect": [], "predicate": ["10&&đứng", "11&&vị", "12&&trí", "13&&cuối", "14&&cùng"], "label": "SUP-"}
+
+Camera tele đang là một trong những smartphone nhỏ nhất .	Camera tele đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Camera", "2&&tele"], "object": [], "aspect": [], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+Samsung Galaxy M51 đang là một trong những smartphone nhỏ nhất .	Samsung Galaxy M51 đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&M51"], "object": [], "aspect": [], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+đây đang là một trong những smartphone đứng vị trí cuối cùng .	đây đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&đứng", "9&&vị", "10&&trí", "11&&cuối", "12&&cùng"], "label": "SUP-"}
+
+iPhone12 Pro Max đang là một trong những smartphone nhỏ nhất .	iPhone12 Pro Max đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&iPhone12", "2&&Pro", "3&&Max"], "object": [], "aspect": [], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+ROG Phone 2 đang là một trong những smartphone ngắn nhất .	ROG Phone 2 đang là một trong những smartphone ngắn nhất .
+{"subject": ["1&&ROG", "2&&Phone", "3&&2"], "object": [], "aspect": [], "predicate": ["10&&ngắn", "11&&nhất"], "label": "SUP-"}
+
+đây đang là một trong những smartphone đứng vị trí cuối cùng .	đây đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&đứng", "9&&vị", "10&&trí", "11&&cuối", "12&&cùng"], "label": "SUP-"}
+
+iPhone SE 2016 đang là một trong những smartphone nhỏ nhất .	iPhone SE 2016 đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&iPhone", "2&&SE", "3&&2016"], "object": [], "aspect": [], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+iPhone 12 Pro Max đang là một trong những smartphone nhỏ nhất .	iPhone 12 Pro Max đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": [], "predicate": ["11&&nhỏ", "12&&nhất"], "label": "SUP-"}
+
+Galaxy Note20 Ultra đang là một trong những smartphone nhỏ nhất .	Galaxy Note20 Ultra đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&Note20", "3&&Ultra"], "object": [], "aspect": [], "predicate": ["10&&nhỏ", "11&&nhất"], "label": "SUP-"}
+
+đây đang là một trong những smartphone nhỏ nhất .	đây đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP-"}
+
+Galaxy Note 20 Ultra đang là một trong những smartphone nhỏ nhất .	Galaxy Note 20 Ultra đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&Note", "3&&20", "4&&Ultra"], "object": [], "aspect": [], "predicate": ["11&&nhỏ", "12&&nhất"], "label": "SUP-"}
+
+Samsung Galaxy S22 Ultra đang là một trong những smartphone nhỏ nhất .	Samsung Galaxy S22 Ultra đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S22", "4&&Ultra"], "object": [], "aspect": [], "predicate": ["11&&nhỏ", "12&&nhất"], "label": "SUP-"}
+
+Samsung Galaxy S22 Ultra đang là một trong những smartphone đứng vị trí cuối cùng .	Samsung Galaxy S22 Ultra đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S22", "4&&Ultra"], "object": [], "aspect": [], "predicate": ["11&&đứng", "12&&vị", "13&&trí", "14&&cuối", "15&&cùng"], "label": "SUP-"}
+
+đây đang là một trong những smartphone nhỏ nhất .	đây đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP-"}
+
+Sản phẩm đang là một trong những smartphone nhỏ nhất .	Sản phẩm đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&Sản", "2&&phẩm"], "object": [], "aspect": [], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP-"}
+
+Galaxy Note20 Ultra đang là một trong những smartphone đứng vị trí cuối cùng .	Galaxy Note20 Ultra đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&Galaxy", "2&&Note20", "3&&Ultra"], "object": [], "aspect": [], "predicate": ["10&&đứng", "11&&vị", "12&&trí", "13&&cuối", "14&&cùng"], "label": "SUP-"}
+
+điện thoại màn hình gập Galaxy Z Fold 4 đang là một trong những smartphone nhỏ nhất .	điện thoại màn hình gập Galaxy Z Fold 4 đang là một trong những smartphone nhỏ nhất .
+{"subject": ["1&&điện", "2&&thoại", "3&&màn", "4&&hình", "5&&gập", "6&&Galaxy", "7&&Z", "8&&Fold", "9&&4"], "object": [], "aspect": [], "predicate": ["16&&nhỏ", "17&&nhất"], "label": "SUP-"}
+
+đây đang là một trong những smartphone đứng vị trí cuối cùng .	đây đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&đứng", "9&&vị", "10&&trí", "11&&cuối", "12&&cùng"], "label": "SUP-"}
+
+Samsung Galaxy M51 đang là một trong những smartphone đứng vị trí cuối cùng .	Samsung Galaxy M51 đang là một trong những smartphone đứng vị trí cuối cùng .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&M51"], "object": [], "aspect": [], "predicate": ["10&&đứng", "11&&vị", "12&&trí", "13&&cuối", "14&&cùng"], "label": "SUP-"}
+
+Samsung đang là một trong những smartphone ngắn nhất .	Samsung đang là một trong những smartphone ngắn nhất .
+{"subject": ["1&&Samsung"], "object": [], "aspect": [], "predicate": ["8&&ngắn", "9&&nhất"], "label": "SUP-"}
+

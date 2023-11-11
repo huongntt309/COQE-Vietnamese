@@ -1,0 +1,684 @@
+phần màn hình ngoài của Galaxy Z Fold2 được nhà sản xuất trang bị viên pin Li-Ion 3279 mAh , nếu so với Galaxy Z Flip 4 thì đây chỉ được xem là dung lượng khá khiêm tốn .	phần màn hình ngoài của Galaxy Z Fold2 được nhà sản xuất trang bị viên pin Li-Ion 3279 mAh , nếu so với Galaxy Z Flip 4 thì đây chỉ được xem là dung lượng khá khiêm tốn .
+{"subject": ["1&&phần", "2&&màn", "3&&hình", "4&&ngoài", "5&&của", "6&&Galaxy", "7&&Z", "8&&Fold2"], "object": ["24&&Galaxy", "25&&Z", "26&&Flip", "27&&4"], "aspect": ["15&&viên", "16&&pin"], "predicate": ["34&&dung", "35&&lượng", "36&&khá", "37&&khiêm", "38&&tốn"], "label": "COM-"}
+
+So với điểm số của Snapdragon 8 Gen 1 của Z Fold 4 của Apple , chiếc A32 chỉ mặt trước trông hơi “ giá rẻ ” trong các điểm chuẩn tổng hợp .	So với điểm số của Snapdragon 8 Gen 1 của Z Fold 4 của Apple , chiếc A32 chỉ mặt trước trông hơi “ giá rẻ ” trong các điểm chuẩn tổng hợp .
+{"subject": ["17&&chiếc", "18&&A32"], "object": ["3&&điểm", "4&&số", "5&&của", "6&&Snapdragon", "7&&8", "8&&Gen", "9&&1", "10&&của", "11&&Z", "12&&Fold", "13&&4"], "aspect": ["20&&mặt", "21&&trước"], "predicate": ["22&&trông", "23&&hơi", "24&&“", "25&&giá", "26&&rẻ", "27&&”"], "label": "COM-"}
+
+Với độ dày và thấp hơn , Samsung Galaxy S21 Ultra sử hữu viên pin khủng lên đến 5,000 mAh còn Xiaomi 13 Ultra chỉ có 4,000 mAh , cả hai hỗ trợ sạc 15 W .	Với độ dày và thấp hơn , Samsung Galaxy S21 Ultra sử hữu viên pin khủng lên đến 5,000 mAh còn Xiaomi 13 Ultra chỉ có 4,000 mAh , cả hai hỗ trợ sạc 15 W .
+{"subject": ["8&&Samsung", "9&&Galaxy", "10&&S21", "11&&Ultra"], "object": ["22&&Xiaomi", "23&&13", "24&&Ultra"], "aspect": [], "predicate": ["5&&thấp", "6&&hơn"], "label": "COM-"}
+
+Nhưng vào ban đêm , Samsung Galaxy M52 5G lại kém hiện đại hơn .	Nhưng vào ban đêm , Samsung Galaxy M52 5G lại kém hiện đại hơn .
+{"subject": ["6&&Samsung", "7&&Galaxy", "8&&M52", "9&&5G"], "object": [], "aspect": [], "predicate": ["11&&kém", "12&&hiện", "13&&đại", "14&&hơn"], "label": "COM-"}
+
+Hiện Galaxy S22 đang bán tại XTmobile với cấu hình 4GB / 128GB có điểm số khoảng 5.1 triệu đồng , trong khi đó iPhone 13 Pro phiên bản 8GB / 512GB lại chỉ tương đối thấp , ít nhất là khi so sánh với , khoảng 5.4 triệu đồng .	Hiện Galaxy S22 đang bán tại XTmobile với cấu hình 4GB / 128GB có điểm số khoảng 5.1 triệu đồng , trong khi đó iPhone 13 Pro phiên bản 8GB / 512GB lại chỉ tương đối thấp , ít nhất là khi so sánh với , khoảng 5.4 triệu đồng .
+{"subject": ["25&&iPhone", "26&&13", "27&&Pro"], "object": ["2&&Galaxy", "3&&S22"], "aspect": ["15&&điểm", "16&&số"], "predicate": ["35&&tương", "36&&đối", "37&&thấp", "38&&,", "39&&ít", "40&&nhất", "41&&là", "42&&khi", "43&&so", "44&&sánh", "45&&với"], "label": "COM-"}
+
+chiếc điện thoại có phần cứng camera sau yếu hơn so với Samsung A31 .	chiếc điện thoại có phần cứng camera sau yếu hơn so với Samsung A31 .
+{"subject": ["1&&chiếc", "2&&điện", "3&&thoại"], "object": ["13&&Samsung", "14&&A31"], "aspect": ["5&&phần", "6&&cứng", "7&&camera", "8&&sau"], "predicate": ["9&&yếu", "10&&hơn"], "label": "COM-"}
+
+Khi gập điện thoại Galaxy Z Fold 4 thì bản Pro thấp hơn so với Z Fold 3 .	Khi gập điện thoại Galaxy Z Fold 4 thì bản Pro thấp hơn so với Z Fold 3 .
+{"subject": ["10&&bản", "11&&Pro"], "object": ["16&&Z", "17&&Fold", "18&&3"], "aspect": [], "predicate": ["12&&thấp", "13&&hơn"], "label": "COM-"}
+
+Tuy nhiên , Nó cũng thua thiệt khá nhiều khi bỏ vào túi của bạn .	Tuy nhiên , Nó cũng thua thiệt khá nhiều khi bỏ vào túi của bạn .
+{"subject": ["4&&Nó"], "object": [], "aspect": [], "predicate": ["6&&thua", "7&&thiệt", "8&&khá", "9&&nhiều"], "label": "COM-"}
+
+Nhưng ngay cả khi Xiaomi cũng rất thấp khi so với S23 + .	Nhưng ngay cả khi Xiaomi cũng rất thấp khi so với S23 + .
+{"subject": ["5&&Xiaomi"], "object": ["12&&S23", "13&&+"], "aspect": [], "predicate": ["7&&rất", "8&&thấp", "9&&khi", "10&&so", "11&&với"], "label": "COM-"}
+
+Còn với chụp macro mới được ra mắt sau này , tuy có nhiều nâng cấp nhưng vẫn kém hơn phần dưới , chiếc điện thoại này chỉ sở hữu camera góc siêu rộng 50MP , với camera góc siêu rộng 5MP có góc chụp lên đến 123 độ , camera macro 2MP và cảm biến chiều sâu 2MP .	Còn với chụp macro mới được ra mắt sau này , tuy có nhiều nâng cấp nhưng vẫn kém hơn phần dưới , chiếc điện thoại này chỉ sở hữu camera góc siêu rộng 50MP , với camera góc siêu rộng 5MP có góc chụp lên đến 123 độ , camera macro 2MP và cảm biến chiều sâu 2MP .
+{"subject": ["3&&chụp", "4&&macro"], "object": ["21&&phần", "22&&dưới"], "aspect": [], "predicate": ["19&&kém", "20&&hơn"], "label": "COM-"}
+
+Kể cả ở thời điểm hiện tại hay nhiều năm nữa , chiếc điện thoại gập còn lại vẫn mang đến cân bằng trắng đáng kinh ngạc mà đối thủ của nó - camera Galaxy S23 Ultra kém hơn .	Kể cả ở thời điểm hiện tại hay nhiều năm nữa , chiếc điện thoại gập còn lại vẫn mang đến cân bằng trắng đáng kinh ngạc mà đối thủ của nó - camera Galaxy S23 Ultra kém hơn .
+{"subject": ["34&&camera", "35&&Galaxy", "36&&S23", "37&&Ultra"], "object": ["13&&chiếc", "14&&điện", "15&&thoại", "16&&gập", "17&&còn", "18&&lại"], "aspect": ["22&&cân", "23&&bằng", "24&&trắng"], "predicate": ["38&&kém", "39&&hơn"], "label": "COM-"}
+
+Tuy rằng góc nhìn không cao như iPhone 12 tiêu chuẩn nhưng Oppo Find N2 Flip cũng được không chế khá tốt để không ảnh hưởng nhiều tới trải nghiệm màn hình .	Tuy rằng góc nhìn không cao như iPhone 12 tiêu chuẩn nhưng Oppo Find N2 Flip cũng được không chế khá tốt để không ảnh hưởng nhiều tới trải nghiệm màn hình .
+{"subject": ["13&&Oppo", "14&&Find", "15&&N2", "16&&Flip"], "object": ["8&&iPhone", "9&&12", "10&&tiêu", "11&&chuẩn"], "aspect": ["3&&góc", "4&&nhìn"], "predicate": ["5&&không", "6&&cao", "7&&như"], "label": "COM-"}
+
+Nếu bạn trải nghiệm thực tế bạn sẽ thấy mặc dù chipset của Galaxy A73 5G là Snapdragon 730G nhưng độ phân giải nhỏ hơn thế hệ tiền nhiệm .	Nếu bạn trải nghiệm thực tế bạn sẽ thấy mặc dù chipset của Galaxy A73 5G là Snapdragon 730G nhưng độ phân giải nhỏ hơn thế hệ tiền nhiệm .
+{"subject": ["14&&Galaxy", "15&&A73", "16&&5G"], "object": ["26&&thế", "27&&hệ", "28&&tiền", "29&&nhiệm"], "aspect": ["21&&độ", "22&&phân", "23&&giải"], "predicate": ["24&&nhỏ", "25&&hơn"], "label": "COM-"}
+
+Nhìn qua một chút khi chạy các bài kiểm tra Độ ổn định của GPU , Samsung hoạt động rất thấp khi so với ở hầu hết iPhone 11 Pro .	Nhìn qua một chút khi chạy các bài kiểm tra Độ ổn định của GPU , Samsung hoạt động rất thấp khi so với ở hầu hết iPhone 11 Pro .
+{"subject": ["17&&Samsung"], "object": ["28&&iPhone", "29&&11", "30&&Pro"], "aspect": ["11&&Độ", "12&&ổn", "13&&định", "14&&của", "15&&GPU"], "predicate": ["20&&rất", "21&&thấp", "22&&khi", "23&&so", "24&&với"], "label": "COM-"}
+
+hiệu năng của nó thấp hơn so với bản tiền nhiệm .	hiệu năng của nó thấp hơn so với bản tiền nhiệm .
+{"subject": ["4&&nó"], "object": ["9&&bản", "10&&tiền", "11&&nhiệm"], "aspect": ["1&&hiệu", "2&&năng"], "predicate": ["5&&thấp", "6&&hơn"], "label": "COM-"}
+
+Tuy nhiên , iPhone 13 Pro Max độ phân giải thấp hơn dòng iPhone X một chút .	Tuy nhiên , iPhone 13 Pro Max độ phân giải thấp hơn dòng iPhone X một chút .
+{"subject": ["4&&iPhone", "5&&13", "6&&Pro", "7&&Max"], "object": ["13&&dòng", "14&&iPhone", "15&&X"], "aspect": [], "predicate": ["8&&độ", "9&&phân", "10&&giải", "11&&thấp", "12&&hơn"], "label": "COM-"}
+
+Trước khi nói về khả năng chơi game , mình thấy macro S-Pen đi kèm với Galaxy S22 Ultra này chỉ ở mức 60Hz . Ban đầu cảm thấy độ phân giải thấp hơn phần dưới .	Trước khi nói về khả năng chơi game , mình thấy macro S-Pen đi kèm với Galaxy S22 Ultra này chỉ ở mức 60Hz . Ban đầu cảm thấy độ phân giải thấp hơn phần dưới .
+{"subject": ["13&&S-Pen", "14&&đi", "15&&kèm", "16&&với", "17&&Galaxy", "18&&S22", "19&&Ultra"], "object": ["35&&phần", "36&&dưới"], "aspect": ["12&&macro"], "predicate": ["30&&độ", "31&&phân", "32&&giải", "33&&thấp", "34&&hơn"], "label": "COM-"}
+
+Bởi vậy để nói một cục sạc 65W hay các đối thủ có những con chip tầm Snapdragon 665 thì tất nhiên S20 Ultra sẽ nhanh chóng khả năng hiển thị thấp hơn đấy .	Bởi vậy để nói một cục sạc 65W hay các đối thủ có những con chip tầm Snapdragon 665 thì tất nhiên S20 Ultra sẽ nhanh chóng khả năng hiển thị thấp hơn đấy .
+{"subject": ["23&&S20", "24&&Ultra"], "object": ["10&&các", "11&&đối", "12&&thủ", "13&&có", "14&&những", "15&&con", "16&&chip", "17&&tầm", "18&&Snapdragon", "19&&665"], "aspect": ["28&&khả", "29&&năng", "30&&hiển", "31&&thị"], "predicate": ["32&&thấp", "33&&hơn"], "label": "COM-"}
+
+Camera có sự mượt mà – nghe có vẻ khó lòng sánh được S23 + .	Camera có sự mượt mà – nghe có vẻ khó lòng sánh được S23 + .
+{"subject": ["1&&Camera"], "object": ["14&&S23", "15&&+"], "aspect": ["3&&sự", "4&&mượt", "5&&mà"], "predicate": ["10&&khó", "11&&lòng", "12&&sánh", "13&&được"], "label": "COM-"}
+
+Với cấu hình như vậy , iPhone 12 tuy kém hơn nhưng cũng vô cùng mạnh mẽ .	Với cấu hình như vậy , iPhone 12 tuy kém hơn nhưng cũng vô cùng mạnh mẽ .
+{"subject": ["7&&iPhone", "8&&12"], "object": [], "aspect": [], "predicate": ["10&&kém", "11&&hơn"], "label": "COM-"}
+
+Mặc dù mức FPS trung bình trên Galaxy A73 thua kém khá nhiều Galaxy Fold năm ngoái trong các điều kiện ánh sáng yếu , nhưng sự khác biệt không quá ấn tượn .	Mặc dù mức FPS trung bình trên Galaxy A73 thua kém khá nhiều Galaxy Fold năm ngoái trong các điều kiện ánh sáng yếu , nhưng sự khác biệt không quá ấn tượn .
+{"subject": ["8&&Galaxy", "9&&A73"], "object": ["14&&Galaxy", "15&&Fold", "16&&năm", "17&&ngoái"], "aspect": ["3&&mức", "4&&FPS", "5&&trung", "6&&bình"], "predicate": ["10&&thua", "11&&kém", "12&&khá", "13&&nhiều"], "label": "COM-"}
+
+hoạt động trên Samsung Z Flip 4 chỉ đạt được 58.7% , chậm hơn 10 - 20% con số 77.8% của Samsung A31 .	hoạt động trên Samsung Z Flip 4 chỉ đạt được 58.7% , chậm hơn 10 - 20% con số 77.8% của Samsung A31 .
+{"subject": ["4&&Samsung", "5&&Z", "6&&Flip", "7&&4"], "object": ["22&&Samsung", "23&&A31"], "aspect": ["1&&hoạt", "2&&động"], "predicate": ["13&&chậm", "14&&hơn", "15&&10", "16&&-", "17&&20%"], "label": "COM-"}
+
+Đáng tiếc là độ phân giải của bản Pro cũng có phần nhỏ hơn khi chỉ có dung lượng 4300 mAh .	Đáng tiếc là độ phân giải của bản Pro cũng có phần nhỏ hơn khi chỉ có dung lượng 4300 mAh .
+{"subject": ["8&&bản", "9&&Pro"], "object": [], "aspect": ["4&&độ", "5&&phân", "6&&giải"], "predicate": ["13&&nhỏ", "14&&hơn"], "label": "COM-"}
+
+Tuy nhiên , đó chỉ là độ sáng cực đại khi dùng ngoài trời , còn trong các điều kiện thông thường , cụm module hình chữ nhật sẽ hạ xuống còn 1.500 nits , tức là khó dán cường lực và phụ kiện hơn so với Galaxy S10 Plus .	Tuy nhiên , đó chỉ là độ sáng cực đại khi dùng ngoài trời , còn trong các điều kiện thông thường , cụm module hình chữ nhật sẽ hạ xuống còn 1.500 nits , tức là khó dán cường lực và phụ kiện hơn so với Galaxy S10 Plus .
+{"subject": ["24&&cụm", "25&&module", "26&&hình", "27&&chữ", "28&&nhật"], "object": ["48&&Galaxy", "49&&S10", "50&&Plus"], "aspect": [], "predicate": ["38&&khó", "39&&dán", "40&&cường", "41&&lực", "42&&và", "43&&phụ", "44&&kiện", "45&&hơn"], "label": "COM-"}
+
+màn hình di động Samsung hơi kém hơn một chút khi tính linh hoạt , phần lớn hình ảnh bị phủ bởi 1 lớp sương trắng .	màn hình di động Samsung hơi kém hơn một chút khi tính linh hoạt , phần lớn hình ảnh bị phủ bởi 1 lớp sương trắng .
+{"subject": ["1&&màn", "2&&hình", "3&&di", "4&&động", "5&&Samsung"], "object": [], "aspect": ["12&&tính", "13&&linh", "14&&hoạt"], "predicate": ["7&&kém", "8&&hơn", "9&&một", "10&&chút"], "label": "COM-"}
+
+Trong khi đó , mô-đun máy ảnh lớn của Xiaomi Mi 11 Ultra khiến khả năng chụp ảnh của iPhone 13 có phần yếu thế hơn so với Xiaomi 13 .	Trong khi đó , mô-đun máy ảnh lớn của Xiaomi Mi 11 Ultra khiến khả năng chụp ảnh của iPhone 13 có phần yếu thế hơn so với Xiaomi 13 .
+{"subject": ["20&&iPhone", "21&&13"], "object": ["29&&Xiaomi", "30&&13"], "aspect": ["15&&khả", "16&&năng", "17&&chụp", "18&&ảnh"], "predicate": ["22&&có", "23&&phần", "24&&yếu", "25&&thế", "26&&hơn"], "label": "COM-"}
+
+Do đó , xét về độ phân giải thì nó thấp hơn so với model tiền nhiệm .	Do đó , xét về độ phân giải thì nó thấp hơn so với model tiền nhiệm .
+{"subject": ["10&&nó"], "object": ["15&&model", "16&&tiền", "17&&nhiệm"], "aspect": ["6&&độ", "7&&phân", "8&&giải"], "predicate": ["11&&thấp", "12&&hơn"], "label": "COM-"}
+
+Đó là một mẫu smartphone này hệ thống camera TFT 6.4 inch nên màn hình nó kém hiện đại hơn iPhone 12 , tất nhiên không thể yêu cầu một tấm nền OLED ở đây .	Đó là một mẫu smartphone này hệ thống camera TFT 6.4 inch nên màn hình nó kém hiện đại hơn iPhone 12 , tất nhiên không thể yêu cầu một tấm nền OLED ở đây .
+{"subject": ["4&&mẫu", "5&&smartphone", "6&&này", "7&&hệ", "8&&thống", "9&&camera"], "object": ["21&&iPhone", "22&&12"], "aspect": ["14&&màn", "15&&hình"], "predicate": ["17&&kém", "18&&hiện", "19&&đại", "20&&hơn"], "label": "COM-"}
+
+Nhưng camera selfie vẫn thấp hơn khi A31 .	Nhưng camera selfie vẫn thấp hơn khi A31 .
+{"subject": ["2&&camera", "3&&selfie"], "object": ["8&&A31"], "aspect": [], "predicate": ["5&&thấp", "6&&hơn"], "label": "COM-"}
+
+Và máy không tỏ ra thua thiệt điện thoại tầm trung hay cao cấp .	Và máy không tỏ ra thua thiệt điện thoại tầm trung hay cao cấp .
+{"subject": ["2&&máy"], "object": [], "aspect": [], "predicate": ["4&&tỏ", "5&&ra", "6&&thua", "7&&thiệt"], "label": "COM-"}
+
+Hình ảnh trang bị độ phân giải Li-Po 4.000 mAh . Nó thấp hơn 5.000 mAh của Galaxy M32 5G .	Hình ảnh trang bị độ phân giải Li-Po 4.000 mAh . Nó thấp hơn 5.000 mAh của Galaxy M32 5G .
+{"subject": ["1&&Hình", "2&&ảnh"], "object": ["18&&Galaxy", "19&&M32", "20&&5G"], "aspect": ["5&&độ", "6&&phân", "7&&giải"], "predicate": ["13&&thấp", "14&&hơn"], "label": "COM-"}
+
+Galaxy S23 Ultra khiêm tốn hơn với màn hình 6.7 inches , sử dụng tấm nền Dynamic AMOLED 2X .	Galaxy S23 Ultra khiêm tốn hơn với màn hình 6.7 inches , sử dụng tấm nền Dynamic AMOLED 2X .
+{"subject": ["1&&Galaxy", "2&&S23", "3&&Ultra"], "object": [], "aspect": ["8&&màn", "9&&hình"], "predicate": ["4&&khiêm", "5&&tốn", "6&&hơn"], "label": "COM-"}
+
+Ngoài ra , Galaxy M51 có Điểm số Geekbench 5 260 x 512 Pixels thấp hơn so với người tiền nhiệm Galaxy Fold là 720 x 382 Pixels .	Ngoài ra , Galaxy M51 có Điểm số Geekbench 5 260 x 512 Pixels thấp hơn so với người tiền nhiệm Galaxy Fold là 720 x 382 Pixels .
+{"subject": ["4&&Galaxy", "5&&M51"], "object": ["19&&người", "20&&tiền", "21&&nhiệm", "22&&Galaxy", "23&&Fold"], "aspect": ["7&&Điểm", "8&&số", "9&&Geekbench", "10&&5"], "predicate": ["15&&thấp", "16&&hơn"], "label": "COM-"}
+
+Trong khi đó , kể cả khi đã tắt Game Optimizing Service , Pin cho ra trên Xiaomi Mi 11 Ultra chỉ là 56,4 , không thể so sánh với so với màn hình phụ của Find N2 .	Trong khi đó , kể cả khi đã tắt Game Optimizing Service , Pin cho ra trên Xiaomi Mi 11 Ultra chỉ là 56,4 , không thể so sánh với so với màn hình phụ của Find N2 .
+{"subject": ["18&&Xiaomi", "19&&Mi", "20&&11", "21&&Ultra"], "object": ["33&&màn", "34&&hình", "35&&phụ", "36&&của", "37&&Find", "38&&N2"], "aspect": ["14&&Pin"], "predicate": ["26&&không", "27&&thể", "28&&so", "29&&sánh", "30&&với"], "label": "COM-"}
+
+Đối với màn hình của chiếc M51 có cân bằng trắng kém hơn đó là 4500mAh , có hỗ trợ sạc nhanh 25W , hỗ trợ sạc không dây , sạc ngược cho thiết bị khác .	Đối với màn hình của chiếc M51 có cân bằng trắng kém hơn đó là 4500mAh , có hỗ trợ sạc nhanh 25W , hỗ trợ sạc không dây , sạc ngược cho thiết bị khác .
+{"subject": ["3&&màn", "4&&hình", "5&&của", "6&&chiếc", "7&&M51"], "object": [], "aspect": ["9&&cân", "10&&bằng", "11&&trắng"], "predicate": ["12&&kém", "13&&hơn"], "label": "COM-"}
+
+Còn chiếc máy sở hữu góc nhìn giọt nước không cao như .	Còn chiếc máy sở hữu góc nhìn giọt nước không cao như .
+{"subject": ["2&&chiếc", "3&&máy"], "object": [], "aspect": ["6&&góc", "7&&nhìn"], "predicate": ["10&&không", "11&&cao", "12&&như"], "label": "COM-"}
+
+Helio G80 có độ phân giải thấp hơn các điện thoại khác trong phân khúc .	Helio G80 có độ phân giải thấp hơn các điện thoại khác trong phân khúc .
+{"subject": ["1&&Helio", "2&&G80"], "object": ["9&&các", "10&&điện", "11&&thoại", "12&&khác", "13&&trong", "14&&phân", "15&&khúc"], "aspect": ["4&&độ", "5&&phân", "6&&giải"], "predicate": ["7&&thấp", "8&&hơn"], "label": "COM-"}
+
+Hơn nữa , Galaxy S22 Ultra 5G có những mặt khác HD + yếu đuối hơn và tốc độ làm mới t60Hz tiêu chuẩn .	Hơn nữa , Galaxy S22 Ultra 5G có những mặt khác HD + yếu đuối hơn và tốc độ làm mới t60Hz tiêu chuẩn .
+{"subject": ["4&&Galaxy", "5&&S22", "6&&Ultra", "7&&5G"], "object": [], "aspect": ["9&&những", "10&&mặt", "11&&khác"], "predicate": ["14&&yếu", "15&&đuối", "16&&hơn"], "label": "COM-"}
+
+chiếc A32 được nhà sản xuất trang bị cấu hình Li-Ion 3279 mAh , nếu so với Galaxy S10 Plus thì đây chỉ được xem là không phải cấu hình khủng nhất năm nay .	chiếc A32 được nhà sản xuất trang bị cấu hình Li-Ion 3279 mAh , nếu so với Galaxy S10 Plus thì đây chỉ được xem là không phải cấu hình khủng nhất năm nay .
+{"subject": ["1&&chiếc", "2&&A32"], "object": ["18&&Galaxy", "19&&S10", "20&&Plus"], "aspect": ["9&&cấu", "10&&hình"], "predicate": ["27&&không", "28&&phải", "29&&cấu", "30&&hình", "31&&khủng", "32&&nhất", "33&&năm", "34&&nay"], "label": "COM-"}
+
+Galaxy M32 5G được nhà sản xuất trang bị camera Li-Ion 3279 mAh , nếu so với iPhone 13 Pro Max thì đây chỉ được xem là kém hơn .	Galaxy M32 5G được nhà sản xuất trang bị camera Li-Ion 3279 mAh , nếu so với iPhone 13 Pro Max thì đây chỉ được xem là kém hơn .
+{"subject": ["1&&Galaxy", "2&&M32", "3&&5G"], "object": ["18&&iPhone", "19&&13", "20&&Pro", "21&&Max"], "aspect": ["10&&camera"], "predicate": ["28&&kém", "29&&hơn"], "label": "COM-"}
+
+Galaxy S22 Ultra được nhà sản xuất trang bị mức giá Li-Ion 3279 mAh , nếu so với Xiaomi 13 Ultra thì đây chỉ được xem là mắc hơn 1 chút .	Galaxy S22 Ultra được nhà sản xuất trang bị mức giá Li-Ion 3279 mAh , nếu so với Xiaomi 13 Ultra thì đây chỉ được xem là mắc hơn 1 chút .
+{"subject": ["1&&Galaxy", "2&&S22", "3&&Ultra"], "object": ["19&&Xiaomi", "20&&13", "21&&Ultra"], "aspect": ["10&&mức", "11&&giá"], "predicate": ["28&&mắc", "29&&hơn", "30&&1", "31&&chút"], "label": "COM-"}
+
+Galaxy Z Fold2 được nhà sản xuất trang bị dải động của cảm biến Li-Ion 3279 mAh , nếu so với Snapdragon 8 Gen 1 thì đây chỉ được xem là không tốt bằng .	Galaxy Z Fold2 được nhà sản xuất trang bị dải động của cảm biến Li-Ion 3279 mAh , nếu so với Snapdragon 8 Gen 1 thì đây chỉ được xem là không tốt bằng .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold2"], "object": ["22&&Snapdragon", "23&&8", "24&&Gen", "25&&1"], "aspect": ["10&&dải", "11&&động", "12&&của", "13&&cảm", "14&&biến"], "predicate": ["32&&không", "33&&tốt", "34&&bằng"], "label": "COM-"}
+
+Samsung Galaxy S21 Ultra được nhà sản xuất trang bị dải động của cảm biến Li-Ion 3279 mAh , nếu so với các model tiền nhiệm thì đây chỉ được xem là không tốt bằng .	Samsung Galaxy S21 Ultra được nhà sản xuất trang bị dải động của cảm biến Li-Ion 3279 mAh , nếu so với các model tiền nhiệm thì đây chỉ được xem là không tốt bằng .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S21", "4&&Ultra"], "object": ["23&&các", "24&&model", "25&&tiền", "26&&nhiệm"], "aspect": ["11&&dải", "12&&động", "13&&của", "14&&cảm", "15&&biến"], "predicate": ["33&&không", "34&&tốt", "35&&bằng"], "label": "COM-"}
+
+So với các mẫu ultrawide khác của Apple , iPhone chỉ khả năng xử lý tác vụ không thể bằng được trong các điểm chuẩn tổng hợp .	So với các mẫu ultrawide khác của Apple , iPhone chỉ khả năng xử lý tác vụ không thể bằng được trong các điểm chuẩn tổng hợp .
+{"subject": ["10&&iPhone"], "object": ["3&&các", "4&&mẫu", "5&&ultrawide", "6&&khác"], "aspect": ["12&&khả", "13&&năng", "14&&xử", "15&&lý", "16&&tác", "17&&vụ"], "predicate": ["18&&không", "19&&thể", "20&&bằng", "21&&được"], "label": "COM-"}
+
+So với dòng iPhone X của Apple , A32 chỉ gây “ chai ” pin hơn trong các điểm chuẩn tổng hợp .	So với dòng iPhone X của Apple , A32 chỉ gây “ chai ” pin hơn trong các điểm chuẩn tổng hợp .
+{"subject": ["9&&A32"], "object": ["3&&dòng", "4&&iPhone", "5&&X"], "aspect": ["11&&gây", "12&&“", "13&&chai", "14&&”", "15&&pin"], "predicate": ["16&&hơn"], "label": "COM-"}
+
+So với iPhone 13 Pro Max của Apple , nó chỉ bộ xử lý thấp hơn một bậc trong các điểm chuẩn tổng hợp .	So với iPhone 13 Pro Max của Apple , nó chỉ bộ xử lý thấp hơn một bậc trong các điểm chuẩn tổng hợp .
+{"subject": ["10&&nó"], "object": ["3&&iPhone", "4&&13", "5&&Pro", "6&&Max"], "aspect": ["12&&bộ", "13&&xử", "14&&lý"], "predicate": ["15&&thấp", "16&&hơn", "17&&một", "18&&bậc"], "label": "COM-"}
+
+So với Galaxy Z Fold 4 của Apple , Samsung A51 chỉ khả năng xử lý tác vụ không thể bằng được trong các điểm chuẩn tổng hợp .	So với Galaxy Z Fold 4 của Apple , Samsung A51 chỉ khả năng xử lý tác vụ không thể bằng được trong các điểm chuẩn tổng hợp .
+{"subject": ["10&&Samsung", "11&&A51"], "object": ["3&&Galaxy", "4&&Z", "5&&Fold", "6&&4"], "aspect": ["13&&khả", "14&&năng", "15&&xử", "16&&lý", "17&&tác", "18&&vụ"], "predicate": ["19&&không", "20&&thể", "21&&bằng", "22&&được"], "label": "COM-"}
+
+So với iPhone 11 của Apple , Qualcomm chỉ mặt trước trông hơi “ giá rẻ ” trong các điểm chuẩn tổng hợp .	So với iPhone 11 của Apple , Qualcomm chỉ mặt trước trông hơi “ giá rẻ ” trong các điểm chuẩn tổng hợp .
+{"subject": ["8&&Qualcomm"], "object": ["3&&iPhone", "4&&11"], "aspect": ["10&&mặt", "11&&trước"], "predicate": ["12&&trông", "13&&hơi", "14&&“", "15&&giá", "16&&rẻ", "17&&”"], "label": "COM-"}
+
+Với độ dày và không thể so sánh với , S20 sử hữu viên pin khủng lên đến 5,000 mAh còn Samsung Galaxy S10 Plus chỉ có 4,000 mAh , cả hai hỗ trợ sạc 15 W .	Với độ dày và không thể so sánh với , S20 sử hữu viên pin khủng lên đến 5,000 mAh còn Samsung Galaxy S10 Plus chỉ có 4,000 mAh , cả hai hỗ trợ sạc 15 W .
+{"subject": ["11&&S20"], "object": ["22&&Samsung", "23&&Galaxy", "24&&S10", "25&&Plus"], "aspect": [], "predicate": ["5&&không", "6&&thể", "7&&so", "8&&sánh", "9&&với"], "label": "COM-"}
+
+Với độ dày và kém hơn , màn hình LTPO OLED sử hữu viên pin khủng lên đến 5,000 mAh còn đối thủ của nó chỉ có 4,000 mAh , cả hai hỗ trợ sạc 15 W .	Với độ dày và kém hơn , màn hình LTPO OLED sử hữu viên pin khủng lên đến 5,000 mAh còn đối thủ của nó chỉ có 4,000 mAh , cả hai hỗ trợ sạc 15 W .
+{"subject": ["8&&màn", "9&&hình", "10&&LTPO", "11&&OLED"], "object": ["22&&đối", "23&&thủ", "24&&của", "25&&nó"], "aspect": [], "predicate": ["5&&kém", "6&&hơn"], "label": "COM-"}
+
+Với độ dày và nhỏ hơn , Màn hình của Pixel 7 Pro sử hữu viên pin khủng lên đến 5,000 mAh còn Samsung A31 chỉ có 4,000 mAh , cả hai hỗ trợ sạc 15 W .	Với độ dày và nhỏ hơn , Màn hình của Pixel 7 Pro sử hữu viên pin khủng lên đến 5,000 mAh còn Samsung A31 chỉ có 4,000 mAh , cả hai hỗ trợ sạc 15 W .
+{"subject": ["8&&Màn", "9&&hình", "10&&của", "11&&Pixel", "12&&7", "13&&Pro"], "object": ["24&&Samsung", "25&&A31"], "aspect": [], "predicate": ["5&&nhỏ", "6&&hơn"], "label": "COM-"}
+
+Với độ dày và nhỏ hơn đôi chút , iPhone 12 sử hữu viên pin khủng lên đến 5,000 mAh còn các thế hệ tiền nhiệm của chúng chỉ có 4,000 mAh , cả hai hỗ trợ sạc 15 W .	Với độ dày và nhỏ hơn đôi chút , iPhone 12 sử hữu viên pin khủng lên đến 5,000 mAh còn các thế hệ tiền nhiệm của chúng chỉ có 4,000 mAh , cả hai hỗ trợ sạc 15 W .
+{"subject": ["10&&iPhone", "11&&12"], "object": ["22&&các", "23&&thế", "24&&hệ", "25&&tiền", "26&&nhiệm", "27&&của", "28&&chúng"], "aspect": [], "predicate": ["5&&nhỏ", "6&&hơn", "7&&đôi", "8&&chút"], "label": "COM-"}
+
+Với độ dày và khó có chiếc điện thoại nào có thể đọ được , iPhone 13 sử hữu viên pin khủng lên đến 5,000 mAh còn đối thủ chỉ có 4,000 mAh , cả hai hỗ trợ sạc 15 W .	Với độ dày và khó có chiếc điện thoại nào có thể đọ được , iPhone 13 sử hữu viên pin khủng lên đến 5,000 mAh còn đối thủ chỉ có 4,000 mAh , cả hai hỗ trợ sạc 15 W .
+{"subject": ["16&&iPhone", "17&&13"], "object": ["28&&đối", "29&&thủ"], "aspect": [], "predicate": ["5&&khó", "6&&có", "7&&chiếc", "8&&điện", "9&&thoại", "10&&nào", "11&&có", "12&&thể", "13&&đọ", "14&&được"], "label": "COM-"}
+
+Nhưng vào ban đêm , điện thoại Galaxy S23 + lại nhỏ hơn .	Nhưng vào ban đêm , điện thoại Galaxy S23 + lại nhỏ hơn .
+{"subject": ["6&&điện", "7&&thoại", "8&&Galaxy", "9&&S23", "10&&+"], "object": [], "aspect": [], "predicate": ["12&&nhỏ", "13&&hơn"], "label": "COM-"}
+
+Nhưng vào ban đêm , Mi 11 lại kém cạnh hơn một chút .	Nhưng vào ban đêm , Mi 11 lại kém cạnh hơn một chút .
+{"subject": ["6&&Mi", "7&&11"], "object": [], "aspect": [], "predicate": ["9&&kém", "10&&cạnh", "11&&hơn", "12&&một", "13&&chút"], "label": "COM-"}
+
+Nhưng vào ban đêm , Galaxy A53 5G lại nhỏ hơn đôi chút .	Nhưng vào ban đêm , Galaxy A53 5G lại nhỏ hơn đôi chút .
+{"subject": ["6&&Galaxy", "7&&A53", "8&&5G"], "object": [], "aspect": [], "predicate": ["10&&nhỏ", "11&&hơn", "12&&đôi", "13&&chút"], "label": "COM-"}
+
+Nhưng vào ban đêm , biến thể “ for Galaxy ” lại khó lòng sánh được .	Nhưng vào ban đêm , biến thể “ for Galaxy ” lại khó lòng sánh được .
+{"subject": ["6&&biến", "7&&thể", "8&&“", "9&&for", "10&&Galaxy", "11&&”"], "object": [], "aspect": [], "predicate": ["13&&khó", "14&&lòng", "15&&sánh", "16&&được"], "label": "COM-"}
+
+Nhưng vào ban đêm , nó lại kém cạnh hơn một chút .	Nhưng vào ban đêm , nó lại kém cạnh hơn một chút .
+{"subject": ["6&&nó"], "object": [], "aspect": [], "predicate": ["8&&kém", "9&&cạnh", "10&&hơn", "11&&một", "12&&chút"], "label": "COM-"}
+
+Hiện Samsung A31 đang bán tại XTmobile với cấu hình 4GB / 128GB có độ phân giải khoảng 5.1 triệu đồng , trong khi đó Samsung phiên bản 8GB / 512GB lại chỉ thấp hơn , khoảng 5.4 triệu đồng .	Hiện Samsung A31 đang bán tại XTmobile với cấu hình 4GB / 128GB có độ phân giải khoảng 5.1 triệu đồng , trong khi đó Samsung phiên bản 8GB / 512GB lại chỉ thấp hơn , khoảng 5.4 triệu đồng .
+{"subject": ["26&&Samsung"], "object": ["2&&Samsung", "3&&A31"], "aspect": ["15&&độ", "16&&phân", "17&&giải"], "predicate": ["34&&thấp", "35&&hơn"], "label": "COM-"}
+
+Hiện các điện thoại khác đang bán tại XTmobile với cấu hình 4GB / 128GB có macro khoảng 5.1 triệu đồng , trong khi đó A23 phiên bản 8GB / 512GB lại chỉ độ phân giải thấp hơn , khoảng 5.4 triệu đồng .	Hiện các điện thoại khác đang bán tại XTmobile với cấu hình 4GB / 128GB có macro khoảng 5.1 triệu đồng , trong khi đó A23 phiên bản 8GB / 512GB lại chỉ độ phân giải thấp hơn , khoảng 5.4 triệu đồng .
+{"subject": ["26&&A23"], "object": ["2&&các", "3&&điện", "4&&thoại", "5&&khác"], "aspect": ["17&&macro"], "predicate": ["34&&độ", "35&&phân", "36&&giải", "37&&thấp", "38&&hơn"], "label": "COM-"}
+
+Hiện thế hệ tiền nhiệm đang bán tại XTmobile với cấu hình 4GB / 128GB có chất lượng màn hình khoảng 5.1 triệu đồng , trong khi đó A32 phiên bản 8GB / 512GB lại chỉ kém hơn , khoảng 5.4 triệu đồng .	Hiện thế hệ tiền nhiệm đang bán tại XTmobile với cấu hình 4GB / 128GB có chất lượng màn hình khoảng 5.1 triệu đồng , trong khi đó A32 phiên bản 8GB / 512GB lại chỉ kém hơn , khoảng 5.4 triệu đồng .
+{"subject": ["29&&A32"], "object": ["2&&thế", "3&&hệ", "4&&tiền", "5&&nhiệm"], "aspect": ["17&&chất", "18&&lượng", "19&&màn", "20&&hình"], "predicate": ["37&&kém", "38&&hơn"], "label": "COM-"}
+
+Hiện Z Fold 3 đang bán tại XTmobile với cấu hình 4GB / 128GB có Độ ổn định của GPU khoảng 5.1 triệu đồng , trong khi đó iPhone 14 phiên bản 8GB / 512GB lại chỉ rất thấp khi so với , khoảng 5.4 triệu đồng .	Hiện Z Fold 3 đang bán tại XTmobile với cấu hình 4GB / 128GB có Độ ổn định của GPU khoảng 5.1 triệu đồng , trong khi đó iPhone 14 phiên bản 8GB / 512GB lại chỉ rất thấp khi so với , khoảng 5.4 triệu đồng .
+{"subject": ["29&&iPhone", "30&&14"], "object": ["2&&Z", "3&&Fold", "4&&3"], "aspect": ["16&&Độ", "17&&ổn", "18&&định", "19&&của", "20&&GPU"], "predicate": ["38&&rất", "39&&thấp", "40&&khi", "41&&so", "42&&với"], "label": "COM-"}
+
+Hiện M51 đang bán tại XTmobile với cấu hình 4GB / 128GB có cường lực và phụ kiện khoảng 5.1 triệu đồng , trong khi đó Huawei P30 Pro phiên bản 8GB / 512GB lại chỉ khó dán cường lực và phụ kiện hơn , khoảng 5.4 triệu đồng .	Hiện M51 đang bán tại XTmobile với cấu hình 4GB / 128GB có cường lực và phụ kiện khoảng 5.1 triệu đồng , trong khi đó Huawei P30 Pro phiên bản 8GB / 512GB lại chỉ khó dán cường lực và phụ kiện hơn , khoảng 5.4 triệu đồng .
+{"subject": ["27&&Huawei", "28&&P30", "29&&Pro"], "object": ["2&&M51"], "aspect": ["14&&cường", "15&&lực", "16&&và", "17&&phụ", "18&&kiện"], "predicate": ["37&&khó", "38&&dán", "39&&cường", "40&&lực", "41&&và", "42&&phụ", "43&&kiện", "44&&hơn"], "label": "COM-"}
+
+mẫu flagship mới của Xiaomi có độ phân giải thấp hơn so với dòng iPhone X .	mẫu flagship mới của Xiaomi có độ phân giải thấp hơn so với dòng iPhone X .
+{"subject": ["1&&mẫu", "2&&flagship", "3&&mới", "4&&của", "5&&Xiaomi"], "object": ["14&&dòng", "15&&iPhone", "16&&X"], "aspect": ["7&&độ", "8&&phân", "9&&giải"], "predicate": ["10&&thấp", "11&&hơn"], "label": "COM-"}
+
+iPhone 13 pro có điểm số tương đối thấp , ít nhất là khi so sánh với so với Snapdragon 845 .	iPhone 13 pro có điểm số tương đối thấp , ít nhất là khi so sánh với so với Snapdragon 845 .
+{"subject": ["1&&iPhone", "2&&13", "3&&pro"], "object": ["20&&Snapdragon", "21&&845"], "aspect": ["5&&điểm", "6&&số"], "predicate": ["7&&tương", "8&&đối", "9&&thấp", "10&&,", "11&&ít", "12&&nhất", "13&&là", "14&&khi", "15&&so", "16&&sánh", "17&&với"], "label": "COM-"}
+
+Galaxy A13 có màn hình nhỏ hơn so với 11 Pro Max .	Galaxy A13 có màn hình nhỏ hơn so với 11 Pro Max .
+{"subject": ["1&&Galaxy", "2&&A13"], "object": ["10&&11", "11&&Pro", "12&&Max"], "aspect": ["4&&màn", "5&&hình"], "predicate": ["6&&nhỏ", "7&&hơn"], "label": "COM-"}
+
+độ nét có thẩm mỹ khó có chiếc điện thoại nào có thể đọ được so với màn hình Ultra .	độ nét có thẩm mỹ khó có chiếc điện thoại nào có thể đọ được so với màn hình Ultra .
+{"subject": ["1&&độ", "2&&nét"], "object": ["18&&màn", "19&&hình", "20&&Ultra"], "aspect": ["4&&thẩm", "5&&mỹ"], "predicate": ["6&&khó", "7&&có", "8&&chiếc", "9&&điện", "10&&thoại", "11&&nào", "12&&có", "13&&thể", "14&&đọ", "15&&được"], "label": "COM-"}
+
+S-Pen đi kèm với Galaxy S22 Ultra có mức giá niêm yết hơn 1 / 2 so với A31 .	S-Pen đi kèm với Galaxy S22 Ultra có mức giá niêm yết hơn 1 / 2 so với A31 .
+{"subject": ["1&&S-Pen", "2&&đi", "3&&kèm", "4&&với", "5&&Galaxy", "6&&S22", "7&&Ultra"], "object": ["19&&A31"], "aspect": ["9&&mức", "10&&giá", "11&&niêm", "12&&yết"], "predicate": ["13&&hơn", "14&&1", "15&&/", "16&&2"], "label": "COM-"}
+
+Khi gập điện thoại Galaxy Z Fold 4 thì nó kém hơn so với Galaxy A23 .	Khi gập điện thoại Galaxy Z Fold 4 thì nó kém hơn so với Galaxy A23 .
+{"subject": ["10&&nó"], "object": ["15&&Galaxy", "16&&A23"], "aspect": [], "predicate": ["11&&kém", "12&&hơn"], "label": "COM-"}
+
+Khi gập điện thoại Galaxy Z Fold 4 thì iPhone SE 2022 thua kém so với Samsung Galaxy S10 .	Khi gập điện thoại Galaxy Z Fold 4 thì iPhone SE 2022 thua kém so với Samsung Galaxy S10 .
+{"subject": ["10&&iPhone", "11&&SE", "12&&2022"], "object": ["17&&Samsung", "18&&Galaxy", "19&&S10"], "aspect": [], "predicate": ["13&&thua", "14&&kém"], "label": "COM-"}
+
+Khi gập điện thoại Galaxy Z Fold 4 thì Oppo Find N2 Flip không quá lớn để so sánh với so với bản tiền nhiệm .	Khi gập điện thoại Galaxy Z Fold 4 thì Oppo Find N2 Flip không quá lớn để so sánh với so với bản tiền nhiệm .
+{"subject": ["10&&Oppo", "11&&Find", "12&&N2", "13&&Flip"], "object": ["23&&bản", "24&&tiền", "25&&nhiệm"], "aspect": [], "predicate": ["14&&không", "15&&quá", "16&&lớn", "17&&để", "18&&so", "19&&sánh", "20&&với"], "label": "COM-"}
+
+Khi gập điện thoại Galaxy Z Fold 4 thì iPhone thua kém so với Motorola One Fusion + .	Khi gập điện thoại Galaxy Z Fold 4 thì iPhone thua kém so với Motorola One Fusion + .
+{"subject": ["10&&iPhone"], "object": ["15&&Motorola", "16&&One", "17&&Fusion", "18&&+"], "aspect": [], "predicate": ["11&&thua", "12&&kém"], "label": "COM-"}
+
+Khi gập điện thoại Galaxy Z Fold 4 thì iPhone 11 Pro hơn so với ROG Phone 2 .	Khi gập điện thoại Galaxy Z Fold 4 thì iPhone 11 Pro hơn so với ROG Phone 2 .
+{"subject": ["10&&iPhone", "11&&11", "12&&Pro"], "object": ["16&&ROG", "17&&Phone", "18&&2"], "aspect": [], "predicate": ["13&&hơn"], "label": "COM-"}
+
+Tuy nhiên , S-Pen đi kèm với Galaxy S22 Ultra cũng thấp hơn khi bỏ vào túi của bạn .	Tuy nhiên , S-Pen đi kèm với Galaxy S22 Ultra cũng thấp hơn khi bỏ vào túi của bạn .
+{"subject": ["4&&S-Pen", "5&&đi", "6&&kèm", "7&&với", "8&&Galaxy", "9&&S22", "10&&Ultra"], "object": [], "aspect": [], "predicate": ["12&&thấp", "13&&hơn"], "label": "COM-"}
+
+Tuy nhiên , Bộ xử lý Snapdragon 732G cũng nhỏ và độ phân giải thấp hơn khi bỏ vào túi của bạn .	Tuy nhiên , Bộ xử lý Snapdragon 732G cũng nhỏ và độ phân giải thấp hơn khi bỏ vào túi của bạn .
+{"subject": ["4&&Bộ", "5&&xử", "6&&lý", "7&&Snapdragon", "8&&732G"], "object": [], "aspect": [], "predicate": ["10&&nhỏ", "11&&và", "12&&độ", "13&&phân", "14&&giải", "15&&thấp", "16&&hơn"], "label": "COM-"}
+
+Tuy nhiên , biến thể Ultra cũng khiêm tốn hơn khi bỏ vào túi của bạn .	Tuy nhiên , biến thể Ultra cũng khiêm tốn hơn khi bỏ vào túi của bạn .
+{"subject": ["4&&biến", "5&&thể", "6&&Ultra"], "object": [], "aspect": [], "predicate": ["8&&khiêm", "9&&tốn", "10&&hơn"], "label": "COM-"}
+
+Tuy nhiên , Pixel 7 Pro cũng thua thiệt khi bỏ vào túi của bạn .	Tuy nhiên , Pixel 7 Pro cũng thua thiệt khi bỏ vào túi của bạn .
+{"subject": ["4&&Pixel", "5&&7", "6&&Pro"], "object": [], "aspect": [], "predicate": ["8&&thua", "9&&thiệt"], "label": "COM-"}
+
+Tuy nhiên , điện thoại Samsung này cũng thấp hơn khi bỏ vào túi của bạn .	Tuy nhiên , điện thoại Samsung này cũng thấp hơn khi bỏ vào túi của bạn .
+{"subject": ["4&&điện", "5&&thoại", "6&&Samsung", "7&&này"], "object": [], "aspect": [], "predicate": ["9&&thấp", "10&&hơn"], "label": "COM-"}
+
+Nhưng ngay cả khi C11 cũng kém hơn thiết bị năm ngoái .	Nhưng ngay cả khi C11 cũng kém hơn thiết bị năm ngoái .
+{"subject": ["5&&C11"], "object": ["9&&thiết", "10&&bị", "11&&năm", "12&&ngoái"], "aspect": [], "predicate": ["7&&kém", "8&&hơn"], "label": "COM-"}
+
+Nhưng ngay cả khi Điện thoại này cũng cao rất nhiều Galaxy A53 5G .	Nhưng ngay cả khi Điện thoại này cũng cao rất nhiều Galaxy A53 5G .
+{"subject": ["5&&Điện", "6&&thoại", "7&&này"], "object": ["12&&Galaxy", "13&&A53", "14&&5G"], "aspect": [], "predicate": ["9&&cao", "10&&rất", "11&&nhiều"], "label": "COM-"}
+
+Nhưng ngay cả khi Samsung Galaxy A52s 5G cũng thấp hơn đối thủ của nó .	Nhưng ngay cả khi Samsung Galaxy A52s 5G cũng thấp hơn đối thủ của nó .
+{"subject": ["5&&Samsung", "6&&Galaxy", "7&&A52s", "8&&5G"], "object": ["12&&đối", "13&&thủ", "14&&của", "15&&nó"], "aspect": [], "predicate": ["10&&thấp", "11&&hơn"], "label": "COM-"}
+
+Nhưng ngay cả khi Samsung Galaxy A53 cũng không sáng bằng Xiaomi Mi 11 Ultra .	Nhưng ngay cả khi Samsung Galaxy A53 cũng không sáng bằng Xiaomi Mi 11 Ultra .
+{"subject": ["5&&Samsung", "6&&Galaxy", "7&&A53"], "object": ["12&&Xiaomi", "13&&Mi", "14&&11", "15&&Ultra"], "aspect": [], "predicate": ["9&&không", "10&&sáng", "11&&bằng"], "label": "COM-"}
+
+Nhưng ngay cả khi Galaxy cũng hơi yếu thế so với hai camera còn lại .	Nhưng ngay cả khi Galaxy cũng hơi yếu thế so với hai camera còn lại .
+{"subject": ["5&&Galaxy"], "object": ["12&&hai", "13&&camera", "14&&còn", "15&&lại"], "aspect": [], "predicate": ["7&&hơi", "8&&yếu", "9&&thế", "10&&so", "11&&với"], "label": "COM-"}
+
+Còn với smartphone mới được ra mắt sau này , tuy có nhiều nâng cấp nhưng vẫn độ phân giải thấp hơn vi xử lý Apple M1 trên iPad Pro , chiếc điện thoại này chỉ sở hữu camera góc siêu rộng 50MP , với camera góc siêu rộng 5MP có góc chụp lên đến 123 độ , camera macro 2MP và cảm biến chiều sâu 2MP .	Còn với smartphone mới được ra mắt sau này , tuy có nhiều nâng cấp nhưng vẫn độ phân giải thấp hơn vi xử lý Apple M1 trên iPad Pro , chiếc điện thoại này chỉ sở hữu camera góc siêu rộng 50MP , với camera góc siêu rộng 5MP có góc chụp lên đến 123 độ , camera macro 2MP và cảm biến chiều sâu 2MP .
+{"subject": ["3&&smartphone"], "object": ["23&&vi", "24&&xử", "25&&lý", "26&&Apple", "27&&M1", "28&&trên", "29&&iPad", "30&&Pro"], "aspect": [], "predicate": ["18&&độ", "19&&phân", "20&&giải", "21&&thấp", "22&&hơn"], "label": "COM-"}
+
+Còn với Galaxy S22 Ultra mới được ra mắt sau này , tuy có nhiều nâng cấp nhưng vẫn thua thiệt các đối thủ khác trong tầm giá , chiếc điện thoại này chỉ sở hữu camera góc siêu rộng 50MP , với camera góc siêu rộng 5MP có góc chụp lên đến 123 độ , camera macro 2MP và cảm biến chiều sâu 2MP .	Còn với Galaxy S22 Ultra mới được ra mắt sau này , tuy có nhiều nâng cấp nhưng vẫn thua thiệt các đối thủ khác trong tầm giá , chiếc điện thoại này chỉ sở hữu camera góc siêu rộng 50MP , với camera góc siêu rộng 5MP có góc chụp lên đến 123 độ , camera macro 2MP và cảm biến chiều sâu 2MP .
+{"subject": ["3&&Galaxy", "4&&S22", "5&&Ultra"], "object": ["22&&các", "23&&đối", "24&&thủ", "25&&khác", "26&&trong", "27&&tầm", "28&&giá"], "aspect": [], "predicate": ["20&&thua", "21&&thiệt"], "label": "COM-"}
+
+Còn với Samsung A51 mới được ra mắt sau này , tuy có nhiều nâng cấp nhưng vẫn thấp hơn Galaxy Z Flip 4 , chiếc điện thoại này chỉ sở hữu camera góc siêu rộng 50MP , với camera góc siêu rộng 5MP có góc chụp lên đến 123 độ , camera macro 2MP và cảm biến chiều sâu 2MP .	Còn với Samsung A51 mới được ra mắt sau này , tuy có nhiều nâng cấp nhưng vẫn thấp hơn Galaxy Z Flip 4 , chiếc điện thoại này chỉ sở hữu camera góc siêu rộng 50MP , với camera góc siêu rộng 5MP có góc chụp lên đến 123 độ , camera macro 2MP và cảm biến chiều sâu 2MP .
+{"subject": ["3&&Samsung", "4&&A51"], "object": ["21&&Galaxy", "22&&Z", "23&&Flip", "24&&4"], "aspect": [], "predicate": ["19&&thấp", "20&&hơn"], "label": "COM-"}
+
+Còn với Samsung Galaxy M31 Prime mới được ra mắt sau này , tuy có nhiều nâng cấp nhưng vẫn kém hơn 730G , chiếc điện thoại này chỉ sở hữu camera góc siêu rộng 50MP , với camera góc siêu rộng 5MP có góc chụp lên đến 123 độ , camera macro 2MP và cảm biến chiều sâu 2MP .	Còn với Samsung Galaxy M31 Prime mới được ra mắt sau này , tuy có nhiều nâng cấp nhưng vẫn kém hơn 730G , chiếc điện thoại này chỉ sở hữu camera góc siêu rộng 50MP , với camera góc siêu rộng 5MP có góc chụp lên đến 123 độ , camera macro 2MP và cảm biến chiều sâu 2MP .
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&M31", "6&&Prime"], "object": ["23&&730G"], "aspect": [], "predicate": ["21&&kém", "22&&hơn"], "label": "COM-"}
+
+Còn với Xiaomi Mi 11 mới được ra mắt sau này , tuy có nhiều nâng cấp nhưng vẫn chiếm nhiều không gian lưu trữ hơn Galaxy Z Fold 4 , chiếc điện thoại này chỉ sở hữu camera góc siêu rộng 50MP , với camera góc siêu rộng 5MP có góc chụp lên đến 123 độ , camera macro 2MP và cảm biến chiều sâu 2MP .	Còn với Xiaomi Mi 11 mới được ra mắt sau này , tuy có nhiều nâng cấp nhưng vẫn chiếm nhiều không gian lưu trữ hơn Galaxy Z Fold 4 , chiếc điện thoại này chỉ sở hữu camera góc siêu rộng 50MP , với camera góc siêu rộng 5MP có góc chụp lên đến 123 độ , camera macro 2MP và cảm biến chiều sâu 2MP .
+{"subject": ["3&&Xiaomi", "4&&Mi", "5&&11"], "object": ["27&&Galaxy", "28&&Z", "29&&Fold", "30&&4"], "aspect": [], "predicate": ["20&&chiếm", "21&&nhiều", "22&&không", "23&&gian", "24&&lưu", "25&&trữ", "26&&hơn"], "label": "COM-"}
+
+Kể cả ở thời điểm hiện tại hay nhiều năm nữa , đối thủ vẫn mang đến màn hình đáng kinh ngạc mà đối thủ của nó - camera chính hiển thị yếu hơn .	Kể cả ở thời điểm hiện tại hay nhiều năm nữa , đối thủ vẫn mang đến màn hình đáng kinh ngạc mà đối thủ của nó - camera chính hiển thị yếu hơn .
+{"subject": ["29&&camera", "30&&chính"], "object": ["13&&đối", "14&&thủ"], "aspect": ["18&&màn", "19&&hình"], "predicate": ["31&&hiển", "32&&thị", "33&&yếu", "34&&hơn"], "label": "COM-"}
+
+Kể cả ở thời điểm hiện tại hay nhiều năm nữa , bản tiền nhiệm vẫn mang đến khả năng chụp ảnh zoom đáng kinh ngạc mà đối thủ của nó - thiết bị thua thiệt khá nhiều .	Kể cả ở thời điểm hiện tại hay nhiều năm nữa , bản tiền nhiệm vẫn mang đến khả năng chụp ảnh zoom đáng kinh ngạc mà đối thủ của nó - thiết bị thua thiệt khá nhiều .
+{"subject": ["33&&thiết", "34&&bị"], "object": ["13&&bản", "14&&tiền", "15&&nhiệm"], "aspect": ["19&&khả", "20&&năng", "21&&chụp", "22&&ảnh", "23&&zoom"], "predicate": ["35&&thua", "36&&thiệt", "37&&khá", "38&&nhiều"], "label": "COM-"}
+
+Kể cả ở thời điểm hiện tại hay nhiều năm nữa , Snapdragon 8 + Gen 1 vẫn mang đến hiệu năng đáng kinh ngạc mà đối thủ của nó - nó kém hơn .	Kể cả ở thời điểm hiện tại hay nhiều năm nữa , Snapdragon 8 + Gen 1 vẫn mang đến hiệu năng đáng kinh ngạc mà đối thủ của nó - nó kém hơn .
+{"subject": ["32&&nó"], "object": ["13&&Snapdragon", "14&&8", "15&&+", "16&&Gen", "17&&1"], "aspect": ["21&&hiệu", "22&&năng"], "predicate": ["33&&kém", "34&&hơn"], "label": "COM-"}
+
+Kể cả ở thời điểm hiện tại hay nhiều năm nữa , Samsung vẫn mang đến dung lượng pin đáng kinh ngạc mà đối thủ của nó - viên pin kém hơn .	Kể cả ở thời điểm hiện tại hay nhiều năm nữa , Samsung vẫn mang đến dung lượng pin đáng kinh ngạc mà đối thủ của nó - viên pin kém hơn .
+{"subject": ["29&&viên", "30&&pin"], "object": ["13&&Samsung"], "aspect": ["17&&dung", "18&&lượng", "19&&pin"], "predicate": ["31&&kém", "32&&hơn"], "label": "COM-"}
+
+Kể cả ở thời điểm hiện tại hay nhiều năm nữa , S23 Ultra vẫn mang đến phần cứng camera sau đáng kinh ngạc mà đối thủ của nó - Galaxy M51 yếu hơn .	Kể cả ở thời điểm hiện tại hay nhiều năm nữa , S23 Ultra vẫn mang đến phần cứng camera sau đáng kinh ngạc mà đối thủ của nó - Galaxy M51 yếu hơn .
+{"subject": ["31&&Galaxy", "32&&M51"], "object": ["13&&S23", "14&&Ultra"], "aspect": ["18&&phần", "19&&cứng", "20&&camera", "21&&sau"], "predicate": ["33&&yếu", "34&&hơn"], "label": "COM-"}
+
+Tuy rằng tốc độ làm mới thua kém Samsung Galaxy Z Fold 3 nhưng Galaxy S23 Ultra cũng được không chế khá tốt để không ảnh hưởng nhiều tới trải nghiệm màn hình .	Tuy rằng tốc độ làm mới thua kém Samsung Galaxy Z Fold 3 nhưng Galaxy S23 Ultra cũng được không chế khá tốt để không ảnh hưởng nhiều tới trải nghiệm màn hình .
+{"subject": ["15&&Galaxy", "16&&S23", "17&&Ultra"], "object": ["9&&Samsung", "10&&Galaxy", "11&&Z", "12&&Fold", "13&&3"], "aspect": ["3&&tốc", "4&&độ", "5&&làm", "6&&mới"], "predicate": ["7&&thua", "8&&kém"], "label": "COM-"}
+
+Tuy rằng cụm 2 camera chính hơi yếu thế so với đối thủ Apple nhưng camera góc rộng cũng được không chế khá tốt để không ảnh hưởng nhiều tới trải nghiệm màn hình .	Tuy rằng cụm 2 camera chính hơi yếu thế so với đối thủ Apple nhưng camera góc rộng cũng được không chế khá tốt để không ảnh hưởng nhiều tới trải nghiệm màn hình .
+{"subject": ["16&&camera", "17&&góc", "18&&rộng"], "object": ["12&&đối", "13&&thủ", "14&&Apple"], "aspect": ["3&&cụm", "4&&2", "5&&camera", "6&&chính"], "predicate": ["7&&hơi", "8&&yếu", "9&&thế", "10&&so", "11&&với"], "label": "COM-"}
+
+Tuy rằng Pin không thể so sánh với các đời trước nhưng X90 Pro cũng được không chế khá tốt để không ảnh hưởng nhiều tới trải nghiệm màn hình .	Tuy rằng Pin không thể so sánh với các đời trước nhưng X90 Pro cũng được không chế khá tốt để không ảnh hưởng nhiều tới trải nghiệm màn hình .
+{"subject": ["13&&X90", "14&&Pro"], "object": ["9&&các", "10&&đời", "11&&trước"], "aspect": ["3&&Pin"], "predicate": ["4&&không", "5&&thể", "6&&so", "7&&sánh", "8&&với"], "label": "COM-"}
+
+Tuy rằng dung lượng pin kém hơn iPhone 13 nhưng nó cũng được không chế khá tốt để không ảnh hưởng nhiều tới trải nghiệm màn hình .	Tuy rằng dung lượng pin kém hơn iPhone 13 nhưng nó cũng được không chế khá tốt để không ảnh hưởng nhiều tới trải nghiệm màn hình .
+{"subject": ["11&&nó"], "object": ["8&&iPhone", "9&&13"], "aspect": ["3&&dung", "4&&lượng", "5&&pin"], "predicate": ["6&&kém", "7&&hơn"], "label": "COM-"}
+
+Tuy rằng màn hình kém hiện đại hơn Galaxy nhưng nó cũng được không chế khá tốt để không ảnh hưởng nhiều tới trải nghiệm màn hình .	Tuy rằng màn hình kém hiện đại hơn Galaxy nhưng nó cũng được không chế khá tốt để không ảnh hưởng nhiều tới trải nghiệm màn hình .
+{"subject": ["11&&nó"], "object": ["9&&Galaxy"], "aspect": ["3&&màn", "4&&hình"], "predicate": ["5&&kém", "6&&hiện", "7&&đại", "8&&hơn"], "label": "COM-"}
+
+Nếu bạn trải nghiệm thực tế bạn sẽ thấy mặc dù chipset của iPhone 13 Pro Max là Snapdragon 730G nhưng hiển thị yếu hơn Galaxy A52 .	Nếu bạn trải nghiệm thực tế bạn sẽ thấy mặc dù chipset của iPhone 13 Pro Max là Snapdragon 730G nhưng hiển thị yếu hơn Galaxy A52 .
+{"subject": ["14&&iPhone", "15&&13", "16&&Pro", "17&&Max"], "object": ["26&&Galaxy", "27&&A52"], "aspect": ["22&&hiển", "23&&thị"], "predicate": ["24&&yếu", "25&&hơn"], "label": "COM-"}
+
+Nếu bạn trải nghiệm thực tế bạn sẽ thấy mặc dù chipset của Galaxy Z Fold2 là Snapdragon 730G nhưng đục lỗ không nhỏ như người anh em của mình .	Nếu bạn trải nghiệm thực tế bạn sẽ thấy mặc dù chipset của Galaxy Z Fold2 là Snapdragon 730G nhưng đục lỗ không nhỏ như người anh em của mình .
+{"subject": ["14&&Galaxy", "15&&Z", "16&&Fold2"], "object": ["26&&người", "27&&anh", "28&&em", "29&&của", "30&&mình"], "aspect": ["21&&đục", "22&&lỗ"], "predicate": ["23&&không", "24&&nhỏ", "25&&như"], "label": "COM-"}
+
+Nếu bạn trải nghiệm thực tế bạn sẽ thấy mặc dù chipset của nó là Snapdragon 730G nhưng Pin không thể so sánh với P30 Pro .	Nếu bạn trải nghiệm thực tế bạn sẽ thấy mặc dù chipset của nó là Snapdragon 730G nhưng Pin không thể so sánh với P30 Pro .
+{"subject": ["14&&nó"], "object": ["25&&P30", "26&&Pro"], "aspect": ["19&&Pin"], "predicate": ["20&&không", "21&&thể", "22&&so", "23&&sánh", "24&&với"], "label": "COM-"}
+
+Nếu bạn trải nghiệm thực tế bạn sẽ thấy mặc dù chipset của nó là Snapdragon 730G nhưng độ phân giải thấp hơn tiền nhiệm của nó .	Nếu bạn trải nghiệm thực tế bạn sẽ thấy mặc dù chipset của nó là Snapdragon 730G nhưng độ phân giải thấp hơn tiền nhiệm của nó .
+{"subject": ["14&&nó"], "object": ["24&&tiền", "25&&nhiệm", "26&&của", "27&&nó"], "aspect": ["19&&độ", "20&&phân", "21&&giải"], "predicate": ["22&&thấp", "23&&hơn"], "label": "COM-"}
+
+Nếu bạn trải nghiệm thực tế bạn sẽ thấy mặc dù chipset của thiết bị tới từ Apple là Snapdragon 730G nhưng chất lượng không thể sánh bằng các đối thủ khác trong tầm giá .	Nếu bạn trải nghiệm thực tế bạn sẽ thấy mặc dù chipset của thiết bị tới từ Apple là Snapdragon 730G nhưng chất lượng không thể sánh bằng các đối thủ khác trong tầm giá .
+{"subject": ["14&&thiết", "15&&bị", "16&&tới", "17&&từ", "18&&Apple"], "object": ["29&&các", "30&&đối", "31&&thủ", "32&&khác", "33&&trong", "34&&tầm", "35&&giá"], "aspect": ["23&&chất", "24&&lượng"], "predicate": ["25&&không", "26&&thể", "27&&sánh", "28&&bằng"], "label": "COM-"}
+
+Nhìn qua một chút khi chạy các bài kiểm tra mặt sau , đại đa số các mẫu máy chạy Snapdragon 8 Gen 2 hoạt động kém thẩm mỹ hơn ở hầu hết Galaxy S23 Plus .	Nhìn qua một chút khi chạy các bài kiểm tra mặt sau , đại đa số các mẫu máy chạy Snapdragon 8 Gen 2 hoạt động kém thẩm mỹ hơn ở hầu hết Galaxy S23 Plus .
+{"subject": ["14&&đại", "15&&đa", "16&&số", "17&&các", "18&&mẫu", "19&&máy", "20&&chạy", "21&&Snapdragon", "22&&8", "23&&Gen", "24&&2"], "object": ["34&&Galaxy", "35&&S23", "36&&Plus"], "aspect": ["11&&mặt", "12&&sau"], "predicate": ["27&&kém", "28&&thẩm", "29&&mỹ", "30&&hơn"], "label": "COM-"}
+
+Nhìn qua một chút khi chạy các bài kiểm tra cấu hình , Bức ảnh chụp với S20 Ultra hoạt động không phải cấu hình khủng nhất năm nay ở hầu hết iPhone SE 2022 .	Nhìn qua một chút khi chạy các bài kiểm tra cấu hình , Bức ảnh chụp với S20 Ultra hoạt động không phải cấu hình khủng nhất năm nay ở hầu hết iPhone SE 2022 .
+{"subject": ["14&&Bức", "15&&ảnh", "16&&chụp", "17&&với", "18&&S20", "19&&Ultra"], "object": ["33&&iPhone", "34&&SE", "35&&2022"], "aspect": ["11&&cấu", "12&&hình"], "predicate": ["22&&không", "23&&phải", "24&&cấu", "25&&hình", "26&&khủng", "27&&nhất", "28&&năm", "29&&nay"], "label": "COM-"}
+
+Nhìn qua một chút khi chạy các bài kiểm tra viên pin , Phiên bản này hoạt động không quá lớn để so sánh với ở hầu hết iPhone 13 .	Nhìn qua một chút khi chạy các bài kiểm tra viên pin , Phiên bản này hoạt động không quá lớn để so sánh với ở hầu hết iPhone 13 .
+{"subject": ["14&&Phiên", "15&&bản", "16&&này"], "object": ["29&&iPhone", "30&&13"], "aspect": ["11&&viên", "12&&pin"], "predicate": ["19&&không", "20&&quá", "21&&lớn", "22&&để", "23&&so", "24&&sánh", "25&&với"], "label": "COM-"}
+
+Nhìn qua một chút khi chạy các bài kiểm tra mức độ hoàn thiện , Galaxy A32 hoạt động khó có chiếc điện thoại nào có thể đọ được ở hầu hết iPhone 13 .	Nhìn qua một chút khi chạy các bài kiểm tra mức độ hoàn thiện , Galaxy A32 hoạt động khó có chiếc điện thoại nào có thể đọ được ở hầu hết iPhone 13 .
+{"subject": ["16&&Galaxy", "17&&A32"], "object": ["33&&iPhone", "34&&13"], "aspect": ["11&&mức", "12&&độ", "13&&hoàn", "14&&thiện"], "predicate": ["20&&khó", "21&&có", "22&&chiếc", "23&&điện", "24&&thoại", "25&&nào", "26&&có", "27&&thể", "28&&đọ", "29&&được"], "label": "COM-"}
+
+Nhìn qua một chút khi chạy các bài kiểm tra ảnh , Snapdragon của A73 hoạt động thiếu chi tiết ở hầu hết dòng Smartphone khác trên thị trường .	Nhìn qua một chút khi chạy các bài kiểm tra ảnh , Snapdragon của A73 hoạt động thiếu chi tiết ở hầu hết dòng Smartphone khác trên thị trường .
+{"subject": ["13&&Snapdragon", "14&&của", "15&&A73"], "object": ["24&&dòng", "25&&Smartphone", "26&&khác", "27&&trên", "28&&thị", "29&&trường"], "aspect": ["11&&ảnh"], "predicate": ["18&&thiếu", "19&&chi", "20&&tiết"], "label": "COM-"}
+
+mặt trước của Galaxy A32 trông hơi “ giá rẻ ” so với đối thủ .	mặt trước của Galaxy A32 trông hơi “ giá rẻ ” so với đối thủ .
+{"subject": ["4&&Galaxy", "5&&A32"], "object": ["14&&đối", "15&&thủ"], "aspect": ["1&&mặt", "2&&trước"], "predicate": ["6&&trông", "7&&hơi", "8&&“", "9&&giá", "10&&rẻ", "11&&”"], "label": "COM-"}
+
+pin của hình ảnh nhỏ hơn so với iPhone 13 Pro Max .	pin của hình ảnh nhỏ hơn so với iPhone 13 Pro Max .
+{"subject": ["3&&hình", "4&&ảnh"], "object": ["9&&iPhone", "10&&13", "11&&Pro", "12&&Max"], "aspect": ["1&&pin"], "predicate": ["5&&nhỏ", "6&&hơn"], "label": "COM-"}
+
+những mặt khác của Xiaomi 13 Pro yếu đuối hơn so với đối thủ .	những mặt khác của Xiaomi 13 Pro yếu đuối hơn so với đối thủ .
+{"subject": ["5&&Xiaomi", "6&&13", "7&&Pro"], "object": ["13&&đối", "14&&thủ"], "aspect": ["1&&những", "2&&mặt", "3&&khác"], "predicate": ["8&&yếu", "9&&đuối", "10&&hơn"], "label": "COM-"}
+
+độ phân giải của Galaxy S23 Ultra thấp hơn so với Galaxy Fold năm ngoái .	độ phân giải của Galaxy S23 Ultra thấp hơn so với Galaxy Fold năm ngoái .
+{"subject": ["5&&Galaxy", "6&&S23", "7&&Ultra"], "object": ["12&&Galaxy", "13&&Fold", "14&&năm", "15&&ngoái"], "aspect": ["1&&độ", "2&&phân", "3&&giải"], "predicate": ["8&&thấp", "9&&hơn"], "label": "COM-"}
+
+hiệu năng của Galaxy S22 Ultra thấp hơn so với màn hình Ultra .	hiệu năng của Galaxy S22 Ultra thấp hơn so với màn hình Ultra .
+{"subject": ["4&&Galaxy", "5&&S22", "6&&Ultra"], "object": ["11&&màn", "12&&hình", "13&&Ultra"], "aspect": ["1&&hiệu", "2&&năng"], "predicate": ["7&&thấp", "8&&hơn"], "label": "COM-"}
+
+Tuy nhiên , Samsung thua thiệt Galaxy một chút .	Tuy nhiên , Samsung thua thiệt Galaxy một chút .
+{"subject": ["4&&Samsung"], "object": ["7&&Galaxy"], "aspect": [], "predicate": ["5&&thua", "6&&thiệt"], "label": "COM-"}
+
+Tuy nhiên , Galaxy M51 có phần yếu thế hơn Samsung một chút .	Tuy nhiên , Galaxy M51 có phần yếu thế hơn Samsung một chút .
+{"subject": ["4&&Galaxy", "5&&M51"], "object": ["11&&Samsung"], "aspect": [], "predicate": ["6&&có", "7&&phần", "8&&yếu", "9&&thế", "10&&hơn"], "label": "COM-"}
+
+Tuy nhiên , nó thua thiệt khá nhiều người tiền nhiệm một chút .	Tuy nhiên , nó thua thiệt khá nhiều người tiền nhiệm một chút .
+{"subject": ["4&&nó"], "object": ["9&&người", "10&&tiền", "11&&nhiệm"], "aspect": [], "predicate": ["5&&thua", "6&&thiệt", "7&&khá", "8&&nhiều"], "label": "COM-"}
+
+Tuy nhiên , OPPO nhỏ hơn một chút 11 Pro Max một chút .	Tuy nhiên , OPPO nhỏ hơn một chút 11 Pro Max một chút .
+{"subject": ["4&&OPPO"], "object": ["9&&11", "10&&Pro", "11&&Max"], "aspect": [], "predicate": ["5&&nhỏ", "6&&hơn", "7&&một", "8&&chút"], "label": "COM-"}
+
+Tuy nhiên , Galaxy S23 Ultra thấp hơn Galaxy A73 5G một chút .	Tuy nhiên , Galaxy S23 Ultra thấp hơn Galaxy A73 5G một chút .
+{"subject": ["4&&Galaxy", "5&&S23", "6&&Ultra"], "object": ["9&&Galaxy", "10&&A73", "11&&5G"], "aspect": [], "predicate": ["7&&thấp", "8&&hơn"], "label": "COM-"}
+
+Trước khi nói về khả năng chơi game , mình thấy dung lượng pin camera Galaxy S23 Ultra này chỉ ở mức 60Hz . Ban đầu cảm thấy thấp hơn Xiaomi 13 Pro .	Trước khi nói về khả năng chơi game , mình thấy dung lượng pin camera Galaxy S23 Ultra này chỉ ở mức 60Hz . Ban đầu cảm thấy thấp hơn Xiaomi 13 Pro .
+{"subject": ["15&&camera", "16&&Galaxy", "17&&S23", "18&&Ultra"], "object": ["31&&Xiaomi", "32&&13", "33&&Pro"], "aspect": ["12&&dung", "13&&lượng", "14&&pin"], "predicate": ["29&&thấp", "30&&hơn"], "label": "COM-"}
+
+Trước khi nói về khả năng chơi game , mình thấy độ mượt khi chơi game iPhone 13 pro này chỉ ở mức 60Hz . Ban đầu cảm thấy không thể so sánh với Galaxy Note20 Ultra .	Trước khi nói về khả năng chơi game , mình thấy độ mượt khi chơi game iPhone 13 pro này chỉ ở mức 60Hz . Ban đầu cảm thấy không thể so sánh với Galaxy Note20 Ultra .
+{"subject": ["17&&iPhone", "18&&13", "19&&pro"], "object": ["35&&Galaxy", "36&&Note20", "37&&Ultra"], "aspect": ["12&&độ", "13&&mượt", "14&&khi", "15&&chơi", "16&&game"], "predicate": ["30&&không", "31&&thể", "32&&so", "33&&sánh", "34&&với"], "label": "COM-"}
+
+Trước khi nói về khả năng chơi game , mình thấy tốc độ khung hình Huawei P30 Pro này chỉ ở mức 60Hz . Ban đầu cảm thấy thấp hơn đối thủ Apple .	Trước khi nói về khả năng chơi game , mình thấy tốc độ khung hình Huawei P30 Pro này chỉ ở mức 60Hz . Ban đầu cảm thấy thấp hơn đối thủ Apple .
+{"subject": ["16&&Huawei", "17&&P30", "18&&Pro"], "object": ["31&&đối", "32&&thủ", "33&&Apple"], "aspect": ["12&&tốc", "13&&độ", "14&&khung", "15&&hình"], "predicate": ["29&&thấp", "30&&hơn"], "label": "COM-"}
+
+Trước khi nói về khả năng chơi game , mình thấy giờ on-screen S20 Ultra này chỉ ở mức 60Hz . Ban đầu cảm thấy thua thiệt Galaxy A11 .	Trước khi nói về khả năng chơi game , mình thấy giờ on-screen S20 Ultra này chỉ ở mức 60Hz . Ban đầu cảm thấy thua thiệt Galaxy A11 .
+{"subject": ["14&&S20", "15&&Ultra"], "object": ["28&&Galaxy", "29&&A11"], "aspect": ["12&&giờ", "13&&on-screen"], "predicate": ["26&&thua", "27&&thiệt"], "label": "COM-"}
+
+Trước khi nói về khả năng chơi game , mình thấy màn hình Galaxy S22 Ultra này chỉ ở mức 60Hz . Ban đầu cảm thấy kém hơn dự đoán .	Trước khi nói về khả năng chơi game , mình thấy màn hình Galaxy S22 Ultra này chỉ ở mức 60Hz . Ban đầu cảm thấy kém hơn dự đoán .
+{"subject": ["14&&Galaxy", "15&&S22", "16&&Ultra"], "object": ["29&&dự", "30&&đoán"], "aspect": ["12&&màn", "13&&hình"], "predicate": ["27&&kém", "28&&hơn"], "label": "COM-"}
+
+Bởi vậy để nói một cục sạc 65W hay Samsung Galaxy S21 Ultra thì tất nhiên nó sẽ nhanh chóng khả năng hiển thị thấp hơn đấy .	Bởi vậy để nói một cục sạc 65W hay Samsung Galaxy S21 Ultra thì tất nhiên nó sẽ nhanh chóng khả năng hiển thị thấp hơn đấy .
+{"subject": ["17&&nó"], "object": ["10&&Samsung", "11&&Galaxy", "12&&S21", "13&&Ultra"], "aspect": ["21&&khả", "22&&năng", "23&&hiển", "24&&thị"], "predicate": ["25&&thấp", "26&&hơn"], "label": "COM-"}
+
+Bởi vậy để nói một cục sạc 65W hay Snapdragon 8 Gen 2 tiêu chuẩn thì tất nhiên nó sẽ nhanh chóng cảm biến 16MP kém hơn đấy .	Bởi vậy để nói một cục sạc 65W hay Snapdragon 8 Gen 2 tiêu chuẩn thì tất nhiên nó sẽ nhanh chóng cảm biến 16MP kém hơn đấy .
+{"subject": ["19&&nó"], "object": ["10&&Snapdragon", "11&&8", "12&&Gen", "13&&2", "14&&tiêu", "15&&chuẩn"], "aspect": ["23&&cảm", "24&&biến", "25&&16MP"], "predicate": ["26&&kém", "27&&hơn"], "label": "COM-"}
+
+Bởi vậy để nói một cục sạc 65W hay đối thủ Apple thì tất nhiên Samsung sẽ nhanh chóng màn hình nhỏ hơn một chút đấy .	Bởi vậy để nói một cục sạc 65W hay đối thủ Apple thì tất nhiên Samsung sẽ nhanh chóng màn hình nhỏ hơn một chút đấy .
+{"subject": ["16&&Samsung"], "object": ["10&&đối", "11&&thủ", "12&&Apple"], "aspect": ["20&&màn", "21&&hình"], "predicate": ["22&&nhỏ", "23&&hơn", "24&&một", "25&&chút"], "label": "COM-"}
+
+Bởi vậy để nói một cục sạc 65W hay iPhone 11 thì tất nhiên Samsung S23 Ultra sẽ nhanh chóng khả năng hiển thị thấp hơn đấy .	Bởi vậy để nói một cục sạc 65W hay iPhone 11 thì tất nhiên Samsung S23 Ultra sẽ nhanh chóng khả năng hiển thị thấp hơn đấy .
+{"subject": ["15&&Samsung", "16&&S23", "17&&Ultra"], "object": ["10&&iPhone", "11&&11"], "aspect": ["21&&khả", "22&&năng", "23&&hiển", "24&&thị"], "predicate": ["25&&thấp", "26&&hơn"], "label": "COM-"}
+
+Bởi vậy để nói một cục sạc 65W hay P30 Pro thì tất nhiên Galaxy S22 Ultra sẽ nhanh chóng tách biệt chủ thể không thể làm tốt việc tách biệt chủ thể như đấy .	Bởi vậy để nói một cục sạc 65W hay P30 Pro thì tất nhiên Galaxy S22 Ultra sẽ nhanh chóng tách biệt chủ thể không thể làm tốt việc tách biệt chủ thể như đấy .
+{"subject": ["15&&Galaxy", "16&&S22", "17&&Ultra"], "object": ["10&&P30", "11&&Pro"], "aspect": ["21&&tách", "22&&biệt", "23&&chủ", "24&&thể"], "predicate": ["25&&không", "26&&thể", "27&&làm", "28&&tốt", "29&&việc", "30&&tách", "31&&biệt", "32&&chủ", "33&&thể", "34&&như"], "label": "COM-"}
+
+Galaxy M31 Prime có màn hình – nghe có vẻ khiêm tốn hơn A31 .	Galaxy M31 Prime có màn hình – nghe có vẻ khiêm tốn hơn A31 .
+{"subject": ["1&&Galaxy", "2&&M31", "3&&Prime"], "object": ["14&&A31"], "aspect": ["5&&màn", "6&&hình"], "predicate": ["11&&khiêm", "12&&tốn", "13&&hơn"], "label": "COM-"}
+
+Chúng có điểm số đa nhân – nghe có vẻ không bằng các đối thủ khác trong tầm giá .	Chúng có điểm số đa nhân – nghe có vẻ không bằng các đối thủ khác trong tầm giá .
+{"subject": ["1&&Chúng"], "object": ["13&&các", "14&&đối", "15&&thủ", "16&&khác", "17&&trong", "18&&tầm", "19&&giá"], "aspect": ["3&&điểm", "4&&số", "5&&đa", "6&&nhân"], "predicate": ["11&&không", "12&&bằng"], "label": "COM-"}
+
+mẫu điện thoại flagship có SoC – nghe có vẻ kém hơn công nghệ LTPS cũ hơn .	mẫu điện thoại flagship có SoC – nghe có vẻ kém hơn công nghệ LTPS cũ hơn .
+{"subject": ["1&&mẫu", "2&&điện", "3&&thoại", "4&&flagship"], "object": ["13&&công", "14&&nghệ", "15&&LTPS", "16&&cũ", "17&&hơn"], "aspect": ["6&&SoC"], "predicate": ["11&&kém", "12&&hơn"], "label": "COM-"}
+
+Điện thoại này có hiệu năng – nghe có vẻ kém hơn Samsung A31 .	Điện thoại này có hiệu năng – nghe có vẻ kém hơn Samsung A31 .
+{"subject": ["1&&Điện", "2&&thoại", "3&&này"], "object": ["13&&Samsung", "14&&A31"], "aspect": ["5&&hiệu", "6&&năng"], "predicate": ["11&&kém", "12&&hơn"], "label": "COM-"}
+
+Samsung A51 có mặt trước – nghe có vẻ trông hơi “ giá rẻ ” đối thủ .	Samsung A51 có mặt trước – nghe có vẻ trông hơi “ giá rẻ ” đối thủ .
+{"subject": ["1&&Samsung", "2&&A51"], "object": ["16&&đối", "17&&thủ"], "aspect": ["4&&mặt", "5&&trước"], "predicate": ["10&&trông", "11&&hơi", "12&&“", "13&&giá", "14&&rẻ", "15&&”"], "label": "COM-"}
+
+Với cấu hình như vậy , X90 tuy thua kém nhưng cũng vô cùng mạnh mẽ .	Với cấu hình như vậy , X90 tuy thua kém nhưng cũng vô cùng mạnh mẽ .
+{"subject": ["7&&X90"], "object": [], "aspect": [], "predicate": ["9&&thua", "10&&kém"], "label": "COM-"}
+
+Với cấu hình như vậy , Galaxy S23 Ultra tuy kém hơn nhưng cũng vô cùng mạnh mẽ .	Với cấu hình như vậy , Galaxy S23 Ultra tuy kém hơn nhưng cũng vô cùng mạnh mẽ .
+{"subject": ["7&&Galaxy", "8&&S23", "9&&Ultra"], "object": [], "aspect": [], "predicate": ["11&&kém", "12&&hơn"], "label": "COM-"}
+
+Với cấu hình như vậy , Samsung Galaxy A03s tuy yếu đuối hơn nhưng cũng vô cùng mạnh mẽ .	Với cấu hình như vậy , Samsung Galaxy A03s tuy yếu đuối hơn nhưng cũng vô cùng mạnh mẽ .
+{"subject": ["7&&Samsung", "8&&Galaxy", "9&&A03s"], "object": [], "aspect": [], "predicate": ["11&&yếu", "12&&đuối", "13&&hơn"], "label": "COM-"}
+
+Với cấu hình như vậy , Galaxy S20 Ultra tuy độ phân giải thấp hơn nhưng cũng vô cùng mạnh mẽ .	Với cấu hình như vậy , Galaxy S20 Ultra tuy độ phân giải thấp hơn nhưng cũng vô cùng mạnh mẽ .
+{"subject": ["7&&Galaxy", "8&&S20", "9&&Ultra"], "object": [], "aspect": [], "predicate": ["11&&độ", "12&&phân", "13&&giải", "14&&thấp", "15&&hơn"], "label": "COM-"}
+
+Với cấu hình như vậy , Find N2 Flip tuy không bằng nhưng cũng vô cùng mạnh mẽ .	Với cấu hình như vậy , Find N2 Flip tuy không bằng nhưng cũng vô cùng mạnh mẽ .
+{"subject": ["7&&Find", "8&&N2", "9&&Flip"], "object": [], "aspect": [], "predicate": ["11&&không", "12&&bằng"], "label": "COM-"}
+
+Mặc dù camera trên Di động Xiaomi kém hơn các màn hình có tốc độ làm mới 90 Hz hay 120 Hz của Realme hoặc Xiaomi trong các điều kiện ánh sáng yếu , nhưng sự khác biệt không quá ấn tượn .	Mặc dù camera trên Di động Xiaomi kém hơn các màn hình có tốc độ làm mới 90 Hz hay 120 Hz của Realme hoặc Xiaomi trong các điều kiện ánh sáng yếu , nhưng sự khác biệt không quá ấn tượn .
+{"subject": ["5&&Di", "6&&động", "7&&Xiaomi"], "object": ["10&&các", "11&&màn", "12&&hình", "13&&có", "14&&tốc", "15&&độ", "16&&làm", "17&&mới", "18&&90", "19&&Hz", "20&&hay", "21&&120", "22&&Hz", "23&&của", "24&&Realme", "25&&hoặc", "26&&Xiaomi"], "aspect": ["3&&camera"], "predicate": ["8&&kém", "9&&hơn"], "label": "COM-"}
+
+Mặc dù viên pin trên hình ảnh không quá lớn để so sánh với 2 mẫu máy còn lại trong các điều kiện ánh sáng yếu , nhưng sự khác biệt không quá ấn tượn .	Mặc dù viên pin trên hình ảnh không quá lớn để so sánh với 2 mẫu máy còn lại trong các điều kiện ánh sáng yếu , nhưng sự khác biệt không quá ấn tượn .
+{"subject": ["6&&hình", "7&&ảnh"], "object": ["15&&2", "16&&mẫu", "17&&máy", "18&&còn", "19&&lại"], "aspect": ["3&&viên", "4&&pin"], "predicate": ["8&&không", "9&&quá", "10&&lớn", "11&&để", "12&&so", "13&&sánh", "14&&với"], "label": "COM-"}
+
+Mặc dù cường lực và phụ kiện trên Âm thanh do Redmi Note 11 Pro + khó dán cường lực và phụ kiện hơn khả năng chụp đêm trên Galaxy Z Fold 3 trong các điều kiện ánh sáng yếu , nhưng sự khác biệt không quá ấn tượn .	Mặc dù cường lực và phụ kiện trên Âm thanh do Redmi Note 11 Pro + khó dán cường lực và phụ kiện hơn khả năng chụp đêm trên Galaxy Z Fold 3 trong các điều kiện ánh sáng yếu , nhưng sự khác biệt không quá ấn tượn .
+{"subject": ["9&&Âm", "10&&thanh", "11&&do", "12&&Redmi", "13&&Note", "14&&11", "15&&Pro", "16&&+"], "object": ["25&&khả", "26&&năng", "27&&chụp", "28&&đêm", "29&&trên", "30&&Galaxy", "31&&Z", "32&&Fold", "33&&3"], "aspect": ["3&&cường", "4&&lực", "5&&và", "6&&phụ", "7&&kiện"], "predicate": ["17&&khó", "18&&dán", "19&&cường", "20&&lực", "21&&và", "22&&phụ", "23&&kiện", "24&&hơn"], "label": "COM-"}
+
+Mặc dù dung lượng pin trên Các bức ảnh chụp với S20 thấp hơn S23 Ultra trong các điều kiện ánh sáng yếu , nhưng sự khác biệt không quá ấn tượn .	Mặc dù dung lượng pin trên Các bức ảnh chụp với S20 thấp hơn S23 Ultra trong các điều kiện ánh sáng yếu , nhưng sự khác biệt không quá ấn tượn .
+{"subject": ["7&&Các", "8&&bức", "9&&ảnh", "10&&chụp", "11&&với", "12&&S20"], "object": ["15&&S23", "16&&Ultra"], "aspect": ["3&&dung", "4&&lượng", "5&&pin"], "predicate": ["13&&thấp", "14&&hơn"], "label": "COM-"}
+
+Mặc dù Điểm số Geekbench 5 trên Galaxy S23 Ultra thấp hơn P30 Pro trong các điều kiện ánh sáng yếu , nhưng sự khác biệt không quá ấn tượn .	Mặc dù Điểm số Geekbench 5 trên Galaxy S23 Ultra thấp hơn P30 Pro trong các điều kiện ánh sáng yếu , nhưng sự khác biệt không quá ấn tượn .
+{"subject": ["8&&Galaxy", "9&&S23", "10&&Ultra"], "object": ["13&&P30", "14&&Pro"], "aspect": ["3&&Điểm", "4&&số", "5&&Geekbench", "6&&5"], "predicate": ["11&&thấp", "12&&hơn"], "label": "COM-"}
+
+viên pin trên Redmi Note 11 chỉ đạt được 58.7% , không quá lớn để so sánh với con số 77.8% của Xiaomi Mi 11 Ultra .	viên pin trên Redmi Note 11 chỉ đạt được 58.7% , không quá lớn để so sánh với con số 77.8% của Xiaomi Mi 11 Ultra .
+{"subject": ["4&&Redmi", "5&&Note", "6&&11"], "object": ["23&&Xiaomi", "24&&Mi", "25&&11", "26&&Ultra"], "aspect": ["1&&viên", "2&&pin"], "predicate": ["12&&không", "13&&quá", "14&&lớn", "15&&để", "16&&so", "17&&sánh", "18&&với"], "label": "COM-"}
+
+giá trên hiệu năng của máy chỉ đạt được 58.7% , cao rất nhiều con số 77.8% của Galaxy Z Fold 4 .	giá trên hiệu năng của máy chỉ đạt được 58.7% , cao rất nhiều con số 77.8% của Galaxy Z Fold 4 .
+{"subject": ["3&&hiệu", "4&&năng", "5&&của", "6&&máy"], "object": ["19&&Galaxy", "20&&Z", "21&&Fold", "22&&4"], "aspect": ["1&&giá"], "predicate": ["12&&cao", "13&&rất", "14&&nhiều"], "label": "COM-"}
+
+điểm AnTuTu trên Samsung Galaxy S21 Ultra chỉ đạt được 58.7% , kém iPhone 11 Pro một tẹo con số 77.8% của thế hệ trước .	điểm AnTuTu trên Samsung Galaxy S21 Ultra chỉ đạt được 58.7% , kém iPhone 11 Pro một tẹo con số 77.8% của thế hệ trước .
+{"subject": ["4&&Samsung", "5&&Galaxy", "6&&S21", "7&&Ultra"], "object": ["23&&thế", "24&&hệ", "25&&trước"], "aspect": ["1&&điểm", "2&&AnTuTu"], "predicate": ["13&&kém", "14&&iPhone", "15&&11", "16&&Pro", "17&&một", "18&&tẹo"], "label": "COM-"}
+
+dải động của cảm biến trên những sản phẩm cùng phân khúc giá chỉ đạt được 58.7% , không tốt bằng con số 77.8% của Xiaomi Mi 11 Ultra .	dải động của cảm biến trên những sản phẩm cùng phân khúc giá chỉ đạt được 58.7% , không tốt bằng con số 77.8% của Xiaomi Mi 11 Ultra .
+{"subject": ["7&&những", "8&&sản", "9&&phẩm", "10&&cùng", "11&&phân", "12&&khúc", "13&&giá"], "object": ["26&&Xiaomi", "27&&Mi", "28&&11", "29&&Ultra"], "aspect": ["1&&dải", "2&&động", "3&&của", "4&&cảm", "5&&biến"], "predicate": ["19&&không", "20&&tốt", "21&&bằng"], "label": "COM-"}
+
+mức độ hoàn thiện trên Galaxy S22 Ultra 5G chỉ đạt được 58.7% , khó có chiếc điện thoại nào có thể đọ được con số 77.8% của camera của OPPO A74 .	mức độ hoàn thiện trên Galaxy S22 Ultra 5G chỉ đạt được 58.7% , khó có chiếc điện thoại nào có thể đọ được con số 77.8% của camera của OPPO A74 .
+{"subject": ["6&&Galaxy", "7&&S22", "8&&Ultra", "9&&5G"], "object": ["29&&camera", "30&&của", "31&&OPPO", "32&&A74"], "aspect": ["1&&mức", "2&&độ", "3&&hoàn", "4&&thiện"], "predicate": ["15&&khó", "16&&có", "17&&chiếc", "18&&điện", "19&&thoại", "20&&nào", "21&&có", "22&&thể", "23&&đọ", "24&&được"], "label": "COM-"}
+
+Đáng tiếc là độ phân giải của Galaxy Note 9 cũng có phần thấp hơn khi chỉ có dung lượng 4300 mAh .	Đáng tiếc là độ phân giải của Galaxy Note 9 cũng có phần thấp hơn khi chỉ có dung lượng 4300 mAh .
+{"subject": ["8&&Galaxy", "9&&Note", "10&&9"], "object": [], "aspect": ["4&&độ", "5&&phân", "6&&giải"], "predicate": ["14&&thấp", "15&&hơn"], "label": "COM-"}
+
+Đáng tiếc là hiệu năng của thiết bị tới từ Apple cũng có phần kém hơn khi chỉ có dung lượng 4300 mAh .	Đáng tiếc là hiệu năng của thiết bị tới từ Apple cũng có phần kém hơn khi chỉ có dung lượng 4300 mAh .
+{"subject": ["7&&thiết", "8&&bị", "9&&tới", "10&&từ", "11&&Apple"], "object": [], "aspect": ["4&&hiệu", "5&&năng"], "predicate": ["15&&kém", "16&&hơn"], "label": "COM-"}
+
+Đáng tiếc là thẩm mỹ của Samsung Galaxy S21 Ultra cũng có phần khó có chiếc điện thoại nào có thể đọ được khi chỉ có dung lượng 4300 mAh .	Đáng tiếc là thẩm mỹ của Samsung Galaxy S21 Ultra cũng có phần khó có chiếc điện thoại nào có thể đọ được khi chỉ có dung lượng 4300 mAh .
+{"subject": ["7&&Samsung", "8&&Galaxy", "9&&S21", "10&&Ultra"], "object": [], "aspect": ["4&&thẩm", "5&&mỹ"], "predicate": ["14&&khó", "15&&có", "16&&chiếc", "17&&điện", "18&&thoại", "19&&nào", "20&&có", "21&&thể", "22&&đọ", "23&&được"], "label": "COM-"}
+
+Đáng tiếc là Điểm số Geekbench 5 của Pixel 7 Pro cũng có phần thấp hơn khi chỉ có dung lượng 4300 mAh .	Đáng tiếc là Điểm số Geekbench 5 của Pixel 7 Pro cũng có phần thấp hơn khi chỉ có dung lượng 4300 mAh .
+{"subject": ["9&&Pixel", "10&&7", "11&&Pro"], "object": [], "aspect": ["4&&Điểm", "5&&số", "6&&Geekbench", "7&&5"], "predicate": ["15&&thấp", "16&&hơn"], "label": "COM-"}
+
+Đáng tiếc là màn hình của S20 Ultra cũng có phần kém hơn khi chỉ có dung lượng 4300 mAh .	Đáng tiếc là màn hình của S20 Ultra cũng có phần kém hơn khi chỉ có dung lượng 4300 mAh .
+{"subject": ["7&&S20", "8&&Ultra"], "object": [], "aspect": ["4&&màn", "5&&hình"], "predicate": ["12&&kém", "13&&hơn"], "label": "COM-"}
+
+Tuy nhiên , đó chỉ là độ sáng cực đại khi dùng ngoài trời , còn trong các điều kiện thông thường , mẫu điện thoại flagship sẽ hạ xuống còn 1.500 nits , tức là không nhanh như so với các sản phẩm khác trong cùng phân khúc .	Tuy nhiên , đó chỉ là độ sáng cực đại khi dùng ngoài trời , còn trong các điều kiện thông thường , mẫu điện thoại flagship sẽ hạ xuống còn 1.500 nits , tức là không nhanh như so với các sản phẩm khác trong cùng phân khúc .
+{"subject": ["24&&mẫu", "25&&điện", "26&&thoại", "27&&flagship"], "object": ["42&&các", "43&&sản", "44&&phẩm", "45&&khác", "46&&trong", "47&&cùng", "48&&phân", "49&&khúc"], "aspect": [], "predicate": ["37&&không", "38&&nhanh", "39&&như"], "label": "COM-"}
+
+Tuy nhiên , đó chỉ là độ sáng cực đại khi dùng ngoài trời , còn trong các điều kiện thông thường , Oppo Find N2 Flip sẽ hạ xuống còn 1.500 nits , tức là thấp hơn so với đối thủ của nó .	Tuy nhiên , đó chỉ là độ sáng cực đại khi dùng ngoài trời , còn trong các điều kiện thông thường , Oppo Find N2 Flip sẽ hạ xuống còn 1.500 nits , tức là thấp hơn so với đối thủ của nó .
+{"subject": ["24&&Oppo", "25&&Find", "26&&N2", "27&&Flip"], "object": ["41&&đối", "42&&thủ", "43&&của", "44&&nó"], "aspect": [], "predicate": ["37&&thấp", "38&&hơn"], "label": "COM-"}
+
+Tuy nhiên , đó chỉ là độ sáng cực đại khi dùng ngoài trời , còn trong các điều kiện thông thường , Snapdragon 888 SoC sẽ hạ xuống còn 1.500 nits , tức là hiển thị yếu hơn so với các đại diện khác .	Tuy nhiên , đó chỉ là độ sáng cực đại khi dùng ngoài trời , còn trong các điều kiện thông thường , Snapdragon 888 SoC sẽ hạ xuống còn 1.500 nits , tức là hiển thị yếu hơn so với các đại diện khác .
+{"subject": ["24&&Snapdragon", "25&&888", "26&&SoC"], "object": ["42&&các", "43&&đại", "44&&diện", "45&&khác"], "aspect": [], "predicate": ["36&&hiển", "37&&thị", "38&&yếu", "39&&hơn"], "label": "COM-"}
+
+Tuy nhiên , đó chỉ là độ sáng cực đại khi dùng ngoài trời , còn trong các điều kiện thông thường , iPhone 12 sẽ hạ xuống còn 1.500 nits , tức là kém hơn so với thị trường smartphone hiện tại .	Tuy nhiên , đó chỉ là độ sáng cực đại khi dùng ngoài trời , còn trong các điều kiện thông thường , iPhone 12 sẽ hạ xuống còn 1.500 nits , tức là kém hơn so với thị trường smartphone hiện tại .
+{"subject": ["24&&iPhone", "25&&12"], "object": ["39&&thị", "40&&trường", "41&&smartphone", "42&&hiện", "43&&tại"], "aspect": [], "predicate": ["35&&kém", "36&&hơn"], "label": "COM-"}
+
+Tuy nhiên , đó chỉ là độ sáng cực đại khi dùng ngoài trời , còn trong các điều kiện thông thường , camera siêu rộng trên Xiaomi sẽ hạ xuống còn 1.500 nits , tức là dung lượng khá khiêm tốn so với Xiaomi Mi 11 Ultra .	Tuy nhiên , đó chỉ là độ sáng cực đại khi dùng ngoài trời , còn trong các điều kiện thông thường , camera siêu rộng trên Xiaomi sẽ hạ xuống còn 1.500 nits , tức là dung lượng khá khiêm tốn so với Xiaomi Mi 11 Ultra .
+{"subject": ["24&&camera", "25&&siêu", "26&&rộng", "27&&trên", "28&&Xiaomi"], "object": ["45&&Xiaomi", "46&&Mi", "47&&11", "48&&Ultra"], "aspect": [], "predicate": ["38&&dung", "39&&lượng", "40&&khá", "41&&khiêm", "42&&tốn"], "label": "COM-"}
+
+Samsung A23 hơi khó dán cường lực và phụ kiện hơn khi cường lực và phụ kiện , phần lớn hình ảnh bị phủ bởi 1 lớp sương trắng .	Samsung A23 hơi khó dán cường lực và phụ kiện hơn khi cường lực và phụ kiện , phần lớn hình ảnh bị phủ bởi 1 lớp sương trắng .
+{"subject": ["1&&Samsung", "2&&A23"], "object": [], "aspect": ["13&&cường", "14&&lực", "15&&và", "16&&phụ", "17&&kiện"], "predicate": ["4&&khó", "5&&dán", "6&&cường", "7&&lực", "8&&và", "9&&phụ", "10&&kiện", "11&&hơn"], "label": "COM-"}
+
+Galaxy S10 Plus hơi thua thiệt khá nhiều khi khả năng chụp ảnh zoom , phần lớn hình ảnh bị phủ bởi 1 lớp sương trắng .	Galaxy S10 Plus hơi thua thiệt khá nhiều khi khả năng chụp ảnh zoom , phần lớn hình ảnh bị phủ bởi 1 lớp sương trắng .
+{"subject": ["1&&Galaxy", "2&&S10", "3&&Plus"], "object": [], "aspect": ["10&&khả", "11&&năng", "12&&chụp", "13&&ảnh", "14&&zoom"], "predicate": ["5&&thua", "6&&thiệt", "7&&khá", "8&&nhiều"], "label": "COM-"}
+
+Snapdragon 888 SoC hơi độ phân giải thấp hơn khi macro , phần lớn hình ảnh bị phủ bởi 1 lớp sương trắng .	Snapdragon 888 SoC hơi độ phân giải thấp hơn khi macro , phần lớn hình ảnh bị phủ bởi 1 lớp sương trắng .
+{"subject": ["1&&Snapdragon", "2&&888", "3&&SoC"], "object": [], "aspect": ["11&&macro"], "predicate": ["5&&độ", "6&&phân", "7&&giải", "8&&thấp", "9&&hơn"], "label": "COM-"}
+
+Galaxy S20 Ultra hơi thấp hơn khi độ phân giải , phần lớn hình ảnh bị phủ bởi 1 lớp sương trắng .	Galaxy S20 Ultra hơi thấp hơn khi độ phân giải , phần lớn hình ảnh bị phủ bởi 1 lớp sương trắng .
+{"subject": ["1&&Galaxy", "2&&S20", "3&&Ultra"], "object": [], "aspect": ["8&&độ", "9&&phân", "10&&giải"], "predicate": ["5&&thấp", "6&&hơn"], "label": "COM-"}
+
+S-Pen đi kèm với Galaxy S22 Ultra hơi không cao như khi góc nhìn , phần lớn hình ảnh bị phủ bởi 1 lớp sương trắng .	S-Pen đi kèm với Galaxy S22 Ultra hơi không cao như khi góc nhìn , phần lớn hình ảnh bị phủ bởi 1 lớp sương trắng .
+{"subject": ["1&&S-Pen", "2&&đi", "3&&kèm", "4&&với", "5&&Galaxy", "6&&S22", "7&&Ultra"], "object": [], "aspect": ["13&&góc", "14&&nhìn"], "predicate": ["9&&không", "10&&cao", "11&&như"], "label": "COM-"}
+
+Trong khi đó , mô-đun máy ảnh lớn của Xiaomi Mi 11 Ultra khiến tiêu chuẩn “ tràn viền ” của Samsung A51 Hiếm có chiếc smartphone nào đạt được tiêu chuẩn “ tràn viền ” so với P30 Pro .	Trong khi đó , mô-đun máy ảnh lớn của Xiaomi Mi 11 Ultra khiến tiêu chuẩn “ tràn viền ” của Samsung A51 Hiếm có chiếc smartphone nào đạt được tiêu chuẩn “ tràn viền ” so với P30 Pro .
+{"subject": ["22&&Samsung", "23&&A51"], "object": ["39&&P30", "40&&Pro"], "aspect": ["15&&tiêu", "16&&chuẩn", "17&&“", "18&&tràn", "19&&viền", "20&&”"], "predicate": ["24&&Hiếm", "25&&có", "26&&chiếc", "27&&smartphone", "28&&nào", "29&&đạt", "30&&được", "31&&tiêu", "32&&chuẩn", "33&&“", "34&&tràn", "35&&viền", "36&&”"], "label": "COM-"}
+
+Trong khi đó , mô-đun máy ảnh lớn của Xiaomi Mi 11 Ultra khiến điểm số của camera góc rộng thấp hơn so với Dimensity 9000 .	Trong khi đó , mô-đun máy ảnh lớn của Xiaomi Mi 11 Ultra khiến điểm số của camera góc rộng thấp hơn so với Dimensity 9000 .
+{"subject": ["18&&camera", "19&&góc", "20&&rộng"], "object": ["25&&Dimensity", "26&&9000"], "aspect": ["15&&điểm", "16&&số"], "predicate": ["21&&thấp", "22&&hơn"], "label": "COM-"}
+
+Trong khi đó , mô-đun máy ảnh lớn của Xiaomi Mi 11 Ultra khiến điểm AnTuTu của Xiaomi Redmi 9 kém iPhone 11 Pro một tẹo so với các điện thoại khác trong phân khúc .	Trong khi đó , mô-đun máy ảnh lớn của Xiaomi Mi 11 Ultra khiến điểm AnTuTu của Xiaomi Redmi 9 kém iPhone 11 Pro một tẹo so với các điện thoại khác trong phân khúc .
+{"subject": ["18&&Xiaomi", "19&&Redmi", "20&&9"], "object": ["29&&các", "30&&điện", "31&&thoại", "32&&khác", "33&&trong", "34&&phân", "35&&khúc"], "aspect": ["15&&điểm", "16&&AnTuTu"], "predicate": ["21&&kém", "22&&iPhone", "23&&11", "24&&Pro", "25&&một", "26&&tẹo"], "label": "COM-"}
+
+Trong khi đó , mô-đun máy ảnh lớn của Xiaomi Mi 11 Ultra khiến bộ xử lý của Galaxy M51 thấp hơn một bậc so với phiên bản cũ .	Trong khi đó , mô-đun máy ảnh lớn của Xiaomi Mi 11 Ultra khiến bộ xử lý của Galaxy M51 thấp hơn một bậc so với phiên bản cũ .
+{"subject": ["19&&Galaxy", "20&&M51"], "object": ["27&&phiên", "28&&bản", "29&&cũ"], "aspect": ["15&&bộ", "16&&xử", "17&&lý"], "predicate": ["21&&thấp", "22&&hơn", "23&&một", "24&&bậc"], "label": "COM-"}
+
+Trong khi đó , mô-đun máy ảnh lớn của Xiaomi Mi 11 Ultra khiến độ phân giải của Galaxy S22 Ultra thấp hơn so với Z Fold 4 .	Trong khi đó , mô-đun máy ảnh lớn của Xiaomi Mi 11 Ultra khiến độ phân giải của Galaxy S22 Ultra thấp hơn so với Z Fold 4 .
+{"subject": ["19&&Galaxy", "20&&S22", "21&&Ultra"], "object": ["26&&Z", "27&&Fold", "28&&4"], "aspect": ["15&&độ", "16&&phân", "17&&giải"], "predicate": ["22&&thấp", "23&&hơn"], "label": "COM-"}
+
+Do đó , xét về phần cứng camera sau thì Galaxy S10 Plus yếu hơn so với iPhone 12 tiêu chuẩn .	Do đó , xét về phần cứng camera sau thì Galaxy S10 Plus yếu hơn so với iPhone 12 tiêu chuẩn .
+{"subject": ["11&&Galaxy", "12&&S10", "13&&Plus"], "object": ["18&&iPhone", "19&&12", "20&&tiêu", "21&&chuẩn"], "aspect": ["6&&phần", "7&&cứng", "8&&camera", "9&&sau"], "predicate": ["14&&yếu", "15&&hơn"], "label": "COM-"}
+
+Do đó , xét về phần cứng camera sau thì Galaxy Z Fold 4 yếu hơn so với các dòng điện thoại trước đây .	Do đó , xét về phần cứng camera sau thì Galaxy Z Fold 4 yếu hơn so với các dòng điện thoại trước đây .
+{"subject": ["11&&Galaxy", "12&&Z", "13&&Fold", "14&&4"], "object": ["19&&các", "20&&dòng", "21&&điện", "22&&thoại", "23&&trước", "24&&đây"], "aspect": ["6&&phần", "7&&cứng", "8&&camera", "9&&sau"], "predicate": ["15&&yếu", "16&&hơn"], "label": "COM-"}
+
+Do đó , xét về màn hình thì điện thoại này khiêm tốn hơn so với Xiaomi Mi 11 Ultra .	Do đó , xét về màn hình thì điện thoại này khiêm tốn hơn so với Xiaomi Mi 11 Ultra .
+{"subject": ["9&&điện", "10&&thoại", "11&&này"], "object": ["17&&Xiaomi", "18&&Mi", "19&&11", "20&&Ultra"], "aspect": ["6&&màn", "7&&hình"], "predicate": ["12&&khiêm", "13&&tốn", "14&&hơn"], "label": "COM-"}
+
+Do đó , xét về độ phân giải thì iPhone 13 thấp hơn so với Galaxy A52 .	Do đó , xét về độ phân giải thì iPhone 13 thấp hơn so với Galaxy A52 .
+{"subject": ["10&&iPhone", "11&&13"], "object": ["16&&Galaxy", "17&&A52"], "aspect": ["6&&độ", "7&&phân", "8&&giải"], "predicate": ["12&&thấp", "13&&hơn"], "label": "COM-"}
+
+Do đó , xét về khả năng hiển thị thì máy thấp hơn so với Galaxy S23 Plus .	Do đó , xét về khả năng hiển thị thì máy thấp hơn so với Galaxy S23 Plus .
+{"subject": ["11&&máy"], "object": ["16&&Galaxy", "17&&S23", "18&&Plus"], "aspect": ["6&&khả", "7&&năng", "8&&hiển", "9&&thị"], "predicate": ["12&&thấp", "13&&hơn"], "label": "COM-"}
+
+Đó là một S20 TFT 6.4 inch nên SoC nó kém hơn 25W , tất nhiên không thể yêu cầu một tấm nền OLED ở đây .	Đó là một S20 TFT 6.4 inch nên SoC nó kém hơn 25W , tất nhiên không thể yêu cầu một tấm nền OLED ở đây .
+{"subject": ["4&&S20"], "object": ["13&&25W"], "aspect": ["9&&SoC"], "predicate": ["11&&kém", "12&&hơn"], "label": "COM-"}
+
+Đó là một Samsung TFT 6.4 inch nên Điểm số Geekbench 5 nó thấp hơn Galaxy S10 Plus , tất nhiên không thể yêu cầu một tấm nền OLED ở đây .	Đó là một Samsung TFT 6.4 inch nên Điểm số Geekbench 5 nó thấp hơn Galaxy S10 Plus , tất nhiên không thể yêu cầu một tấm nền OLED ở đây .
+{"subject": ["4&&Samsung"], "object": ["16&&Galaxy", "17&&S10", "18&&Plus"], "aspect": ["9&&Điểm", "10&&số", "11&&Geekbench", "12&&5"], "predicate": ["14&&thấp", "15&&hơn"], "label": "COM-"}
+
+Đó là một công nghệ LTPO TFT 6.4 inch nên Điểm số Geekbench 5 nó thấp hơn 2 mẫu máy còn lại , tất nhiên không thể yêu cầu một tấm nền OLED ở đây .	Đó là một công nghệ LTPO TFT 6.4 inch nên Điểm số Geekbench 5 nó thấp hơn 2 mẫu máy còn lại , tất nhiên không thể yêu cầu một tấm nền OLED ở đây .
+{"subject": ["4&&công", "5&&nghệ", "6&&LTPO"], "object": ["18&&2", "19&&mẫu", "20&&máy", "21&&còn", "22&&lại"], "aspect": ["11&&Điểm", "12&&số", "13&&Geekbench", "14&&5"], "predicate": ["16&&thấp", "17&&hơn"], "label": "COM-"}
+
+Đó là một mẫu điện thoại tầm trung của Samsung TFT 6.4 inch nên giờ on-screen nó thua thiệt Helio P65 , tất nhiên không thể yêu cầu một tấm nền OLED ở đây .	Đó là một mẫu điện thoại tầm trung của Samsung TFT 6.4 inch nên giờ on-screen nó thua thiệt Helio P65 , tất nhiên không thể yêu cầu một tấm nền OLED ở đây .
+{"subject": ["4&&mẫu", "5&&điện", "6&&thoại", "7&&tầm", "8&&trung", "9&&của", "10&&Samsung"], "object": ["20&&Helio", "21&&P65"], "aspect": ["15&&giờ", "16&&on-screen"], "predicate": ["18&&thua", "19&&thiệt"], "label": "COM-"}
+
+Đó là một nó TFT 6.4 inch nên tính linh hoạt nó kém hơn một chút ROG Phone 2 , tất nhiên không thể yêu cầu một tấm nền OLED ở đây .	Đó là một nó TFT 6.4 inch nên tính linh hoạt nó kém hơn một chút ROG Phone 2 , tất nhiên không thể yêu cầu một tấm nền OLED ở đây .
+{"subject": ["4&&nó"], "object": ["17&&ROG", "18&&Phone", "19&&2"], "aspect": ["9&&tính", "10&&linh", "11&&hoạt"], "predicate": ["13&&kém", "14&&hơn", "15&&một", "16&&chút"], "label": "COM-"}
+
+Nhưng hình ảnh vẫn thấp hơn khi iPhone 12 Pro .	Nhưng hình ảnh vẫn thấp hơn khi iPhone 12 Pro .
+{"subject": ["2&&hình", "3&&ảnh"], "object": ["8&&iPhone", "9&&12", "10&&Pro"], "aspect": [], "predicate": ["5&&thấp", "6&&hơn"], "label": "COM-"}
+
+Nhưng iPhone SE 2022 vẫn thua thiệt khi iPhone 6 .	Nhưng iPhone SE 2022 vẫn thua thiệt khi iPhone 6 .
+{"subject": ["2&&iPhone", "3&&SE", "4&&2022"], "object": ["9&&iPhone", "10&&6"], "aspect": [], "predicate": ["6&&thua", "7&&thiệt"], "label": "COM-"}
+
+Nhưng Xiaomi Redmi 9 vẫn không thể so sánh với khi Snapdragon 8 + Gen 1 .	Nhưng Xiaomi Redmi 9 vẫn không thể so sánh với khi Snapdragon 8 + Gen 1 .
+{"subject": ["2&&Xiaomi", "3&&Redmi", "4&&9"], "object": ["12&&Snapdragon", "13&&8", "14&&+", "15&&Gen", "16&&1"], "aspect": [], "predicate": ["6&&không", "7&&thể", "8&&so", "9&&sánh", "10&&với"], "label": "COM-"}
+
+Nhưng máy vẫn trông hơi “ giá rẻ ” khi đối thủ .	Nhưng máy vẫn trông hơi “ giá rẻ ” khi đối thủ .
+{"subject": ["2&&máy"], "object": ["11&&đối", "12&&thủ"], "aspect": [], "predicate": ["4&&trông", "5&&hơi", "6&&“", "7&&giá", "8&&rẻ", "9&&”"], "label": "COM-"}
+
+Nhưng Galaxy A23 vẫn quá thấp so với khi Samsung A31 .	Nhưng Galaxy A23 vẫn quá thấp so với khi Samsung A31 .
+{"subject": ["2&&Galaxy", "3&&A23"], "object": ["10&&Samsung", "11&&A31"], "aspect": [], "predicate": ["5&&quá", "6&&thấp", "7&&so", "8&&với"], "label": "COM-"}
+
+Và Galaxy S21 Ultra không thiếu chi tiết điện thoại tầm trung hay cao cấp .	Và Galaxy S21 Ultra không thiếu chi tiết điện thoại tầm trung hay cao cấp .
+{"subject": ["2&&Galaxy", "3&&S21", "4&&Ultra"], "object": [], "aspect": [], "predicate": ["6&&thiếu", "7&&chi", "8&&tiết"], "label": "COM-"}
+
+Và iPhone 13 Pro Max không không thể bằng được điện thoại tầm trung hay cao cấp .	Và iPhone 13 Pro Max không không thể bằng được điện thoại tầm trung hay cao cấp .
+{"subject": ["2&&iPhone", "3&&13", "4&&Pro", "5&&Max"], "object": [], "aspect": [], "predicate": ["7&&không", "8&&thể", "9&&bằng", "10&&được"], "label": "COM-"}
+
+Và Galaxy A53 5G không tương đối thấp , ít nhất là khi so sánh với điện thoại tầm trung hay cao cấp .	Và Galaxy A53 5G không tương đối thấp , ít nhất là khi so sánh với điện thoại tầm trung hay cao cấp .
+{"subject": ["2&&Galaxy", "3&&A53", "4&&5G"], "object": [], "aspect": [], "predicate": ["6&&tương", "7&&đối", "8&&thấp", "9&&,", "10&&ít", "11&&nhất", "12&&là", "13&&khi", "14&&so", "15&&sánh", "16&&với"], "label": "COM-"}
+
+Và máy không thấp hơn điện thoại tầm trung hay cao cấp .	Và máy không thấp hơn điện thoại tầm trung hay cao cấp .
+{"subject": ["2&&máy"], "object": [], "aspect": [], "predicate": ["4&&thấp", "5&&hơn"], "label": "COM-"}
+
+Và Đây không thấp hơn điện thoại tầm trung hay cao cấp .	Và Đây không thấp hơn điện thoại tầm trung hay cao cấp .
+{"subject": ["2&&Đây"], "object": [], "aspect": [], "predicate": ["4&&thấp", "5&&hơn"], "label": "COM-"}
+
+nó trang bị tốc độ làm mới Li-Po 4.000 mAh . Nó thấp hơn 5.000 mAh của 2 đối thủ còn lại .	nó trang bị tốc độ làm mới Li-Po 4.000 mAh . Nó thấp hơn 5.000 mAh của 2 đối thủ còn lại .
+{"subject": ["1&&nó"], "object": ["18&&2", "19&&đối", "20&&thủ", "21&&còn", "22&&lại"], "aspect": ["4&&tốc", "5&&độ", "6&&làm", "7&&mới"], "predicate": ["13&&thấp", "14&&hơn"], "label": "COM-"}
+
+iPhone 12 Pro trang bị dung lượng pin Li-Po 4.000 mAh . Nó kém hơn 5.000 mAh của những điện thoại cao cấp hơn .	iPhone 12 Pro trang bị dung lượng pin Li-Po 4.000 mAh . Nó kém hơn 5.000 mAh của những điện thoại cao cấp hơn .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro"], "object": ["19&&những", "20&&điện", "21&&thoại", "22&&cao", "23&&cấp", "24&&hơn"], "aspect": ["6&&dung", "7&&lượng", "8&&pin"], "predicate": ["14&&kém", "15&&hơn"], "label": "COM-"}
+
+Galaxy Note 20 Ultra trang bị hiển thị Li-Po 4.000 mAh . Nó yếu hơn 5.000 mAh của iPhone 13 .	Galaxy Note 20 Ultra trang bị hiển thị Li-Po 4.000 mAh . Nó yếu hơn 5.000 mAh của iPhone 13 .
+{"subject": ["1&&Galaxy", "2&&Note", "3&&20", "4&&Ultra"], "object": ["19&&iPhone", "20&&13"], "aspect": ["7&&hiển", "8&&thị"], "predicate": ["14&&yếu", "15&&hơn"], "label": "COM-"}
+
+Pixel 7 Pro trang bị độ phân giải Li-Po 4.000 mAh . Nó thấp hơn 5.000 mAh của iPhone 13 Pro Max .	Pixel 7 Pro trang bị độ phân giải Li-Po 4.000 mAh . Nó thấp hơn 5.000 mAh của iPhone 13 Pro Max .
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": ["19&&iPhone", "20&&13", "21&&Pro", "22&&Max"], "aspect": ["6&&độ", "7&&phân", "8&&giải"], "predicate": ["14&&thấp", "15&&hơn"], "label": "COM-"}
+
+C11 trang bị dải động của cảm biến Li-Po 4.000 mAh . Nó không tốt bằng 5.000 mAh của các đời trước .	C11 trang bị dải động của cảm biến Li-Po 4.000 mAh . Nó không tốt bằng 5.000 mAh của các đời trước .
+{"subject": ["1&&C11"], "object": ["20&&các", "21&&đời", "22&&trước"], "aspect": ["4&&dải", "5&&động", "6&&của", "7&&cảm", "8&&biến"], "predicate": ["14&&không", "15&&tốt", "16&&bằng"], "label": "COM-"}
+
+biến thể Ultra kém hơn với camera 6.7 inches , sử dụng tấm nền Dynamic AMOLED 2X .	biến thể Ultra kém hơn với camera 6.7 inches , sử dụng tấm nền Dynamic AMOLED 2X .
+{"subject": ["1&&biến", "2&&thể", "3&&Ultra"], "object": [], "aspect": ["7&&camera"], "predicate": ["4&&kém", "5&&hơn"], "label": "COM-"}
+
+Galaxy S10 Plus thấp hơn với dung lượng pin 6.7 inches , sử dụng tấm nền Dynamic AMOLED 2X .	Galaxy S10 Plus thấp hơn với dung lượng pin 6.7 inches , sử dụng tấm nền Dynamic AMOLED 2X .
+{"subject": ["1&&Galaxy", "2&&S10", "3&&Plus"], "object": [], "aspect": ["7&&dung", "8&&lượng", "9&&pin"], "predicate": ["4&&thấp", "5&&hơn"], "label": "COM-"}
+
+Galaxy Note 20 Ultra có phần yếu thế hơn với khả năng chụp ảnh 6.7 inches , sử dụng tấm nền Dynamic AMOLED 2X .	Galaxy Note 20 Ultra có phần yếu thế hơn với khả năng chụp ảnh 6.7 inches , sử dụng tấm nền Dynamic AMOLED 2X .
+{"subject": ["1&&Galaxy", "2&&Note", "3&&20", "4&&Ultra"], "object": [], "aspect": ["11&&khả", "12&&năng", "13&&chụp", "14&&ảnh"], "predicate": ["5&&có", "6&&phần", "7&&yếu", "8&&thế", "9&&hơn"], "label": "COM-"}
+
+Motorola One Fusion + không tốt bằng với dải động của cảm biến 6.7 inches , sử dụng tấm nền Dynamic AMOLED 2X .	Motorola One Fusion + không tốt bằng với dải động của cảm biến 6.7 inches , sử dụng tấm nền Dynamic AMOLED 2X .
+{"subject": ["1&&Motorola", "2&&One", "3&&Fusion", "4&&+"], "object": [], "aspect": ["9&&dải", "10&&động", "11&&của", "12&&cảm", "13&&biến"], "predicate": ["5&&không", "6&&tốt", "7&&bằng"], "label": "COM-"}
+
+camera sau kém hơn với hiệu năng 6.7 inches , sử dụng tấm nền Dynamic AMOLED 2X .	camera sau kém hơn với hiệu năng 6.7 inches , sử dụng tấm nền Dynamic AMOLED 2X .
+{"subject": ["1&&camera", "2&&sau"], "object": [], "aspect": ["6&&hiệu", "7&&năng"], "predicate": ["3&&kém", "4&&hơn"], "label": "COM-"}
+
+Ngoài ra , Galaxy A53 G5 có hiệu năng 260 x 512 Pixels kém hơn so với iPhone 13 Pro Max là 720 x 382 Pixels .	Ngoài ra , Galaxy A53 G5 có hiệu năng 260 x 512 Pixels kém hơn so với iPhone 13 Pro Max là 720 x 382 Pixels .
+{"subject": ["4&&Galaxy", "5&&A53", "6&&G5"], "object": ["18&&iPhone", "19&&13", "20&&Pro", "21&&Max"], "aspect": ["8&&hiệu", "9&&năng"], "predicate": ["14&&kém", "15&&hơn"], "label": "COM-"}
+
+Ngoài ra , iPhone 13 Pro Max có khả năng hiển thị 260 x 512 Pixels thấp hơn so với khung nhôm của Mi 11 Ultra là 720 x 382 Pixels .	Ngoài ra , iPhone 13 Pro Max có khả năng hiển thị 260 x 512 Pixels thấp hơn so với khung nhôm của Mi 11 Ultra là 720 x 382 Pixels .
+{"subject": ["4&&iPhone", "5&&13", "6&&Pro", "7&&Max"], "object": ["21&&khung", "22&&nhôm", "23&&của", "24&&Mi", "25&&11", "26&&Ultra"], "aspect": ["9&&khả", "10&&năng", "11&&hiển", "12&&thị"], "predicate": ["17&&thấp", "18&&hơn"], "label": "COM-"}
+
+Ngoài ra , điện thoại này có mặt sau 260 x 512 Pixels kém thẩm mỹ hơn so với tất cả các đối thủ hiện nay trên thị trường là 720 x 382 Pixels .	Ngoài ra , điện thoại này có mặt sau 260 x 512 Pixels kém thẩm mỹ hơn so với tất cả các đối thủ hiện nay trên thị trường là 720 x 382 Pixels .
+{"subject": ["4&&điện", "5&&thoại", "6&&này"], "object": ["20&&tất", "21&&cả", "22&&các", "23&&đối", "24&&thủ", "25&&hiện", "26&&nay", "27&&trên", "28&&thị", "29&&trường"], "aspect": ["8&&mặt", "9&&sau"], "predicate": ["14&&kém", "15&&thẩm", "16&&mỹ", "17&&hơn"], "label": "COM-"}
+
+Ngoài ra , nó có dải động của cảm biến 260 x 512 Pixels không tốt bằng so với điện thoại màn hình gập Galaxy Z Fold 4 là 720 x 382 Pixels .	Ngoài ra , nó có dải động của cảm biến 260 x 512 Pixels không tốt bằng so với điện thoại màn hình gập Galaxy Z Fold 4 là 720 x 382 Pixels .
+{"subject": ["4&&nó"], "object": ["20&&điện", "21&&thoại", "22&&màn", "23&&hình", "24&&gập", "25&&Galaxy", "26&&Z", "27&&Fold", "28&&4"], "aspect": ["6&&dải", "7&&động", "8&&của", "9&&cảm", "10&&biến"], "predicate": ["15&&không", "16&&tốt", "17&&bằng"], "label": "COM-"}
+
+Ngoài ra , nó có cường lực và phụ kiện 260 x 512 Pixels khó dán cường lực và phụ kiện hơn so với Z Fold 3 là 720 x 382 Pixels .	Ngoài ra , nó có cường lực và phụ kiện 260 x 512 Pixels khó dán cường lực và phụ kiện hơn so với Z Fold 3 là 720 x 382 Pixels .
+{"subject": ["4&&nó"], "object": ["25&&Z", "26&&Fold", "27&&3"], "aspect": ["6&&cường", "7&&lực", "8&&và", "9&&phụ", "10&&kiện"], "predicate": ["15&&khó", "16&&dán", "17&&cường", "18&&lực", "19&&và", "20&&phụ", "21&&kiện", "22&&hơn"], "label": "COM-"}
+
+Trong khi đó , kể cả khi đã tắt Game Optimizing Service , chất lượng cho ra trên Vivo Y21 chỉ là 56,4 , không thể sánh bằng so với OPPO A57 .	Trong khi đó , kể cả khi đã tắt Game Optimizing Service , chất lượng cho ra trên Vivo Y21 chỉ là 56,4 , không thể sánh bằng so với OPPO A57 .
+{"subject": ["19&&Vivo", "20&&Y21"], "object": ["31&&OPPO", "32&&A57"], "aspect": ["14&&chất", "15&&lượng"], "predicate": ["25&&không", "26&&thể", "27&&sánh", "28&&bằng"], "label": "COM-"}
+
+Trong khi đó , kể cả khi đã tắt Game Optimizing Service , không gian lưu trữ cho ra trên vi xử lý này trên iPhone SE 2022 chỉ là 56,4 , chiếm nhiều không gian lưu trữ hơn so với màn hình Ultra .	Trong khi đó , kể cả khi đã tắt Game Optimizing Service , không gian lưu trữ cho ra trên vi xử lý này trên iPhone SE 2022 chỉ là 56,4 , chiếm nhiều không gian lưu trữ hơn so với màn hình Ultra .
+{"subject": ["21&&vi", "22&&xử", "23&&lý", "24&&này", "25&&trên", "26&&iPhone", "27&&SE", "28&&2022"], "object": ["42&&màn", "43&&hình", "44&&Ultra"], "aspect": ["14&&không", "15&&gian", "16&&lưu", "17&&trữ"], "predicate": ["33&&chiếm", "34&&nhiều", "35&&không", "36&&gian", "37&&lưu", "38&&trữ", "39&&hơn"], "label": "COM-"}
+
+Trong khi đó , kể cả khi đã tắt Game Optimizing Service , Con số này cho ra trên iPhone 12 chỉ là 56,4 , nhỏ hơn so với Galaxy .	Trong khi đó , kể cả khi đã tắt Game Optimizing Service , Con số này cho ra trên iPhone 12 chỉ là 56,4 , nhỏ hơn so với Galaxy .
+{"subject": ["20&&iPhone", "21&&12"], "object": ["30&&Galaxy"], "aspect": ["14&&Con", "15&&số", "16&&này"], "predicate": ["26&&nhỏ", "27&&hơn"], "label": "COM-"}
+
+Trong khi đó , kể cả khi đã tắt Game Optimizing Service , màn hình cho ra trên nó chỉ là 56,4 , kém hơn so với iPhone 11 Pro .	Trong khi đó , kể cả khi đã tắt Game Optimizing Service , màn hình cho ra trên nó chỉ là 56,4 , kém hơn so với iPhone 11 Pro .
+{"subject": ["19&&nó"], "object": ["28&&iPhone", "29&&11", "30&&Pro"], "aspect": ["14&&màn", "15&&hình"], "predicate": ["24&&kém", "25&&hơn"], "label": "COM-"}
+
+Trong khi đó , kể cả khi đã tắt Game Optimizing Service , khả năng chụp ảnh cho ra trên iPhone 13 chỉ là 56,4 , có phần yếu thế hơn so với các thế hệ tiền nhiệm của chúng .	Trong khi đó , kể cả khi đã tắt Game Optimizing Service , khả năng chụp ảnh cho ra trên iPhone 13 chỉ là 56,4 , có phần yếu thế hơn so với các thế hệ tiền nhiệm của chúng .
+{"subject": ["21&&iPhone", "22&&13"], "object": ["34&&các", "35&&thế", "36&&hệ", "37&&tiền", "38&&nhiệm", "39&&của", "40&&chúng"], "aspect": ["14&&khả", "15&&năng", "16&&chụp", "17&&ảnh"], "predicate": ["27&&có", "28&&phần", "29&&yếu", "30&&thế", "31&&hơn"], "label": "COM-"}
+
+Đối với Realme 8 5G có điểm số đa nhân không bằng đó là 4500mAh , có hỗ trợ sạc nhanh 25W , hỗ trợ sạc không dây , sạc ngược cho thiết bị khác .	Đối với Realme 8 5G có điểm số đa nhân không bằng đó là 4500mAh , có hỗ trợ sạc nhanh 25W , hỗ trợ sạc không dây , sạc ngược cho thiết bị khác .
+{"subject": ["3&&Realme", "4&&8", "5&&5G"], "object": [], "aspect": ["7&&điểm", "8&&số", "9&&đa", "10&&nhân"], "predicate": ["11&&không", "12&&bằng"], "label": "COM-"}
+
+Đối với công nghệ này có độ phân giải thấp hơn đó là 4500mAh , có hỗ trợ sạc nhanh 25W , hỗ trợ sạc không dây , sạc ngược cho thiết bị khác .	Đối với công nghệ này có độ phân giải thấp hơn đó là 4500mAh , có hỗ trợ sạc nhanh 25W , hỗ trợ sạc không dây , sạc ngược cho thiết bị khác .
+{"subject": ["3&&công", "4&&nghệ", "5&&này"], "object": [], "aspect": ["7&&độ", "8&&phân", "9&&giải"], "predicate": ["10&&thấp", "11&&hơn"], "label": "COM-"}
+
+Đối với Xiaomi có bộ xử lý chậm hơn đó là 4500mAh , có hỗ trợ sạc nhanh 25W , hỗ trợ sạc không dây , sạc ngược cho thiết bị khác .	Đối với Xiaomi có bộ xử lý chậm hơn đó là 4500mAh , có hỗ trợ sạc nhanh 25W , hỗ trợ sạc không dây , sạc ngược cho thiết bị khác .
+{"subject": ["3&&Xiaomi"], "object": [], "aspect": ["5&&bộ", "6&&xử", "7&&lý"], "predicate": ["8&&chậm", "9&&hơn"], "label": "COM-"}
+
+Đối với phiên bản chip trên Galaxy S23 Ultra có màn hình kém hiện đại hơn đó là 4500mAh , có hỗ trợ sạc nhanh 25W , hỗ trợ sạc không dây , sạc ngược cho thiết bị khác .	Đối với phiên bản chip trên Galaxy S23 Ultra có màn hình kém hiện đại hơn đó là 4500mAh , có hỗ trợ sạc nhanh 25W , hỗ trợ sạc không dây , sạc ngược cho thiết bị khác .
+{"subject": ["3&&phiên", "4&&bản", "5&&chip", "6&&trên", "7&&Galaxy", "8&&S23", "9&&Ultra"], "object": [], "aspect": ["11&&màn", "12&&hình"], "predicate": ["13&&kém", "14&&hiện", "15&&đại", "16&&hơn"], "label": "COM-"}
+
+Đối với Điện thoại iPhone 13 Pro có điểm số tương đối thấp , ít nhất là khi so sánh với đó là 4500mAh , có hỗ trợ sạc nhanh 25W , hỗ trợ sạc không dây , sạc ngược cho thiết bị khác .	Đối với Điện thoại iPhone 13 Pro có điểm số tương đối thấp , ít nhất là khi so sánh với đó là 4500mAh , có hỗ trợ sạc nhanh 25W , hỗ trợ sạc không dây , sạc ngược cho thiết bị khác .
+{"subject": ["3&&Điện", "4&&thoại", "5&&iPhone", "6&&13", "7&&Pro"], "object": [], "aspect": ["9&&điểm", "10&&số"], "predicate": ["11&&tương", "12&&đối", "13&&thấp", "14&&,", "15&&ít", "16&&nhất", "17&&là", "18&&khi", "19&&so", "20&&sánh", "21&&với"], "label": "COM-"}
+
+Còn Thiết bị sở hữu mặt trước giọt nước trông hơi “ giá rẻ ” .	Còn Thiết bị sở hữu mặt trước giọt nước trông hơi “ giá rẻ ” .
+{"subject": ["2&&Thiết", "3&&bị"], "object": [], "aspect": ["6&&mặt", "7&&trước"], "predicate": ["10&&trông", "11&&hơi", "12&&“", "13&&giá", "14&&rẻ", "15&&”"], "label": "COM-"}
+
+Còn OPPO Find X6 Pro sở hữu gây “ chai ” pin giọt nước hơn .	Còn OPPO Find X6 Pro sở hữu gây “ chai ” pin giọt nước hơn .
+{"subject": ["2&&OPPO", "3&&Find", "4&&X6", "5&&Pro"], "object": [], "aspect": ["8&&gây", "9&&“", "10&&chai", "11&&”", "12&&pin"], "predicate": ["15&&hơn"], "label": "COM-"}
+
+Còn cụm module hình chữ nhật sở hữu khả năng chụp ảnh zoom giọt nước thua thiệt khá nhiều .	Còn cụm module hình chữ nhật sở hữu khả năng chụp ảnh zoom giọt nước thua thiệt khá nhiều .
+{"subject": ["2&&cụm", "3&&module", "4&&hình", "5&&chữ", "6&&nhật"], "object": [], "aspect": ["9&&khả", "10&&năng", "11&&chụp", "12&&ảnh", "13&&zoom"], "predicate": ["16&&thua", "17&&thiệt", "18&&khá", "19&&nhiều"], "label": "COM-"}
+
+Còn Galaxy A23 sở hữu viên pin giọt nước không quá lớn để so sánh với .	Còn Galaxy A23 sở hữu viên pin giọt nước không quá lớn để so sánh với .
+{"subject": ["2&&Galaxy", "3&&A23"], "object": [], "aspect": ["6&&viên", "7&&pin"], "predicate": ["10&&không", "11&&quá", "12&&lớn", "13&&để", "14&&so", "15&&sánh", "16&&với"], "label": "COM-"}
+
+Còn S20 Ultra sở hữu khả năng chụp ảnh giọt nước có phần yếu thế hơn .	Còn S20 Ultra sở hữu khả năng chụp ảnh giọt nước có phần yếu thế hơn .
+{"subject": ["2&&S20", "3&&Ultra"], "object": [], "aspect": ["6&&khả", "7&&năng", "8&&chụp", "9&&ảnh"], "predicate": ["12&&có", "13&&phần", "14&&yếu", "15&&thế", "16&&hơn"], "label": "COM-"}
+
+Samsung Galaxy A73 5G có SoC kém hơn Samsung Galaxy S21 Ultra .	Samsung Galaxy A73 5G có SoC kém hơn Samsung Galaxy S21 Ultra .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A73", "4&&5G"], "object": ["9&&Samsung", "10&&Galaxy", "11&&S21", "12&&Ultra"], "aspect": ["6&&SoC"], "predicate": ["7&&kém", "8&&hơn"], "label": "COM-"}
+
+con chip trên dòng iPhone có hiệu năng thấp hơn phiên bản 3.2 GHZ .	con chip trên dòng iPhone có hiệu năng thấp hơn phiên bản 3.2 GHZ .
+{"subject": ["1&&con", "2&&chip", "3&&trên", "4&&dòng", "5&&iPhone"], "object": ["11&&phiên", "12&&bản", "13&&3.2", "14&&GHZ"], "aspect": ["7&&hiệu", "8&&năng"], "predicate": ["9&&thấp", "10&&hơn"], "label": "COM-"}
+
+Samsung Galaxy M31 Prime có đô phân giải thấp hơn các đối thủ có những con chip tầm Snapdragon 665 .	Samsung Galaxy M31 Prime có đô phân giải thấp hơn các đối thủ có những con chip tầm Snapdragon 665 .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&M31", "4&&Prime"], "object": ["11&&các", "12&&đối", "13&&thủ", "14&&có", "15&&những", "16&&con", "17&&chip", "18&&tầm", "19&&Snapdragon", "20&&665"], "aspect": ["6&&đô", "7&&phân", "8&&giải"], "predicate": ["9&&thấp", "10&&hơn"], "label": "COM-"}
+
+Samsung có điểm số thấp hơn Samsung .	Samsung có điểm số thấp hơn Samsung .
+{"subject": ["1&&Samsung"], "object": ["7&&Samsung"], "aspect": ["3&&điểm", "4&&số"], "predicate": ["5&&thấp", "6&&hơn"], "label": "COM-"}
+
+Galaxy S21 có giờ on-screen thua thiệt các thế hệ tiền nhiệm của chúng .	Galaxy S21 có giờ on-screen thua thiệt các thế hệ tiền nhiệm của chúng .
+{"subject": ["1&&Galaxy", "2&&S21"], "object": ["8&&các", "9&&thế", "10&&hệ", "11&&tiền", "12&&nhiệm", "13&&của", "14&&chúng"], "aspect": ["4&&giờ", "5&&on-screen"], "predicate": ["6&&thua", "7&&thiệt"], "label": "COM-"}
+
+Hơn nữa , Samsung Galaxy S21 Ultra có cảm biến 16MP HD + kém hơn và tốc độ làm mới t60Hz tiêu chuẩn .	Hơn nữa , Samsung Galaxy S21 Ultra có cảm biến 16MP HD + kém hơn và tốc độ làm mới t60Hz tiêu chuẩn .
+{"subject": ["4&&Samsung", "5&&Galaxy", "6&&S21", "7&&Ultra"], "object": [], "aspect": ["9&&cảm", "10&&biến", "11&&16MP"], "predicate": ["14&&kém", "15&&hơn"], "label": "COM-"}
+
+Hơn nữa , Google Pixel 5 có hoạt động HD + chậm hơn 10 - 20% và tốc độ làm mới t60Hz tiêu chuẩn .	Hơn nữa , Google Pixel 5 có hoạt động HD + chậm hơn 10 - 20% và tốc độ làm mới t60Hz tiêu chuẩn .
+{"subject": ["4&&Google", "5&&Pixel", "6&&5"], "object": [], "aspect": ["8&&hoạt", "9&&động"], "predicate": ["12&&chậm", "13&&hơn", "14&&10", "15&&-", "16&&20%"], "label": "COM-"}
+
+Hơn nữa , Xiaomi có khả năng chụp ảnh zoom HD + thua thiệt khá nhiều và tốc độ làm mới t60Hz tiêu chuẩn .	Hơn nữa , Xiaomi có khả năng chụp ảnh zoom HD + thua thiệt khá nhiều và tốc độ làm mới t60Hz tiêu chuẩn .
+{"subject": ["4&&Xiaomi"], "object": [], "aspect": ["6&&khả", "7&&năng", "8&&chụp", "9&&ảnh", "10&&zoom"], "predicate": ["13&&thua", "14&&thiệt", "15&&khá", "16&&nhiều"], "label": "COM-"}
+
+Hơn nữa , nó có độ phân giải HD + thấp hơn và tốc độ làm mới t60Hz tiêu chuẩn .	Hơn nữa , nó có độ phân giải HD + thấp hơn và tốc độ làm mới t60Hz tiêu chuẩn .
+{"subject": ["4&&nó"], "object": [], "aspect": ["6&&độ", "7&&phân", "8&&giải"], "predicate": ["11&&thấp", "12&&hơn"], "label": "COM-"}
+
+Hơn nữa , Máy có điểm AnTuTu HD + kém iPhone 11 Pro một tẹo và tốc độ làm mới t60Hz tiêu chuẩn .	Hơn nữa , Máy có điểm AnTuTu HD + kém iPhone 11 Pro một tẹo và tốc độ làm mới t60Hz tiêu chuẩn .
+{"subject": ["4&&Máy"], "object": [], "aspect": ["6&&điểm", "7&&AnTuTu"], "predicate": ["10&&kém", "11&&iPhone", "12&&11", "13&&Pro", "14&&một", "15&&tẹo"], "label": "COM-"}
+

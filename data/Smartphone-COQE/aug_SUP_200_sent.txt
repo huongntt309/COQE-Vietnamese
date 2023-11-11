@@ -1,0 +1,603 @@
+Pixel 7 Pro cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Pixel 7 Pro cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": [], "aspect": ["6&&cấu", "7&&hình"], "predicate": ["8&&không", "9&&còn", "10&&là", "11&&cấu", "12&&hình", "13&&mạnh", "14&&mẽ", "15&&nhất", "16&&trong", "17&&thế", "18&&giới", "19&&smartphone", "20&&nữa"], "label": "SUP"}
+
+Galaxy S21 Ultra cũng có phiên bản nhỏ nhất .	Galaxy S21 Ultra cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&S21", "3&&Ultra"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+Cả hai cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Cả hai cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Cả", "2&&hai"], "object": [], "aspect": ["5&&kích", "6&&thước"], "predicate": ["7&&lớn", "8&&nhất", "9&&trong", "10&&Galaxy", "11&&S20", "12&&Series", "13&&vừa", "14&&ra", "15&&mắt"], "label": "SUP"}
+
+Redmi Note 11 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Redmi Note 11 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Redmi", "2&&Note", "3&&11"], "object": [], "aspect": ["6&&cấu", "7&&hình"], "predicate": ["8&&không", "9&&còn", "10&&là", "11&&cấu", "12&&hình", "13&&mạnh", "14&&mẽ", "15&&nhất", "16&&trong", "17&&thế", "18&&giới", "19&&smartphone", "20&&nữa"], "label": "SUP"}
+
+Pixel 7 Pro cũng có phiên bản nhỏ nhất .	Pixel 7 Pro cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+Galaxy S23 Ultra cũng có màn hình lớn nhất từ trước đến nay .	Galaxy S23 Ultra cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Galaxy", "2&&S23", "3&&Ultra"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+Thiết bị cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Thiết bị cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Thiết", "2&&bị"], "object": [], "aspect": ["5&&cấu", "6&&hình"], "predicate": ["7&&không", "8&&còn", "9&&là", "10&&cấu", "11&&hình", "12&&mạnh", "13&&mẽ", "14&&nhất", "15&&trong", "16&&thế", "17&&giới", "18&&smartphone", "19&&nữa"], "label": "SUP"}
+
+iPhone SE 2016 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	iPhone SE 2016 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&iPhone", "2&&SE", "3&&2016"], "object": [], "aspect": ["6&&kích", "7&&thước"], "predicate": ["8&&lớn", "9&&nhất", "10&&trong", "11&&Galaxy", "12&&S20", "13&&Series", "14&&vừa", "15&&ra", "16&&mắt"], "label": "SUP"}
+
+Cả ba chiếc máy cũng có màn hình lớn nhất từ trước đến nay .	Cả ba chiếc máy cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Cả", "2&&ba", "3&&chiếc", "4&&máy"], "object": [], "aspect": ["7&&màn", "8&&hình"], "predicate": ["9&&lớn", "10&&nhất", "11&&từ", "12&&trước", "13&&đến", "14&&nay"], "label": "SUP"}
+
+Galaxy Z Fold3 cũng có màn hình lớn nhất từ trước đến nay .	Galaxy Z Fold3 cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold3"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+vi xử lý Apple M1 trên iPad Pro cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	vi xử lý Apple M1 trên iPad Pro cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&vi", "2&&xử", "3&&lý", "4&&Apple", "5&&M1", "6&&trên", "7&&iPad", "8&&Pro"], "object": [], "aspect": ["11&&cấu", "12&&hình"], "predicate": ["13&&không", "14&&còn", "15&&là", "16&&cấu", "17&&hình", "18&&mạnh", "19&&mẽ", "20&&nhất", "21&&trong", "22&&thế", "23&&giới", "24&&smartphone", "25&&nữa"], "label": "SUP"}
+
+Galaxy A24 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Galaxy A24 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Galaxy", "2&&A24"], "object": [], "aspect": ["5&&cấu", "6&&hình"], "predicate": ["7&&không", "8&&còn", "9&&là", "10&&cấu", "11&&hình", "12&&mạnh", "13&&mẽ", "14&&nhất", "15&&trong", "16&&thế", "17&&giới", "18&&smartphone", "19&&nữa"], "label": "SUP"}
+
+Realme 6 Pro cũng có màn hình lớn nhất từ trước đến nay .	Realme 6 Pro cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Realme", "2&&6", "3&&Pro"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+S21 Ultra cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	S21 Ultra cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&S21", "2&&Ultra"], "object": [], "aspect": ["5&&cấu", "6&&hình"], "predicate": ["7&&không", "8&&còn", "9&&là", "10&&cấu", "11&&hình", "12&&mạnh", "13&&mẽ", "14&&nhất", "15&&trong", "16&&thế", "17&&giới", "18&&smartphone", "19&&nữa"], "label": "SUP"}
+
+vi xử lý Apple M1 trên iPad Pro cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	vi xử lý Apple M1 trên iPad Pro cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&vi", "2&&xử", "3&&lý", "4&&Apple", "5&&M1", "6&&trên", "7&&iPad", "8&&Pro"], "object": [], "aspect": ["11&&cấu", "12&&hình"], "predicate": ["13&&không", "14&&còn", "15&&là", "16&&cấu", "17&&hình", "18&&mạnh", "19&&mẽ", "20&&nhất", "21&&trong", "22&&thế", "23&&giới", "24&&smartphone", "25&&nữa"], "label": "SUP"}
+
+cả hai cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	cả hai cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&cả", "2&&hai"], "object": [], "aspect": ["5&&cấu", "6&&hình"], "predicate": ["7&&không", "8&&còn", "9&&là", "10&&cấu", "11&&hình", "12&&mạnh", "13&&mẽ", "14&&nhất", "15&&trong", "16&&thế", "17&&giới", "18&&smartphone", "19&&nữa"], "label": "SUP"}
+
+Hộp đựng Galaxy S20 Ultra cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Hộp đựng Galaxy S20 Ultra cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Hộp", "2&&đựng", "3&&Galaxy", "4&&S20", "5&&Ultra"], "object": [], "aspect": ["8&&cấu", "9&&hình"], "predicate": ["10&&không", "11&&còn", "12&&là", "13&&cấu", "14&&hình", "15&&mạnh", "16&&mẽ", "17&&nhất", "18&&trong", "19&&thế", "20&&giới", "21&&smartphone", "22&&nữa"], "label": "SUP"}
+
+iPhone 12 Pro Max cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	iPhone 12 Pro Max cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": ["7&&cấu", "8&&hình"], "predicate": ["9&&không", "10&&còn", "11&&là", "12&&cấu", "13&&hình", "14&&mạnh", "15&&mẽ", "16&&nhất", "17&&trong", "18&&thế", "19&&giới", "20&&smartphone", "21&&nữa"], "label": "SUP"}
+
+đây cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	đây cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&đây"], "object": [], "aspect": ["4&&kích", "5&&thước"], "predicate": ["6&&lớn", "7&&nhất", "8&&trong", "9&&Galaxy", "10&&S20", "11&&Series", "12&&vừa", "13&&ra", "14&&mắt"], "label": "SUP"}
+
+Realme 6 Pro cũng có màn hình lớn nhất từ trước đến nay .	Realme 6 Pro cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Realme", "2&&6", "3&&Pro"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+Galaxy A24 cũng có màn hình lớn nhất từ trước đến nay .	Galaxy A24 cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Galaxy", "2&&A24"], "object": [], "aspect": ["5&&màn", "6&&hình"], "predicate": ["7&&lớn", "8&&nhất", "9&&từ", "10&&trước", "11&&đến", "12&&nay"], "label": "SUP"}
+
+Samsung Galaxy M51 cũng có phiên bản nhỏ nhất .	Samsung Galaxy M51 cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&M51"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+S10 Plus cũng có màn hình lớn nhất từ trước đến nay .	S10 Plus cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&S10", "2&&Plus"], "object": [], "aspect": ["5&&màn", "6&&hình"], "predicate": ["7&&lớn", "8&&nhất", "9&&từ", "10&&trước", "11&&đến", "12&&nay"], "label": "SUP"}
+
+Đây cũng có phiên bản nhỏ nhất .	Đây cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Đây"], "object": [], "aspect": ["4&&phiên", "5&&bản"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP"}
+
+iPhone 14 Pro cũng có màn hình lớn nhất từ trước đến nay .	iPhone 14 Pro cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&iPhone", "2&&14", "3&&Pro"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+Galaxy Z Fold2 cũng có phiên bản nhỏ nhất .	Galaxy Z Fold2 cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold2"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+đây cũng có màn hình lớn nhất từ trước đến nay .	đây cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&đây"], "object": [], "aspect": ["4&&màn", "5&&hình"], "predicate": ["6&&lớn", "7&&nhất", "8&&từ", "9&&trước", "10&&đến", "11&&nay"], "label": "SUP"}
+
+đây cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	đây cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&đây"], "object": [], "aspect": ["4&&kích", "5&&thước"], "predicate": ["6&&lớn", "7&&nhất", "8&&trong", "9&&Galaxy", "10&&S20", "11&&Series", "12&&vừa", "13&&ra", "14&&mắt"], "label": "SUP"}
+
+ROG Phone 2 cũng có phiên bản nhỏ nhất .	ROG Phone 2 cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&ROG", "2&&Phone", "3&&2"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+Thiết bị cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Thiết bị cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Thiết", "2&&bị"], "object": [], "aspect": ["5&&kích", "6&&thước"], "predicate": ["7&&lớn", "8&&nhất", "9&&trong", "10&&Galaxy", "11&&S20", "12&&Series", "13&&vừa", "14&&ra", "15&&mắt"], "label": "SUP"}
+
+cả hai cũng có màn hình lớn nhất từ trước đến nay .	cả hai cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&cả", "2&&hai"], "object": [], "aspect": ["5&&màn", "6&&hình"], "predicate": ["7&&lớn", "8&&nhất", "9&&từ", "10&&trước", "11&&đến", "12&&nay"], "label": "SUP"}
+
+A15 Bionic cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	A15 Bionic cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&A15", "2&&Bionic"], "object": [], "aspect": ["5&&kích", "6&&thước"], "predicate": ["7&&lớn", "8&&nhất", "9&&trong", "10&&Galaxy", "11&&S20", "12&&Series", "13&&vừa", "14&&ra", "15&&mắt"], "label": "SUP"}
+
+Xiaomi cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Xiaomi cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Xiaomi"], "object": [], "aspect": ["4&&kích", "5&&thước"], "predicate": ["6&&lớn", "7&&nhất", "8&&trong", "9&&Galaxy", "10&&S20", "11&&Series", "12&&vừa", "13&&ra", "14&&mắt"], "label": "SUP"}
+
+Đây cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Đây cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Đây"], "object": [], "aspect": ["4&&cấu", "5&&hình"], "predicate": ["6&&không", "7&&còn", "8&&là", "9&&cấu", "10&&hình", "11&&mạnh", "12&&mẽ", "13&&nhất", "14&&trong", "15&&thế", "16&&giới", "17&&smartphone", "18&&nữa"], "label": "SUP"}
+
+Galaxy S21 Ultra cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Galaxy S21 Ultra cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Galaxy", "2&&S21", "3&&Ultra"], "object": [], "aspect": ["6&&cấu", "7&&hình"], "predicate": ["8&&không", "9&&còn", "10&&là", "11&&cấu", "12&&hình", "13&&mạnh", "14&&mẽ", "15&&nhất", "16&&trong", "17&&thế", "18&&giới", "19&&smartphone", "20&&nữa"], "label": "SUP"}
+
+Pixel 7 Pro cũng có màn hình lớn nhất từ trước đến nay .	Pixel 7 Pro cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+Galaxy S21 Ultra cũng có phiên bản nhỏ nhất .	Galaxy S21 Ultra cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&S21", "3&&Ultra"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+Sản phẩm cũng có phiên bản nhỏ nhất .	Sản phẩm cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Sản", "2&&phẩm"], "object": [], "aspect": ["5&&phiên", "6&&bản"], "predicate": ["7&&nhỏ", "8&&nhất"], "label": "SUP"}
+
+Samsung Galaxy S23 series cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Samsung Galaxy S23 series cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S23", "4&&series"], "object": [], "aspect": ["7&&cấu", "8&&hình"], "predicate": ["9&&không", "10&&còn", "11&&là", "12&&cấu", "13&&hình", "14&&mạnh", "15&&mẽ", "16&&nhất", "17&&trong", "18&&thế", "19&&giới", "20&&smartphone", "21&&nữa"], "label": "SUP"}
+
+iPhone của Apple cũng có màn hình lớn nhất từ trước đến nay .	iPhone của Apple cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&iPhone", "2&&của", "3&&Apple"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+Snapdragon 8 Gen 2 cũng có màn hình lớn nhất từ trước đến nay .	Snapdragon 8 Gen 2 cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Snapdragon", "2&&8", "3&&Gen", "4&&2"], "object": [], "aspect": ["7&&màn", "8&&hình"], "predicate": ["9&&lớn", "10&&nhất", "11&&từ", "12&&trước", "13&&đến", "14&&nay"], "label": "SUP"}
+
+S20 Ultra cũng có màn hình lớn nhất từ trước đến nay .	S20 Ultra cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&S20", "2&&Ultra"], "object": [], "aspect": ["5&&màn", "6&&hình"], "predicate": ["7&&lớn", "8&&nhất", "9&&từ", "10&&trước", "11&&đến", "12&&nay"], "label": "SUP"}
+
+Galaxy A24 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Galaxy A24 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Galaxy", "2&&A24"], "object": [], "aspect": ["5&&cấu", "6&&hình"], "predicate": ["7&&không", "8&&còn", "9&&là", "10&&cấu", "11&&hình", "12&&mạnh", "13&&mẽ", "14&&nhất", "15&&trong", "16&&thế", "17&&giới", "18&&smartphone", "19&&nữa"], "label": "SUP"}
+
+Samsung Galaxy S22 Ultra cũng có phiên bản nhỏ nhất .	Samsung Galaxy S22 Ultra cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S22", "4&&Ultra"], "object": [], "aspect": ["7&&phiên", "8&&bản"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP"}
+
+OPPO cũng có phiên bản nhỏ nhất .	OPPO cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&OPPO"], "object": [], "aspect": ["4&&phiên", "5&&bản"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP"}
+
+iPhone 11 Pro Max cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	iPhone 11 Pro Max cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&iPhone", "2&&11", "3&&Pro", "4&&Max"], "object": [], "aspect": ["7&&kích", "8&&thước"], "predicate": ["9&&lớn", "10&&nhất", "11&&trong", "12&&Galaxy", "13&&S20", "14&&Series", "15&&vừa", "16&&ra", "17&&mắt"], "label": "SUP"}
+
+cả hai cũng có phiên bản nhỏ nhất .	cả hai cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&cả", "2&&hai"], "object": [], "aspect": ["5&&phiên", "6&&bản"], "predicate": ["7&&nhỏ", "8&&nhất"], "label": "SUP"}
+
+OPPO Find X6 Pro cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	OPPO Find X6 Pro cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&OPPO", "2&&Find", "3&&X6", "4&&Pro"], "object": [], "aspect": ["7&&cấu", "8&&hình"], "predicate": ["9&&không", "10&&còn", "11&&là", "12&&cấu", "13&&hình", "14&&mạnh", "15&&mẽ", "16&&nhất", "17&&trong", "18&&thế", "19&&giới", "20&&smartphone", "21&&nữa"], "label": "SUP"}
+
+Samsung Galaxy S22 Ultra cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Samsung Galaxy S22 Ultra cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S22", "4&&Ultra"], "object": [], "aspect": ["7&&cấu", "8&&hình"], "predicate": ["9&&không", "10&&còn", "11&&là", "12&&cấu", "13&&hình", "14&&mạnh", "15&&mẽ", "16&&nhất", "17&&trong", "18&&thế", "19&&giới", "20&&smartphone", "21&&nữa"], "label": "SUP"}
+
+S22 Ultra 5G cũng có màn hình lớn nhất từ trước đến nay .	S22 Ultra 5G cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&S22", "2&&Ultra", "3&&5G"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+Pixel 7 Pro cũng có màn hình lớn nhất từ trước đến nay .	Pixel 7 Pro cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+Redmi Note 11 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Redmi Note 11 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Redmi", "2&&Note", "3&&11"], "object": [], "aspect": ["6&&cấu", "7&&hình"], "predicate": ["8&&không", "9&&còn", "10&&là", "11&&cấu", "12&&hình", "13&&mạnh", "14&&mẽ", "15&&nhất", "16&&trong", "17&&thế", "18&&giới", "19&&smartphone", "20&&nữa"], "label": "SUP"}
+
+đây cũng có màn hình lớn nhất từ trước đến nay .	đây cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&đây"], "object": [], "aspect": ["4&&màn", "5&&hình"], "predicate": ["6&&lớn", "7&&nhất", "8&&từ", "9&&trước", "10&&đến", "11&&nay"], "label": "SUP"}
+
+cả hai cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	cả hai cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&cả", "2&&hai"], "object": [], "aspect": ["5&&kích", "6&&thước"], "predicate": ["7&&lớn", "8&&nhất", "9&&trong", "10&&Galaxy", "11&&S20", "12&&Series", "13&&vừa", "14&&ra", "15&&mắt"], "label": "SUP"}
+
+Galaxy Z Fold2 cũng có phiên bản nhỏ nhất .	Galaxy Z Fold2 cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold2"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+Galaxy Z Fold 4 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Galaxy Z Fold 4 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold", "4&&4"], "object": [], "aspect": ["7&&cấu", "8&&hình"], "predicate": ["9&&không", "10&&còn", "11&&là", "12&&cấu", "13&&hình", "14&&mạnh", "15&&mẽ", "16&&nhất", "17&&trong", "18&&thế", "19&&giới", "20&&smartphone", "21&&nữa"], "label": "SUP"}
+
+smartphone Xiaomi cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	smartphone Xiaomi cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&smartphone", "2&&Xiaomi"], "object": [], "aspect": ["5&&kích", "6&&thước"], "predicate": ["7&&lớn", "8&&nhất", "9&&trong", "10&&Galaxy", "11&&S20", "12&&Series", "13&&vừa", "14&&ra", "15&&mắt"], "label": "SUP"}
+
+Samsung Galaxy Z Fold3 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Samsung Galaxy Z Fold3 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&Z", "4&&Fold3"], "object": [], "aspect": ["7&&kích", "8&&thước"], "predicate": ["9&&lớn", "10&&nhất", "11&&trong", "12&&Galaxy", "13&&S20", "14&&Series", "15&&vừa", "16&&ra", "17&&mắt"], "label": "SUP"}
+
+Galaxy Note20 Ultra cũng có phiên bản nhỏ nhất .	Galaxy Note20 Ultra cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&Note20", "3&&Ultra"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+iPhone SE 2016 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	iPhone SE 2016 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&iPhone", "2&&SE", "3&&2016"], "object": [], "aspect": ["6&&kích", "7&&thước"], "predicate": ["8&&lớn", "9&&nhất", "10&&trong", "11&&Galaxy", "12&&S20", "13&&Series", "14&&vừa", "15&&ra", "16&&mắt"], "label": "SUP"}
+
+Cả hai cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Cả hai cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Cả", "2&&hai"], "object": [], "aspect": ["5&&kích", "6&&thước"], "predicate": ["7&&lớn", "8&&nhất", "9&&trong", "10&&Galaxy", "11&&S20", "12&&Series", "13&&vừa", "14&&ra", "15&&mắt"], "label": "SUP"}
+
+iPhone 12 Pro Max cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	iPhone 12 Pro Max cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": ["7&&kích", "8&&thước"], "predicate": ["9&&lớn", "10&&nhất", "11&&trong", "12&&Galaxy", "13&&S20", "14&&Series", "15&&vừa", "16&&ra", "17&&mắt"], "label": "SUP"}
+
+S22 Ultra 5G cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	S22 Ultra 5G cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&S22", "2&&Ultra", "3&&5G"], "object": [], "aspect": ["6&&cấu", "7&&hình"], "predicate": ["8&&không", "9&&còn", "10&&là", "11&&cấu", "12&&hình", "13&&mạnh", "14&&mẽ", "15&&nhất", "16&&trong", "17&&thế", "18&&giới", "19&&smartphone", "20&&nữa"], "label": "SUP"}
+
+OPPO cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	OPPO cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&OPPO"], "object": [], "aspect": ["4&&kích", "5&&thước"], "predicate": ["6&&lớn", "7&&nhất", "8&&trong", "9&&Galaxy", "10&&S20", "11&&Series", "12&&vừa", "13&&ra", "14&&mắt"], "label": "SUP"}
+
+Snapdragon 888 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Snapdragon 888 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Snapdragon", "2&&888"], "object": [], "aspect": ["5&&cấu", "6&&hình"], "predicate": ["7&&không", "8&&còn", "9&&là", "10&&cấu", "11&&hình", "12&&mạnh", "13&&mẽ", "14&&nhất", "15&&trong", "16&&thế", "17&&giới", "18&&smartphone", "19&&nữa"], "label": "SUP"}
+
+Cả hai cũng có phiên bản nhỏ nhất .	Cả hai cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Cả", "2&&hai"], "object": [], "aspect": ["5&&phiên", "6&&bản"], "predicate": ["7&&nhỏ", "8&&nhất"], "label": "SUP"}
+
+Pixel 7 Pro cũng có phiên bản nhỏ nhất .	Pixel 7 Pro cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+Thiết bị cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Thiết bị cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Thiết", "2&&bị"], "object": [], "aspect": ["5&&kích", "6&&thước"], "predicate": ["7&&lớn", "8&&nhất", "9&&trong", "10&&Galaxy", "11&&S20", "12&&Series", "13&&vừa", "14&&ra", "15&&mắt"], "label": "SUP"}
+
+Cả hai cũng có phiên bản nhỏ nhất .	Cả hai cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Cả", "2&&hai"], "object": [], "aspect": ["5&&phiên", "6&&bản"], "predicate": ["7&&nhỏ", "8&&nhất"], "label": "SUP"}
+
+đây cũng có màn hình lớn nhất từ trước đến nay .	đây cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&đây"], "object": [], "aspect": ["4&&màn", "5&&hình"], "predicate": ["6&&lớn", "7&&nhất", "8&&từ", "9&&trước", "10&&đến", "11&&nay"], "label": "SUP"}
+
+Galaxy S21 Ultra cũng có màn hình lớn nhất từ trước đến nay .	Galaxy S21 Ultra cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Galaxy", "2&&S21", "3&&Ultra"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+iPhone 12 Pro Max cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	iPhone 12 Pro Max cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": ["7&&kích", "8&&thước"], "predicate": ["9&&lớn", "10&&nhất", "11&&trong", "12&&Galaxy", "13&&S20", "14&&Series", "15&&vừa", "16&&ra", "17&&mắt"], "label": "SUP"}
+
+hệ điều hành cũng có màn hình lớn nhất từ trước đến nay .	hệ điều hành cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&hệ", "2&&điều", "3&&hành"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+hai chiếc smartphone cao cấp cũng có màn hình lớn nhất từ trước đến nay .	hai chiếc smartphone cao cấp cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&hai", "2&&chiếc", "3&&smartphone", "4&&cao", "5&&cấp"], "object": [], "aspect": ["8&&màn", "9&&hình"], "predicate": ["10&&lớn", "11&&nhất", "12&&từ", "13&&trước", "14&&đến", "15&&nay"], "label": "SUP"}
+
+S21 Ultra cũng có màn hình lớn nhất từ trước đến nay .	S21 Ultra cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&S21", "2&&Ultra"], "object": [], "aspect": ["5&&màn", "6&&hình"], "predicate": ["7&&lớn", "8&&nhất", "9&&từ", "10&&trước", "11&&đến", "12&&nay"], "label": "SUP"}
+
+Samsung Galaxy S21 Ultra cũng có phiên bản nhỏ nhất .	Samsung Galaxy S21 Ultra cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S21", "4&&Ultra"], "object": [], "aspect": ["7&&phiên", "8&&bản"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP"}
+
+Snapdragon 8 Gen 2 cũng có màn hình lớn nhất từ trước đến nay .	Snapdragon 8 Gen 2 cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Snapdragon", "2&&8", "3&&Gen", "4&&2"], "object": [], "aspect": ["7&&màn", "8&&hình"], "predicate": ["9&&lớn", "10&&nhất", "11&&từ", "12&&trước", "13&&đến", "14&&nay"], "label": "SUP"}
+
+Galaxy S22 Ultra cũng có màn hình lớn nhất từ trước đến nay .	Galaxy S22 Ultra cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Galaxy", "2&&S22", "3&&Ultra"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+S10 Plus cũng có phiên bản nhỏ nhất .	S10 Plus cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&S10", "2&&Plus"], "object": [], "aspect": ["5&&phiên", "6&&bản"], "predicate": ["7&&nhỏ", "8&&nhất"], "label": "SUP"}
+
+Galaxy S23 Ultra cũng có màn hình lớn nhất từ trước đến nay .	Galaxy S23 Ultra cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Galaxy", "2&&S23", "3&&Ultra"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+S22 Ultra 5G cũng có màn hình lớn nhất từ trước đến nay .	S22 Ultra 5G cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&S22", "2&&Ultra", "3&&5G"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+Samsung Galaxy A51 cũng có màn hình lớn nhất từ trước đến nay .	Samsung Galaxy A51 cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A51"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+Snapdragon 8 Gen 2 cũng có phiên bản nhỏ nhất .	Snapdragon 8 Gen 2 cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Snapdragon", "2&&8", "3&&Gen", "4&&2"], "object": [], "aspect": ["7&&phiên", "8&&bản"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP"}
+
+đây cũng có màn hình lớn nhất từ trước đến nay .	đây cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&đây"], "object": [], "aspect": ["4&&màn", "5&&hình"], "predicate": ["6&&lớn", "7&&nhất", "8&&từ", "9&&trước", "10&&đến", "11&&nay"], "label": "SUP"}
+
+Xiaomi 13 Pro cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Xiaomi 13 Pro cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Xiaomi", "2&&13", "3&&Pro"], "object": [], "aspect": ["6&&cấu", "7&&hình"], "predicate": ["8&&không", "9&&còn", "10&&là", "11&&cấu", "12&&hình", "13&&mạnh", "14&&mẽ", "15&&nhất", "16&&trong", "17&&thế", "18&&giới", "19&&smartphone", "20&&nữa"], "label": "SUP"}
+
+Galaxy Note 20 Ultra cũng có phiên bản nhỏ nhất .	Galaxy Note 20 Ultra cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&Note", "3&&20", "4&&Ultra"], "object": [], "aspect": ["7&&phiên", "8&&bản"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP"}
+
+Cả hai cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Cả hai cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Cả", "2&&hai"], "object": [], "aspect": ["5&&kích", "6&&thước"], "predicate": ["7&&lớn", "8&&nhất", "9&&trong", "10&&Galaxy", "11&&S20", "12&&Series", "13&&vừa", "14&&ra", "15&&mắt"], "label": "SUP"}
+
+Samsung cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Samsung cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Samsung"], "object": [], "aspect": ["4&&kích", "5&&thước"], "predicate": ["6&&lớn", "7&&nhất", "8&&trong", "9&&Galaxy", "10&&S20", "11&&Series", "12&&vừa", "13&&ra", "14&&mắt"], "label": "SUP"}
+
+iPhone12 Pro Max cũng có màn hình lớn nhất từ trước đến nay .	iPhone12 Pro Max cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&iPhone12", "2&&Pro", "3&&Max"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+cả hai cũng có màn hình lớn nhất từ trước đến nay .	cả hai cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&cả", "2&&hai"], "object": [], "aspect": ["5&&màn", "6&&hình"], "predicate": ["7&&lớn", "8&&nhất", "9&&từ", "10&&trước", "11&&đến", "12&&nay"], "label": "SUP"}
+
+Snapdragon 8 Gen 2 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Snapdragon 8 Gen 2 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Snapdragon", "2&&8", "3&&Gen", "4&&2"], "object": [], "aspect": ["7&&cấu", "8&&hình"], "predicate": ["9&&không", "10&&còn", "11&&là", "12&&cấu", "13&&hình", "14&&mạnh", "15&&mẽ", "16&&nhất", "17&&trong", "18&&thế", "19&&giới", "20&&smartphone", "21&&nữa"], "label": "SUP"}
+
+Galaxy Z Flip cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Galaxy Z Flip cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Flip"], "object": [], "aspect": ["6&&kích", "7&&thước"], "predicate": ["8&&lớn", "9&&nhất", "10&&trong", "11&&Galaxy", "12&&S20", "13&&Series", "14&&vừa", "15&&ra", "16&&mắt"], "label": "SUP"}
+
+điện thoại màn hình gập Galaxy Z Fold 4 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	điện thoại màn hình gập Galaxy Z Fold 4 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&điện", "2&&thoại", "3&&màn", "4&&hình", "5&&gập", "6&&Galaxy", "7&&Z", "8&&Fold", "9&&4"], "object": [], "aspect": ["12&&cấu", "13&&hình"], "predicate": ["14&&không", "15&&còn", "16&&là", "17&&cấu", "18&&hình", "19&&mạnh", "20&&mẽ", "21&&nhất", "22&&trong", "23&&thế", "24&&giới", "25&&smartphone", "26&&nữa"], "label": "SUP"}
+
+Galaxy Z Flip cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Galaxy Z Flip cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Flip"], "object": [], "aspect": ["6&&kích", "7&&thước"], "predicate": ["8&&lớn", "9&&nhất", "10&&trong", "11&&Galaxy", "12&&S20", "13&&Series", "14&&vừa", "15&&ra", "16&&mắt"], "label": "SUP"}
+
+iPhone 14 Plus cũng có phiên bản nhỏ nhất .	iPhone 14 Plus cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&iPhone", "2&&14", "3&&Plus"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+Samsung Galaxy A51 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Samsung Galaxy A51 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A51"], "object": [], "aspect": ["6&&kích", "7&&thước"], "predicate": ["8&&lớn", "9&&nhất", "10&&trong", "11&&Galaxy", "12&&S20", "13&&Series", "14&&vừa", "15&&ra", "16&&mắt"], "label": "SUP"}
+
+S10 Plus cũng có phiên bản nhỏ nhất .	S10 Plus cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&S10", "2&&Plus"], "object": [], "aspect": ["5&&phiên", "6&&bản"], "predicate": ["7&&nhỏ", "8&&nhất"], "label": "SUP"}
+
+Cả ba chiếc máy cũng có phiên bản nhỏ nhất .	Cả ba chiếc máy cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Cả", "2&&ba", "3&&chiếc", "4&&máy"], "object": [], "aspect": ["7&&phiên", "8&&bản"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP"}
+
+Galaxy Note 20 Ultra cũng có màn hình lớn nhất từ trước đến nay .	Galaxy Note 20 Ultra cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Galaxy", "2&&Note", "3&&20", "4&&Ultra"], "object": [], "aspect": ["7&&màn", "8&&hình"], "predicate": ["9&&lớn", "10&&nhất", "11&&từ", "12&&trước", "13&&đến", "14&&nay"], "label": "SUP"}
+
+Dòng iPhone 12 của nhà Táo cũng có màn hình lớn nhất từ trước đến nay .	Dòng iPhone 12 của nhà Táo cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Dòng", "2&&iPhone", "3&&12", "4&&của", "5&&nhà", "6&&Táo"], "object": [], "aspect": ["9&&màn", "10&&hình"], "predicate": ["11&&lớn", "12&&nhất", "13&&từ", "14&&trước", "15&&đến", "16&&nay"], "label": "SUP"}
+
+Camera tele cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Camera tele cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Camera", "2&&tele"], "object": [], "aspect": ["5&&cấu", "6&&hình"], "predicate": ["7&&không", "8&&còn", "9&&là", "10&&cấu", "11&&hình", "12&&mạnh", "13&&mẽ", "14&&nhất", "15&&trong", "16&&thế", "17&&giới", "18&&smartphone", "19&&nữa"], "label": "SUP"}
+
+iPhone 12 Pro Max cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	iPhone 12 Pro Max cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": ["7&&cấu", "8&&hình"], "predicate": ["9&&không", "10&&còn", "11&&là", "12&&cấu", "13&&hình", "14&&mạnh", "15&&mẽ", "16&&nhất", "17&&trong", "18&&thế", "19&&giới", "20&&smartphone", "21&&nữa"], "label": "SUP"}
+
+Xiaomi 13 Pro cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Xiaomi 13 Pro cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Xiaomi", "2&&13", "3&&Pro"], "object": [], "aspect": ["6&&cấu", "7&&hình"], "predicate": ["8&&không", "9&&còn", "10&&là", "11&&cấu", "12&&hình", "13&&mạnh", "14&&mẽ", "15&&nhất", "16&&trong", "17&&thế", "18&&giới", "19&&smartphone", "20&&nữa"], "label": "SUP"}
+
+Xiaomi cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Xiaomi cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Xiaomi"], "object": [], "aspect": ["4&&kích", "5&&thước"], "predicate": ["6&&lớn", "7&&nhất", "8&&trong", "9&&Galaxy", "10&&S20", "11&&Series", "12&&vừa", "13&&ra", "14&&mắt"], "label": "SUP"}
+
+iPhone SE 2016 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	iPhone SE 2016 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&iPhone", "2&&SE", "3&&2016"], "object": [], "aspect": ["6&&kích", "7&&thước"], "predicate": ["8&&lớn", "9&&nhất", "10&&trong", "11&&Galaxy", "12&&S20", "13&&Series", "14&&vừa", "15&&ra", "16&&mắt"], "label": "SUP"}
+
+chiếc máy cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	chiếc máy cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&chiếc", "2&&máy"], "object": [], "aspect": ["5&&kích", "6&&thước"], "predicate": ["7&&lớn", "8&&nhất", "9&&trong", "10&&Galaxy", "11&&S20", "12&&Series", "13&&vừa", "14&&ra", "15&&mắt"], "label": "SUP"}
+
+Galaxy A24 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Galaxy A24 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Galaxy", "2&&A24"], "object": [], "aspect": ["5&&kích", "6&&thước"], "predicate": ["7&&lớn", "8&&nhất", "9&&trong", "10&&Galaxy", "11&&S20", "12&&Series", "13&&vừa", "14&&ra", "15&&mắt"], "label": "SUP"}
+
+Samsung Galaxy Z Fold3 cũng có màn hình lớn nhất từ trước đến nay .	Samsung Galaxy Z Fold3 cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&Z", "4&&Fold3"], "object": [], "aspect": ["7&&màn", "8&&hình"], "predicate": ["9&&lớn", "10&&nhất", "11&&từ", "12&&trước", "13&&đến", "14&&nay"], "label": "SUP"}
+
+Galaxy A24 cũng có màn hình lớn nhất từ trước đến nay .	Galaxy A24 cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Galaxy", "2&&A24"], "object": [], "aspect": ["5&&màn", "6&&hình"], "predicate": ["7&&lớn", "8&&nhất", "9&&từ", "10&&trước", "11&&đến", "12&&nay"], "label": "SUP"}
+
+Samsung Galaxy Z Fold3 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Samsung Galaxy Z Fold3 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&Z", "4&&Fold3"], "object": [], "aspect": ["7&&cấu", "8&&hình"], "predicate": ["9&&không", "10&&còn", "11&&là", "12&&cấu", "13&&hình", "14&&mạnh", "15&&mẽ", "16&&nhất", "17&&trong", "18&&thế", "19&&giới", "20&&smartphone", "21&&nữa"], "label": "SUP"}
+
+iPhone 12 Pro Max cũng có phiên bản nhỏ nhất .	iPhone 12 Pro Max cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": ["7&&phiên", "8&&bản"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP"}
+
+Galaxy Z Fold2 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Galaxy Z Fold2 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold2"], "object": [], "aspect": ["6&&kích", "7&&thước"], "predicate": ["8&&lớn", "9&&nhất", "10&&trong", "11&&Galaxy", "12&&S20", "13&&Series", "14&&vừa", "15&&ra", "16&&mắt"], "label": "SUP"}
+
+Galaxy Z Fold 4 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Galaxy Z Fold 4 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold", "4&&4"], "object": [], "aspect": ["7&&cấu", "8&&hình"], "predicate": ["9&&không", "10&&còn", "11&&là", "12&&cấu", "13&&hình", "14&&mạnh", "15&&mẽ", "16&&nhất", "17&&trong", "18&&thế", "19&&giới", "20&&smartphone", "21&&nữa"], "label": "SUP"}
+
+Snapdragon 8 Gen 2 cũng có phiên bản nhỏ nhất .	Snapdragon 8 Gen 2 cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Snapdragon", "2&&8", "3&&Gen", "4&&2"], "object": [], "aspect": ["7&&phiên", "8&&bản"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP"}
+
+iPhone SE 2016 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	iPhone SE 2016 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&iPhone", "2&&SE", "3&&2016"], "object": [], "aspect": ["6&&kích", "7&&thước"], "predicate": ["8&&lớn", "9&&nhất", "10&&trong", "11&&Galaxy", "12&&S20", "13&&Series", "14&&vừa", "15&&ra", "16&&mắt"], "label": "SUP"}
+
+Motorola One Fusion + cũng có phiên bản nhỏ nhất .	Motorola One Fusion + cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Motorola", "2&&One", "3&&Fusion", "4&&+"], "object": [], "aspect": ["7&&phiên", "8&&bản"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP"}
+
+Sản phẩm cũng có màn hình lớn nhất từ trước đến nay .	Sản phẩm cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Sản", "2&&phẩm"], "object": [], "aspect": ["5&&màn", "6&&hình"], "predicate": ["7&&lớn", "8&&nhất", "9&&từ", "10&&trước", "11&&đến", "12&&nay"], "label": "SUP"}
+
+Galaxy S22 Ultra cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Galaxy S22 Ultra cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Galaxy", "2&&S22", "3&&Ultra"], "object": [], "aspect": ["6&&kích", "7&&thước"], "predicate": ["8&&lớn", "9&&nhất", "10&&trong", "11&&Galaxy", "12&&S20", "13&&Series", "14&&vừa", "15&&ra", "16&&mắt"], "label": "SUP"}
+
+Pixel 5 cũng có màn hình lớn nhất từ trước đến nay .	Pixel 5 cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Pixel", "2&&5"], "object": [], "aspect": ["5&&màn", "6&&hình"], "predicate": ["7&&lớn", "8&&nhất", "9&&từ", "10&&trước", "11&&đến", "12&&nay"], "label": "SUP"}
+
+A15 Bionic cũng có phiên bản nhỏ nhất .	A15 Bionic cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&A15", "2&&Bionic"], "object": [], "aspect": ["5&&phiên", "6&&bản"], "predicate": ["7&&nhỏ", "8&&nhất"], "label": "SUP"}
+
+đây cũng có phiên bản nhỏ nhất .	đây cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&đây"], "object": [], "aspect": ["4&&phiên", "5&&bản"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP"}
+
+OPPO cũng có phiên bản nhỏ nhất .	OPPO cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&OPPO"], "object": [], "aspect": ["4&&phiên", "5&&bản"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP"}
+
+Dòng Galaxy S22 series cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Dòng Galaxy S22 series cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Dòng", "2&&Galaxy", "3&&S22", "4&&series"], "object": [], "aspect": ["7&&cấu", "8&&hình"], "predicate": ["9&&không", "10&&còn", "11&&là", "12&&cấu", "13&&hình", "14&&mạnh", "15&&mẽ", "16&&nhất", "17&&trong", "18&&thế", "19&&giới", "20&&smartphone", "21&&nữa"], "label": "SUP"}
+
+S21 Ultra cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	S21 Ultra cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&S21", "2&&Ultra"], "object": [], "aspect": ["5&&cấu", "6&&hình"], "predicate": ["7&&không", "8&&còn", "9&&là", "10&&cấu", "11&&hình", "12&&mạnh", "13&&mẽ", "14&&nhất", "15&&trong", "16&&thế", "17&&giới", "18&&smartphone", "19&&nữa"], "label": "SUP"}
+
+iPhone12 Pro Max cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	iPhone12 Pro Max cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&iPhone12", "2&&Pro", "3&&Max"], "object": [], "aspect": ["6&&kích", "7&&thước"], "predicate": ["8&&lớn", "9&&nhất", "10&&trong", "11&&Galaxy", "12&&S20", "13&&Series", "14&&vừa", "15&&ra", "16&&mắt"], "label": "SUP"}
+
+Samsung cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Samsung cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Samsung"], "object": [], "aspect": ["4&&kích", "5&&thước"], "predicate": ["6&&lớn", "7&&nhất", "8&&trong", "9&&Galaxy", "10&&S20", "11&&Series", "12&&vừa", "13&&ra", "14&&mắt"], "label": "SUP"}
+
+cả hai cũng có màn hình lớn nhất từ trước đến nay .	cả hai cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&cả", "2&&hai"], "object": [], "aspect": ["5&&màn", "6&&hình"], "predicate": ["7&&lớn", "8&&nhất", "9&&từ", "10&&trước", "11&&đến", "12&&nay"], "label": "SUP"}
+
+đây cũng có phiên bản nhỏ nhất .	đây cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&đây"], "object": [], "aspect": ["4&&phiên", "5&&bản"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP"}
+
+mẫu flagship mới nhất của Samsung cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	mẫu flagship mới nhất của Samsung cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&mẫu", "2&&flagship", "3&&mới", "4&&nhất", "5&&của", "6&&Samsung"], "object": [], "aspect": ["9&&kích", "10&&thước"], "predicate": ["11&&lớn", "12&&nhất", "13&&trong", "14&&Galaxy", "15&&S20", "16&&Series", "17&&vừa", "18&&ra", "19&&mắt"], "label": "SUP"}
+
+Galaxy M32 5G cũng có màn hình lớn nhất từ trước đến nay .	Galaxy M32 5G cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Galaxy", "2&&M32", "3&&5G"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+Đây cũng có màn hình lớn nhất từ trước đến nay .	Đây cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Đây"], "object": [], "aspect": ["4&&màn", "5&&hình"], "predicate": ["6&&lớn", "7&&nhất", "8&&từ", "9&&trước", "10&&đến", "11&&nay"], "label": "SUP"}
+
+Galaxy Note 20 Ultra cũng có phiên bản nhỏ nhất .	Galaxy Note 20 Ultra cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&Note", "3&&20", "4&&Ultra"], "object": [], "aspect": ["7&&phiên", "8&&bản"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP"}
+
+Samsung cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Samsung cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Samsung"], "object": [], "aspect": ["4&&cấu", "5&&hình"], "predicate": ["6&&không", "7&&còn", "8&&là", "9&&cấu", "10&&hình", "11&&mạnh", "12&&mẽ", "13&&nhất", "14&&trong", "15&&thế", "16&&giới", "17&&smartphone", "18&&nữa"], "label": "SUP"}
+
+iPhone SE 2016 cũng có phiên bản nhỏ nhất .	iPhone SE 2016 cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&iPhone", "2&&SE", "3&&2016"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+S22 Ultra 5G cũng có màn hình lớn nhất từ trước đến nay .	S22 Ultra 5G cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&S22", "2&&Ultra", "3&&5G"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+iPhone 13 Pro Max cũng có phiên bản nhỏ nhất .	iPhone 13 Pro Max cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&iPhone", "2&&13", "3&&Pro", "4&&Max"], "object": [], "aspect": ["7&&phiên", "8&&bản"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP"}
+
+Motorola One Fusion + cũng có phiên bản nhỏ nhất .	Motorola One Fusion + cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Motorola", "2&&One", "3&&Fusion", "4&&+"], "object": [], "aspect": ["7&&phiên", "8&&bản"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP"}
+
+đây cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	đây cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&đây"], "object": [], "aspect": ["4&&cấu", "5&&hình"], "predicate": ["6&&không", "7&&còn", "8&&là", "9&&cấu", "10&&hình", "11&&mạnh", "12&&mẽ", "13&&nhất", "14&&trong", "15&&thế", "16&&giới", "17&&smartphone", "18&&nữa"], "label": "SUP"}
+
+iPhone 12 Pro Max cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	iPhone 12 Pro Max cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": ["7&&kích", "8&&thước"], "predicate": ["9&&lớn", "10&&nhất", "11&&trong", "12&&Galaxy", "13&&S20", "14&&Series", "15&&vừa", "16&&ra", "17&&mắt"], "label": "SUP"}
+
+đây cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	đây cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&đây"], "object": [], "aspect": ["4&&cấu", "5&&hình"], "predicate": ["6&&không", "7&&còn", "8&&là", "9&&cấu", "10&&hình", "11&&mạnh", "12&&mẽ", "13&&nhất", "14&&trong", "15&&thế", "16&&giới", "17&&smartphone", "18&&nữa"], "label": "SUP"}
+
+Galaxy Z Fold 4 cũng có phiên bản nhỏ nhất .	Galaxy Z Fold 4 cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold", "4&&4"], "object": [], "aspect": ["7&&phiên", "8&&bản"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP"}
+
+iPhone12 Pro Max cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	iPhone12 Pro Max cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&iPhone12", "2&&Pro", "3&&Max"], "object": [], "aspect": ["6&&kích", "7&&thước"], "predicate": ["8&&lớn", "9&&nhất", "10&&trong", "11&&Galaxy", "12&&S20", "13&&Series", "14&&vừa", "15&&ra", "16&&mắt"], "label": "SUP"}
+
+Redmi Note 11 cũng có màn hình lớn nhất từ trước đến nay .	Redmi Note 11 cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Redmi", "2&&Note", "3&&11"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+cả hai cũng có phiên bản nhỏ nhất .	cả hai cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&cả", "2&&hai"], "object": [], "aspect": ["5&&phiên", "6&&bản"], "predicate": ["7&&nhỏ", "8&&nhất"], "label": "SUP"}
+
+Google Pixel 5 cũng có màn hình lớn nhất từ trước đến nay .	Google Pixel 5 cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Google", "2&&Pixel", "3&&5"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+Điện thoại mới cũng có phiên bản nhỏ nhất .	Điện thoại mới cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Điện", "2&&thoại", "3&&mới"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+Cả ba chiếc máy cũng có phiên bản nhỏ nhất .	Cả ba chiếc máy cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Cả", "2&&ba", "3&&chiếc", "4&&máy"], "object": [], "aspect": ["7&&phiên", "8&&bản"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP"}
+
+Redmi Note 11 cũng có phiên bản nhỏ nhất .	Redmi Note 11 cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Redmi", "2&&Note", "3&&11"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+Samsung cũng có màn hình lớn nhất từ trước đến nay .	Samsung cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Samsung"], "object": [], "aspect": ["4&&màn", "5&&hình"], "predicate": ["6&&lớn", "7&&nhất", "8&&từ", "9&&trước", "10&&đến", "11&&nay"], "label": "SUP"}
+
+Galaxy Z Flip cũng có phiên bản nhỏ nhất .	Galaxy Z Flip cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Flip"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+mẫu flagship mới nhất của Samsung cũng có phiên bản nhỏ nhất .	mẫu flagship mới nhất của Samsung cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&mẫu", "2&&flagship", "3&&mới", "4&&nhất", "5&&của", "6&&Samsung"], "object": [], "aspect": ["9&&phiên", "10&&bản"], "predicate": ["11&&nhỏ", "12&&nhất"], "label": "SUP"}
+
+Galaxy Note20 Ultra cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Galaxy Note20 Ultra cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Galaxy", "2&&Note20", "3&&Ultra"], "object": [], "aspect": ["6&&cấu", "7&&hình"], "predicate": ["8&&không", "9&&còn", "10&&là", "11&&cấu", "12&&hình", "13&&mạnh", "14&&mẽ", "15&&nhất", "16&&trong", "17&&thế", "18&&giới", "19&&smartphone", "20&&nữa"], "label": "SUP"}
+
+Xiaomi cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Xiaomi cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Xiaomi"], "object": [], "aspect": ["4&&cấu", "5&&hình"], "predicate": ["6&&không", "7&&còn", "8&&là", "9&&cấu", "10&&hình", "11&&mạnh", "12&&mẽ", "13&&nhất", "14&&trong", "15&&thế", "16&&giới", "17&&smartphone", "18&&nữa"], "label": "SUP"}
+
+Samsung Galaxy S22 Ultra cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Samsung Galaxy S22 Ultra cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S22", "4&&Ultra"], "object": [], "aspect": ["7&&kích", "8&&thước"], "predicate": ["9&&lớn", "10&&nhất", "11&&trong", "12&&Galaxy", "13&&S20", "14&&Series", "15&&vừa", "16&&ra", "17&&mắt"], "label": "SUP"}
+
+đây cũng có phiên bản nhỏ nhất .	đây cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&đây"], "object": [], "aspect": ["4&&phiên", "5&&bản"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP"}
+
+hệ điều hành cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	hệ điều hành cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&hệ", "2&&điều", "3&&hành"], "object": [], "aspect": ["6&&cấu", "7&&hình"], "predicate": ["8&&không", "9&&còn", "10&&là", "11&&cấu", "12&&hình", "13&&mạnh", "14&&mẽ", "15&&nhất", "16&&trong", "17&&thế", "18&&giới", "19&&smartphone", "20&&nữa"], "label": "SUP"}
+
+Samsung Galaxy S22 Ultra cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Samsung Galaxy S22 Ultra cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S22", "4&&Ultra"], "object": [], "aspect": ["7&&kích", "8&&thước"], "predicate": ["9&&lớn", "10&&nhất", "11&&trong", "12&&Galaxy", "13&&S20", "14&&Series", "15&&vừa", "16&&ra", "17&&mắt"], "label": "SUP"}
+
+Điện thoại mới cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Điện thoại mới cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Điện", "2&&thoại", "3&&mới"], "object": [], "aspect": ["6&&kích", "7&&thước"], "predicate": ["8&&lớn", "9&&nhất", "10&&trong", "11&&Galaxy", "12&&S20", "13&&Series", "14&&vừa", "15&&ra", "16&&mắt"], "label": "SUP"}
+
+Galaxy Z Flip cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Galaxy Z Flip cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Flip"], "object": [], "aspect": ["6&&cấu", "7&&hình"], "predicate": ["8&&không", "9&&còn", "10&&là", "11&&cấu", "12&&hình", "13&&mạnh", "14&&mẽ", "15&&nhất", "16&&trong", "17&&thế", "18&&giới", "19&&smartphone", "20&&nữa"], "label": "SUP"}
+
+Galaxy S23 cũng có phiên bản nhỏ nhất .	Galaxy S23 cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&S23"], "object": [], "aspect": ["5&&phiên", "6&&bản"], "predicate": ["7&&nhỏ", "8&&nhất"], "label": "SUP"}
+
+cả hai cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	cả hai cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&cả", "2&&hai"], "object": [], "aspect": ["5&&cấu", "6&&hình"], "predicate": ["7&&không", "8&&còn", "9&&là", "10&&cấu", "11&&hình", "12&&mạnh", "13&&mẽ", "14&&nhất", "15&&trong", "16&&thế", "17&&giới", "18&&smartphone", "19&&nữa"], "label": "SUP"}
+
+iPhone 12 Pro Max cũng có phiên bản nhỏ nhất .	iPhone 12 Pro Max cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": ["7&&phiên", "8&&bản"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP"}
+
+Galaxy S21 Ultra cũng có màn hình lớn nhất từ trước đến nay .	Galaxy S21 Ultra cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Galaxy", "2&&S21", "3&&Ultra"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+đây cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	đây cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&đây"], "object": [], "aspect": ["4&&kích", "5&&thước"], "predicate": ["6&&lớn", "7&&nhất", "8&&trong", "9&&Galaxy", "10&&S20", "11&&Series", "12&&vừa", "13&&ra", "14&&mắt"], "label": "SUP"}
+
+đây cũng có màn hình lớn nhất từ trước đến nay .	đây cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&đây"], "object": [], "aspect": ["4&&màn", "5&&hình"], "predicate": ["6&&lớn", "7&&nhất", "8&&từ", "9&&trước", "10&&đến", "11&&nay"], "label": "SUP"}
+
+đây cũng có phiên bản nhỏ nhất .	đây cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&đây"], "object": [], "aspect": ["4&&phiên", "5&&bản"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP"}
+
+iPhone 11 Pro Max cũng có phiên bản nhỏ nhất .	iPhone 11 Pro Max cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&iPhone", "2&&11", "3&&Pro", "4&&Max"], "object": [], "aspect": ["7&&phiên", "8&&bản"], "predicate": ["9&&nhỏ", "10&&nhất"], "label": "SUP"}
+
+đây cũng có màn hình lớn nhất từ trước đến nay .	đây cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&đây"], "object": [], "aspect": ["4&&màn", "5&&hình"], "predicate": ["6&&lớn", "7&&nhất", "8&&từ", "9&&trước", "10&&đến", "11&&nay"], "label": "SUP"}
+
+mẫu flagship mới nhất của Samsung cũng có màn hình lớn nhất từ trước đến nay .	mẫu flagship mới nhất của Samsung cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&mẫu", "2&&flagship", "3&&mới", "4&&nhất", "5&&của", "6&&Samsung"], "object": [], "aspect": ["9&&màn", "10&&hình"], "predicate": ["11&&lớn", "12&&nhất", "13&&từ", "14&&trước", "15&&đến", "16&&nay"], "label": "SUP"}
+
+Realme 6 Pro cũng có phiên bản nhỏ nhất .	Realme 6 Pro cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Realme", "2&&6", "3&&Pro"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+ROG Phone 2 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	ROG Phone 2 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&ROG", "2&&Phone", "3&&2"], "object": [], "aspect": ["6&&kích", "7&&thước"], "predicate": ["8&&lớn", "9&&nhất", "10&&trong", "11&&Galaxy", "12&&S20", "13&&Series", "14&&vừa", "15&&ra", "16&&mắt"], "label": "SUP"}
+
+iPhone của Apple cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	iPhone của Apple cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&iPhone", "2&&của", "3&&Apple"], "object": [], "aspect": ["6&&kích", "7&&thước"], "predicate": ["8&&lớn", "9&&nhất", "10&&trong", "11&&Galaxy", "12&&S20", "13&&Series", "14&&vừa", "15&&ra", "16&&mắt"], "label": "SUP"}
+
+Samsung cũng có phiên bản nhỏ nhất .	Samsung cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Samsung"], "object": [], "aspect": ["4&&phiên", "5&&bản"], "predicate": ["6&&nhỏ", "7&&nhất"], "label": "SUP"}
+
+S22 Ultra 5G cũng có màn hình lớn nhất từ trước đến nay .	S22 Ultra 5G cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&S22", "2&&Ultra", "3&&5G"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+M51 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	M51 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&M51"], "object": [], "aspect": ["4&&cấu", "5&&hình"], "predicate": ["6&&không", "7&&còn", "8&&là", "9&&cấu", "10&&hình", "11&&mạnh", "12&&mẽ", "13&&nhất", "14&&trong", "15&&thế", "16&&giới", "17&&smartphone", "18&&nữa"], "label": "SUP"}
+
+Galaxy A24 cũng có phiên bản nhỏ nhất .	Galaxy A24 cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Galaxy", "2&&A24"], "object": [], "aspect": ["5&&phiên", "6&&bản"], "predicate": ["7&&nhỏ", "8&&nhất"], "label": "SUP"}
+
+iPhone 14 Plus cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	iPhone 14 Plus cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&iPhone", "2&&14", "3&&Plus"], "object": [], "aspect": ["6&&cấu", "7&&hình"], "predicate": ["8&&không", "9&&còn", "10&&là", "11&&cấu", "12&&hình", "13&&mạnh", "14&&mẽ", "15&&nhất", "16&&trong", "17&&thế", "18&&giới", "19&&smartphone", "20&&nữa"], "label": "SUP"}
+
+Galaxy Z Fold 4 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Galaxy Z Fold 4 cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold", "4&&4"], "object": [], "aspect": ["7&&kích", "8&&thước"], "predicate": ["9&&lớn", "10&&nhất", "11&&trong", "12&&Galaxy", "13&&S20", "14&&Series", "15&&vừa", "16&&ra", "17&&mắt"], "label": "SUP"}
+
+Samsung cũng có màn hình lớn nhất từ trước đến nay .	Samsung cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Samsung"], "object": [], "aspect": ["4&&màn", "5&&hình"], "predicate": ["6&&lớn", "7&&nhất", "8&&từ", "9&&trước", "10&&đến", "11&&nay"], "label": "SUP"}
+
+Redmi Note 11 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Redmi Note 11 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Redmi", "2&&Note", "3&&11"], "object": [], "aspect": ["6&&cấu", "7&&hình"], "predicate": ["8&&không", "9&&còn", "10&&là", "11&&cấu", "12&&hình", "13&&mạnh", "14&&mẽ", "15&&nhất", "16&&trong", "17&&thế", "18&&giới", "19&&smartphone", "20&&nữa"], "label": "SUP"}
+
+Dòng Galaxy S22 series cũng có màn hình lớn nhất từ trước đến nay .	Dòng Galaxy S22 series cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Dòng", "2&&Galaxy", "3&&S22", "4&&series"], "object": [], "aspect": ["7&&màn", "8&&hình"], "predicate": ["9&&lớn", "10&&nhất", "11&&từ", "12&&trước", "13&&đến", "14&&nay"], "label": "SUP"}
+
+iPhone 14 Plus cũng có phiên bản nhỏ nhất .	iPhone 14 Plus cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&iPhone", "2&&14", "3&&Plus"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+iPhone 13 Pro cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	iPhone 13 Pro cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&iPhone", "2&&13", "3&&Pro"], "object": [], "aspect": ["6&&cấu", "7&&hình"], "predicate": ["8&&không", "9&&còn", "10&&là", "11&&cấu", "12&&hình", "13&&mạnh", "14&&mẽ", "15&&nhất", "16&&trong", "17&&thế", "18&&giới", "19&&smartphone", "20&&nữa"], "label": "SUP"}
+
+smartphone Xiaomi cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	smartphone Xiaomi cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&smartphone", "2&&Xiaomi"], "object": [], "aspect": ["5&&cấu", "6&&hình"], "predicate": ["7&&không", "8&&còn", "9&&là", "10&&cấu", "11&&hình", "12&&mạnh", "13&&mẽ", "14&&nhất", "15&&trong", "16&&thế", "17&&giới", "18&&smartphone", "19&&nữa"], "label": "SUP"}
+
+iPhone SE 2016 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	iPhone SE 2016 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&iPhone", "2&&SE", "3&&2016"], "object": [], "aspect": ["6&&cấu", "7&&hình"], "predicate": ["8&&không", "9&&còn", "10&&là", "11&&cấu", "12&&hình", "13&&mạnh", "14&&mẽ", "15&&nhất", "16&&trong", "17&&thế", "18&&giới", "19&&smartphone", "20&&nữa"], "label": "SUP"}
+
+Pixel 7 Pro cũng có phiên bản nhỏ nhất .	Pixel 7 Pro cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+Sản phẩm cũng có màn hình lớn nhất từ trước đến nay .	Sản phẩm cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Sản", "2&&phẩm"], "object": [], "aspect": ["5&&màn", "6&&hình"], "predicate": ["7&&lớn", "8&&nhất", "9&&từ", "10&&trước", "11&&đến", "12&&nay"], "label": "SUP"}
+
+Sản phẩm cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Sản phẩm cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Sản", "2&&phẩm"], "object": [], "aspect": ["5&&cấu", "6&&hình"], "predicate": ["7&&không", "8&&còn", "9&&là", "10&&cấu", "11&&hình", "12&&mạnh", "13&&mẽ", "14&&nhất", "15&&trong", "16&&thế", "17&&giới", "18&&smartphone", "19&&nữa"], "label": "SUP"}
+
+Galaxy S23 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	Galaxy S23 cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&Galaxy", "2&&S23"], "object": [], "aspect": ["5&&cấu", "6&&hình"], "predicate": ["7&&không", "8&&còn", "9&&là", "10&&cấu", "11&&hình", "12&&mạnh", "13&&mẽ", "14&&nhất", "15&&trong", "16&&thế", "17&&giới", "18&&smartphone", "19&&nữa"], "label": "SUP"}
+
+Sản phẩm cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Sản phẩm cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Sản", "2&&phẩm"], "object": [], "aspect": ["5&&kích", "6&&thước"], "predicate": ["7&&lớn", "8&&nhất", "9&&trong", "10&&Galaxy", "11&&S20", "12&&Series", "13&&vừa", "14&&ra", "15&&mắt"], "label": "SUP"}
+
+ROG Phone 2 cũng có màn hình lớn nhất từ trước đến nay .	ROG Phone 2 cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&ROG", "2&&Phone", "3&&2"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+iPhone12 Pro Max cũng có phiên bản nhỏ nhất .	iPhone12 Pro Max cũng có phiên bản nhỏ nhất .
+{"subject": ["1&&iPhone12", "2&&Pro", "3&&Max"], "object": [], "aspect": ["6&&phiên", "7&&bản"], "predicate": ["8&&nhỏ", "9&&nhất"], "label": "SUP"}
+
+iPhone 12 Pro Max cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	iPhone 12 Pro Max cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": ["7&&cấu", "8&&hình"], "predicate": ["9&&không", "10&&còn", "11&&là", "12&&cấu", "13&&hình", "14&&mạnh", "15&&mẽ", "16&&nhất", "17&&trong", "18&&thế", "19&&giới", "20&&smartphone", "21&&nữa"], "label": "SUP"}
+
+iPhone12 Pro Max cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	iPhone12 Pro Max cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&iPhone12", "2&&Pro", "3&&Max"], "object": [], "aspect": ["6&&cấu", "7&&hình"], "predicate": ["8&&không", "9&&còn", "10&&là", "11&&cấu", "12&&hình", "13&&mạnh", "14&&mẽ", "15&&nhất", "16&&trong", "17&&thế", "18&&giới", "19&&smartphone", "20&&nữa"], "label": "SUP"}
+
+iPhone 11 Pro Max cũng có màn hình lớn nhất từ trước đến nay .	iPhone 11 Pro Max cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&iPhone", "2&&11", "3&&Pro", "4&&Max"], "object": [], "aspect": ["7&&màn", "8&&hình"], "predicate": ["9&&lớn", "10&&nhất", "11&&từ", "12&&trước", "13&&đến", "14&&nay"], "label": "SUP"}
+
+Galaxy A24 cũng có màn hình lớn nhất từ trước đến nay .	Galaxy A24 cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Galaxy", "2&&A24"], "object": [], "aspect": ["5&&màn", "6&&hình"], "predicate": ["7&&lớn", "8&&nhất", "9&&từ", "10&&trước", "11&&đến", "12&&nay"], "label": "SUP"}
+
+iPhone của Apple cũng có màn hình lớn nhất từ trước đến nay .	iPhone của Apple cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&iPhone", "2&&của", "3&&Apple"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+Đây cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	Đây cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&Đây"], "object": [], "aspect": ["4&&kích", "5&&thước"], "predicate": ["6&&lớn", "7&&nhất", "8&&trong", "9&&Galaxy", "10&&S20", "11&&Series", "12&&vừa", "13&&ra", "14&&mắt"], "label": "SUP"}
+
+OPPO Find X6 Pro cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	OPPO Find X6 Pro cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .
+{"subject": ["1&&OPPO", "2&&Find", "3&&X6", "4&&Pro"], "object": [], "aspect": ["7&&kích", "8&&thước"], "predicate": ["9&&lớn", "10&&nhất", "11&&trong", "12&&Galaxy", "13&&S20", "14&&Series", "15&&vừa", "16&&ra", "17&&mắt"], "label": "SUP"}
+
+Redmi Note 11 cũng có màn hình lớn nhất từ trước đến nay .	Redmi Note 11 cũng có màn hình lớn nhất từ trước đến nay .
+{"subject": ["1&&Redmi", "2&&Note", "3&&11"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&nhất", "10&&từ", "11&&trước", "12&&đến", "13&&nay"], "label": "SUP"}
+
+A15 Bionic cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .	A15 Bionic cũng có cấu hình không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa .
+{"subject": ["1&&A15", "2&&Bionic"], "object": [], "aspect": ["5&&cấu", "6&&hình"], "predicate": ["7&&không", "8&&còn", "9&&là", "10&&cấu", "11&&hình", "12&&mạnh", "13&&mẽ", "14&&nhất", "15&&trong", "16&&thế", "17&&giới", "18&&smartphone", "19&&nữa"], "label": "SUP"}
+

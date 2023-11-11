@@ -1,0 +1,567 @@
+Mặc dù , không được Apple trang bị chipset mới nhất nhưng ảnh cũng là một bộ vi xử lý tốt nhất từ trước đến nay .	Mặc dù , không được Apple trang bị chipset mới nhất nhưng ảnh cũng là một bộ vi xử lý tốt nhất từ trước đến nay .
+{"subject": ["13&&ảnh"], "object": [], "aspect": [], "predicate": ["21&&tốt", "22&&nhất", "23&&từ", "24&&trước", "25&&đến", "26&&nay"], "label": "SUP+"}
+
+Mặc dù , không được Apple trang bị chipset mới nhất nhưng Thiết bị cũng là một bộ vi xử lý thú vị nhất .	Mặc dù , không được Apple trang bị chipset mới nhất nhưng Thiết bị cũng là một bộ vi xử lý thú vị nhất .
+{"subject": ["13&&Thiết", "14&&bị"], "object": [], "aspect": [], "predicate": ["22&&thú", "23&&vị", "24&&nhất"], "label": "SUP+"}
+
+Mặc dù , không được Apple trang bị chipset mới nhất nhưng Đây cũng là một bộ vi xử lý mạnh mẽ nhất .	Mặc dù , không được Apple trang bị chipset mới nhất nhưng Đây cũng là một bộ vi xử lý mạnh mẽ nhất .
+{"subject": ["13&&Đây"], "object": [], "aspect": [], "predicate": ["21&&mạnh", "22&&mẽ", "23&&nhất"], "label": "SUP+"}
+
+Nếu chỉ xét riêng camera góc rộng ( camera chính ) , Sản phẩm xứng đáng là một trong những chiếc điện thoại hiệu suất cao nhất .	Nếu chỉ xét riêng camera góc rộng ( camera chính ) , Sản phẩm xứng đáng là một trong những chiếc điện thoại hiệu suất cao nhất .
+{"subject": ["13&&Sản", "14&&phẩm"], "object": [], "aspect": ["24&&hiệu", "25&&suất"], "predicate": ["26&&cao", "27&&nhất"], "label": "SUP+"}
+
+Nếu chỉ xét riêng camera góc rộng ( camera chính ) , iPhone 12 Pro Max xứng đáng là một trong những chiếc điện thoại chipset mới nhất của Qualcomm .	Nếu chỉ xét riêng camera góc rộng ( camera chính ) , iPhone 12 Pro Max xứng đáng là một trong những chiếc điện thoại chipset mới nhất của Qualcomm .
+{"subject": ["13&&iPhone", "14&&12", "15&&Pro", "16&&Max"], "object": [], "aspect": ["26&&chipset"], "predicate": ["27&&mới", "28&&nhất", "29&&của", "30&&Qualcomm"], "label": "SUP+"}
+
+Nếu chỉ xét riêng camera góc rộng ( camera chính ) , Galaxy M32 5G xứng đáng là một trong những chiếc điện thoại camera tốt nhất .	Nếu chỉ xét riêng camera góc rộng ( camera chính ) , Galaxy M32 5G xứng đáng là một trong những chiếc điện thoại camera tốt nhất .
+{"subject": ["13&&Galaxy", "14&&M32", "15&&5G"], "object": [], "aspect": ["25&&camera"], "predicate": ["26&&tốt", "27&&nhất"], "label": "SUP+"}
+
+Do đó , không quá ngạc nhiên khi nhiều trang đánh giá uy tín của nước ngoài đều chọn đây là điện thoại màn hình gập Galaxy Z Fold 4 có giá tốt nhất của hãng từ trước đến nay .	Do đó , không quá ngạc nhiên khi nhiều trang đánh giá uy tín của nước ngoài đều chọn đây là điện thoại màn hình gập Galaxy Z Fold 4 có giá tốt nhất của hãng từ trước đến nay .
+{"subject": ["22&&điện", "23&&thoại", "24&&màn", "25&&hình", "26&&gập", "27&&Galaxy", "28&&Z", "29&&Fold", "30&&4"], "object": [], "aspect": ["32&&giá"], "predicate": ["33&&tốt", "34&&nhất", "35&&của", "36&&hãng", "37&&từ", "38&&trước", "39&&đến", "40&&nay"], "label": "SUP+"}
+
+Do đó , không quá ngạc nhiên khi nhiều trang đánh giá uy tín của nước ngoài đều chọn đây là mẫu flagship mới nhất của Samsung có hiệu năng tốt nhất ở thời điểm hiện tại .	Do đó , không quá ngạc nhiên khi nhiều trang đánh giá uy tín của nước ngoài đều chọn đây là mẫu flagship mới nhất của Samsung có hiệu năng tốt nhất ở thời điểm hiện tại .
+{"subject": ["22&&mẫu", "23&&flagship", "24&&mới", "25&&nhất", "26&&của", "27&&Samsung"], "object": [], "aspect": ["29&&hiệu", "30&&năng"], "predicate": ["31&&tốt", "32&&nhất", "33&&ở", "34&&thời", "35&&điểm", "36&&hiện", "37&&tại"], "label": "SUP+"}
+
+Do đó , không quá ngạc nhiên khi nhiều trang đánh giá uy tín của nước ngoài đều chọn đây là Pixel 7 Pro có mức giá bán cao cấp nhất của Samsung .	Do đó , không quá ngạc nhiên khi nhiều trang đánh giá uy tín của nước ngoài đều chọn đây là Pixel 7 Pro có mức giá bán cao cấp nhất của Samsung .
+{"subject": ["22&&Pixel", "23&&7", "24&&Pro"], "object": [], "aspect": ["26&&mức", "27&&giá", "28&&bán"], "predicate": ["29&&cao", "30&&cấp", "31&&nhất", "32&&của", "33&&Samsung"], "label": "SUP+"}
+
+Cấu hình được trang bị trên S21 Ultra là chất lượng được đánh giá cao nhất , Ram 12GB thoải mái cho việc đa nhiệm cùng bộ nhớ trong 128GB .	Cấu hình được trang bị trên S21 Ultra là chất lượng được đánh giá cao nhất , Ram 12GB thoải mái cho việc đa nhiệm cùng bộ nhớ trong 128GB .
+{"subject": ["7&&S21", "8&&Ultra"], "object": [], "aspect": ["10&&chất", "11&&lượng"], "predicate": ["12&&được", "13&&đánh", "14&&giá", "15&&cao", "16&&nhất"], "label": "SUP+"}
+
+Cấu hình được trang bị trên Galaxy Note 9 là hiệu năng đứng TOP đầu thế giới , Ram 12GB thoải mái cho việc đa nhiệm cùng bộ nhớ trong 128GB .	Cấu hình được trang bị trên Galaxy Note 9 là hiệu năng đứng TOP đầu thế giới , Ram 12GB thoải mái cho việc đa nhiệm cùng bộ nhớ trong 128GB .
+{"subject": ["7&&Galaxy", "8&&Note", "9&&9"], "object": [], "aspect": ["11&&hiệu", "12&&năng"], "predicate": ["13&&đứng", "14&&TOP", "15&&đầu", "16&&thế", "17&&giới"], "label": "SUP+"}
+
+Cấu hình được trang bị trên điện thoại màn hình gập Galaxy Z Fold 4 là hệ thống máy ảnh linh hoạt nhất , Ram 12GB thoải mái cho việc đa nhiệm cùng bộ nhớ trong 128GB .	Cấu hình được trang bị trên điện thoại màn hình gập Galaxy Z Fold 4 là hệ thống máy ảnh linh hoạt nhất , Ram 12GB thoải mái cho việc đa nhiệm cùng bộ nhớ trong 128GB .
+{"subject": ["7&&điện", "8&&thoại", "9&&màn", "10&&hình", "11&&gập", "12&&Galaxy", "13&&Z", "14&&Fold", "15&&4"], "object": [], "aspect": ["17&&hệ", "18&&thống", "19&&máy", "20&&ảnh"], "predicate": ["21&&linh", "22&&hoạt", "23&&nhất"], "label": "SUP+"}
+
+đây được ra mắt vào năm 2022 và là sản phẩm tốt nhất từ trước đến nay và là sản phẩm tầm trung đáng mua .	đây được ra mắt vào năm 2022 và là sản phẩm tốt nhất từ trước đến nay và là sản phẩm tầm trung đáng mua .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["12&&tốt", "13&&nhất", "14&&từ", "15&&trước", "16&&đến", "17&&nay"], "label": "SUP+"}
+
+M51 được ra mắt vào năm 2022 và là sản phẩm tốt nhất và là sản phẩm tầm trung đáng mua .	M51 được ra mắt vào năm 2022 và là sản phẩm tốt nhất và là sản phẩm tầm trung đáng mua .
+{"subject": ["1&&M51"], "object": [], "aspect": [], "predicate": ["12&&tốt", "13&&nhất"], "label": "SUP+"}
+
+Samsung Galaxy M51 được ra mắt vào năm 2022 và là sản phẩm mạnh mẽ nhất của Samsung và là sản phẩm tầm trung đáng mua .	Samsung Galaxy M51 được ra mắt vào năm 2022 và là sản phẩm mạnh mẽ nhất của Samsung và là sản phẩm tầm trung đáng mua .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&M51"], "object": [], "aspect": [], "predicate": ["14&&mạnh", "15&&mẽ", "16&&nhất", "17&&của", "18&&Samsung"], "label": "SUP+"}
+
+Nếu như bạn đang muốn tìm kiểm một mẫu iPhone cũ để dùng làm máy phụ thì đây chính là mẫu máy tuyệt vời nhất trên thị trường , bởi nó hội tụ đầy đủ các yếu tố trong một mức giá ở thời điểm hiện tại có lẽ là cực kì hợp lý .	Nếu như bạn đang muốn tìm kiểm một mẫu iPhone cũ để dùng làm máy phụ thì đây chính là mẫu máy tuyệt vời nhất trên thị trường , bởi nó hội tụ đầy đủ các yếu tố trong một mức giá ở thời điểm hiện tại có lẽ là cực kì hợp lý .
+{"subject": ["18&&đây"], "object": [], "aspect": [], "predicate": ["23&&tuyệt", "24&&vời", "25&&nhất", "26&&trên", "27&&thị", "28&&trường"], "label": "SUP+"}
+
+Nếu như bạn đang muốn tìm kiểm một mẫu iPhone cũ để dùng làm máy phụ thì hệ điều hành chính là mẫu máy là nhà vô địch , bởi nó hội tụ đầy đủ các yếu tố trong một mức giá ở thời điểm hiện tại có lẽ là cực kì hợp lý .	Nếu như bạn đang muốn tìm kiểm một mẫu iPhone cũ để dùng làm máy phụ thì hệ điều hành chính là mẫu máy là nhà vô địch , bởi nó hội tụ đầy đủ các yếu tố trong một mức giá ở thời điểm hiện tại có lẽ là cực kì hợp lý .
+{"subject": ["18&&hệ", "19&&điều", "20&&hành"], "object": [], "aspect": [], "predicate": ["25&&là", "26&&nhà", "27&&vô", "28&&địch"], "label": "SUP+"}
+
+Nếu như bạn đang muốn tìm kiểm một mẫu iPhone cũ để dùng làm máy phụ thì Dòng iPhone 12 của nhà Táo chính là mẫu máy tốt nhất , bởi nó hội tụ đầy đủ các yếu tố trong một mức giá ở thời điểm hiện tại có lẽ là cực kì hợp lý .	Nếu như bạn đang muốn tìm kiểm một mẫu iPhone cũ để dùng làm máy phụ thì Dòng iPhone 12 của nhà Táo chính là mẫu máy tốt nhất , bởi nó hội tụ đầy đủ các yếu tố trong một mức giá ở thời điểm hiện tại có lẽ là cực kì hợp lý .
+{"subject": ["18&&Dòng", "19&&iPhone", "20&&12", "21&&của", "22&&nhà", "23&&Táo"], "object": [], "aspect": [], "predicate": ["28&&tốt", "29&&nhất"], "label": "SUP+"}
+
+Galaxy Note 9 chính là món “ hàng hiếm ” mới nhất của Qualcomm	Galaxy Note 9 chính là món “ hàng hiếm ” mới nhất của Qualcomm
+{"subject": ["1&&Galaxy", "2&&Note", "3&&9"], "object": [], "aspect": [], "predicate": ["11&&mới", "12&&nhất", "13&&của", "14&&Qualcomm"], "label": "SUP+"}
+
+đây chính là món “ hàng hiếm ” mạnh mẽ nhất trong thời gian gần đây	đây chính là món “ hàng hiếm ” mạnh mẽ nhất trong thời gian gần đây
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["9&&mạnh", "10&&mẽ", "11&&nhất", "12&&trong", "13&&thời", "14&&gian", "15&&gần", "16&&đây"], "label": "SUP+"}
+
+ảnh chính là món “ hàng hiếm ” tốt nhất của DisplayMate	ảnh chính là món “ hàng hiếm ” tốt nhất của DisplayMate
+{"subject": ["1&&ảnh"], "object": [], "aspect": [], "predicate": ["9&&tốt", "10&&nhất", "11&&của", "12&&DisplayMate"], "label": "SUP+"}
+
+Và nếu như bạn đang từ Android chuyển qua iOS , thì Màn hình của S10 Plus chính là chiếc iPhone tốt nhất trên thị trường .	Và nếu như bạn đang từ Android chuyển qua iOS , thì Màn hình của S10 Plus chính là chiếc iPhone tốt nhất trên thị trường .
+{"subject": ["13&&Màn", "14&&hình", "15&&của", "16&&S10", "17&&Plus"], "object": [], "aspect": [], "predicate": ["22&&tốt", "23&&nhất", "24&&trên", "25&&thị", "26&&trường"], "label": "SUP+"}
+
+Và nếu như bạn đang từ Android chuyển qua iOS , thì Điện thoại mới chính là chiếc iPhone cao nhất .	Và nếu như bạn đang từ Android chuyển qua iOS , thì Điện thoại mới chính là chiếc iPhone cao nhất .
+{"subject": ["13&&Điện", "14&&thoại", "15&&mới"], "object": [], "aspect": [], "predicate": ["20&&cao", "21&&nhất"], "label": "SUP+"}
+
+Và nếu như bạn đang từ Android chuyển qua iOS , thì Pixel 7 Pro chính là chiếc iPhone đẹp nhất hiện nay .	Và nếu như bạn đang từ Android chuyển qua iOS , thì Pixel 7 Pro chính là chiếc iPhone đẹp nhất hiện nay .
+{"subject": ["13&&Pixel", "14&&7", "15&&Pro"], "object": [], "aspect": [], "predicate": ["20&&đẹp", "21&&nhất", "22&&hiện", "23&&nay"], "label": "SUP+"}
+
+đây là chiếc điện thoại dòng S tốt nhất có thể hiện nay sẽ như thế nào khi so sánh với Galaxy Fold 3	đây là chiếc điện thoại dòng S tốt nhất có thể hiện nay sẽ như thế nào khi so sánh với Galaxy Fold 3
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&tốt", "9&&nhất", "10&&có", "11&&thể", "12&&hiện", "13&&nay"], "label": "SUP+"}
+
+đây là chiếc điện thoại dòng S tốt nhất sẽ như thế nào khi so sánh với Galaxy Fold 3	đây là chiếc điện thoại dòng S tốt nhất sẽ như thế nào khi so sánh với Galaxy Fold 3
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["8&&tốt", "9&&nhất"], "label": "SUP+"}
+
+Samsung Galaxy S23 series là chiếc điện thoại dòng S tốt nhất trên thị trường sẽ như thế nào khi so sánh với Galaxy Fold 3	Samsung Galaxy S23 series là chiếc điện thoại dòng S tốt nhất trên thị trường sẽ như thế nào khi so sánh với Galaxy Fold 3
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S23", "4&&series"], "object": [], "aspect": [], "predicate": ["11&&tốt", "12&&nhất", "13&&trên", "14&&thị", "15&&trường"], "label": "SUP+"}
+
+Chắc rằng , iPhone12 Pro Max là một trong những chiếc điện thoại có chụp thiếu sáng tuyệt vời nhất trên thị trường .	Chắc rằng , iPhone12 Pro Max là một trong những chiếc điện thoại có chụp thiếu sáng tuyệt vời nhất trên thị trường .
+{"subject": ["4&&iPhone12", "5&&Pro", "6&&Max"], "object": [], "aspect": ["15&&chụp", "16&&thiếu", "17&&sáng"], "predicate": ["18&&tuyệt", "19&&vời", "20&&nhất", "21&&trên", "22&&thị", "23&&trường"], "label": "SUP+"}
+
+Chắc rằng , chiếc máy là một trong những chiếc điện thoại có thời gian sử dụng tốt nhất hiện nay .	Chắc rằng , chiếc máy là một trong những chiếc điện thoại có thời gian sử dụng tốt nhất hiện nay .
+{"subject": ["4&&chiếc", "5&&máy"], "object": [], "aspect": ["14&&thời", "15&&gian", "16&&sử", "17&&dụng"], "predicate": ["18&&tốt", "19&&nhất", "20&&hiện", "21&&nay"], "label": "SUP+"}
+
+Chắc rằng , Galaxy Z Flip là một trong những chiếc điện thoại có khả năng thu phóng mạnh mẽ nhất trên điện thoại hiện đại .	Chắc rằng , Galaxy Z Flip là một trong những chiếc điện thoại có khả năng thu phóng mạnh mẽ nhất trên điện thoại hiện đại .
+{"subject": ["4&&Galaxy", "5&&Z", "6&&Flip"], "object": [], "aspect": ["15&&khả", "16&&năng", "17&&thu", "18&&phóng"], "predicate": ["19&&mạnh", "20&&mẽ", "21&&nhất", "22&&trên", "23&&điện", "24&&thoại", "25&&hiện", "26&&đại"], "label": "SUP+"}
+
+Hộp đựng Galaxy S20 Ultra đều là những chiếc điện thoại thông minh có chất liệu cao cấp nhất hiện nay của Samsung .	Hộp đựng Galaxy S20 Ultra đều là những chiếc điện thoại thông minh có chất liệu cao cấp nhất hiện nay của Samsung .
+{"subject": ["1&&Hộp", "2&&đựng", "3&&Galaxy", "4&&S20", "5&&Ultra"], "object": [], "aspect": ["15&&chất", "16&&liệu"], "predicate": ["17&&cao", "18&&cấp", "19&&nhất", "20&&hiện", "21&&nay"], "label": "SUP+"}
+
+Galaxy S21 Ultra đều là những chiếc điện thoại thông minh có camera là nhà vô địch của Samsung .	Galaxy S21 Ultra đều là những chiếc điện thoại thông minh có camera là nhà vô địch của Samsung .
+{"subject": ["1&&Galaxy", "2&&S21", "3&&Ultra"], "object": [], "aspect": ["13&&camera"], "predicate": ["14&&là", "15&&nhà", "16&&vô", "17&&địch"], "label": "SUP+"}
+
+iPhone SE 2016 đều là những chiếc điện thoại thông minh có bộ phận phần cứng tiên tiến nhất của Samsung .	iPhone SE 2016 đều là những chiếc điện thoại thông minh có bộ phận phần cứng tiên tiến nhất của Samsung .
+{"subject": ["1&&iPhone", "2&&SE", "3&&2016"], "object": [], "aspect": ["13&&bộ", "14&&phận", "15&&phần", "16&&cứng"], "predicate": ["17&&tiên", "18&&tiến", "19&&nhất"], "label": "SUP+"}
+
+Trong đó , một trong những cao nhất của Galaxy S23 Ultra mà Samsung tự hào nhất là hiệu suất .	Trong đó , một trong những cao nhất của Galaxy S23 Ultra mà Samsung tự hào nhất là hiệu suất .
+{"subject": ["10&&Galaxy", "11&&S23", "12&&Ultra"], "object": [], "aspect": ["19&&hiệu", "20&&suất"], "predicate": ["7&&cao", "8&&nhất"], "label": "SUP+"}
+
+Trong đó , một trong những tốt nhất của iPhone12 Pro Max mà Samsung tự hào nhất là camera .	Trong đó , một trong những tốt nhất của iPhone12 Pro Max mà Samsung tự hào nhất là camera .
+{"subject": ["10&&iPhone12", "11&&Pro", "12&&Max"], "object": [], "aspect": ["19&&camera"], "predicate": ["7&&tốt", "8&&nhất"], "label": "SUP+"}
+
+Trong đó , một trong những đẹp nhất thời điểm hiện tại của model của Apple mà Samsung tự hào nhất là màn hình .	Trong đó , một trong những đẹp nhất thời điểm hiện tại của model của Apple mà Samsung tự hào nhất là màn hình .
+{"subject": ["14&&model", "15&&của", "16&&Apple"], "object": [], "aspect": ["23&&màn", "24&&hình"], "predicate": ["7&&đẹp", "8&&nhất", "9&&thời", "10&&điểm", "11&&hiện", "12&&tại"], "label": "SUP+"}
+
+Title : iPhone 14 Pro Max được trang DisplayMate “ chấm ” là chiếc smartphone có thiết kế mỏng nhẹ thuộc hàng top trong phân khúc	Title : iPhone 14 Pro Max được trang DisplayMate “ chấm ” là chiếc smartphone có thiết kế mỏng nhẹ thuộc hàng top trong phân khúc
+{"subject": ["3&&iPhone", "4&&14", "5&&Pro", "6&&Max"], "object": [], "aspect": ["17&&thiết", "18&&kế"], "predicate": ["19&&mỏng", "20&&nhẹ", "21&&thuộc", "22&&hàng", "23&&top", "24&&trong", "25&&phân", "26&&khúc"], "label": "SUP+"}
+
+Title : Samsung Galaxy M51 được trang DisplayMate “ chấm ” là chiếc smartphone có điện thoại chơi game tốt nhất trên thị trường	Title : Samsung Galaxy M51 được trang DisplayMate “ chấm ” là chiếc smartphone có điện thoại chơi game tốt nhất trên thị trường
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&M51"], "object": [], "aspect": ["16&&điện", "17&&thoại", "18&&chơi", "19&&game"], "predicate": ["20&&tốt", "21&&nhất", "22&&trên", "23&&thị", "24&&trường"], "label": "SUP+"}
+
+Title : điện thoại màn hình gập Galaxy Z Fold 4 được trang DisplayMate “ chấm ” là chiếc smartphone có mức giá bán cao cấp nhất của Samsung	Title : điện thoại màn hình gập Galaxy Z Fold 4 được trang DisplayMate “ chấm ” là chiếc smartphone có mức giá bán cao cấp nhất của Samsung
+{"subject": ["3&&điện", "4&&thoại", "5&&màn", "6&&hình", "7&&gập", "8&&Galaxy", "9&&Z", "10&&Fold", "11&&4"], "object": [], "aspect": ["22&&mức", "23&&giá", "24&&bán"], "predicate": ["25&&cao", "26&&cấp", "27&&nhất", "28&&của", "29&&Samsung"], "label": "SUP+"}
+
+Mới đây , chuyên trang đánh giá màn hình điện thoại DisplayMate đã vừa đưa ra kết luận rằng chiếc smartphone có chất liệu cao cấp nhất hiện nay không ai khác chính là Galaxy S22 Ultra .	Mới đây , chuyên trang đánh giá màn hình điện thoại DisplayMate đã vừa đưa ra kết luận rằng chiếc smartphone có chất liệu cao cấp nhất hiện nay không ai khác chính là Galaxy S22 Ultra .
+{"subject": ["35&&Galaxy", "36&&S22", "37&&Ultra"], "object": [], "aspect": ["23&&chất", "24&&liệu"], "predicate": ["25&&cao", "26&&cấp", "27&&nhất", "28&&hiện", "29&&nay"], "label": "SUP+"}
+
+Mới đây , chuyên trang đánh giá màn hình điện thoại DisplayMate đã vừa đưa ra kết luận rằng chiếc smartphone có dung lượng pin cao nhất được Samsung trang bị cho những dòng máy giá rẻ đến tầm trung không ai khác chính là Realme 6 Pro .	Mới đây , chuyên trang đánh giá màn hình điện thoại DisplayMate đã vừa đưa ra kết luận rằng chiếc smartphone có dung lượng pin cao nhất được Samsung trang bị cho những dòng máy giá rẻ đến tầm trung không ai khác chính là Realme 6 Pro .
+{"subject": ["46&&Realme", "47&&6", "48&&Pro"], "object": [], "aspect": ["23&&dung", "24&&lượng", "25&&pin"], "predicate": ["26&&cao", "27&&nhất", "28&&được", "29&&Samsung", "30&&trang", "31&&bị", "32&&cho", "33&&những", "34&&dòng", "35&&máy", "36&&giá", "37&&rẻ", "38&&đến", "39&&tầm", "40&&trung"], "label": "SUP+"}
+
+Mới đây , chuyên trang đánh giá màn hình điện thoại DisplayMate đã vừa đưa ra kết luận rằng chiếc smartphone có hệ thống máy ảnh linh hoạt nhất không ai khác chính là đây .	Mới đây , chuyên trang đánh giá màn hình điện thoại DisplayMate đã vừa đưa ra kết luận rằng chiếc smartphone có hệ thống máy ảnh linh hoạt nhất không ai khác chính là đây .
+{"subject": ["35&&đây"], "object": [], "aspect": ["23&&hệ", "24&&thống", "25&&máy", "26&&ảnh"], "predicate": ["27&&linh", "28&&hoạt", "29&&nhất"], "label": "SUP+"}
+
+Samsung Galaxy S22 Ultra được đánh giá là smartphone có màn hình đẹp nhất hiện nay	Samsung Galaxy S22 Ultra được đánh giá là smartphone có màn hình đẹp nhất hiện nay
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S22", "4&&Ultra"], "object": [], "aspect": ["11&&màn", "12&&hình"], "predicate": ["13&&đẹp", "14&&nhất", "15&&hiện", "16&&nay"], "label": "SUP+"}
+
+đây được đánh giá là smartphone có màn hình sáng nhất trên bất kỳ điện thoại thông minh nào.Trong	đây được đánh giá là smartphone có màn hình sáng nhất trên bất kỳ điện thoại thông minh nào.Trong
+{"subject": ["1&&đây"], "object": [], "aspect": ["8&&màn", "9&&hình"], "predicate": ["10&&sáng", "11&&nhất", "12&&trên", "13&&bất", "14&&kỳ", "15&&điện", "16&&thoại", "17&&thông", "18&&minh", "19&&nào.Trong"], "label": "SUP+"}
+
+Galaxy S22 Ultra được đánh giá là smartphone có màn hình tốt nhất của DisplayMate	Galaxy S22 Ultra được đánh giá là smartphone có màn hình tốt nhất của DisplayMate
+{"subject": ["1&&Galaxy", "2&&S22", "3&&Ultra"], "object": [], "aspect": ["10&&màn", "11&&hình"], "predicate": ["12&&tốt", "13&&nhất", "14&&của", "15&&DisplayMate"], "label": "SUP+"}
+
+DisplayMate cho biết Snapdragon 888 là smartphone có thiết kế là nhà vô địch mà họ từng thử nghiệm với chất lượng gần như hoàn hảo .	DisplayMate cho biết Snapdragon 888 là smartphone có thiết kế là nhà vô địch mà họ từng thử nghiệm với chất lượng gần như hoàn hảo .
+{"subject": ["4&&Snapdragon", "5&&888"], "object": [], "aspect": ["9&&thiết", "10&&kế"], "predicate": ["11&&là", "12&&nhà", "13&&vô", "14&&địch"], "label": "SUP+"}
+
+DisplayMate cho biết Samsung Galaxy S22 Ultra là smartphone có pin tốt nhất từ trước đến nay mà họ từng thử nghiệm với chất lượng gần như hoàn hảo .	DisplayMate cho biết Samsung Galaxy S22 Ultra là smartphone có pin tốt nhất từ trước đến nay mà họ từng thử nghiệm với chất lượng gần như hoàn hảo .
+{"subject": ["4&&Samsung", "5&&Galaxy", "6&&S22", "7&&Ultra"], "object": [], "aspect": ["11&&pin"], "predicate": ["12&&tốt", "13&&nhất", "14&&từ", "15&&trước", "16&&đến", "17&&nay"], "label": "SUP+"}
+
+DisplayMate cho biết Samsung Galaxy S21 Ultra là smartphone có con chip mạnh nhất 2021 mà họ từng thử nghiệm với chất lượng gần như hoàn hảo .	DisplayMate cho biết Samsung Galaxy S21 Ultra là smartphone có con chip mạnh nhất 2021 mà họ từng thử nghiệm với chất lượng gần như hoàn hảo .
+{"subject": ["4&&Samsung", "5&&Galaxy", "6&&S21", "7&&Ultra"], "object": [], "aspect": ["11&&con", "12&&chip"], "predicate": ["13&&mạnh", "14&&nhất", "15&&2021"], "label": "SUP+"}
+
+“ Dựa vào các thử nghiệm của chúng tôi , Galaxy Note20 Ultra nhận được danh hiệu smartphone có viên pin khủng nhất trên thị trường hiện nay với điểm A + cao nhất ” .	“ Dựa vào các thử nghiệm của chúng tôi , Galaxy Note20 Ultra nhận được danh hiệu smartphone có viên pin khủng nhất trên thị trường hiện nay với điểm A + cao nhất ” .
+{"subject": ["11&&Galaxy", "12&&Note20", "13&&Ultra"], "object": [], "aspect": ["20&&viên", "21&&pin"], "predicate": ["22&&khủng", "23&&nhất", "24&&trên", "25&&thị", "26&&trường", "27&&hiện", "28&&nay"], "label": "SUP+"}
+
+“ Dựa vào các thử nghiệm của chúng tôi , Redmi Note 11 nhận được danh hiệu smartphone có điện thoại chơi game tốt nhất trên thị trường với điểm A + cao nhất ” .	“ Dựa vào các thử nghiệm của chúng tôi , Redmi Note 11 nhận được danh hiệu smartphone có điện thoại chơi game tốt nhất trên thị trường với điểm A + cao nhất ” .
+{"subject": ["11&&Redmi", "12&&Note", "13&&11"], "object": [], "aspect": ["20&&điện", "21&&thoại", "22&&chơi", "23&&game"], "predicate": ["24&&tốt", "25&&nhất", "26&&trên", "27&&thị", "28&&trường"], "label": "SUP+"}
+
+“ Dựa vào các thử nghiệm của chúng tôi , đây nhận được danh hiệu smartphone có chế độ night mode khả năng chụp ảnh tốt nhất với điểm A + cao nhất ” .	“ Dựa vào các thử nghiệm của chúng tôi , đây nhận được danh hiệu smartphone có chế độ night mode khả năng chụp ảnh tốt nhất với điểm A + cao nhất ” .
+{"subject": ["11&&đây"], "object": [], "aspect": ["18&&chế", "19&&độ", "20&&night", "21&&mode"], "predicate": ["22&&khả", "23&&năng", "24&&chụp", "25&&ảnh", "26&&tốt", "27&&nhất"], "label": "SUP+"}
+
+Realme 6 Pro từ trước đến nay đều được nhiều người dùng ca ngợi là có màn hình đẹp nhất thời điểm hiện tại .	Realme 6 Pro từ trước đến nay đều được nhiều người dùng ca ngợi là có màn hình đẹp nhất thời điểm hiện tại .
+{"subject": ["1&&Realme", "2&&6", "3&&Pro"], "object": [], "aspect": ["17&&màn", "18&&hình"], "predicate": ["19&&đẹp", "20&&nhất", "21&&thời", "22&&điểm", "23&&hiện", "24&&tại"], "label": "SUP+"}
+
+S10 Plus từ trước đến nay đều được nhiều người dùng ca ngợi là có hệ thống máy ảnh linh hoạt nhất .	S10 Plus từ trước đến nay đều được nhiều người dùng ca ngợi là có hệ thống máy ảnh linh hoạt nhất .
+{"subject": ["1&&S10", "2&&Plus"], "object": [], "aspect": ["16&&hệ", "17&&thống", "18&&máy", "19&&ảnh"], "predicate": ["20&&linh", "21&&hoạt", "22&&nhất"], "label": "SUP+"}
+
+Galaxy Note 9 từ trước đến nay đều được nhiều người dùng ca ngợi là có hiệu năng đứng TOP đầu thế giới .	Galaxy Note 9 từ trước đến nay đều được nhiều người dùng ca ngợi là có hiệu năng đứng TOP đầu thế giới .
+{"subject": ["1&&Galaxy", "2&&Note", "3&&9"], "object": [], "aspect": ["17&&hiệu", "18&&năng"], "predicate": ["19&&đứng", "20&&TOP", "21&&đầu", "22&&thế", "23&&giới"], "label": "SUP+"}
+
+vi xử lý Apple M1 trên iPad Pro là Smartphone Android khả năng chụp ảnh tốt nhất .	vi xử lý Apple M1 trên iPad Pro là Smartphone Android khả năng chụp ảnh tốt nhất .
+{"subject": ["1&&vi", "2&&xử", "3&&lý", "4&&Apple", "5&&M1", "6&&trên", "7&&iPad", "8&&Pro"], "object": [], "aspect": [], "predicate": ["12&&khả", "13&&năng", "14&&chụp", "15&&ảnh", "16&&tốt", "17&&nhất"], "label": "SUP+"}
+
+Pixel 7 Pro là Smartphone Android thuộc hàng tốt nhất .	Pixel 7 Pro là Smartphone Android thuộc hàng tốt nhất .
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": [], "aspect": [], "predicate": ["7&&thuộc", "8&&hàng", "9&&tốt", "10&&nhất"], "label": "SUP+"}
+
+Pixel 7 Pro là Smartphone Android khủng nhất nhì trên thị trường hiện nay .	Pixel 7 Pro là Smartphone Android khủng nhất nhì trên thị trường hiện nay .
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": [], "aspect": [], "predicate": ["7&&khủng", "8&&nhất", "9&&nhì", "10&&trên", "11&&thị", "12&&trường", "13&&hiện", "14&&nay"], "label": "SUP+"}
+
+Galaxy A24 có màn hình đẹp nhất hiện nay , chỉ 7.9 mm .	Galaxy A24 có màn hình đẹp nhất hiện nay , chỉ 7.9 mm .
+{"subject": ["1&&Galaxy", "2&&A24"], "object": [], "aspect": ["4&&màn", "5&&hình"], "predicate": ["6&&đẹp", "7&&nhất", "8&&hiện", "9&&nay"], "label": "SUP+"}
+
+Đây có chất liệu cao cấp nhất hiện nay , chỉ 7.9 mm .	Đây có chất liệu cao cấp nhất hiện nay , chỉ 7.9 mm .
+{"subject": ["1&&Đây"], "object": [], "aspect": ["3&&chất", "4&&liệu"], "predicate": ["5&&cao", "6&&cấp", "7&&nhất", "8&&hiện", "9&&nay"], "label": "SUP+"}
+
+điện thoại màn hình gập Galaxy Z Fold 4 có màn hình đẹp nhất hiện nay , chỉ 7.9 mm .	điện thoại màn hình gập Galaxy Z Fold 4 có màn hình đẹp nhất hiện nay , chỉ 7.9 mm .
+{"subject": ["1&&điện", "2&&thoại", "3&&màn", "4&&hình", "5&&gập", "6&&Galaxy", "7&&Z", "8&&Fold", "9&&4"], "object": [], "aspect": ["11&&màn", "12&&hình"], "predicate": ["13&&đẹp", "14&&nhất", "15&&hiện", "16&&nay"], "label": "SUP+"}
+
+Trong khi Galaxy S23 cũng là một trong những smartphone Android sở hữu nhiều khả năng chụp ảnh tốt nhất .	Trong khi Galaxy S23 cũng là một trong những smartphone Android sở hữu nhiều khả năng chụp ảnh tốt nhất .
+{"subject": ["3&&Galaxy", "4&&S23"], "object": [], "aspect": ["15&&khả", "16&&năng", "17&&chụp", "18&&ảnh"], "predicate": ["19&&tốt", "20&&nhất"], "label": "SUP+"}
+
+Trong khi Thiết bị cũng là một trong những smartphone Android sở hữu nhiều phần cứng bên trong mới nhất .	Trong khi Thiết bị cũng là một trong những smartphone Android sở hữu nhiều phần cứng bên trong mới nhất .
+{"subject": ["3&&Thiết", "4&&bị"], "object": [], "aspect": ["15&&phần", "16&&cứng", "17&&bên", "18&&trong"], "predicate": ["19&&mới", "20&&nhất"], "label": "SUP+"}
+
+Trong khi iPhone 12 Pro Max cũng là một trong những smartphone Android sở hữu nhiều hiệu suất mạnh nhất hiện nay .	Trong khi iPhone 12 Pro Max cũng là một trong những smartphone Android sở hữu nhiều hiệu suất mạnh nhất hiện nay .
+{"subject": ["3&&iPhone", "4&&12", "5&&Pro", "6&&Max"], "object": [], "aspect": ["17&&hiệu", "18&&suất"], "predicate": ["19&&mạnh", "20&&nhất", "21&&hiện", "22&&nay"], "label": "SUP+"}
+
+Không những vậy , Sản phẩm cũng được trang bị một trong những con khả năng thu phóng mạnh mẽ nhất trên điện thoại hiện đại - Snapdragon 8 Gen 2 , tốc độ sạc nhanh . . . liệu khi đặt hai thiết bị lên bàn cân so sánh , thì đâu là model hấp dẫn hơn .	Không những vậy , Sản phẩm cũng được trang bị một trong những con khả năng thu phóng mạnh mẽ nhất trên điện thoại hiện đại - Snapdragon 8 Gen 2 , tốc độ sạc nhanh . . . liệu khi đặt hai thiết bị lên bàn cân so sánh , thì đâu là model hấp dẫn hơn .
+{"subject": ["5&&Sản", "6&&phẩm"], "object": [], "aspect": ["15&&khả", "16&&năng", "17&&thu", "18&&phóng"], "predicate": ["19&&mạnh", "20&&mẽ", "21&&nhất", "22&&trên", "23&&điện", "24&&thoại", "25&&hiện", "26&&đại"], "label": "SUP+"}
+
+Không những vậy , iPhone 12 Pro Max cũng được trang bị một trong những con camera là nhà vô địch - Snapdragon 8 Gen 2 , tốc độ sạc nhanh . . . liệu khi đặt hai thiết bị lên bàn cân so sánh , thì đâu là model hấp dẫn hơn .	Không những vậy , iPhone 12 Pro Max cũng được trang bị một trong những con camera là nhà vô địch - Snapdragon 8 Gen 2 , tốc độ sạc nhanh . . . liệu khi đặt hai thiết bị lên bàn cân so sánh , thì đâu là model hấp dẫn hơn .
+{"subject": ["5&&iPhone", "6&&12", "7&&Pro", "8&&Max"], "object": [], "aspect": ["17&&camera"], "predicate": ["18&&là", "19&&nhà", "20&&vô", "21&&địch"], "label": "SUP+"}
+
+Không những vậy , S10 Plus cũng được trang bị một trong những con pin không ai vượt nổi - Snapdragon 8 Gen 2 , tốc độ sạc nhanh . . . liệu khi đặt hai thiết bị lên bàn cân so sánh , thì đâu là model hấp dẫn hơn .	Không những vậy , S10 Plus cũng được trang bị một trong những con pin không ai vượt nổi - Snapdragon 8 Gen 2 , tốc độ sạc nhanh . . . liệu khi đặt hai thiết bị lên bàn cân so sánh , thì đâu là model hấp dẫn hơn .
+{"subject": ["5&&S10", "6&&Plus"], "object": [], "aspect": ["15&&pin"], "predicate": ["16&&không", "17&&ai", "18&&vượt", "19&&nổi"], "label": "SUP+"}
+
+Và với độ sáng màn hình lên tới 1000 nit tối đa thì chiếc máy cũng là một trong những điện thoại có camera tele tốt nhất .	Và với độ sáng màn hình lên tới 1000 nit tối đa thì chiếc máy cũng là một trong những điện thoại có camera tele tốt nhất .
+{"subject": ["14&&chiếc", "15&&máy"], "object": [], "aspect": ["24&&camera", "25&&tele"], "predicate": ["26&&tốt", "27&&nhất"], "label": "SUP+"}
+
+Và với độ sáng màn hình lên tới 1000 nit tối đa thì Samsung Galaxy S21 Ultra cũng là một trong những điện thoại có hiệu suất cao nhất .	Và với độ sáng màn hình lên tới 1000 nit tối đa thì Samsung Galaxy S21 Ultra cũng là một trong những điện thoại có hiệu suất cao nhất .
+{"subject": ["14&&Samsung", "15&&Galaxy", "16&&S21", "17&&Ultra"], "object": [], "aspect": ["26&&hiệu", "27&&suất"], "predicate": ["28&&cao", "29&&nhất"], "label": "SUP+"}
+
+Và với độ sáng màn hình lên tới 1000 nit tối đa thì Dòng iPhone 12 của nhà Táo cũng là một trong những điện thoại có thông số màn hình cao cấp nhất .	Và với độ sáng màn hình lên tới 1000 nit tối đa thì Dòng iPhone 12 của nhà Táo cũng là một trong những điện thoại có thông số màn hình cao cấp nhất .
+{"subject": ["14&&Dòng", "15&&iPhone", "16&&12", "17&&của", "18&&nhà", "19&&Táo"], "object": [], "aspect": ["28&&thông", "29&&số", "30&&màn", "31&&hình"], "predicate": ["32&&cao", "33&&cấp", "34&&nhất"], "label": "SUP+"}
+
+Samsung trang bị cho Galaxy A24 con chip Galaxy Note 20 Ultra được sản xuất trên tiến trình 6nm và là một trong những CPU thuộc hàng tốt nhất .	Samsung trang bị cho Galaxy A24 con chip Galaxy Note 20 Ultra được sản xuất trên tiến trình 6nm và là một trong những CPU thuộc hàng tốt nhất .
+{"subject": ["9&&Galaxy", "10&&Note", "11&&20", "12&&Ultra"], "object": [], "aspect": [], "predicate": ["26&&thuộc", "27&&hàng", "28&&tốt", "29&&nhất"], "label": "SUP+"}
+
+Samsung trang bị cho Galaxy A24 con chip Galaxy Note20 Ultra được sản xuất trên tiến trình 6nm và là một trong những CPU mạnh mẽ nhất .	Samsung trang bị cho Galaxy A24 con chip Galaxy Note20 Ultra được sản xuất trên tiến trình 6nm và là một trong những CPU mạnh mẽ nhất .
+{"subject": ["9&&Galaxy", "10&&Note20", "11&&Ultra"], "object": [], "aspect": [], "predicate": ["25&&mạnh", "26&&mẽ", "27&&nhất"], "label": "SUP+"}
+
+Samsung trang bị cho Galaxy A24 con chip Đây được sản xuất trên tiến trình 6nm và là một trong những CPU thuộc hàng tốt nhất .	Samsung trang bị cho Galaxy A24 con chip Đây được sản xuất trên tiến trình 6nm và là một trong những CPU thuộc hàng tốt nhất .
+{"subject": ["9&&Đây"], "object": [], "aspect": [], "predicate": ["23&&thuộc", "24&&hàng", "25&&tốt", "26&&nhất"], "label": "SUP+"}
+
+Galaxy Note20 Ultra là mẫu điện thoại từng được xếp vào hàng đẹp và ấn tượng nhất trong bộ ba điện thoại này , thế nên không quá khó hiểu vì sao mẫu máy này lại sở hữu nhiều đặc tính cho đến nay vẫn được xem là cao cấp trong thiết kế như mặt lưng kính , khung viền nhôm , cảm biến vân tay , chuẩn kháng nước IP68 và biểu tượng đặc trưng của dòng Note nhà Samsung : Bút S-Pen .	Galaxy Note20 Ultra là mẫu điện thoại từng được xếp vào hàng đẹp và ấn tượng nhất trong bộ ba điện thoại này , thế nên không quá khó hiểu vì sao mẫu máy này lại sở hữu nhiều đặc tính cho đến nay vẫn được xem là cao cấp trong thiết kế như mặt lưng kính , khung viền nhôm , cảm biến vân tay , chuẩn kháng nước IP68 và biểu tượng đặc trưng của dòng Note nhà Samsung : Bút S-Pen .
+{"subject": ["1&&Galaxy", "2&&Note20", "3&&Ultra"], "object": [], "aspect": [], "predicate": ["13&&đẹp", "14&&và", "15&&ấn", "16&&tượng", "17&&nhất", "18&&trong", "19&&bộ", "20&&ba", "21&&điện", "22&&thoại", "23&&này"], "label": "SUP+"}
+
+Đây là mẫu điện thoại từng được xếp vào hàng tốt nhất hiện nay , thế nên không quá khó hiểu vì sao mẫu máy này lại sở hữu nhiều đặc tính cho đến nay vẫn được xem là cao cấp trong thiết kế như mặt lưng kính , khung viền nhôm , cảm biến vân tay , chuẩn kháng nước IP68 và biểu tượng đặc trưng của dòng Note nhà Samsung : Bút S-Pen .	Đây là mẫu điện thoại từng được xếp vào hàng tốt nhất hiện nay , thế nên không quá khó hiểu vì sao mẫu máy này lại sở hữu nhiều đặc tính cho đến nay vẫn được xem là cao cấp trong thiết kế như mặt lưng kính , khung viền nhôm , cảm biến vân tay , chuẩn kháng nước IP68 và biểu tượng đặc trưng của dòng Note nhà Samsung : Bút S-Pen .
+{"subject": ["1&&Đây"], "object": [], "aspect": [], "predicate": ["11&&tốt", "12&&nhất", "13&&hiện", "14&&nay"], "label": "SUP+"}
+
+iPhone 12 Pro Max là mẫu điện thoại từng được xếp vào hàng tốt nhất trên thị trường , thế nên không quá khó hiểu vì sao mẫu máy này lại sở hữu nhiều đặc tính cho đến nay vẫn được xem là cao cấp trong thiết kế như mặt lưng kính , khung viền nhôm , cảm biến vân tay , chuẩn kháng nước IP68 và biểu tượng đặc trưng của dòng Note nhà Samsung : Bút S-Pen .	iPhone 12 Pro Max là mẫu điện thoại từng được xếp vào hàng tốt nhất trên thị trường , thế nên không quá khó hiểu vì sao mẫu máy này lại sở hữu nhiều đặc tính cho đến nay vẫn được xem là cao cấp trong thiết kế như mặt lưng kính , khung viền nhôm , cảm biến vân tay , chuẩn kháng nước IP68 và biểu tượng đặc trưng của dòng Note nhà Samsung : Bút S-Pen .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": [], "predicate": ["14&&tốt", "15&&nhất", "16&&trên", "17&&thị", "18&&trường"], "label": "SUP+"}
+
+smartphone Xiaomi cung cấp thiết kế là nhà vô địch .	smartphone Xiaomi cung cấp thiết kế là nhà vô địch .
+{"subject": ["1&&smartphone", "2&&Xiaomi"], "object": [], "aspect": ["5&&thiết", "6&&kế"], "predicate": ["7&&là", "8&&nhà", "9&&vô", "10&&địch"], "label": "SUP+"}
+
+iPhone 13 Pro Max cung cấp Màn hình được đánh giá cao nhất về chất lượng .	iPhone 13 Pro Max cung cấp Màn hình được đánh giá cao nhất về chất lượng .
+{"subject": ["1&&iPhone", "2&&13", "3&&Pro", "4&&Max"], "object": [], "aspect": ["7&&Màn", "8&&hình"], "predicate": ["9&&được", "10&&đánh", "11&&giá", "12&&cao", "13&&nhất", "14&&về", "15&&chất", "16&&lượng"], "label": "SUP+"}
+
+Galaxy S21 Ultra cung cấp chụp thiếu sáng tuyệt vời nhất trên thị trường .	Galaxy S21 Ultra cung cấp chụp thiếu sáng tuyệt vời nhất trên thị trường .
+{"subject": ["1&&Galaxy", "2&&S21", "3&&Ultra"], "object": [], "aspect": ["6&&chụp", "7&&thiếu", "8&&sáng"], "predicate": ["9&&tuyệt", "10&&vời", "11&&nhất", "12&&trên", "13&&thị", "14&&trường"], "label": "SUP+"}
+
+điện thoại mang màn hình AMOLED 120Hz , kết nối mạng 5G với hiệu năng Snapdragon 865 tốt nhất ở thời điểm hiện tại , RAM lên tới 16GB và dung lượng lưu trữ 512GB .	điện thoại mang màn hình AMOLED 120Hz , kết nối mạng 5G với hiệu năng Snapdragon 865 tốt nhất ở thời điểm hiện tại , RAM lên tới 16GB và dung lượng lưu trữ 512GB .
+{"subject": ["1&&điện", "2&&thoại"], "object": [], "aspect": ["14&&hiệu", "15&&năng"], "predicate": ["18&&tốt", "19&&nhất", "20&&ở", "21&&thời", "22&&điểm", "23&&hiện", "24&&tại"], "label": "SUP+"}
+
+Galaxy Z Fold 4 mang màn hình AMOLED 120Hz , kết nối mạng 5G với con chip Exynos 990 Snapdragon 865 mạnh mẽ nhất của Samsung , RAM lên tới 16GB và dung lượng lưu trữ 512GB .	Galaxy Z Fold 4 mang màn hình AMOLED 120Hz , kết nối mạng 5G với con chip Exynos 990 Snapdragon 865 mạnh mẽ nhất của Samsung , RAM lên tới 16GB và dung lượng lưu trữ 512GB .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold", "4&&4"], "object": [], "aspect": ["16&&con", "17&&chip", "18&&Exynos", "19&&990"], "predicate": ["22&&mạnh", "23&&mẽ", "24&&nhất", "25&&của", "26&&Samsung"], "label": "SUP+"}
+
+Galaxy A24 mang màn hình AMOLED 120Hz , kết nối mạng 5G với cảm biến 200MP Snapdragon 865 tiên tiến nhất , RAM lên tới 16GB và dung lượng lưu trữ 512GB .	Galaxy A24 mang màn hình AMOLED 120Hz , kết nối mạng 5G với cảm biến 200MP Snapdragon 865 tiên tiến nhất , RAM lên tới 16GB và dung lượng lưu trữ 512GB .
+{"subject": ["1&&Galaxy", "2&&A24"], "object": [], "aspect": ["14&&cảm", "15&&biến", "16&&200MP"], "predicate": ["19&&tiên", "20&&tiến", "21&&nhất"], "label": "SUP+"}
+
+Nhờ sự kết hợp giữa phần cứng xuất sắc và thời lượng pin vượt trội , Đây hiện đang là chất liệu cao cấp nhất hiện nay .	Nhờ sự kết hợp giữa phần cứng xuất sắc và thời lượng pin vượt trội , Đây hiện đang là chất liệu cao cấp nhất hiện nay .
+{"subject": ["17&&Đây"], "object": [], "aspect": ["21&&chất", "22&&liệu"], "predicate": ["23&&cao", "24&&cấp", "25&&nhất", "26&&hiện", "27&&nay"], "label": "SUP+"}
+
+Nhờ sự kết hợp giữa phần cứng xuất sắc và thời lượng pin vượt trội , M51 hiện đang là con chip Exynos 990 mạnh mẽ nhất của Samsung .	Nhờ sự kết hợp giữa phần cứng xuất sắc và thời lượng pin vượt trội , M51 hiện đang là con chip Exynos 990 mạnh mẽ nhất của Samsung .
+{"subject": ["17&&M51"], "object": [], "aspect": ["21&&con", "22&&chip", "23&&Exynos", "24&&990"], "predicate": ["25&&mạnh", "26&&mẽ", "27&&nhất", "28&&của", "29&&Samsung"], "label": "SUP+"}
+
+Nhờ sự kết hợp giữa phần cứng xuất sắc và thời lượng pin vượt trội , Xiaomi hiện đang là thời gian sử dụng tốt nhất hiện nay .	Nhờ sự kết hợp giữa phần cứng xuất sắc và thời lượng pin vượt trội , Xiaomi hiện đang là thời gian sử dụng tốt nhất hiện nay .
+{"subject": ["17&&Xiaomi"], "object": [], "aspect": ["21&&thời", "22&&gian", "23&&sử", "24&&dụng"], "predicate": ["25&&tốt", "26&&nhất", "27&&hiện", "28&&nay"], "label": "SUP+"}
+
+Tuy nhiên , với màn hình 120Hz và hiệu năng đứng TOP đầu thế giới , chơi game là một nhiệm vụ dễ dàng đối với Samsung .	Tuy nhiên , với màn hình 120Hz và hiệu năng đứng TOP đầu thế giới , chơi game là một nhiệm vụ dễ dàng đối với Samsung .
+{"subject": ["27&&Samsung"], "object": [], "aspect": ["9&&hiệu", "10&&năng"], "predicate": ["11&&đứng", "12&&TOP", "13&&đầu", "14&&thế", "15&&giới"], "label": "SUP+"}
+
+Tuy nhiên , với màn hình 120Hz và màn hình tốt nhất hiện nay , chơi game là một nhiệm vụ dễ dàng đối với Galaxy S20 Ultra .	Tuy nhiên , với màn hình 120Hz và màn hình tốt nhất hiện nay , chơi game là một nhiệm vụ dễ dàng đối với Galaxy S20 Ultra .
+{"subject": ["26&&Galaxy", "27&&S20", "28&&Ultra"], "object": [], "aspect": ["9&&màn", "10&&hình"], "predicate": ["11&&tốt", "12&&nhất", "13&&hiện", "14&&nay"], "label": "SUP+"}
+
+Tuy nhiên , với màn hình 120Hz và chất lượng tổng thể tốt và ổn định nhất , chơi game là một nhiệm vụ dễ dàng đối với Dòng Galaxy S22 series .	Tuy nhiên , với màn hình 120Hz và chất lượng tổng thể tốt và ổn định nhất , chơi game là một nhiệm vụ dễ dàng đối với Dòng Galaxy S22 series .
+{"subject": ["29&&Dòng", "30&&Galaxy", "31&&S22", "32&&series"], "object": [], "aspect": ["9&&chất", "10&&lượng", "11&&tổng", "12&&thể"], "predicate": ["13&&tốt", "14&&và", "15&&ổn", "16&&định", "17&&nhất"], "label": "SUP+"}
+
+Tuy vậy , Xiaomi vẫn là mỏng nhẹ thuộc hàng top trong phân khúc và camera 48MP của nó cho ra những bức ảnh đủ đẹp .	Tuy vậy , Xiaomi vẫn là mỏng nhẹ thuộc hàng top trong phân khúc và camera 48MP của nó cho ra những bức ảnh đủ đẹp .
+{"subject": ["4&&Xiaomi"], "object": [], "aspect": [], "predicate": ["7&&mỏng", "8&&nhẹ", "9&&thuộc", "10&&hàng", "11&&top", "12&&trong", "13&&phân", "14&&khúc"], "label": "SUP+"}
+
+Tuy vậy , Galaxy S23 Ultra vẫn là tốt nhất của DisplayMate và camera 48MP của nó cho ra những bức ảnh đủ đẹp .	Tuy vậy , Galaxy S23 Ultra vẫn là tốt nhất của DisplayMate và camera 48MP của nó cho ra những bức ảnh đủ đẹp .
+{"subject": ["4&&Galaxy", "5&&S23", "6&&Ultra"], "object": [], "aspect": [], "predicate": ["9&&tốt", "10&&nhất", "11&&của", "12&&DisplayMate"], "label": "SUP+"}
+
+Tuy vậy , đây vẫn là tốt nhất và camera 48MP của nó cho ra những bức ảnh đủ đẹp .	Tuy vậy , đây vẫn là tốt nhất và camera 48MP của nó cho ra những bức ảnh đủ đẹp .
+{"subject": ["4&&đây"], "object": [], "aspect": [], "predicate": ["7&&tốt", "8&&nhất"], "label": "SUP+"}
+
+đây được đánh giá là chipset hàng đầu cao cấp nhất .	đây được đánh giá là chipset hàng đầu cao cấp nhất .
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["9&&cao", "10&&cấp", "11&&nhất"], "label": "SUP+"}
+
+Đây được đánh giá là chipset hàng đầu tốt nhất từ trước đến nay .	Đây được đánh giá là chipset hàng đầu tốt nhất từ trước đến nay .
+{"subject": ["1&&Đây"], "object": [], "aspect": [], "predicate": ["9&&tốt", "10&&nhất", "11&&từ", "12&&trước", "13&&đến", "14&&nay"], "label": "SUP+"}
+
+Điện thoại mới được đánh giá là chipset hàng đầu là vua .	Điện thoại mới được đánh giá là chipset hàng đầu là vua .
+{"subject": ["1&&Điện", "2&&thoại", "3&&mới"], "object": [], "aspect": [], "predicate": ["11&&là", "12&&vua"], "label": "SUP+"}
+
+Đánh giá màn hình Dòng iPhone 12 của nhà Táo cho thấy đây là chiếc điện thoại Android tốt nhất của DisplayMate .	Đánh giá màn hình Dòng iPhone 12 của nhà Táo cho thấy đây là chiếc điện thoại Android tốt nhất của DisplayMate .
+{"subject": ["5&&Dòng", "6&&iPhone", "7&&12", "8&&của", "9&&nhà", "10&&Táo"], "object": [], "aspect": ["3&&màn", "4&&hình"], "predicate": ["19&&tốt", "20&&nhất", "21&&của", "22&&DisplayMate"], "label": "SUP+"}
+
+Đánh giá bộ vi xử lý iPhone của Apple cho thấy đây là chiếc điện thoại Android mạnh mẽ và tốt nhất hiện tại của Qualcomm .	Đánh giá bộ vi xử lý iPhone của Apple cho thấy đây là chiếc điện thoại Android mạnh mẽ và tốt nhất hiện tại của Qualcomm .
+{"subject": ["7&&iPhone", "8&&của", "9&&Apple"], "object": [], "aspect": ["3&&bộ", "4&&vi", "5&&xử", "6&&lý"], "predicate": ["18&&mạnh", "19&&mẽ", "20&&và", "21&&tốt", "22&&nhất", "23&&hiện", "24&&tại", "25&&của", "26&&Qualcomm"], "label": "SUP+"}
+
+Đánh giá thông số camera vi xử lý Apple M1 trên iPad Pro cho thấy đây là chiếc điện thoại Android đỉnh cao nhất thế giới smartphone hiện tại .	Đánh giá thông số camera vi xử lý Apple M1 trên iPad Pro cho thấy đây là chiếc điện thoại Android đỉnh cao nhất thế giới smartphone hiện tại .
+{"subject": ["6&&vi", "7&&xử", "8&&lý", "9&&Apple", "10&&M1", "11&&trên", "12&&iPad", "13&&Pro"], "object": [], "aspect": ["3&&thông", "4&&số", "5&&camera"], "predicate": ["22&&đỉnh", "23&&cao", "24&&nhất", "25&&thế", "26&&giới", "27&&smartphone", "28&&hiện", "29&&tại"], "label": "SUP+"}
+
+Mặt khác , S21 Ultra được đánh giá là thiết bị có thiết kế là nhà vô địch , thậm chí có thể kéo dài đến 2 ngày nhờ tối ưu iOS tuyệt vời .	Mặt khác , S21 Ultra được đánh giá là thiết bị có thiết kế là nhà vô địch , thậm chí có thể kéo dài đến 2 ngày nhờ tối ưu iOS tuyệt vời .
+{"subject": ["4&&S21", "5&&Ultra"], "object": [], "aspect": ["13&&thiết", "14&&kế"], "predicate": ["15&&là", "16&&nhà", "17&&vô", "18&&địch"], "label": "SUP+"}
+
+Mặt khác , iPhone 14 Pro được đánh giá là thiết bị có công nghệ hàng đầu , thậm chí có thể kéo dài đến 2 ngày nhờ tối ưu iOS tuyệt vời .	Mặt khác , iPhone 14 Pro được đánh giá là thiết bị có công nghệ hàng đầu , thậm chí có thể kéo dài đến 2 ngày nhờ tối ưu iOS tuyệt vời .
+{"subject": ["4&&iPhone", "5&&14", "6&&Pro"], "object": [], "aspect": ["14&&công", "15&&nghệ"], "predicate": ["16&&hàng", "17&&đầu"], "label": "SUP+"}
+
+Mặt khác , Samsung được đánh giá là thiết bị có màn hình tốt nhất cho đến nay , thậm chí có thể kéo dài đến 2 ngày nhờ tối ưu iOS tuyệt vời .	Mặt khác , Samsung được đánh giá là thiết bị có màn hình tốt nhất cho đến nay , thậm chí có thể kéo dài đến 2 ngày nhờ tối ưu iOS tuyệt vời .
+{"subject": ["4&&Samsung"], "object": [], "aspect": ["12&&màn", "13&&hình"], "predicate": ["14&&tốt", "15&&nhất", "16&&cho", "17&&đến", "18&&nay"], "label": "SUP+"}
+
+Trong cả ba , OPPO Find X6 Pro có khả năng chụp hình thuộc hàng tốt nhất vì điện thoại này có màn hình không viền ấn tượng .	Trong cả ba , OPPO Find X6 Pro có khả năng chụp hình thuộc hàng tốt nhất vì điện thoại này có màn hình không viền ấn tượng .
+{"subject": ["5&&OPPO", "6&&Find", "7&&X6", "8&&Pro"], "object": ["2&&cả", "3&&ba"], "aspect": ["10&&khả", "11&&năng", "12&&chụp", "13&&hình"], "predicate": ["14&&thuộc", "15&&hàng", "16&&tốt", "17&&nhất"], "label": "SUP+"}
+
+Trong cả ba , Hộp đựng Galaxy S20 Ultra có pin chẳng có máy nào so sánh được vì điện thoại này có màn hình không viền ấn tượng .	Trong cả ba , Hộp đựng Galaxy S20 Ultra có pin chẳng có máy nào so sánh được vì điện thoại này có màn hình không viền ấn tượng .
+{"subject": ["5&&Hộp", "6&&đựng", "7&&Galaxy", "8&&S20", "9&&Ultra"], "object": ["2&&cả", "3&&ba"], "aspect": ["11&&pin"], "predicate": ["12&&chẳng", "13&&có", "14&&máy", "15&&nào", "16&&so", "17&&sánh", "18&&được"], "label": "SUP+"}
+
+Trong ba smartphone ngày hôm nay , hai chiếc smartphone cao cấp có màn hình đẹp nhất hiện nay vì điện thoại này có màn hình không viền ấn tượng .	Trong ba smartphone ngày hôm nay , hai chiếc smartphone cao cấp có màn hình đẹp nhất hiện nay vì điện thoại này có màn hình không viền ấn tượng .
+{"subject": ["8&&hai", "9&&chiếc", "10&&smartphone", "11&&cao", "12&&cấp"], "object": ["2&&ba", "3&&smartphone", "4&&ngày", "5&&hôm", "6&&nay"], "aspect": ["14&&màn", "15&&hình"], "predicate": ["16&&đẹp", "17&&nhất", "18&&hiện", "19&&nay"], "label": "SUP+"}
+
+Trước đó chúng ta cũng bắt gặp ở Galaxy M41 , Galaxy M01 và Galaxy M11 nhưng Snapdragon 730G cho phép S10 Plus trở thành điện thoại khủng nhất trên thị trường hiện nay .	Trước đó chúng ta cũng bắt gặp ở Galaxy M41 , Galaxy M01 và Galaxy M11 nhưng Snapdragon 730G cho phép S10 Plus trở thành điện thoại khủng nhất trên thị trường hiện nay .
+{"subject": ["22&&S10", "23&&Plus"], "object": [], "aspect": [], "predicate": ["28&&khủng", "29&&nhất", "30&&trên", "31&&thị", "32&&trường", "33&&hiện", "34&&nay"], "label": "SUP+"}
+
+Trước đó chúng ta cũng bắt gặp ở Galaxy M41 , Galaxy M01 và Galaxy M11 nhưng Snapdragon 730G cho phép Galaxy M32 5G trở thành điện thoại đẹp nhất hiện nay .	Trước đó chúng ta cũng bắt gặp ở Galaxy M41 , Galaxy M01 và Galaxy M11 nhưng Snapdragon 730G cho phép Galaxy M32 5G trở thành điện thoại đẹp nhất hiện nay .
+{"subject": ["22&&Galaxy", "23&&M32", "24&&5G"], "object": [], "aspect": [], "predicate": ["29&&đẹp", "30&&nhất", "31&&hiện", "32&&nay"], "label": "SUP+"}
+
+Trước đó chúng ta cũng bắt gặp ở Galaxy M41 , Galaxy M01 và Galaxy M11 nhưng Snapdragon 730G cho phép Sản phẩm trở thành điện thoại tốt nhất trên thị trường .	Trước đó chúng ta cũng bắt gặp ở Galaxy M41 , Galaxy M01 và Galaxy M11 nhưng Snapdragon 730G cho phép Sản phẩm trở thành điện thoại tốt nhất trên thị trường .
+{"subject": ["22&&Sản", "23&&phẩm"], "object": [], "aspect": [], "predicate": ["28&&tốt", "29&&nhất", "30&&trên", "31&&thị", "32&&trường"], "label": "SUP+"}
+
+Điện thoại Pixel 7 Pro được trang bị hệ thống máy ảnh linh hoạt nhất nhờ một bước đột phá trong thiết kế .	Điện thoại Pixel 7 Pro được trang bị hệ thống máy ảnh linh hoạt nhất nhờ một bước đột phá trong thiết kế .
+{"subject": ["3&&Pixel", "4&&7", "5&&Pro"], "object": [], "aspect": ["9&&hệ", "10&&thống", "11&&máy", "12&&ảnh"], "predicate": ["13&&linh", "14&&hoạt", "15&&nhất"], "label": "SUP+"}
+
+Điện thoại Samsung Galaxy A51 được trang bị dung lượng pin cao nhất được Samsung trang bị cho những dòng máy giá rẻ đến tầm trung nhờ một bước đột phá trong thiết kế .	Điện thoại Samsung Galaxy A51 được trang bị dung lượng pin cao nhất được Samsung trang bị cho những dòng máy giá rẻ đến tầm trung nhờ một bước đột phá trong thiết kế .
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&A51"], "object": [], "aspect": ["9&&dung", "10&&lượng", "11&&pin"], "predicate": ["12&&cao", "13&&nhất", "14&&được", "15&&Samsung", "16&&trang", "17&&bị", "18&&cho", "19&&những", "20&&dòng", "21&&máy", "22&&giá", "23&&rẻ", "24&&đến", "25&&tầm", "26&&trung"], "label": "SUP+"}
+
+Điện thoại Galaxy Note20 Ultra được trang bị cảm biến 200MP tiên tiến nhất nhờ một bước đột phá trong thiết kế .	Điện thoại Galaxy Note20 Ultra được trang bị cảm biến 200MP tiên tiến nhất nhờ một bước đột phá trong thiết kế .
+{"subject": ["3&&Galaxy", "4&&Note20", "5&&Ultra"], "object": [], "aspect": ["9&&cảm", "10&&biến", "11&&200MP"], "predicate": ["12&&tiên", "13&&tiến", "14&&nhất"], "label": "SUP+"}
+
+Tất nhiên nói về pin thì không ai vượt nổi với viên pin 7.000 mAh của Hộp đựng Galaxy S20 Ultra .	Tất nhiên nói về pin thì không ai vượt nổi với viên pin 7.000 mAh của Hộp đựng Galaxy S20 Ultra .
+{"subject": ["17&&Hộp", "18&&đựng", "19&&Galaxy", "20&&S20", "21&&Ultra"], "object": [], "aspect": ["5&&pin"], "predicate": ["7&&không", "8&&ai", "9&&vượt", "10&&nổi"], "label": "SUP+"}
+
+Tất nhiên nói về camera tele thì tốt nhất với viên pin 7.000 mAh của S20 Ultra .	Tất nhiên nói về camera tele thì tốt nhất với viên pin 7.000 mAh của S20 Ultra .
+{"subject": ["16&&S20", "17&&Ultra"], "object": [], "aspect": ["5&&camera", "6&&tele"], "predicate": ["8&&tốt", "9&&nhất"], "label": "SUP+"}
+
+Tất nhiên nói về cảm biến 200MP thì tiên tiến nhất với viên pin 7.000 mAh của Samsung Galaxy S23 series .	Tất nhiên nói về cảm biến 200MP thì tiên tiến nhất với viên pin 7.000 mAh của Samsung Galaxy S23 series .
+{"subject": ["18&&Samsung", "19&&Galaxy", "20&&S23", "21&&series"], "object": [], "aspect": ["5&&cảm", "6&&biến", "7&&200MP"], "predicate": ["9&&tiên", "10&&tiến", "11&&nhất"], "label": "SUP+"}
+
+Hộp đựng Galaxy S20 Ultra vẫn là hiệu suất cao nhất .	Hộp đựng Galaxy S20 Ultra vẫn là hiệu suất cao nhất .
+{"subject": ["1&&Hộp", "2&&đựng", "3&&Galaxy", "4&&S20", "5&&Ultra"], "object": [], "aspect": ["8&&hiệu", "9&&suất"], "predicate": ["10&&cao", "11&&nhất"], "label": "SUP+"}
+
+iPhone 13 Pro Max vẫn là màn hình thuộc hàng tốt nhất .	iPhone 13 Pro Max vẫn là màn hình thuộc hàng tốt nhất .
+{"subject": ["1&&iPhone", "2&&13", "3&&Pro", "4&&Max"], "object": [], "aspect": ["7&&màn", "8&&hình"], "predicate": ["9&&thuộc", "10&&hàng", "11&&tốt", "12&&nhất"], "label": "SUP+"}
+
+đây vẫn là hiệu suất tốt số 1 trong thế giới smartphone hiện nay .	đây vẫn là hiệu suất tốt số 1 trong thế giới smartphone hiện nay .
+{"subject": ["1&&đây"], "object": [], "aspect": ["4&&hiệu", "5&&suất"], "predicate": ["6&&tốt", "7&&số", "8&&1", "9&&trong", "10&&thế", "11&&giới", "12&&smartphone", "13&&hiện", "14&&nay"], "label": "SUP+"}
+
+Về sức mạnh phần cứng , Galaxy A24 được Samsung ưu ái trang bị chip mạnh mẽ nhất trong thời gian gần đây là Snapdragon 865 + .	Về sức mạnh phần cứng , Galaxy A24 được Samsung ưu ái trang bị chip mạnh mẽ nhất trong thời gian gần đây là Snapdragon 865 + .
+{"subject": ["7&&Galaxy", "8&&A24"], "object": [], "aspect": ["15&&chip"], "predicate": ["16&&mạnh", "17&&mẽ", "18&&nhất", "19&&trong", "20&&thời", "21&&gian", "22&&gần", "23&&đây"], "label": "SUP+"}
+
+Về sức mạnh phần cứng , hai chiếc smartphone cao cấp được Samsung ưu ái trang bị màn hình tốt nhất là Snapdragon 865 + .	Về sức mạnh phần cứng , hai chiếc smartphone cao cấp được Samsung ưu ái trang bị màn hình tốt nhất là Snapdragon 865 + .
+{"subject": ["7&&hai", "8&&chiếc", "9&&smartphone", "10&&cao", "11&&cấp"], "object": [], "aspect": ["18&&màn", "19&&hình"], "predicate": ["20&&tốt", "21&&nhất"], "label": "SUP+"}
+
+Về sức mạnh phần cứng , S21 Ultra được Samsung ưu ái trang bị camera là nhà vô địch là Snapdragon 865 + .	Về sức mạnh phần cứng , S21 Ultra được Samsung ưu ái trang bị camera là nhà vô địch là Snapdragon 865 + .
+{"subject": ["7&&S21", "8&&Ultra"], "object": [], "aspect": ["15&&camera"], "predicate": ["16&&là", "17&&nhà", "18&&vô", "19&&địch"], "label": "SUP+"}
+
+Từ đó , có thể nhận định iPhone của Apple là con chip trên di động cao nhất được Samsung trang bị cho những dòng máy giá rẻ đến tầm trung .	Từ đó , có thể nhận định iPhone của Apple là con chip trên di động cao nhất được Samsung trang bị cho những dòng máy giá rẻ đến tầm trung .
+{"subject": ["8&&iPhone", "9&&của", "10&&Apple"], "object": [], "aspect": [], "predicate": ["17&&cao", "18&&nhất", "19&&được", "20&&Samsung", "21&&trang", "22&&bị", "23&&cho", "24&&những", "25&&dòng", "26&&máy", "27&&giá", "28&&rẻ", "29&&đến", "30&&tầm", "31&&trung"], "label": "SUP+"}
+
+Từ đó , có thể nhận định Samsung Galaxy S23 series là con chip trên di động sáng nhất trên bất kỳ điện thoại thông minh nào.Trong .	Từ đó , có thể nhận định Samsung Galaxy S23 series là con chip trên di động sáng nhất trên bất kỳ điện thoại thông minh nào.Trong .
+{"subject": ["8&&Samsung", "9&&Galaxy", "10&&S23", "11&&series"], "object": [], "aspect": [], "predicate": ["18&&sáng", "19&&nhất", "20&&trên", "21&&bất", "22&&kỳ", "23&&điện", "24&&thoại", "25&&thông", "26&&minh", "27&&nào.Trong"], "label": "SUP+"}
+
+Từ đó , có thể nhận định iPhone 14 Plus là con chip trên di động tốt số 1 trong thế giới smartphone hiện nay .	Từ đó , có thể nhận định iPhone 14 Plus là con chip trên di động tốt số 1 trong thế giới smartphone hiện nay .
+{"subject": ["8&&iPhone", "9&&14", "10&&Plus"], "object": [], "aspect": [], "predicate": ["17&&tốt", "18&&số", "19&&1", "20&&trong", "21&&thế", "22&&giới", "23&&smartphone", "24&&hiện", "25&&nay"], "label": "SUP+"}
+
+Có thể đánh giá Điện thoại mới là một trong những model tốt nhất từ trước đến nay khi sở hữu nhiều nâng cấp xịn sò .	Có thể đánh giá Điện thoại mới là một trong những model tốt nhất từ trước đến nay khi sở hữu nhiều nâng cấp xịn sò .
+{"subject": ["5&&Điện", "6&&thoại", "7&&mới"], "object": [], "aspect": [], "predicate": ["13&&tốt", "14&&nhất", "15&&từ", "16&&trước", "17&&đến", "18&&nay"], "label": "SUP+"}
+
+Có thể đánh giá iPhone 12 Pro Max là một trong những model cao nhất được Samsung trang bị cho những dòng máy giá rẻ đến tầm trung khi sở hữu nhiều nâng cấp xịn sò .	Có thể đánh giá iPhone 12 Pro Max là một trong những model cao nhất được Samsung trang bị cho những dòng máy giá rẻ đến tầm trung khi sở hữu nhiều nâng cấp xịn sò .
+{"subject": ["5&&iPhone", "6&&12", "7&&Pro", "8&&Max"], "object": [], "aspect": [], "predicate": ["14&&cao", "15&&nhất", "16&&được", "17&&Samsung", "18&&trang", "19&&bị", "20&&cho", "21&&những", "22&&dòng", "23&&máy", "24&&giá", "25&&rẻ", "26&&đến", "27&&tầm", "28&&trung"], "label": "SUP+"}
+
+Có thể đánh giá Galaxy S21 Ultra là một trong những model khả năng chụp ảnh tốt nhất khi sở hữu nhiều nâng cấp xịn sò .	Có thể đánh giá Galaxy S21 Ultra là một trong những model khả năng chụp ảnh tốt nhất khi sở hữu nhiều nâng cấp xịn sò .
+{"subject": ["5&&Galaxy", "6&&S21", "7&&Ultra"], "object": [], "aspect": [], "predicate": ["13&&khả", "14&&năng", "15&&chụp", "16&&ảnh", "17&&tốt", "18&&nhất"], "label": "SUP+"}
+
+Có thể đánh giá MediaTek HeliO G99 là một trong những model cao nhất được Samsung trang bị cho những dòng máy giá rẻ đến tầm trung khi sở hữu nhiều nâng cấp xịn sò .	Có thể đánh giá MediaTek HeliO G99 là một trong những model cao nhất được Samsung trang bị cho những dòng máy giá rẻ đến tầm trung khi sở hữu nhiều nâng cấp xịn sò .
+{"subject": ["5&&MediaTek", "6&&HeliO", "7&&G99"], "object": [], "aspect": [], "predicate": ["13&&cao", "14&&nhất", "15&&được", "16&&Samsung", "17&&trang", "18&&bị", "19&&cho", "20&&những", "21&&dòng", "22&&máy", "23&&giá", "24&&rẻ", "25&&đến", "26&&tầm", "27&&trung"], "label": "SUP+"}
+
+Có thể đánh giá Redmi Note 11 là một trong những model tốt số 1 trong thế giới smartphone hiện nay khi sở hữu nhiều nâng cấp xịn sò .	Có thể đánh giá Redmi Note 11 là một trong những model tốt số 1 trong thế giới smartphone hiện nay khi sở hữu nhiều nâng cấp xịn sò .
+{"subject": ["5&&Redmi", "6&&Note", "7&&11"], "object": [], "aspect": [], "predicate": ["13&&tốt", "14&&số", "15&&1", "16&&trong", "17&&thế", "18&&giới", "19&&smartphone", "20&&hiện", "21&&nay"], "label": "SUP+"}
+
+Có thể đánh giá iPhone 12 Pro Max là một trong những model tốt nhất hiện nay khi sở hữu nhiều nâng cấp xịn sò .	Có thể đánh giá iPhone 12 Pro Max là một trong những model tốt nhất hiện nay khi sở hữu nhiều nâng cấp xịn sò .
+{"subject": ["5&&iPhone", "6&&12", "7&&Pro", "8&&Max"], "object": [], "aspect": [], "predicate": ["14&&tốt", "15&&nhất", "16&&hiện", "17&&nay"], "label": "SUP+"}
+
+Là mẫu flagship cao cấp của hãng ở thời điểm này nên việc đây đi cùng màn hình tốt nhất trên thị trường là điều dễ hiểu .	Là mẫu flagship cao cấp của hãng ở thời điểm này nên việc đây đi cùng màn hình tốt nhất trên thị trường là điều dễ hiểu .
+{"subject": ["14&&đây"], "object": [], "aspect": ["17&&màn", "18&&hình"], "predicate": ["19&&tốt", "20&&nhất", "21&&trên", "22&&thị", "23&&trường"], "label": "SUP+"}
+
+Là mẫu flagship cao cấp của hãng ở thời điểm này nên việc Xiaomi đi cùng chất lượng màn hình top đầu là điều dễ hiểu .	Là mẫu flagship cao cấp của hãng ở thời điểm này nên việc Xiaomi đi cùng chất lượng màn hình top đầu là điều dễ hiểu .
+{"subject": ["14&&Xiaomi"], "object": [], "aspect": ["17&&chất", "18&&lượng", "19&&màn", "20&&hình"], "predicate": ["21&&top", "22&&đầu"], "label": "SUP+"}
+
+Là mẫu flagship cao cấp của hãng ở thời điểm này nên việc S21 Ultra đi cùng chất lượng tổng thể tốt và ổn định nhất là điều dễ hiểu .	Là mẫu flagship cao cấp của hãng ở thời điểm này nên việc S21 Ultra đi cùng chất lượng tổng thể tốt và ổn định nhất là điều dễ hiểu .
+{"subject": ["14&&S21", "15&&Ultra"], "object": [], "aspect": ["18&&chất", "19&&lượng", "20&&tổng", "21&&thể"], "predicate": ["22&&tốt", "23&&và", "24&&ổn", "25&&định", "26&&nhất"], "label": "SUP+"}
+
+Với những thông số này Đây hứa hẹn đem tới thông số màn hình cao cấp nhất .	Với những thông số này Đây hứa hẹn đem tới thông số màn hình cao cấp nhất .
+{"subject": ["6&&Đây"], "object": [], "aspect": ["11&&thông", "12&&số", "13&&màn", "14&&hình"], "predicate": ["15&&cao", "16&&cấp", "17&&nhất"], "label": "SUP+"}
+
+Với những thông số này Galaxy Note 20 Ultra hứa hẹn đem tới pin không ai vượt nổi .	Với những thông số này Galaxy Note 20 Ultra hứa hẹn đem tới pin không ai vượt nổi .
+{"subject": ["6&&Galaxy", "7&&Note", "8&&20", "9&&Ultra"], "object": [], "aspect": ["14&&pin"], "predicate": ["15&&không", "16&&ai", "17&&vượt", "18&&nổi"], "label": "SUP+"}
+
+Với những thông số này Cả ba chiếc máy hứa hẹn đem tới camera là nhà vô địch .	Với những thông số này Cả ba chiếc máy hứa hẹn đem tới camera là nhà vô địch .
+{"subject": ["6&&Cả", "7&&ba", "8&&chiếc", "9&&máy"], "object": [], "aspect": ["14&&camera"], "predicate": ["15&&là", "16&&nhà", "17&&vô", "18&&địch"], "label": "SUP+"}
+
+Xiaomi Mi 11 sở hữu màn hình nền AMOLED có thể hiển thị tới một tỷ màu sắc , có tốc độ hiển thị 120 Hz . Đây là thông số màn hình Sản phẩm cao cấp nhất và cảm biến vân tay ở phía dưới màn hình .	Xiaomi Mi 11 sở hữu màn hình nền AMOLED có thể hiển thị tới một tỷ màu sắc , có tốc độ hiển thị 120 Hz . Đây là thông số màn hình Sản phẩm cao cấp nhất và cảm biến vân tay ở phía dưới màn hình .
+{"subject": ["34&&Sản", "35&&phẩm"], "object": [], "aspect": ["30&&thông", "31&&số", "32&&màn", "33&&hình"], "predicate": ["36&&cao", "37&&cấp", "38&&nhất"], "label": "SUP+"}
+
+Xiaomi Mi 11 sở hữu màn hình nền AMOLED có thể hiển thị tới một tỷ màu sắc , có tốc độ hiển thị 120 Hz . Đây là phần cứng Cả ba chiếc máy tốt nhất có thể hiện nay và cảm biến vân tay ở phía dưới màn hình .	Xiaomi Mi 11 sở hữu màn hình nền AMOLED có thể hiển thị tới một tỷ màu sắc , có tốc độ hiển thị 120 Hz . Đây là phần cứng Cả ba chiếc máy tốt nhất có thể hiện nay và cảm biến vân tay ở phía dưới màn hình .
+{"subject": ["32&&Cả", "33&&ba", "34&&chiếc", "35&&máy"], "object": [], "aspect": ["30&&phần", "31&&cứng"], "predicate": ["36&&tốt", "37&&nhất", "38&&có", "39&&thể", "40&&hiện", "41&&nay"], "label": "SUP+"}
+
+Xiaomi Mi 11 sở hữu màn hình nền AMOLED có thể hiển thị tới một tỷ màu sắc , có tốc độ hiển thị 120 Hz . Đây là phần cứng bên trong iPhone của Apple mới nhất và cảm biến vân tay ở phía dưới màn hình .	Xiaomi Mi 11 sở hữu màn hình nền AMOLED có thể hiển thị tới một tỷ màu sắc , có tốc độ hiển thị 120 Hz . Đây là phần cứng bên trong iPhone của Apple mới nhất và cảm biến vân tay ở phía dưới màn hình .
+{"subject": ["34&&iPhone", "35&&của", "36&&Apple"], "object": [], "aspect": ["30&&phần", "31&&cứng", "32&&bên", "33&&trong"], "predicate": ["37&&mới", "38&&nhất"], "label": "SUP+"}
+
+S21 Ultra cũng sở hữu một trong những camera là vua , không được trang bị đầu đọc vân tay nhưng dựa vào Face ID để mở khóa .	S21 Ultra cũng sở hữu một trong những camera là vua , không được trang bị đầu đọc vân tay nhưng dựa vào Face ID để mở khóa .
+{"subject": ["1&&S21", "2&&Ultra"], "object": [], "aspect": ["9&&camera"], "predicate": ["10&&là", "11&&vua"], "label": "SUP+"}
+
+Galaxy Z Fold 4 cũng sở hữu một trong những màn hình tốt nhất trong phân khúc giá bán , không được trang bị đầu đọc vân tay nhưng dựa vào Face ID để mở khóa .	Galaxy Z Fold 4 cũng sở hữu một trong những màn hình tốt nhất trong phân khúc giá bán , không được trang bị đầu đọc vân tay nhưng dựa vào Face ID để mở khóa .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold", "4&&4"], "object": [], "aspect": ["11&&màn", "12&&hình"], "predicate": ["13&&tốt", "14&&nhất", "15&&trong", "16&&phân", "17&&khúc", "18&&giá", "19&&bán"], "label": "SUP+"}
+
+Điện thoại mới cũng sở hữu một trong những thiết kế đẹp và ấn tượng nhất trong bộ ba điện thoại này , không được trang bị đầu đọc vân tay nhưng dựa vào Face ID để mở khóa .	Điện thoại mới cũng sở hữu một trong những thiết kế đẹp và ấn tượng nhất trong bộ ba điện thoại này , không được trang bị đầu đọc vân tay nhưng dựa vào Face ID để mở khóa .
+{"subject": ["1&&Điện", "2&&thoại", "3&&mới"], "object": [], "aspect": ["10&&thiết", "11&&kế"], "predicate": ["12&&đẹp", "13&&và", "14&&ấn", "15&&tượng", "16&&nhất", "17&&trong", "18&&bộ", "19&&ba", "20&&điện", "21&&thoại", "22&&này"], "label": "SUP+"}
+
+Camera tele cũng là phiên bản 5G chip mạnh mẽ nhất trong thời gian gần đây .	Camera tele cũng là phiên bản 5G chip mạnh mẽ nhất trong thời gian gần đây .
+{"subject": ["1&&Camera", "2&&tele"], "object": [], "aspect": ["8&&chip"], "predicate": ["9&&mạnh", "10&&mẽ", "11&&nhất", "12&&trong", "13&&thời", "14&&gian", "15&&gần", "16&&đây"], "label": "SUP+"}
+
+Galaxy Note 20 Ultra cũng là phiên bản 5G màn hình tốt nhất hiện nay .	Galaxy Note 20 Ultra cũng là phiên bản 5G màn hình tốt nhất hiện nay .
+{"subject": ["1&&Galaxy", "2&&Note", "3&&20", "4&&Ultra"], "object": [], "aspect": ["10&&màn", "11&&hình"], "predicate": ["12&&tốt", "13&&nhất", "14&&hiện", "15&&nay"], "label": "SUP+"}
+
+iPhone 14 Pro Max cũng là phiên bản 5G chế độ night mode khả năng chụp ảnh tốt nhất .	iPhone 14 Pro Max cũng là phiên bản 5G chế độ night mode khả năng chụp ảnh tốt nhất .
+{"subject": ["1&&iPhone", "2&&14", "3&&Pro", "4&&Max"], "object": [], "aspect": ["10&&chế", "11&&độ", "12&&night", "13&&mode"], "predicate": ["14&&khả", "15&&năng", "16&&chụp", "17&&ảnh", "18&&tốt", "19&&nhất"], "label": "SUP+"}
+
+iPhone 11 Pro Max đang được đánh giá là con chip mới nhất .	iPhone 11 Pro Max đang được đánh giá là con chip mới nhất .
+{"subject": ["1&&iPhone", "2&&11", "3&&Pro", "4&&Max"], "object": [], "aspect": [], "predicate": ["12&&mới", "13&&nhất"], "label": "SUP+"}
+
+Samsung Galaxy S22 Ultra đang được đánh giá là con chip nặng nhất .	Samsung Galaxy S22 Ultra đang được đánh giá là con chip nặng nhất .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S22", "4&&Ultra"], "object": [], "aspect": [], "predicate": ["12&&nặng", "13&&nhất"], "label": "SUP+"}
+
+Galaxy S23 đang được đánh giá là con chip cao cấp nhất .	Galaxy S23 đang được đánh giá là con chip cao cấp nhất .
+{"subject": ["1&&Galaxy", "2&&S23"], "object": [], "aspect": [], "predicate": ["10&&cao", "11&&cấp", "12&&nhất"], "label": "SUP+"}
+
+Với thiết kế hoàn toàn mới , cụm camera nhiều nâng cấp cùng hiệu năng mạnh mẽ , hai chiếc smartphone cao cấp có thể coi một trong những mẫu máy khả năng chụp ảnh tốt nhất .	Với thiết kế hoàn toàn mới , cụm camera nhiều nâng cấp cùng hiệu năng mạnh mẽ , hai chiếc smartphone cao cấp có thể coi một trong những mẫu máy khả năng chụp ảnh tốt nhất .
+{"subject": ["19&&hai", "20&&chiếc", "21&&smartphone", "22&&cao", "23&&cấp"], "object": [], "aspect": [], "predicate": ["32&&khả", "33&&năng", "34&&chụp", "35&&ảnh", "36&&tốt", "37&&nhất"], "label": "SUP+"}
+
+Với thiết kế hoàn toàn mới , cụm camera nhiều nâng cấp cùng hiệu năng mạnh mẽ , Galaxy S22 Ultra 5G có thể coi một trong những mẫu máy mỏng nhẹ thuộc hàng top trong phân khúc .	Với thiết kế hoàn toàn mới , cụm camera nhiều nâng cấp cùng hiệu năng mạnh mẽ , Galaxy S22 Ultra 5G có thể coi một trong những mẫu máy mỏng nhẹ thuộc hàng top trong phân khúc .
+{"subject": ["19&&Galaxy", "20&&S22", "21&&Ultra", "22&&5G"], "object": [], "aspect": [], "predicate": ["31&&mỏng", "32&&nhẹ", "33&&thuộc", "34&&hàng", "35&&top", "36&&trong", "37&&phân", "38&&khúc"], "label": "SUP+"}
+
+Với thiết kế hoàn toàn mới , cụm camera nhiều nâng cấp cùng hiệu năng mạnh mẽ , iPhone 12 Pro Max có thể coi một trong những mẫu máy tốt nhất của Samsung .	Với thiết kế hoàn toàn mới , cụm camera nhiều nâng cấp cùng hiệu năng mạnh mẽ , iPhone 12 Pro Max có thể coi một trong những mẫu máy tốt nhất của Samsung .
+{"subject": ["19&&iPhone", "20&&12", "21&&Pro", "22&&Max"], "object": [], "aspect": [], "predicate": ["31&&tốt", "32&&nhất", "33&&của", "34&&Samsung"], "label": "SUP+"}
+
+Trong bài viết ngày hôm nay , hãy cùng FPTShop so sánh iPhone 14 Pro Max có thể nói là tốt nhất trong phân khúc giá bán là iPhone 13 Pro Max và Galaxy S21 Ultra để xem đâu mới là lựa chọn tốt hơn cho người dùng nhé !	Trong bài viết ngày hôm nay , hãy cùng FPTShop so sánh iPhone 14 Pro Max có thể nói là tốt nhất trong phân khúc giá bán là iPhone 13 Pro Max và Galaxy S21 Ultra để xem đâu mới là lựa chọn tốt hơn cho người dùng nhé !
+{"subject": ["13&&iPhone", "14&&14", "15&&Pro", "16&&Max"], "object": [], "aspect": [], "predicate": ["21&&tốt", "22&&nhất", "23&&trong", "24&&phân", "25&&khúc", "26&&giá", "27&&bán"], "label": "SUP+"}
+
+Trong bài viết ngày hôm nay , hãy cùng FPTShop so sánh iPhone 12 Pro Max có thể nói là thuộc hàng tốt nhất là iPhone 13 Pro Max và Galaxy S21 Ultra để xem đâu mới là lựa chọn tốt hơn cho người dùng nhé !	Trong bài viết ngày hôm nay , hãy cùng FPTShop so sánh iPhone 12 Pro Max có thể nói là thuộc hàng tốt nhất là iPhone 13 Pro Max và Galaxy S21 Ultra để xem đâu mới là lựa chọn tốt hơn cho người dùng nhé !
+{"subject": ["13&&iPhone", "14&&12", "15&&Pro", "16&&Max"], "object": [], "aspect": [], "predicate": ["21&&thuộc", "22&&hàng", "23&&tốt", "24&&nhất"], "label": "SUP+"}
+
+Trong bài viết ngày hôm nay , hãy cùng FPTShop so sánh Galaxy A24 có thể nói là đẹp nhất hiện nay là iPhone 13 Pro Max và Galaxy S21 Ultra để xem đâu mới là lựa chọn tốt hơn cho người dùng nhé !	Trong bài viết ngày hôm nay , hãy cùng FPTShop so sánh Galaxy A24 có thể nói là đẹp nhất hiện nay là iPhone 13 Pro Max và Galaxy S21 Ultra để xem đâu mới là lựa chọn tốt hơn cho người dùng nhé !
+{"subject": ["13&&Galaxy", "14&&A24"], "object": [], "aspect": [], "predicate": ["19&&đẹp", "20&&nhất", "21&&hiện", "22&&nay"], "label": "SUP+"}
+
+Xét theo chất lượng màn hình , Samsung Galaxy Z Fold3 là sản phẩm top đầu .	Xét theo chất lượng màn hình , Samsung Galaxy Z Fold3 là sản phẩm top đầu .
+{"subject": ["8&&Samsung", "9&&Galaxy", "10&&Z", "11&&Fold3"], "object": [], "aspect": ["3&&chất", "4&&lượng", "5&&màn", "6&&hình"], "predicate": ["15&&top", "16&&đầu"], "label": "SUP+"}
+
+Xét theo hệ thống camera , Thiết bị là sản phẩm tốt nhất từ trước đến nay .	Xét theo hệ thống camera , Thiết bị là sản phẩm tốt nhất từ trước đến nay .
+{"subject": ["7&&Thiết", "8&&bị"], "object": [], "aspect": ["3&&hệ", "4&&thống", "5&&camera"], "predicate": ["12&&tốt", "13&&nhất", "14&&từ", "15&&trước", "16&&đến", "17&&nay"], "label": "SUP+"}
+
+Xét theo camera tele , Galaxy Z Fold2 là sản phẩm tốt nhất .	Xét theo camera tele , Galaxy Z Fold2 là sản phẩm tốt nhất .
+{"subject": ["6&&Galaxy", "7&&Z", "8&&Fold2"], "object": [], "aspect": ["3&&camera", "4&&tele"], "predicate": ["12&&tốt", "13&&nhất"], "label": "SUP+"}
+
+des : Samsung Galaxy S22 Ultra có camera tele cực mạnh mẽ tốt nhất	des : Samsung Galaxy S22 Ultra có camera tele cực mạnh mẽ tốt nhất
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&S22", "6&&Ultra"], "object": [], "aspect": ["8&&camera", "9&&tele"], "predicate": ["13&&tốt", "14&&nhất"], "label": "SUP+"}
+
+des : OPPO Find X6 Pro có cảm biến 200MP cực mạnh mẽ tiên tiến nhất	des : OPPO Find X6 Pro có cảm biến 200MP cực mạnh mẽ tiên tiến nhất
+{"subject": ["3&&OPPO", "4&&Find", "5&&X6", "6&&Pro"], "object": [], "aspect": ["8&&cảm", "9&&biến", "10&&200MP"], "predicate": ["14&&tiên", "15&&tiến", "16&&nhất"], "label": "SUP+"}
+
+des : model của Apple có tính ổn định cực mạnh mẽ tốt số 1 trong thế giới smartphone hiện nay	des : model của Apple có tính ổn định cực mạnh mẽ tốt số 1 trong thế giới smartphone hiện nay
+{"subject": ["3&&model", "4&&của", "5&&Apple"], "object": [], "aspect": ["7&&tính", "8&&ổn", "9&&định"], "predicate": ["13&&tốt", "14&&số", "15&&1", "16&&trong", "17&&thế", "18&&giới", "19&&smartphone", "20&&hiện", "21&&nay"], "label": "SUP+"}
+
+Trong buổi ra mắt iPhone 14 , Apple đã chia sẻ rằng bản iPhone 12 Pro Max là chiếc iPhone có màn hình đẹp nhất hiện nay .	Trong buổi ra mắt iPhone 14 , Apple đã chia sẻ rằng bản iPhone 12 Pro Max là chiếc iPhone có màn hình đẹp nhất hiện nay .
+{"subject": ["14&&iPhone", "15&&12", "16&&Pro", "17&&Max"], "object": [], "aspect": ["22&&màn", "23&&hình"], "predicate": ["24&&đẹp", "25&&nhất", "26&&hiện", "27&&nay"], "label": "SUP+"}
+
+Trong buổi ra mắt iPhone 14 , Apple đã chia sẻ rằng bản Thiết bị là chiếc iPhone có thông số camera đỉnh cao nhất thế giới smartphone hiện tại .	Trong buổi ra mắt iPhone 14 , Apple đã chia sẻ rằng bản Thiết bị là chiếc iPhone có thông số camera đỉnh cao nhất thế giới smartphone hiện tại .
+{"subject": ["14&&Thiết", "15&&bị"], "object": [], "aspect": ["20&&thông", "21&&số", "22&&camera"], "predicate": ["23&&đỉnh", "24&&cao", "25&&nhất", "26&&thế", "27&&giới", "28&&smartphone", "29&&hiện", "30&&tại"], "label": "SUP+"}
+
+Trong buổi ra mắt iPhone 14 , Apple đã chia sẻ rằng bản Galaxy S23 Ultra là chiếc iPhone có bộ phận phần cứng tiên tiến nhất .	Trong buổi ra mắt iPhone 14 , Apple đã chia sẻ rằng bản Galaxy S23 Ultra là chiếc iPhone có bộ phận phần cứng tiên tiến nhất .
+{"subject": ["14&&Galaxy", "15&&S23", "16&&Ultra"], "object": [], "aspect": ["21&&bộ", "22&&phận", "23&&phần", "24&&cứng"], "predicate": ["25&&tiên", "26&&tiến", "27&&nhất"], "label": "SUP+"}
+
+Galaxy A11 chạy hệ điều hành Android 10 với tùy chỉnh One UI 2.1 . Đây là Galaxy Z Fold3 mạnh nhất 2021 .	Galaxy A11 chạy hệ điều hành Android 10 với tùy chỉnh One UI 2.1 . Đây là Galaxy Z Fold3 mạnh nhất 2021 .
+{"subject": ["18&&Galaxy", "19&&Z", "20&&Fold3"], "object": [], "aspect": [], "predicate": ["21&&mạnh", "22&&nhất", "23&&2021"], "label": "SUP+"}
+
+Galaxy A11 chạy hệ điều hành Android 10 với tùy chỉnh One UI 2.1 . Đây là Galaxy Z Fold 4 tốt nhất hiện nay .	Galaxy A11 chạy hệ điều hành Android 10 với tùy chỉnh One UI 2.1 . Đây là Galaxy Z Fold 4 tốt nhất hiện nay .
+{"subject": ["18&&Galaxy", "19&&Z", "20&&Fold", "21&&4"], "object": [], "aspect": [], "predicate": ["22&&tốt", "23&&nhất", "24&&hiện", "25&&nay"], "label": "SUP+"}
+
+Galaxy A11 chạy hệ điều hành Android 10 với tùy chỉnh One UI 2.1 . Đây là ROG Phone 2 tốt nhất .	Galaxy A11 chạy hệ điều hành Android 10 với tùy chỉnh One UI 2.1 . Đây là ROG Phone 2 tốt nhất .
+{"subject": ["18&&ROG", "19&&Phone", "20&&2"], "object": [], "aspect": [], "predicate": ["21&&tốt", "22&&nhất"], "label": "SUP+"}
+
+Hãy cùng Hoàng Hà Mobile điểm qua một vài những ưu điểm vượt trội trên OPPO – những chiếc flagship cao cấp nhất .	Hãy cùng Hoàng Hà Mobile điểm qua một vài những ưu điểm vượt trội trên OPPO – những chiếc flagship cao cấp nhất .
+{"subject": ["16&&OPPO"], "object": [], "aspect": [], "predicate": ["21&&cao", "22&&cấp", "23&&nhất"], "label": "SUP+"}
+
+Hãy cùng Hoàng Hà Mobile điểm qua một vài những ưu điểm vượt trội trên Màn hình của S10 Plus – những chiếc flagship tốt nhất hiện nay .	Hãy cùng Hoàng Hà Mobile điểm qua một vài những ưu điểm vượt trội trên Màn hình của S10 Plus – những chiếc flagship tốt nhất hiện nay .
+{"subject": ["16&&Màn", "17&&hình", "18&&của", "19&&S10", "20&&Plus"], "object": [], "aspect": [], "predicate": ["25&&tốt", "26&&nhất", "27&&hiện", "28&&nay"], "label": "SUP+"}
+
+Hãy cùng Hoàng Hà Mobile điểm qua một vài những ưu điểm vượt trội trên đây – những chiếc flagship tốt nhất của DisplayMate .	Hãy cùng Hoàng Hà Mobile điểm qua một vài những ưu điểm vượt trội trên đây – những chiếc flagship tốt nhất của DisplayMate .
+{"subject": ["16&&đây"], "object": [], "aspect": [], "predicate": ["21&&tốt", "22&&nhất", "23&&của", "24&&DisplayMate"], "label": "SUP+"}
+
+mẫu flagship mới nhất của Samsung ( sử dụng chipset A16 Bionic ) dường như đang là thiết bị đang có thiết kế đẹp và ấn tượng nhất trong bộ ba điện thoại này .	mẫu flagship mới nhất của Samsung ( sử dụng chipset A16 Bionic ) dường như đang là thiết bị đang có thiết kế đẹp và ấn tượng nhất trong bộ ba điện thoại này .
+{"subject": ["1&&mẫu", "2&&flagship", "3&&mới", "4&&nhất", "5&&của", "6&&Samsung"], "object": [], "aspect": ["22&&thiết", "23&&kế"], "predicate": ["24&&đẹp", "25&&và", "26&&ấn", "27&&tượng", "28&&nhất", "29&&trong", "30&&bộ", "31&&ba", "32&&điện", "33&&thoại", "34&&này"], "label": "SUP+"}
+
+Samsung ( sử dụng chipset A16 Bionic ) dường như đang là thiết bị đang có màn hình đẹp nhất hiện nay .	Samsung ( sử dụng chipset A16 Bionic ) dường như đang là thiết bị đang có màn hình đẹp nhất hiện nay .
+{"subject": ["1&&Samsung"], "object": [], "aspect": ["17&&màn", "18&&hình"], "predicate": ["19&&đẹp", "20&&nhất", "21&&hiện", "22&&nay"], "label": "SUP+"}
+
+Cả ba chiếc máy ( sử dụng chipset A16 Bionic ) dường như đang là thiết bị đang có mức giá bán cao cấp nhất của Samsung .	Cả ba chiếc máy ( sử dụng chipset A16 Bionic ) dường như đang là thiết bị đang có mức giá bán cao cấp nhất của Samsung .
+{"subject": ["1&&Cả", "2&&ba", "3&&chiếc", "4&&máy"], "object": [], "aspect": ["20&&mức", "21&&giá", "22&&bán"], "predicate": ["23&&cao", "24&&cấp", "25&&nhất", "26&&của", "27&&Samsung"], "label": "SUP+"}
+
+iPhone 14 Pro đều sở hữu pin không ai vượt nổi .	iPhone 14 Pro đều sở hữu pin không ai vượt nổi .
+{"subject": ["1&&iPhone", "2&&14", "3&&Pro"], "object": [], "aspect": ["7&&pin"], "predicate": ["8&&không", "9&&ai", "10&&vượt", "11&&nổi"], "label": "SUP+"}
+
+OPPO Find X6 Pro đều sở hữu camera tốt nhất .	OPPO Find X6 Pro đều sở hữu camera tốt nhất .
+{"subject": ["1&&OPPO", "2&&Find", "3&&X6", "4&&Pro"], "object": [], "aspect": ["8&&camera"], "predicate": ["9&&tốt", "10&&nhất"], "label": "SUP+"}
+
+Chip A15 Bionic cung cấp hiệu năng khủng cho iPhone 13 đều sở hữu mức giá bán cao cấp nhất của Samsung .	Chip A15 Bionic cung cấp hiệu năng khủng cho iPhone 13 đều sở hữu mức giá bán cao cấp nhất của Samsung .
+{"subject": ["1&&Chip", "2&&A15", "3&&Bionic", "4&&cung", "5&&cấp", "6&&hiệu", "7&&năng", "8&&khủng", "9&&cho", "10&&iPhone", "11&&13"], "object": [], "aspect": ["15&&mức", "16&&giá", "17&&bán"], "predicate": ["18&&cao", "19&&cấp", "20&&nhất", "21&&của", "22&&Samsung"], "label": "SUP+"}
+
+Về phần này , mình đánh giá Camera tele mạnh mẽ và tốt nhất hiện tại của Qualcomm .	Về phần này , mình đánh giá Camera tele mạnh mẽ và tốt nhất hiện tại của Qualcomm .
+{"subject": ["8&&Camera", "9&&tele"], "object": [], "aspect": [], "predicate": ["10&&mạnh", "11&&mẽ", "12&&và", "13&&tốt", "14&&nhất", "15&&hiện", "16&&tại", "17&&của", "18&&Qualcomm"], "label": "SUP+"}
+
+Về phần này , mình đánh giá Galaxy Note 9 linh hoạt nhất .	Về phần này , mình đánh giá Galaxy Note 9 linh hoạt nhất .
+{"subject": ["8&&Galaxy", "9&&Note", "10&&9"], "object": [], "aspect": [], "predicate": ["11&&linh", "12&&hoạt", "13&&nhất"], "label": "SUP+"}
+
+Về phần này , mình đánh giá Thiết bị tốt nhất .	Về phần này , mình đánh giá Thiết bị tốt nhất .
+{"subject": ["8&&Thiết", "9&&bị"], "object": [], "aspect": [], "predicate": ["10&&tốt", "11&&nhất"], "label": "SUP+"}
+
+Galaxy S21 Ultra là sản phẩm khủng nhất nhì trên thị trường hiện nay .	Galaxy S21 Ultra là sản phẩm khủng nhất nhì trên thị trường hiện nay .
+{"subject": ["1&&Galaxy", "2&&S21", "3&&Ultra"], "object": [], "aspect": [], "predicate": ["7&&khủng", "8&&nhất", "9&&nhì", "10&&trên", "11&&thị", "12&&trường", "13&&hiện", "14&&nay"], "label": "SUP+"}
+
+Snapdragon 888 là sản phẩm mới nhất .	Snapdragon 888 là sản phẩm mới nhất .
+{"subject": ["1&&Snapdragon", "2&&888"], "object": [], "aspect": [], "predicate": ["6&&mới", "7&&nhất"], "label": "SUP+"}
+
+Chip A15 Bionic cung cấp hiệu năng khủng cho iPhone 13 là sản phẩm thuộc hàng tốt nhất .	Chip A15 Bionic cung cấp hiệu năng khủng cho iPhone 13 là sản phẩm thuộc hàng tốt nhất .
+{"subject": ["1&&Chip", "2&&A15", "3&&Bionic", "4&&cung", "5&&cấp", "6&&hiệu", "7&&năng", "8&&khủng", "9&&cho", "10&&iPhone", "11&&13"], "object": [], "aspect": [], "predicate": ["15&&thuộc", "16&&hàng", "17&&tốt", "18&&nhất"], "label": "SUP+"}
+
+mẫu flagship mới nhất của Samsung tự hào có một số cải tiến về hiển thị , nổi bật là nỗ lực tạo ra màn hình tốt nhất của DisplayMate trường hợp của Galaxy S22 Ultra , điều đó có nghĩa là màn hình hứa hẹn có độ sáng cao nhất là 1.750 nits .	mẫu flagship mới nhất của Samsung tự hào có một số cải tiến về hiển thị , nổi bật là nỗ lực tạo ra màn hình tốt nhất của DisplayMate trường hợp của Galaxy S22 Ultra , điều đó có nghĩa là màn hình hứa hẹn có độ sáng cao nhất là 1.750 nits .
+{"subject": ["1&&mẫu", "2&&flagship", "3&&mới", "4&&nhất", "5&&của", "6&&Samsung"], "object": [], "aspect": ["25&&màn", "26&&hình"], "predicate": ["27&&tốt", "28&&nhất", "29&&của", "30&&DisplayMate"], "label": "SUP+"}
+
+Galaxy Note 20 Ultra tự hào có một số cải tiến về hiển thị , nổi bật là nỗ lực tạo ra camera tele tốt nhất trường hợp của Galaxy S22 Ultra , điều đó có nghĩa là màn hình hứa hẹn có độ sáng cao nhất là 1.750 nits .	Galaxy Note 20 Ultra tự hào có một số cải tiến về hiển thị , nổi bật là nỗ lực tạo ra camera tele tốt nhất trường hợp của Galaxy S22 Ultra , điều đó có nghĩa là màn hình hứa hẹn có độ sáng cao nhất là 1.750 nits .
+{"subject": ["1&&Galaxy", "2&&Note", "3&&20", "4&&Ultra"], "object": [], "aspect": ["23&&camera", "24&&tele"], "predicate": ["25&&tốt", "26&&nhất"], "label": "SUP+"}
+
+iPhone SE 2016 tự hào có một số cải tiến về hiển thị , nổi bật là nỗ lực tạo ra camera chụp ảnh tốt và ổn định nhất nhì trong thế giới smartphone trường hợp của Galaxy S22 Ultra , điều đó có nghĩa là màn hình hứa hẹn có độ sáng cao nhất là 1.750 nits .	iPhone SE 2016 tự hào có một số cải tiến về hiển thị , nổi bật là nỗ lực tạo ra camera chụp ảnh tốt và ổn định nhất nhì trong thế giới smartphone trường hợp của Galaxy S22 Ultra , điều đó có nghĩa là màn hình hứa hẹn có độ sáng cao nhất là 1.750 nits .
+{"subject": ["1&&iPhone", "2&&SE", "3&&2016"], "object": [], "aspect": ["22&&camera", "23&&chụp", "24&&ảnh"], "predicate": ["25&&tốt", "26&&và", "27&&ổn", "28&&định", "29&&nhất", "30&&nhì", "31&&trong", "32&&thế", "33&&giới", "34&&smartphone"], "label": "SUP+"}
+
+đây chẳng có máy nào so sánh được	đây chẳng có máy nào so sánh được
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["2&&chẳng", "3&&có", "4&&máy", "5&&nào", "6&&so", "7&&sánh", "8&&được"], "label": "SUP+"}
+
+đây được đánh giá cao nhất	đây được đánh giá cao nhất
+{"subject": ["1&&đây"], "object": [], "aspect": [], "predicate": ["2&&được", "3&&đánh", "4&&giá", "5&&cao", "6&&nhất"], "label": "SUP+"}
+
+Cả ba chiếc máy khủng nhất trên thị trường hiện nay	Cả ba chiếc máy khủng nhất trên thị trường hiện nay
+{"subject": ["1&&Cả", "2&&ba", "3&&chiếc", "4&&máy"], "object": [], "aspect": [], "predicate": ["5&&khủng", "6&&nhất", "7&&trên", "8&&thị", "9&&trường", "10&&hiện", "11&&nay"], "label": "SUP+"}
+
+Cá nhân mình nhận thấy , Pixel 7 Pro sở hữu màn hình tốt nhất trong phân khúc giá bán .	Cá nhân mình nhận thấy , Pixel 7 Pro sở hữu màn hình tốt nhất trong phân khúc giá bán .
+{"subject": ["7&&Pixel", "8&&7", "9&&Pro"], "object": [], "aspect": ["12&&màn", "13&&hình"], "predicate": ["14&&tốt", "15&&nhất", "16&&trong", "17&&phân", "18&&khúc", "19&&giá", "20&&bán"], "label": "SUP+"}
+
+Cá nhân mình nhận thấy , Redmi Note 11 sở hữu màn hình tốt nhất .	Cá nhân mình nhận thấy , Redmi Note 11 sở hữu màn hình tốt nhất .
+{"subject": ["7&&Redmi", "8&&Note", "9&&11"], "object": [], "aspect": ["12&&màn", "13&&hình"], "predicate": ["14&&tốt", "15&&nhất"], "label": "SUP+"}
+
+Cá nhân mình nhận thấy , ảnh sở hữu hệ thống camera tốt nhất từ trước đến nay .	Cá nhân mình nhận thấy , ảnh sở hữu hệ thống camera tốt nhất từ trước đến nay .
+{"subject": ["7&&ảnh"], "object": [], "aspect": ["10&&hệ", "11&&thống", "12&&camera"], "predicate": ["13&&tốt", "14&&nhất", "15&&từ", "16&&trước", "17&&đến", "18&&nay"], "label": "SUP+"}
+
+Trong ba smartphone này , M51 có camera là vua .	Trong ba smartphone này , M51 có camera là vua .
+{"subject": ["6&&M51"], "object": [], "aspect": ["8&&camera"], "predicate": ["9&&là", "10&&vua"], "label": "SUP+"}
+
+Trong ba smartphone này , Xiaomi có cấu hình thuộc hàng tốt nhất .	Trong ba smartphone này , Xiaomi có cấu hình thuộc hàng tốt nhất .
+{"subject": ["6&&Xiaomi"], "object": [], "aspect": ["8&&cấu", "9&&hình"], "predicate": ["10&&thuộc", "11&&hàng", "12&&tốt", "13&&nhất"], "label": "SUP+"}
+
+Trong ba smartphone này , đây có hiệu năng tốt nhất ở thời điểm hiện tại .	Trong ba smartphone này , đây có hiệu năng tốt nhất ở thời điểm hiện tại .
+{"subject": ["6&&đây"], "object": [], "aspect": ["8&&hiệu", "9&&năng"], "predicate": ["10&&tốt", "11&&nhất", "12&&ở", "13&&thời", "14&&điểm", "15&&hiện", "16&&tại"], "label": "SUP+"}
+

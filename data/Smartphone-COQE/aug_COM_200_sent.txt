@@ -1,0 +1,585 @@
+màn hình trên Galaxy S22 Ultra đã được nhỏ gọn hơn khi so với các flagship trên thị trường .	màn hình trên Galaxy S22 Ultra đã được nhỏ gọn hơn khi so với các flagship trên thị trường .
+{"subject": ["4&&Galaxy", "5&&S22", "6&&Ultra"], "object": ["15&&các", "16&&flagship", "17&&trên", "18&&thị", "19&&trường"], "aspect": ["1&&màn", "2&&hình"], "predicate": ["9&&nhỏ", "10&&gọn", "11&&hơn"], "label": "COM"}
+
+kích thước trên Realme 8 5G đã được to hơn khi so với 11 Pro Max .	kích thước trên Realme 8 5G đã được to hơn khi so với 11 Pro Max .
+{"subject": ["4&&Realme", "5&&8", "6&&5G"], "object": ["14&&11", "15&&Pro", "16&&Max"], "aspect": ["1&&kích", "2&&thước"], "predicate": ["9&&to", "10&&hơn"], "label": "COM"}
+
+độ sâu trường ảnh trên camera 50MP đã được nông hơn trong một số bức ảnh khi so với S23 Ultra .	độ sâu trường ảnh trên camera 50MP đã được nông hơn trong một số bức ảnh khi so với S23 Ultra .
+{"subject": ["6&&camera", "7&&50MP"], "object": ["20&&S23", "21&&Ultra"], "aspect": ["1&&độ", "2&&sâu", "3&&trường", "4&&ảnh"], "predicate": ["10&&nông", "11&&hơn", "12&&trong", "13&&một", "14&&số", "15&&bức", "16&&ảnh"], "label": "COM"}
+
+kích thước trên Samsung Galaxy S21 Ultra đã được to hơn khi so với các điện thoại khác trong phân khúc .	kích thước trên Samsung Galaxy S21 Ultra đã được to hơn khi so với các điện thoại khác trong phân khúc .
+{"subject": ["4&&Samsung", "5&&Galaxy", "6&&S21", "7&&Ultra"], "object": ["15&&các", "16&&điện", "17&&thoại", "18&&khác", "19&&trong", "20&&phân", "21&&khúc"], "aspect": ["1&&kích", "2&&thước"], "predicate": ["10&&to", "11&&hơn"], "label": "COM"}
+
+kích thước trên Samsung Galaxy Z Fold2 đã được nhỏ gọn hơn khi so với Huawei P30 Pro .	kích thước trên Samsung Galaxy Z Fold2 đã được nhỏ gọn hơn khi so với Huawei P30 Pro .
+{"subject": ["4&&Samsung", "5&&Galaxy", "6&&Z", "7&&Fold2"], "object": ["16&&Huawei", "17&&P30", "18&&Pro"], "aspect": ["1&&kích", "2&&thước"], "predicate": ["10&&nhỏ", "11&&gọn", "12&&hơn"], "label": "COM"}
+
+Hình ảnh trên Asus ROG Phone 2 đã được sáng hơn khi so với Dimensity 920 .	Hình ảnh trên Asus ROG Phone 2 đã được sáng hơn khi so với Dimensity 920 .
+{"subject": ["4&&Asus", "5&&ROG", "6&&Phone", "7&&2"], "object": ["15&&Dimensity", "16&&920"], "aspect": ["1&&Hình", "2&&ảnh"], "predicate": ["10&&sáng", "11&&hơn"], "label": "COM"}
+
+Thiết kế trên Galaxy S22 Ultra 5G đã được độc đáo hơn khi so với Galaxy Z Flip 4 .	Thiết kế trên Galaxy S22 Ultra 5G đã được độc đáo hơn khi so với Galaxy Z Flip 4 .
+{"subject": ["4&&Galaxy", "5&&S22", "6&&Ultra", "7&&5G"], "object": ["16&&Galaxy", "17&&Z", "18&&Flip", "19&&4"], "aspect": ["1&&Thiết", "2&&kế"], "predicate": ["10&&độc", "11&&đáo", "12&&hơn"], "label": "COM"}
+
+màn hình trên A32 đã được ít cong hơn khi so với người anh em của mình .	màn hình trên A32 đã được ít cong hơn khi so với người anh em của mình .
+{"subject": ["4&&A32"], "object": ["13&&người", "14&&anh", "15&&em", "16&&của", "17&&mình"], "aspect": ["1&&màn", "2&&hình"], "predicate": ["7&&ít", "8&&cong", "9&&hơn"], "label": "COM"}
+
+màn hình trên tấm nền PLS đã được ít cong hơn khi so với camera của OPPO A74 .	màn hình trên tấm nền PLS đã được ít cong hơn khi so với camera của OPPO A74 .
+{"subject": ["4&&tấm", "5&&nền", "6&&PLS"], "object": ["15&&camera", "16&&của", "17&&OPPO", "18&&A74"], "aspect": ["1&&màn", "2&&hình"], "predicate": ["9&&ít", "10&&cong", "11&&hơn"], "label": "COM"}
+
+tỷ lệ khung hình trên Find N2 Flip đã được rộng hơn khi so với Galaxy Z Fold 4 .	tỷ lệ khung hình trên Find N2 Flip đã được rộng hơn khi so với Galaxy Z Fold 4 .
+{"subject": ["6&&Find", "7&&N2", "8&&Flip"], "object": ["16&&Galaxy", "17&&Z", "18&&Fold", "19&&4"], "aspect": ["1&&tỷ", "2&&lệ", "3&&khung", "4&&hình"], "predicate": ["11&&rộng", "12&&hơn"], "label": "COM"}
+
+Thiết kế trên Redmi Note 11 đã được độc đáo hơn khi so với Samsung .	Thiết kế trên Redmi Note 11 đã được độc đáo hơn khi so với Samsung .
+{"subject": ["4&&Redmi", "5&&Note", "6&&11"], "object": ["15&&Samsung"], "aspect": ["1&&Thiết", "2&&kế"], "predicate": ["9&&độc", "10&&đáo", "11&&hơn"], "label": "COM"}
+
+tổng thể trên biến thể Ultra đã được lớn và nặng hơn khi so với các điện thoại khác .	tổng thể trên biến thể Ultra đã được lớn và nặng hơn khi so với các điện thoại khác .
+{"subject": ["4&&biến", "5&&thể", "6&&Ultra"], "object": ["16&&các", "17&&điện", "18&&thoại", "19&&khác"], "aspect": ["1&&tổng", "2&&thể"], "predicate": ["9&&lớn", "10&&và", "11&&nặng", "12&&hơn"], "label": "COM"}
+
+S-Pen đi kèm với Galaxy S22 Ultra sở hữu kích thước nhỏ gọn hơn	S-Pen đi kèm với Galaxy S22 Ultra sở hữu kích thước nhỏ gọn hơn
+{"subject": ["1&&S-Pen", "2&&đi", "3&&kèm", "4&&với", "5&&Galaxy", "6&&S22", "7&&Ultra"], "object": [], "aspect": ["10&&kích", "11&&thước"], "predicate": ["12&&nhỏ", "13&&gọn", "14&&hơn"], "label": "COM"}
+
+máy sở hữu tần số quét điều chỉnh hơn nữa	máy sở hữu tần số quét điều chỉnh hơn nữa
+{"subject": ["1&&máy"], "object": [], "aspect": ["4&&tần", "5&&số", "6&&quét"], "predicate": ["7&&điều", "8&&chỉnh", "9&&hơn", "10&&nữa"], "label": "COM"}
+
+Thiết bị sở hữu tổng thể vuông vắn hơn	Thiết bị sở hữu tổng thể vuông vắn hơn
+{"subject": ["1&&Thiết", "2&&bị"], "object": [], "aspect": ["5&&tổng", "6&&thể"], "predicate": ["7&&vuông", "8&&vắn", "9&&hơn"], "label": "COM"}
+
+Galaxy S22 Ultra 5G sở hữu kích thước nhỏ gọn hơn	Galaxy S22 Ultra 5G sở hữu kích thước nhỏ gọn hơn
+{"subject": ["1&&Galaxy", "2&&S22", "3&&Ultra", "4&&5G"], "object": [], "aspect": ["7&&kích", "8&&thước"], "predicate": ["9&&nhỏ", "10&&gọn", "11&&hơn"], "label": "COM"}
+
+Galaxy A73 5G sở hữu Hình ảnh sáng hơn	Galaxy A73 5G sở hữu Hình ảnh sáng hơn
+{"subject": ["1&&Galaxy", "2&&A73", "3&&5G"], "object": [], "aspect": ["6&&Hình", "7&&ảnh"], "predicate": ["8&&sáng", "9&&hơn"], "label": "COM"}
+
+Hình ảnh xuất ra trên Galaxy A53 sở hữu phơi sáng tối hơn	Hình ảnh xuất ra trên Galaxy A53 sở hữu phơi sáng tối hơn
+{"subject": ["1&&Hình", "2&&ảnh", "3&&xuất", "4&&ra", "5&&trên", "6&&Galaxy", "7&&A53"], "object": [], "aspect": ["10&&phơi", "11&&sáng"], "predicate": ["12&&tối", "13&&hơn"], "label": "COM"}
+
+iPhone 11 sở hữu tần số quét điều chỉnh hơn nữa	iPhone 11 sở hữu tần số quét điều chỉnh hơn nữa
+{"subject": ["1&&iPhone", "2&&11"], "object": [], "aspect": ["5&&tần", "6&&số", "7&&quét"], "predicate": ["8&&điều", "9&&chỉnh", "10&&hơn", "11&&nữa"], "label": "COM"}
+
+Galaxy A23 sở hữu kích thước hơn hẳn	Galaxy A23 sở hữu kích thước hơn hẳn
+{"subject": ["1&&Galaxy", "2&&A23"], "object": [], "aspect": ["5&&kích", "6&&thước"], "predicate": ["7&&hơn", "8&&hẳn"], "label": "COM"}
+
+iPhone SE 2022 sở hữu tần số quét điều chỉnh hơn nữa	iPhone SE 2022 sở hữu tần số quét điều chỉnh hơn nữa
+{"subject": ["1&&iPhone", "2&&SE", "3&&2022"], "object": [], "aspect": ["6&&tần", "7&&số", "8&&quét"], "predicate": ["9&&điều", "10&&chỉnh", "11&&hơn", "12&&nữa"], "label": "COM"}
+
+nó sở hữu Độ bo cong hai cạnh bên giảm bớt	nó sở hữu Độ bo cong hai cạnh bên giảm bớt
+{"subject": ["1&&nó"], "object": [], "aspect": ["4&&Độ", "5&&bo", "6&&cong", "7&&hai", "8&&cạnh", "9&&bên"], "predicate": ["10&&giảm", "11&&bớt"], "label": "COM"}
+
+phiên bản chip trên Galaxy S23 Ultra sở hữu kích thước nhỉnh hơn đôi chút	phiên bản chip trên Galaxy S23 Ultra sở hữu kích thước nhỉnh hơn đôi chút
+{"subject": ["1&&phiên", "2&&bản", "3&&chip", "4&&trên", "5&&Galaxy", "6&&S23", "7&&Ultra"], "object": [], "aspect": ["10&&kích", "11&&thước"], "predicate": ["12&&nhỉnh", "13&&hơn", "14&&đôi", "15&&chút"], "label": "COM"}
+
+Galaxy Z Fold3 sở hữu màn hình ít cong hơn	Galaxy Z Fold3 sở hữu màn hình ít cong hơn
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold3"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&ít", "9&&cong", "10&&hơn"], "label": "COM"}
+
+Tuy nhiên , tần số quét iPhone 12 Pro Max điều chỉnh hơn nữa so với màn hình IPS .	Tuy nhiên , tần số quét iPhone 12 Pro Max điều chỉnh hơn nữa so với màn hình IPS .
+{"subject": ["7&&iPhone", "8&&12", "9&&Pro", "10&&Max"], "object": ["17&&màn", "18&&hình", "19&&IPS"], "aspect": ["4&&tần", "5&&số", "6&&quét"], "predicate": ["11&&điều", "12&&chỉnh", "13&&hơn", "14&&nữa"], "label": "COM"}
+
+Tuy nhiên , màn hình X90 ít cong hơn so với Xiaomi Mi 11 Ultra .	Tuy nhiên , màn hình X90 ít cong hơn so với Xiaomi Mi 11 Ultra .
+{"subject": ["6&&X90"], "object": ["12&&Xiaomi", "13&&Mi", "14&&11", "15&&Ultra"], "aspect": ["4&&màn", "5&&hình"], "predicate": ["7&&ít", "8&&cong", "9&&hơn"], "label": "COM"}
+
+Tuy nhiên , Thiết kế Find N2 Flip độc đáo hơn so với Galaxy .	Tuy nhiên , Thiết kế Find N2 Flip độc đáo hơn so với Galaxy .
+{"subject": ["6&&Find", "7&&N2", "8&&Flip"], "object": ["14&&Galaxy"], "aspect": ["4&&Thiết", "5&&kế"], "predicate": ["9&&độc", "10&&đáo", "11&&hơn"], "label": "COM"}
+
+Tuy nhiên , kích thước Galaxy S23 Plus to hơn so với đối thủ của nó .	Tuy nhiên , kích thước Galaxy S23 Plus to hơn so với đối thủ của nó .
+{"subject": ["6&&Galaxy", "7&&S23", "8&&Plus"], "object": ["13&&đối", "14&&thủ", "15&&của", "16&&nó"], "aspect": ["4&&kích", "5&&thước"], "predicate": ["9&&to", "10&&hơn"], "label": "COM"}
+
+Tuy nhiên , Độ bo cong hai cạnh bên máy giảm bớt so với S20 Ultra .	Tuy nhiên , Độ bo cong hai cạnh bên máy giảm bớt so với S20 Ultra .
+{"subject": ["10&&máy"], "object": ["15&&S20", "16&&Ultra"], "aspect": ["4&&Độ", "5&&bo", "6&&cong", "7&&hai", "8&&cạnh", "9&&bên"], "predicate": ["11&&giảm", "12&&bớt"], "label": "COM"}
+
+Tuy nhiên , Thiết kế màn hình Xiaomi Mi 11 Ultra độc đáo hơn so với Galaxy A23 .	Tuy nhiên , Thiết kế màn hình Xiaomi Mi 11 Ultra độc đáo hơn so với Galaxy A23 .
+{"subject": ["6&&màn", "7&&hình", "8&&Xiaomi", "9&&Mi", "10&&11", "11&&Ultra"], "object": ["17&&Galaxy", "18&&A23"], "aspect": ["4&&Thiết", "5&&kế"], "predicate": ["12&&độc", "13&&đáo", "14&&hơn"], "label": "COM"}
+
+Tuy nhiên , tổng thể Snapdragon 8 Gen 2 vuông vắn hơn so với S23 Ultra .	Tuy nhiên , tổng thể Snapdragon 8 Gen 2 vuông vắn hơn so với S23 Ultra .
+{"subject": ["6&&Snapdragon", "7&&8", "8&&Gen", "9&&2"], "object": ["15&&S23", "16&&Ultra"], "aspect": ["4&&tổng", "5&&thể"], "predicate": ["10&&vuông", "11&&vắn", "12&&hơn"], "label": "COM"}
+
+Tuy nhiên , Thiết kế camera Galaxy S23 Ultra độc đáo hơn so với iPhone 12 Pro Max .	Tuy nhiên , Thiết kế camera Galaxy S23 Ultra độc đáo hơn so với iPhone 12 Pro Max .
+{"subject": ["6&&camera", "7&&Galaxy", "8&&S23", "9&&Ultra"], "object": ["15&&iPhone", "16&&12", "17&&Pro", "18&&Max"], "aspect": ["4&&Thiết", "5&&kế"], "predicate": ["10&&độc", "11&&đáo", "12&&hơn"], "label": "COM"}
+
+Tuy nhiên , màn hình nó ít cong hơn so với S23 Ultra .	Tuy nhiên , màn hình nó ít cong hơn so với S23 Ultra .
+{"subject": ["6&&nó"], "object": ["12&&S23", "13&&Ultra"], "aspect": ["4&&màn", "5&&hình"], "predicate": ["7&&ít", "8&&cong", "9&&hơn"], "label": "COM"}
+
+Tuy nhiên , kích thước S21 Ultra to hơn so với Xiaomi Mi 11 Ultra .	Tuy nhiên , kích thước S21 Ultra to hơn so với Xiaomi Mi 11 Ultra .
+{"subject": ["6&&S21", "7&&Ultra"], "object": ["12&&Xiaomi", "13&&Mi", "14&&11", "15&&Ultra"], "aspect": ["4&&kích", "5&&thước"], "predicate": ["8&&to", "9&&hơn"], "label": "COM"}
+
+Tuy nhiên , màn hình camera sau ít cong hơn so với iPhone 15 Plus .	Tuy nhiên , màn hình camera sau ít cong hơn so với iPhone 15 Plus .
+{"subject": ["6&&camera", "7&&sau"], "object": ["13&&iPhone", "14&&15", "15&&Plus"], "aspect": ["4&&màn", "5&&hình"], "predicate": ["8&&ít", "9&&cong", "10&&hơn"], "label": "COM"}
+
+Tuy nhiên , tần số quét những sản phẩm cùng phân khúc giá điều chỉnh hơn nữa so với Xiaomi Mi 11 .	Tuy nhiên , tần số quét những sản phẩm cùng phân khúc giá điều chỉnh hơn nữa so với Xiaomi Mi 11 .
+{"subject": ["7&&những", "8&&sản", "9&&phẩm", "10&&cùng", "11&&phân", "12&&khúc", "13&&giá"], "object": ["20&&Xiaomi", "21&&Mi", "22&&11"], "aspect": ["4&&tần", "5&&số", "6&&quét"], "predicate": ["14&&điều", "15&&chỉnh", "16&&hơn", "17&&nữa"], "label": "COM"}
+
+Đối với trong điều kiện ánh sáng tốt , Samsung A51 có xu hướng Độ bo cong hai cạnh bên giảm bớt .	Đối với trong điều kiện ánh sáng tốt , Samsung A51 có xu hướng Độ bo cong hai cạnh bên giảm bớt .
+{"subject": ["10&&Samsung", "11&&A51"], "object": [], "aspect": ["15&&Độ", "16&&bo", "17&&cong", "18&&hai", "19&&cạnh", "20&&bên"], "predicate": ["21&&giảm", "22&&bớt"], "label": "COM"}
+
+Đối với trong điều kiện ánh sáng tốt , iPhone 12 có xu hướng tỷ lệ khung hình rộng hơn .	Đối với trong điều kiện ánh sáng tốt , iPhone 12 có xu hướng tỷ lệ khung hình rộng hơn .
+{"subject": ["10&&iPhone", "11&&12"], "object": [], "aspect": ["15&&tỷ", "16&&lệ", "17&&khung", "18&&hình"], "predicate": ["19&&rộng", "20&&hơn"], "label": "COM"}
+
+Đối với trong điều kiện ánh sáng tốt , máy có xu hướng phơi sáng tối hơn .	Đối với trong điều kiện ánh sáng tốt , máy có xu hướng phơi sáng tối hơn .
+{"subject": ["10&&máy"], "object": [], "aspect": ["14&&phơi", "15&&sáng"], "predicate": ["16&&tối", "17&&hơn"], "label": "COM"}
+
+Đối với trong điều kiện ánh sáng tốt , máy có xu hướng phơi sáng tối hơn .	Đối với trong điều kiện ánh sáng tốt , máy có xu hướng phơi sáng tối hơn .
+{"subject": ["10&&máy"], "object": [], "aspect": ["14&&phơi", "15&&sáng"], "predicate": ["16&&tối", "17&&hơn"], "label": "COM"}
+
+Đối với trong điều kiện ánh sáng tốt , Samsung A51 có xu hướng tổng thể lớn và nặng hơn .	Đối với trong điều kiện ánh sáng tốt , Samsung A51 có xu hướng tổng thể lớn và nặng hơn .
+{"subject": ["10&&Samsung", "11&&A51"], "object": [], "aspect": ["15&&tổng", "16&&thể"], "predicate": ["17&&lớn", "18&&và", "19&&nặng", "20&&hơn"], "label": "COM"}
+
+Đối với trong điều kiện ánh sáng tốt , Mi 11 có xu hướng màn hình ít cong hơn .	Đối với trong điều kiện ánh sáng tốt , Mi 11 có xu hướng màn hình ít cong hơn .
+{"subject": ["10&&Mi", "11&&11"], "object": [], "aspect": ["15&&màn", "16&&hình"], "predicate": ["17&&ít", "18&&cong", "19&&hơn"], "label": "COM"}
+
+Đối với trong điều kiện ánh sáng tốt , nó có xu hướng tổng thể lớn và nặng hơn .	Đối với trong điều kiện ánh sáng tốt , nó có xu hướng tổng thể lớn và nặng hơn .
+{"subject": ["10&&nó"], "object": [], "aspect": ["14&&tổng", "15&&thể"], "predicate": ["16&&lớn", "17&&và", "18&&nặng", "19&&hơn"], "label": "COM"}
+
+Đối với trong điều kiện ánh sáng tốt , Xiaomi có xu hướng thiết kế “ truyền thống ” hơn .	Đối với trong điều kiện ánh sáng tốt , Xiaomi có xu hướng thiết kế “ truyền thống ” hơn .
+{"subject": ["10&&Xiaomi"], "object": [], "aspect": ["14&&thiết", "15&&kế"], "predicate": ["16&&“", "17&&truyền", "18&&thống", "19&&”", "20&&hơn"], "label": "COM"}
+
+Đối với trong điều kiện ánh sáng tốt , máy có xu hướng độ sâu trường ảnh nông hơn trong một số bức ảnh .	Đối với trong điều kiện ánh sáng tốt , máy có xu hướng độ sâu trường ảnh nông hơn trong một số bức ảnh .
+{"subject": ["10&&máy"], "object": [], "aspect": ["14&&độ", "15&&sâu", "16&&trường", "17&&ảnh"], "predicate": ["18&&nông", "19&&hơn", "20&&trong", "21&&một", "22&&số", "23&&bức", "24&&ảnh"], "label": "COM"}
+
+Đối với trong điều kiện ánh sáng tốt , Realme 8 5G có xu hướng kích thước nhỏ gọn hơn .	Đối với trong điều kiện ánh sáng tốt , Realme 8 5G có xu hướng kích thước nhỏ gọn hơn .
+{"subject": ["10&&Realme", "11&&8", "12&&5G"], "object": [], "aspect": ["16&&kích", "17&&thước"], "predicate": ["18&&nhỏ", "19&&gọn", "20&&hơn"], "label": "COM"}
+
+Đối với trong điều kiện ánh sáng tốt , Xiaomi Redmi 9 có xu hướng Hình ảnh sáng hơn .	Đối với trong điều kiện ánh sáng tốt , Xiaomi Redmi 9 có xu hướng Hình ảnh sáng hơn .
+{"subject": ["10&&Xiaomi", "11&&Redmi", "12&&9"], "object": [], "aspect": ["16&&Hình", "17&&ảnh"], "predicate": ["18&&sáng", "19&&hơn"], "label": "COM"}
+
+Đối với trong điều kiện ánh sáng tốt , điện thoại đắt tiền hơn của Apple có xu hướng kích thước to hơn .	Đối với trong điều kiện ánh sáng tốt , điện thoại đắt tiền hơn của Apple có xu hướng kích thước to hơn .
+{"subject": ["10&&điện", "11&&thoại", "12&&đắt", "13&&tiền", "14&&hơn", "15&&của", "16&&Apple"], "object": [], "aspect": ["20&&kích", "21&&thước"], "predicate": ["22&&to", "23&&hơn"], "label": "COM"}
+
+Trong khi Galaxy A53 5G Thiết kế độc đáo hơn .	Trong khi Galaxy A53 5G Thiết kế độc đáo hơn .
+{"subject": ["3&&Galaxy", "4&&A53", "5&&5G"], "object": [], "aspect": ["6&&Thiết", "7&&kế"], "predicate": ["8&&độc", "9&&đáo", "10&&hơn"], "label": "COM"}
+
+Trong khi camera chính thiết kế “ truyền thống ” hơn .	Trong khi camera chính thiết kế “ truyền thống ” hơn .
+{"subject": ["3&&camera", "4&&chính"], "object": [], "aspect": ["5&&thiết", "6&&kế"], "predicate": ["7&&“", "8&&truyền", "9&&thống", "10&&”", "11&&hơn"], "label": "COM"}
+
+Trong khi hiệu năng của máy Thiết kế độc đáo hơn .	Trong khi hiệu năng của máy Thiết kế độc đáo hơn .
+{"subject": ["3&&hiệu", "4&&năng", "5&&của", "6&&máy"], "object": [], "aspect": ["7&&Thiết", "8&&kế"], "predicate": ["9&&độc", "10&&đáo", "11&&hơn"], "label": "COM"}
+
+Trong khi iPhone 12 Pro Max Thiết kế độc đáo hơn .	Trong khi iPhone 12 Pro Max Thiết kế độc đáo hơn .
+{"subject": ["3&&iPhone", "4&&12", "5&&Pro", "6&&Max"], "object": [], "aspect": ["7&&Thiết", "8&&kế"], "predicate": ["9&&độc", "10&&đáo", "11&&hơn"], "label": "COM"}
+
+Trong khi Xiaomi Mi 11 Ultra Thiết kế độc đáo hơn .	Trong khi Xiaomi Mi 11 Ultra Thiết kế độc đáo hơn .
+{"subject": ["3&&Xiaomi", "4&&Mi", "5&&11", "6&&Ultra"], "object": [], "aspect": ["7&&Thiết", "8&&kế"], "predicate": ["9&&độc", "10&&đáo", "11&&hơn"], "label": "COM"}
+
+Trong khi S23 Ultra độ sâu trường ảnh nông hơn trong một số bức ảnh .	Trong khi S23 Ultra độ sâu trường ảnh nông hơn trong một số bức ảnh .
+{"subject": ["3&&S23", "4&&Ultra"], "object": [], "aspect": ["5&&độ", "6&&sâu", "7&&trường", "8&&ảnh"], "predicate": ["9&&nông", "10&&hơn", "11&&trong", "12&&một", "13&&số", "14&&bức", "15&&ảnh"], "label": "COM"}
+
+Trong khi Galaxy S10 Plus tổng thể lớn và nặng hơn .	Trong khi Galaxy S10 Plus tổng thể lớn và nặng hơn .
+{"subject": ["3&&Galaxy", "4&&S10", "5&&Plus"], "object": [], "aspect": ["6&&tổng", "7&&thể"], "predicate": ["8&&lớn", "9&&và", "10&&nặng", "11&&hơn"], "label": "COM"}
+
+Trong khi Mẫu iPhone SE mới Hình ảnh sáng hơn .	Trong khi Mẫu iPhone SE mới Hình ảnh sáng hơn .
+{"subject": ["3&&Mẫu", "4&&iPhone", "5&&SE", "6&&mới"], "object": [], "aspect": ["7&&Hình", "8&&ảnh"], "predicate": ["9&&sáng", "10&&hơn"], "label": "COM"}
+
+Trong khi A53 phơi sáng tối hơn .	Trong khi A53 phơi sáng tối hơn .
+{"subject": ["3&&A53"], "object": [], "aspect": ["4&&phơi", "5&&sáng"], "predicate": ["6&&tối", "7&&hơn"], "label": "COM"}
+
+Trong khi Galaxy A13 Thiết kế độc đáo hơn .	Trong khi Galaxy A13 Thiết kế độc đáo hơn .
+{"subject": ["3&&Galaxy", "4&&A13"], "object": [], "aspect": ["5&&Thiết", "6&&kế"], "predicate": ["7&&độc", "8&&đáo", "9&&hơn"], "label": "COM"}
+
+Trong khi iPhone 12 Pro Max thiết kế “ truyền thống ” hơn .	Trong khi iPhone 12 Pro Max thiết kế “ truyền thống ” hơn .
+{"subject": ["3&&iPhone", "4&&12", "5&&Pro", "6&&Max"], "object": [], "aspect": ["7&&thiết", "8&&kế"], "predicate": ["9&&“", "10&&truyền", "11&&thống", "12&&”", "13&&hơn"], "label": "COM"}
+
+Trong khi viên pin tổng thể lớn và nặng hơn .	Trong khi viên pin tổng thể lớn và nặng hơn .
+{"subject": ["3&&viên", "4&&pin"], "object": [], "aspect": ["5&&tổng", "6&&thể"], "predicate": ["7&&lớn", "8&&và", "9&&nặng", "10&&hơn"], "label": "COM"}
+
+kích thước Samsung to hơn	kích thước Samsung to hơn
+{"subject": ["3&&Samsung"], "object": [], "aspect": ["1&&kích", "2&&thước"], "predicate": ["4&&to", "5&&hơn"], "label": "COM"}
+
+thiết kế Galaxy A73 5G “ truyền thống ” hơn	thiết kế Galaxy A73 5G “ truyền thống ” hơn
+{"subject": ["3&&Galaxy", "4&&A73", "5&&5G"], "object": [], "aspect": ["1&&thiết", "2&&kế"], "predicate": ["6&&“", "7&&truyền", "8&&thống", "9&&”", "10&&hơn"], "label": "COM"}
+
+Thiết kế nó độc đáo hơn	Thiết kế nó độc đáo hơn
+{"subject": ["3&&nó"], "object": [], "aspect": ["1&&Thiết", "2&&kế"], "predicate": ["4&&độc", "5&&đáo", "6&&hơn"], "label": "COM"}
+
+Hình ảnh Xiaomi 13 Pro sáng hơn	Hình ảnh Xiaomi 13 Pro sáng hơn
+{"subject": ["3&&Xiaomi", "4&&13", "5&&Pro"], "object": [], "aspect": ["1&&Hình", "2&&ảnh"], "predicate": ["6&&sáng", "7&&hơn"], "label": "COM"}
+
+kích thước iPhone 15 Plus nhỏ gọn hơn	kích thước iPhone 15 Plus nhỏ gọn hơn
+{"subject": ["3&&iPhone", "4&&15", "5&&Plus"], "object": [], "aspect": ["1&&kích", "2&&thước"], "predicate": ["6&&nhỏ", "7&&gọn", "8&&hơn"], "label": "COM"}
+
+kích thước Samsung Galaxy S22 Ultra nhỉnh hơn đôi chút	kích thước Samsung Galaxy S22 Ultra nhỉnh hơn đôi chút
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&S22", "6&&Ultra"], "object": [], "aspect": ["1&&kích", "2&&thước"], "predicate": ["7&&nhỉnh", "8&&hơn", "9&&đôi", "10&&chút"], "label": "COM"}
+
+kích thước Galaxy A11 nhỏ gọn hơn	kích thước Galaxy A11 nhỏ gọn hơn
+{"subject": ["3&&Galaxy", "4&&A11"], "object": [], "aspect": ["1&&kích", "2&&thước"], "predicate": ["5&&nhỏ", "6&&gọn", "7&&hơn"], "label": "COM"}
+
+phơi sáng S20 tối hơn	phơi sáng S20 tối hơn
+{"subject": ["3&&S20"], "object": [], "aspect": ["1&&phơi", "2&&sáng"], "predicate": ["4&&tối", "5&&hơn"], "label": "COM"}
+
+chụp ảnh Galaxy S22 Ultra 5G sáng hơn	chụp ảnh Galaxy S22 Ultra 5G sáng hơn
+{"subject": ["3&&Galaxy", "4&&S22", "5&&Ultra", "6&&5G"], "object": [], "aspect": ["1&&chụp", "2&&ảnh"], "predicate": ["7&&sáng", "8&&hơn"], "label": "COM"}
+
+Hình ảnh Galaxy S23 Ultra sáng hơn	Hình ảnh Galaxy S23 Ultra sáng hơn
+{"subject": ["3&&Galaxy", "4&&S23", "5&&Ultra"], "object": [], "aspect": ["1&&Hình", "2&&ảnh"], "predicate": ["6&&sáng", "7&&hơn"], "label": "COM"}
+
+màn hình máy ít cong hơn	màn hình máy ít cong hơn
+{"subject": ["3&&máy"], "object": [], "aspect": ["1&&màn", "2&&hình"], "predicate": ["4&&ít", "5&&cong", "6&&hơn"], "label": "COM"}
+
+thiết kế Find N2 Flip “ truyền thống ” hơn	thiết kế Find N2 Flip “ truyền thống ” hơn
+{"subject": ["3&&Find", "4&&N2", "5&&Flip"], "object": [], "aspect": ["1&&thiết", "2&&kế"], "predicate": ["6&&“", "7&&truyền", "8&&thống", "9&&”", "10&&hơn"], "label": "COM"}
+
+độ sâu trường ảnh Samsung A23 nông hơn trong một số bức ảnh	độ sâu trường ảnh Samsung A23 nông hơn trong một số bức ảnh
+{"subject": ["5&&Samsung", "6&&A23"], "object": [], "aspect": ["1&&độ", "2&&sâu", "3&&trường", "4&&ảnh"], "predicate": ["7&&nông", "8&&hơn", "9&&trong", "10&&một", "11&&số", "12&&bức", "13&&ảnh"], "label": "COM"}
+
+Hình ảnh Camera của A32 sáng hơn	Hình ảnh Camera của A32 sáng hơn
+{"subject": ["3&&Camera", "4&&của", "5&&A32"], "object": [], "aspect": ["1&&Hình", "2&&ảnh"], "predicate": ["6&&sáng", "7&&hơn"], "label": "COM"}
+
+tổng thể Samsung Galaxy S10 lớn và nặng hơn	tổng thể Samsung Galaxy S10 lớn và nặng hơn
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&S10"], "object": [], "aspect": ["1&&tổng", "2&&thể"], "predicate": ["6&&lớn", "7&&và", "8&&nặng", "9&&hơn"], "label": "COM"}
+
+phơi sáng hình ảnh tối hơn	phơi sáng hình ảnh tối hơn
+{"subject": ["3&&hình", "4&&ảnh"], "object": [], "aspect": ["1&&phơi", "2&&sáng"], "predicate": ["5&&tối", "6&&hơn"], "label": "COM"}
+
+tổng thể Galaxy A73 5G vuông vắn hơn	tổng thể Galaxy A73 5G vuông vắn hơn
+{"subject": ["3&&Galaxy", "4&&A73", "5&&5G"], "object": [], "aspect": ["1&&tổng", "2&&thể"], "predicate": ["6&&vuông", "7&&vắn", "8&&hơn"], "label": "COM"}
+
+kích thước Galaxy A73 5G nhỉnh hơn đôi chút	kích thước Galaxy A73 5G nhỉnh hơn đôi chút
+{"subject": ["3&&Galaxy", "4&&A73", "5&&5G"], "object": [], "aspect": ["1&&kích", "2&&thước"], "predicate": ["6&&nhỉnh", "7&&hơn", "8&&đôi", "9&&chút"], "label": "COM"}
+
+tổng thể Pixel 7 Pro vuông vắn hơn	tổng thể Pixel 7 Pro vuông vắn hơn
+{"subject": ["3&&Pixel", "4&&7", "5&&Pro"], "object": [], "aspect": ["1&&tổng", "2&&thể"], "predicate": ["6&&vuông", "7&&vắn", "8&&hơn"], "label": "COM"}
+
+kích thước độ nét to hơn	kích thước độ nét to hơn
+{"subject": ["3&&độ", "4&&nét"], "object": [], "aspect": ["1&&kích", "2&&thước"], "predicate": ["5&&to", "6&&hơn"], "label": "COM"}
+
+kích thước Galaxy S21 Ultra hơn hẳn	kích thước Galaxy S21 Ultra hơn hẳn
+{"subject": ["3&&Galaxy", "4&&S21", "5&&Ultra"], "object": [], "aspect": ["1&&kích", "2&&thước"], "predicate": ["6&&hơn", "7&&hẳn"], "label": "COM"}
+
+chụp ảnh Samsung Galaxy A73 sáng hơn	chụp ảnh Samsung Galaxy A73 sáng hơn
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&A73"], "object": [], "aspect": ["1&&chụp", "2&&ảnh"], "predicate": ["6&&sáng", "7&&hơn"], "label": "COM"}
+
+thiết kế con chip trên dòng iPhone “ truyền thống ” hơn	thiết kế con chip trên dòng iPhone “ truyền thống ” hơn
+{"subject": ["3&&con", "4&&chip", "5&&trên", "6&&dòng", "7&&iPhone"], "object": [], "aspect": ["1&&thiết", "2&&kế"], "predicate": ["8&&“", "9&&truyền", "10&&thống", "11&&”", "12&&hơn"], "label": "COM"}
+
+kích thước Điện thoại nhà Samsung nhỏ gọn hơn	kích thước Điện thoại nhà Samsung nhỏ gọn hơn
+{"subject": ["3&&Điện", "4&&thoại", "5&&nhà", "6&&Samsung"], "object": [], "aspect": ["1&&kích", "2&&thước"], "predicate": ["7&&nhỏ", "8&&gọn", "9&&hơn"], "label": "COM"}
+
+chiếc điện thoại có phơi sáng tối hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .	chiếc điện thoại có phơi sáng tối hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .
+{"subject": ["1&&chiếc", "2&&điện", "3&&thoại"], "object": [], "aspect": ["5&&phơi", "6&&sáng"], "predicate": ["7&&tối", "8&&hơn"], "label": "COM"}
+
+Samsung Galaxy S21 Ultra có chụp ảnh sáng hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .	Samsung Galaxy S21 Ultra có chụp ảnh sáng hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S21", "4&&Ultra"], "object": [], "aspect": ["6&&chụp", "7&&ảnh"], "predicate": ["8&&sáng", "9&&hơn"], "label": "COM"}
+
+Viên pin 5000 mAh có thiết kế “ truyền thống ” hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .	Viên pin 5000 mAh có thiết kế “ truyền thống ” hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .
+{"subject": ["1&&Viên", "2&&pin", "3&&5000", "4&&mAh"], "object": [], "aspect": ["6&&thiết", "7&&kế"], "predicate": ["8&&“", "9&&truyền", "10&&thống", "11&&”", "12&&hơn"], "label": "COM"}
+
+Galaxy M51 có màn hình nhỏ gọn hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .	Galaxy M51 có màn hình nhỏ gọn hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .
+{"subject": ["1&&Galaxy", "2&&M51"], "object": [], "aspect": ["4&&màn", "5&&hình"], "predicate": ["6&&nhỏ", "7&&gọn", "8&&hơn"], "label": "COM"}
+
+gốm có độ sâu trường ảnh nông hơn trong một số bức ảnh với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .	gốm có độ sâu trường ảnh nông hơn trong một số bức ảnh với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .
+{"subject": ["1&&gốm"], "object": [], "aspect": ["3&&độ", "4&&sâu", "5&&trường", "6&&ảnh"], "predicate": ["7&&nông", "8&&hơn", "9&&trong", "10&&một", "11&&số", "12&&bức", "13&&ảnh"], "label": "COM"}
+
+Điện thoại iPhone 13 Pro có tổng thể lớn và nặng hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .	Điện thoại iPhone 13 Pro có tổng thể lớn và nặng hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .
+{"subject": ["1&&Điện", "2&&thoại", "3&&iPhone", "4&&13", "5&&Pro"], "object": [], "aspect": ["7&&tổng", "8&&thể"], "predicate": ["9&&lớn", "10&&và", "11&&nặng", "12&&hơn"], "label": "COM"}
+
+S23 Ultra có tỷ lệ khung hình rộng hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .	S23 Ultra có tỷ lệ khung hình rộng hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .
+{"subject": ["1&&S23", "2&&Ultra"], "object": [], "aspect": ["4&&tỷ", "5&&lệ", "6&&khung", "7&&hình"], "predicate": ["8&&rộng", "9&&hơn"], "label": "COM"}
+
+Samsung Z Flip 4 có độ sâu trường ảnh nông hơn trong một số bức ảnh với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .	Samsung Z Flip 4 có độ sâu trường ảnh nông hơn trong một số bức ảnh với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .
+{"subject": ["1&&Samsung", "2&&Z", "3&&Flip", "4&&4"], "object": [], "aspect": ["6&&độ", "7&&sâu", "8&&trường", "9&&ảnh"], "predicate": ["10&&nông", "11&&hơn", "12&&trong", "13&&một", "14&&số", "15&&bức", "16&&ảnh"], "label": "COM"}
+
+Samsung Galaxy A13 có tần số quét điều chỉnh hơn nữa với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .	Samsung Galaxy A13 có tần số quét điều chỉnh hơn nữa với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A13"], "object": [], "aspect": ["5&&tần", "6&&số", "7&&quét"], "predicate": ["8&&điều", "9&&chỉnh", "10&&hơn", "11&&nữa"], "label": "COM"}
+
+Redmi Note 11 Pro + có Hình ảnh sáng hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .	Redmi Note 11 Pro + có Hình ảnh sáng hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .
+{"subject": ["1&&Redmi", "2&&Note", "3&&11", "4&&Pro", "5&&+"], "object": [], "aspect": ["7&&Hình", "8&&ảnh"], "predicate": ["9&&sáng", "10&&hơn"], "label": "COM"}
+
+bộ xử lý Snapdragon 778G có kích thước hơn hẳn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .	bộ xử lý Snapdragon 778G có kích thước hơn hẳn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .
+{"subject": ["1&&bộ", "2&&xử", "3&&lý", "4&&Snapdragon", "5&&778G"], "object": [], "aspect": ["7&&kích", "8&&thước"], "predicate": ["9&&hơn", "10&&hẳn"], "label": "COM"}
+
+những chiếc máy Android có màn hình ít cong hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .	những chiếc máy Android có màn hình ít cong hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .
+{"subject": ["1&&những", "2&&chiếc", "3&&máy", "4&&Android"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&ít", "9&&cong", "10&&hơn"], "label": "COM"}
+
+Samsung Galaxy S21 Ultra có vẻ sáng hơn iPhone SE 2022 .	Samsung Galaxy S21 Ultra có vẻ sáng hơn iPhone SE 2022 .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S21", "4&&Ultra"], "object": ["9&&iPhone", "10&&SE", "11&&2022"], "aspect": [], "predicate": ["7&&sáng", "8&&hơn"], "label": "COM"}
+
+iPhone SEmới có vẻ tối hơn iPhone .	iPhone SEmới có vẻ tối hơn iPhone .
+{"subject": ["1&&iPhone", "2&&SEmới"], "object": ["7&&iPhone"], "aspect": [], "predicate": ["5&&tối", "6&&hơn"], "label": "COM"}
+
+Galaxy A32 có vẻ nhỉnh hơn đôi chút camera chính 64MP của đối thủ .	Galaxy A32 có vẻ nhỉnh hơn đôi chút camera chính 64MP của đối thủ .
+{"subject": ["1&&Galaxy", "2&&A32"], "object": ["9&&camera", "10&&chính", "11&&64MP", "12&&của", "13&&đối", "14&&thủ"], "aspect": [], "predicate": ["5&&nhỉnh", "6&&hơn", "7&&đôi", "8&&chút"], "label": "COM"}
+
+iPhone 14 có vẻ to hơn đối thủ .	iPhone 14 có vẻ to hơn đối thủ .
+{"subject": ["1&&iPhone", "2&&14"], "object": ["7&&đối", "8&&thủ"], "aspect": [], "predicate": ["5&&to", "6&&hơn"], "label": "COM"}
+
+điện thoại này có vẻ điều chỉnh hơn nữa camera trước của điện thoại màn hình gập .	điện thoại này có vẻ điều chỉnh hơn nữa camera trước của điện thoại màn hình gập .
+{"subject": ["1&&điện", "2&&thoại", "3&&này"], "object": ["10&&camera", "11&&trước", "12&&của", "13&&điện", "14&&thoại", "15&&màn", "16&&hình", "17&&gập"], "aspect": [], "predicate": ["6&&điều", "7&&chỉnh", "8&&hơn", "9&&nữa"], "label": "COM"}
+
+Galaxy S23 Ultra có vẻ to hơn đối thủ .	Galaxy S23 Ultra có vẻ to hơn đối thủ .
+{"subject": ["1&&Galaxy", "2&&S23", "3&&Ultra"], "object": ["8&&đối", "9&&thủ"], "aspect": [], "predicate": ["6&&to", "7&&hơn"], "label": "COM"}
+
+những chiếc máy Android có vẻ nông hơn trong một số bức ảnh chiếc máy ảnh .	những chiếc máy Android có vẻ nông hơn trong một số bức ảnh chiếc máy ảnh .
+{"subject": ["1&&những", "2&&chiếc", "3&&máy", "4&&Android"], "object": ["14&&chiếc", "15&&máy", "16&&ảnh"], "aspect": [], "predicate": ["7&&nông", "8&&hơn", "9&&trong", "10&&một", "11&&số", "12&&bức", "13&&ảnh"], "label": "COM"}
+
+iPhone 14 có vẻ vuông vắn hơn đối thủ của nó .	iPhone 14 có vẻ vuông vắn hơn đối thủ của nó .
+{"subject": ["1&&iPhone", "2&&14"], "object": ["8&&đối", "9&&thủ", "10&&của", "11&&nó"], "aspect": [], "predicate": ["5&&vuông", "6&&vắn", "7&&hơn"], "label": "COM"}
+
+C11 có vẻ giảm bớt ROG Phone 2 .	C11 có vẻ giảm bớt ROG Phone 2 .
+{"subject": ["1&&C11"], "object": ["6&&ROG", "7&&Phone", "8&&2"], "aspect": [], "predicate": ["4&&giảm", "5&&bớt"], "label": "COM"}
+
+các điện thoại có vẻ to hơn Samsung A31 .	các điện thoại có vẻ to hơn Samsung A31 .
+{"subject": ["1&&các", "2&&điện", "3&&thoại"], "object": ["8&&Samsung", "9&&A31"], "aspect": [], "predicate": ["6&&to", "7&&hơn"], "label": "COM"}
+
+di động Apple có vẻ độc đáo hơn vi xử lý Apple M1 trên iPad Pro .	di động Apple có vẻ độc đáo hơn vi xử lý Apple M1 trên iPad Pro .
+{"subject": ["1&&di", "2&&động", "3&&Apple"], "object": ["9&&vi", "10&&xử", "11&&lý", "12&&Apple", "13&&M1", "14&&trên", "15&&iPad", "16&&Pro"], "aspect": [], "predicate": ["6&&độc", "7&&đáo", "8&&hơn"], "label": "COM"}
+
+iPhone 11 Pro có vẻ lớn và nặng hơn đối thủ .	iPhone 11 Pro có vẻ lớn và nặng hơn đối thủ .
+{"subject": ["1&&iPhone", "2&&11", "3&&Pro"], "object": ["10&&đối", "11&&thủ"], "aspect": [], "predicate": ["6&&lớn", "7&&và", "8&&nặng", "9&&hơn"], "label": "COM"}
+
+Điều này có nghĩa là smartphone này có được tổng thể lớn và nặng hơn .	Điều này có nghĩa là smartphone này có được tổng thể lớn và nặng hơn .
+{"subject": ["6&&smartphone", "7&&này"], "object": [], "aspect": ["10&&tổng", "11&&thể"], "predicate": ["12&&lớn", "13&&và", "14&&nặng", "15&&hơn"], "label": "COM"}
+
+Điều này có nghĩa là Oppo Find N2 Flip có được Thiết kế độc đáo hơn .	Điều này có nghĩa là Oppo Find N2 Flip có được Thiết kế độc đáo hơn .
+{"subject": ["6&&Oppo", "7&&Find", "8&&N2", "9&&Flip"], "object": [], "aspect": ["12&&Thiết", "13&&kế"], "predicate": ["14&&độc", "15&&đáo", "16&&hơn"], "label": "COM"}
+
+Điều này có nghĩa là Samsung Galaxy S21 Ultra có được độ sâu trường ảnh nông hơn trong một số bức ảnh .	Điều này có nghĩa là Samsung Galaxy S21 Ultra có được độ sâu trường ảnh nông hơn trong một số bức ảnh .
+{"subject": ["6&&Samsung", "7&&Galaxy", "8&&S21", "9&&Ultra"], "object": [], "aspect": ["12&&độ", "13&&sâu", "14&&trường", "15&&ảnh"], "predicate": ["16&&nông", "17&&hơn", "18&&trong", "19&&một", "20&&số", "21&&bức", "22&&ảnh"], "label": "COM"}
+
+Điều này có nghĩa là Huawei P30 Pro có được chụp ảnh sáng hơn .	Điều này có nghĩa là Huawei P30 Pro có được chụp ảnh sáng hơn .
+{"subject": ["6&&Huawei", "7&&P30", "8&&Pro"], "object": [], "aspect": ["11&&chụp", "12&&ảnh"], "predicate": ["13&&sáng", "14&&hơn"], "label": "COM"}
+
+Điều này có nghĩa là Galaxy S23 + có được Hình ảnh sáng hơn .	Điều này có nghĩa là Galaxy S23 + có được Hình ảnh sáng hơn .
+{"subject": ["6&&Galaxy", "7&&S23", "8&&+"], "object": [], "aspect": ["11&&Hình", "12&&ảnh"], "predicate": ["13&&sáng", "14&&hơn"], "label": "COM"}
+
+Điều này có nghĩa là iPhone 13 Pro Max có được kích thước to hơn .	Điều này có nghĩa là iPhone 13 Pro Max có được kích thước to hơn .
+{"subject": ["6&&iPhone", "7&&13", "8&&Pro", "9&&Max"], "object": [], "aspect": ["12&&kích", "13&&thước"], "predicate": ["14&&to", "15&&hơn"], "label": "COM"}
+
+Điều này có nghĩa là Find N2 Flip có được phơi sáng tối hơn .	Điều này có nghĩa là Find N2 Flip có được phơi sáng tối hơn .
+{"subject": ["6&&Find", "7&&N2", "8&&Flip"], "object": [], "aspect": ["11&&phơi", "12&&sáng"], "predicate": ["13&&tối", "14&&hơn"], "label": "COM"}
+
+Điều này có nghĩa là Redmi Note 11 có được kích thước to hơn .	Điều này có nghĩa là Redmi Note 11 có được kích thước to hơn .
+{"subject": ["6&&Redmi", "7&&Note", "8&&11"], "object": [], "aspect": ["11&&kích", "12&&thước"], "predicate": ["13&&to", "14&&hơn"], "label": "COM"}
+
+Điều này có nghĩa là phiên bản Plus có được tổng thể lớn và nặng hơn .	Điều này có nghĩa là phiên bản Plus có được tổng thể lớn và nặng hơn .
+{"subject": ["6&&phiên", "7&&bản", "8&&Plus"], "object": [], "aspect": ["11&&tổng", "12&&thể"], "predicate": ["13&&lớn", "14&&và", "15&&nặng", "16&&hơn"], "label": "COM"}
+
+Điều này có nghĩa là Samsung S23 Ultra có được kích thước to hơn .	Điều này có nghĩa là Samsung S23 Ultra có được kích thước to hơn .
+{"subject": ["6&&Samsung", "7&&S23", "8&&Ultra"], "object": [], "aspect": ["11&&kích", "12&&thước"], "predicate": ["13&&to", "14&&hơn"], "label": "COM"}
+
+Điều này có nghĩa là Xiaomi Redmi Note 11 Pro Plus có được màn hình nhỏ gọn hơn .	Điều này có nghĩa là Xiaomi Redmi Note 11 Pro Plus có được màn hình nhỏ gọn hơn .
+{"subject": ["6&&Xiaomi", "7&&Redmi", "8&&Note", "9&&11", "10&&Pro", "11&&Plus"], "object": [], "aspect": ["14&&màn", "15&&hình"], "predicate": ["16&&nhỏ", "17&&gọn", "18&&hơn"], "label": "COM"}
+
+Điều này có nghĩa là iPhone 12 Pro Max có được chụp ảnh sáng hơn .	Điều này có nghĩa là iPhone 12 Pro Max có được chụp ảnh sáng hơn .
+{"subject": ["6&&iPhone", "7&&12", "8&&Pro", "9&&Max"], "object": [], "aspect": ["12&&chụp", "13&&ảnh"], "predicate": ["14&&sáng", "15&&hơn"], "label": "COM"}
+
+Đó là một Xiaomi Redmi 9 được “ truyền thống ” hơn Xiaomi Mi 11 Ultra cùng hệ thống 3 ống kính camera ở bên trong .	Đó là một Xiaomi Redmi 9 được “ truyền thống ” hơn Xiaomi Mi 11 Ultra cùng hệ thống 3 ống kính camera ở bên trong .
+{"subject": ["4&&Xiaomi", "5&&Redmi", "6&&9"], "object": ["13&&Xiaomi", "14&&Mi", "15&&11", "16&&Ultra"], "aspect": [], "predicate": ["8&&“", "9&&truyền", "10&&thống", "11&&”", "12&&hơn"], "label": "COM"}
+
+Đó là một S-Pen đi kèm với Galaxy S22 Ultra được độc đáo hơn người tiền nhiệm cùng hệ thống 3 ống kính camera ở bên trong .	Đó là một S-Pen đi kèm với Galaxy S22 Ultra được độc đáo hơn người tiền nhiệm cùng hệ thống 3 ống kính camera ở bên trong .
+{"subject": ["4&&S-Pen", "5&&đi", "6&&kèm", "7&&với", "8&&Galaxy", "9&&S22", "10&&Ultra"], "object": ["15&&người", "16&&tiền", "17&&nhiệm"], "aspect": [], "predicate": ["12&&độc", "13&&đáo", "14&&hơn"], "label": "COM"}
+
+Đó là một công nghệ này được “ truyền thống ” hơn các đối thủ khác cùng hệ thống 3 ống kính camera ở bên trong .	Đó là một công nghệ này được “ truyền thống ” hơn các đối thủ khác cùng hệ thống 3 ống kính camera ở bên trong .
+{"subject": ["4&&công", "5&&nghệ", "6&&này"], "object": ["13&&các", "14&&đối", "15&&thủ", "16&&khác"], "aspect": [], "predicate": ["8&&“", "9&&truyền", "10&&thống", "11&&”", "12&&hơn"], "label": "COM"}
+
+Đó là một Nó được to hơn S23 + cùng hệ thống 3 ống kính camera ở bên trong .	Đó là một Nó được to hơn S23 + cùng hệ thống 3 ống kính camera ở bên trong .
+{"subject": ["4&&Nó"], "object": ["8&&S23", "9&&+"], "aspect": [], "predicate": ["6&&to", "7&&hơn"], "label": "COM"}
+
+Đó là một Tấm nền Super AMOLED được nhỏ gọn hơn Galaxy S23 Plus cùng hệ thống 3 ống kính camera ở bên trong .	Đó là một Tấm nền Super AMOLED được nhỏ gọn hơn Galaxy S23 Plus cùng hệ thống 3 ống kính camera ở bên trong .
+{"subject": ["4&&Tấm", "5&&nền", "6&&Super", "7&&AMOLED"], "object": ["12&&Galaxy", "13&&S23", "14&&Plus"], "aspect": [], "predicate": ["9&&nhỏ", "10&&gọn", "11&&hơn"], "label": "COM"}
+
+Đó là một Snapdragon 8 Gen 2 được sáng hơn đối thủ cùng hệ thống 3 ống kính camera ở bên trong .	Đó là một Snapdragon 8 Gen 2 được sáng hơn đối thủ cùng hệ thống 3 ống kính camera ở bên trong .
+{"subject": ["4&&Snapdragon", "5&&8", "6&&Gen", "7&&2"], "object": ["11&&đối", "12&&thủ"], "aspect": [], "predicate": ["9&&sáng", "10&&hơn"], "label": "COM"}
+
+Đó là một iPhone 12 Pro Max được sáng hơn các dòng điện thoại khác cùng hệ thống 3 ống kính camera ở bên trong .	Đó là một iPhone 12 Pro Max được sáng hơn các dòng điện thoại khác cùng hệ thống 3 ống kính camera ở bên trong .
+{"subject": ["4&&iPhone", "5&&12", "6&&Pro", "7&&Max"], "object": ["11&&các", "12&&dòng", "13&&điện", "14&&thoại", "15&&khác"], "aspect": [], "predicate": ["9&&sáng", "10&&hơn"], "label": "COM"}
+
+Đó là một nó được giảm bớt Galaxy S20 Ultra cùng hệ thống 3 ống kính camera ở bên trong .	Đó là một nó được giảm bớt Galaxy S20 Ultra cùng hệ thống 3 ống kính camera ở bên trong .
+{"subject": ["4&&nó"], "object": ["8&&Galaxy", "9&&S20", "10&&Ultra"], "aspect": [], "predicate": ["6&&giảm", "7&&bớt"], "label": "COM"}
+
+Đó là một Điện thoại này được độc đáo hơn Galaxy A52s cùng hệ thống 3 ống kính camera ở bên trong .	Đó là một Điện thoại này được độc đáo hơn Galaxy A52s cùng hệ thống 3 ống kính camera ở bên trong .
+{"subject": ["4&&Điện", "5&&thoại", "6&&này"], "object": ["11&&Galaxy", "12&&A52s"], "aspect": [], "predicate": ["8&&độc", "9&&đáo", "10&&hơn"], "label": "COM"}
+
+Đó là một nó được sáng hơn Galaxy S20 Ultra cùng hệ thống 3 ống kính camera ở bên trong .	Đó là một nó được sáng hơn Galaxy S20 Ultra cùng hệ thống 3 ống kính camera ở bên trong .
+{"subject": ["4&&nó"], "object": ["8&&Galaxy", "9&&S20", "10&&Ultra"], "aspect": [], "predicate": ["6&&sáng", "7&&hơn"], "label": "COM"}
+
+Đó là một những sản phẩm cùng phân khúc giá được vuông vắn hơn màn hình phụ của Find N2 cùng hệ thống 3 ống kính camera ở bên trong .	Đó là một những sản phẩm cùng phân khúc giá được vuông vắn hơn màn hình phụ của Find N2 cùng hệ thống 3 ống kính camera ở bên trong .
+{"subject": ["4&&những", "5&&sản", "6&&phẩm", "7&&cùng", "8&&phân", "9&&khúc", "10&&giá"], "object": ["15&&màn", "16&&hình", "17&&phụ", "18&&của", "19&&Find", "20&&N2"], "aspect": [], "predicate": ["12&&vuông", "13&&vắn", "14&&hơn"], "label": "COM"}
+
+Đó là một Oppo A12 được điều chỉnh hơn nữa camera của OPPO A74 cùng hệ thống 3 ống kính camera ở bên trong .	Đó là một Oppo A12 được điều chỉnh hơn nữa camera của OPPO A74 cùng hệ thống 3 ống kính camera ở bên trong .
+{"subject": ["4&&Oppo", "5&&A12"], "object": ["11&&camera", "12&&của", "13&&OPPO", "14&&A74"], "aspect": [], "predicate": ["7&&điều", "8&&chỉnh", "9&&hơn", "10&&nữa"], "label": "COM"}
+
+iPhone 12 Pro đúng như tên gọi của nó là phiên bản với Hình ảnh sáng hơn của Galaxy S10 Plus .	iPhone 12 Pro đúng như tên gọi của nó là phiên bản với Hình ảnh sáng hơn của Galaxy S10 Plus .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro"], "object": ["19&&Galaxy", "20&&S10", "21&&Plus"], "aspect": ["14&&Hình", "15&&ảnh"], "predicate": ["16&&sáng", "17&&hơn"], "label": "COM"}
+
+Samsung A51 đúng như tên gọi của nó là phiên bản với Độ bo cong hai cạnh bên giảm bớt của các điện thoại khác .	Samsung A51 đúng như tên gọi của nó là phiên bản với Độ bo cong hai cạnh bên giảm bớt của các điện thoại khác .
+{"subject": ["1&&Samsung", "2&&A51"], "object": ["22&&các", "23&&điện", "24&&thoại", "25&&khác"], "aspect": ["13&&Độ", "14&&bo", "15&&cong", "16&&hai", "17&&cạnh", "18&&bên"], "predicate": ["19&&giảm", "20&&bớt"], "label": "COM"}
+
+iPhone 11 Pro Max đúng như tên gọi của nó là phiên bản với tổng thể lớn và nặng hơn của OPPO A57 .	iPhone 11 Pro Max đúng như tên gọi của nó là phiên bản với tổng thể lớn và nặng hơn của OPPO A57 .
+{"subject": ["1&&iPhone", "2&&11", "3&&Pro", "4&&Max"], "object": ["22&&OPPO", "23&&A57"], "aspect": ["15&&tổng", "16&&thể"], "predicate": ["17&&lớn", "18&&và", "19&&nặng", "20&&hơn"], "label": "COM"}
+
+Samsung Galaxy A73 5G đúng như tên gọi của nó là phiên bản với thiết kế “ truyền thống ” hơn của iPhone 12 .	Samsung Galaxy A73 5G đúng như tên gọi của nó là phiên bản với thiết kế “ truyền thống ” hơn của iPhone 12 .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A73", "4&&5G"], "object": ["23&&iPhone", "24&&12"], "aspect": ["15&&thiết", "16&&kế"], "predicate": ["17&&“", "18&&truyền", "19&&thống", "20&&”", "21&&hơn"], "label": "COM"}
+
+nó đúng như tên gọi của nó là phiên bản với kích thước nhỏ gọn hơn của đối thủ .	nó đúng như tên gọi của nó là phiên bản với kích thước nhỏ gọn hơn của đối thủ .
+{"subject": ["1&&nó"], "object": ["18&&đối", "19&&thủ"], "aspect": ["12&&kích", "13&&thước"], "predicate": ["14&&nhỏ", "15&&gọn", "16&&hơn"], "label": "COM"}
+
+camera 50MP đúng như tên gọi của nó là phiên bản với tổng thể vuông vắn hơn của Galaxy S22 .	camera 50MP đúng như tên gọi của nó là phiên bản với tổng thể vuông vắn hơn của Galaxy S22 .
+{"subject": ["1&&camera", "2&&50MP"], "object": ["19&&Galaxy", "20&&S22"], "aspect": ["13&&tổng", "14&&thể"], "predicate": ["15&&vuông", "16&&vắn", "17&&hơn"], "label": "COM"}
+
+Realme 8 5G đúng như tên gọi của nó là phiên bản với kích thước hơn hẳn của Samsung Galaxy S10 Plus .	Realme 8 5G đúng như tên gọi của nó là phiên bản với kích thước hơn hẳn của Samsung Galaxy S10 Plus .
+{"subject": ["1&&Realme", "2&&8", "3&&5G"], "object": ["19&&Samsung", "20&&Galaxy", "21&&S10", "22&&Plus"], "aspect": ["14&&kích", "15&&thước"], "predicate": ["16&&hơn", "17&&hẳn"], "label": "COM"}
+
+chiếc điện thoại đúng như tên gọi của nó là phiên bản với màn hình nhỏ gọn hơn của Xiaomi Redmi Note 12 .	chiếc điện thoại đúng như tên gọi của nó là phiên bản với màn hình nhỏ gọn hơn của Xiaomi Redmi Note 12 .
+{"subject": ["1&&chiếc", "2&&điện", "3&&thoại"], "object": ["20&&Xiaomi", "21&&Redmi", "22&&Note", "23&&12"], "aspect": ["14&&màn", "15&&hình"], "predicate": ["16&&nhỏ", "17&&gọn", "18&&hơn"], "label": "COM"}
+
+Oppo A12 đúng như tên gọi của nó là phiên bản với màn hình ít cong hơn của hầu hết các chiếc bút chúng ta từng thấy trên Galaxy Note .	Oppo A12 đúng như tên gọi của nó là phiên bản với màn hình ít cong hơn của hầu hết các chiếc bút chúng ta từng thấy trên Galaxy Note .
+{"subject": ["1&&Oppo", "2&&A12"], "object": ["19&&hầu", "20&&hết", "21&&các", "22&&chiếc", "23&&bút", "24&&chúng", "25&&ta", "26&&từng", "27&&thấy", "28&&trên", "29&&Galaxy", "30&&Note"], "aspect": ["13&&màn", "14&&hình"], "predicate": ["15&&ít", "16&&cong", "17&&hơn"], "label": "COM"}
+
+Camera tele đúng như tên gọi của nó là phiên bản với thiết kế “ truyền thống ” hơn của Galaxy A52 .	Camera tele đúng như tên gọi của nó là phiên bản với thiết kế “ truyền thống ” hơn của Galaxy A52 .
+{"subject": ["1&&Camera", "2&&tele"], "object": ["21&&Galaxy", "22&&A52"], "aspect": ["13&&thiết", "14&&kế"], "predicate": ["15&&“", "16&&truyền", "17&&thống", "18&&”", "19&&hơn"], "label": "COM"}
+
+màn hình di động Samsung đúng như tên gọi của nó là phiên bản với kích thước nhỏ gọn hơn của Galaxy Z Fold 4 .	màn hình di động Samsung đúng như tên gọi của nó là phiên bản với kích thước nhỏ gọn hơn của Galaxy Z Fold 4 .
+{"subject": ["1&&màn", "2&&hình", "3&&di", "4&&động", "5&&Samsung"], "object": ["22&&Galaxy", "23&&Z", "24&&Fold", "25&&4"], "aspect": ["16&&kích", "17&&thước"], "predicate": ["18&&nhỏ", "19&&gọn", "20&&hơn"], "label": "COM"}
+
+Galaxy M51 đúng như tên gọi của nó là phiên bản với độ sâu trường ảnh nông hơn trong một số bức ảnh của Samsung .	Galaxy M51 đúng như tên gọi của nó là phiên bản với độ sâu trường ảnh nông hơn trong một số bức ảnh của Samsung .
+{"subject": ["1&&Galaxy", "2&&M51"], "object": ["25&&Samsung"], "aspect": ["13&&độ", "14&&sâu", "15&&trường", "16&&ảnh"], "predicate": ["17&&nông", "18&&hơn", "19&&trong", "20&&một", "21&&số", "22&&bức", "23&&ảnh"], "label": "COM"}
+
+Về cơ bản thì Z Flip sẽ vuông vắn hơn iPhone 13 .	Về cơ bản thì Z Flip sẽ vuông vắn hơn iPhone 13 .
+{"subject": ["5&&Z", "6&&Flip"], "object": ["11&&iPhone", "12&&13"], "aspect": [], "predicate": ["8&&vuông", "9&&vắn", "10&&hơn"], "label": "COM"}
+
+Về cơ bản thì S20 Ultra sẽ vuông vắn hơn Samsung .	Về cơ bản thì S20 Ultra sẽ vuông vắn hơn Samsung .
+{"subject": ["5&&S20", "6&&Ultra"], "object": ["11&&Samsung"], "aspect": [], "predicate": ["8&&vuông", "9&&vắn", "10&&hơn"], "label": "COM"}
+
+Về cơ bản thì Galaxy A32 sẽ độc đáo hơn thế hệ trước .	Về cơ bản thì Galaxy A32 sẽ độc đáo hơn thế hệ trước .
+{"subject": ["5&&Galaxy", "6&&A32"], "object": ["11&&thế", "12&&hệ", "13&&trước"], "aspect": [], "predicate": ["8&&độc", "9&&đáo", "10&&hơn"], "label": "COM"}
+
+Về cơ bản thì Galaxy S22 Ultra sẽ hơn hẳn Galaxy S22 .	Về cơ bản thì Galaxy S22 Ultra sẽ hơn hẳn Galaxy S22 .
+{"subject": ["5&&Galaxy", "6&&S22", "7&&Ultra"], "object": ["11&&Galaxy", "12&&S22"], "aspect": [], "predicate": ["9&&hơn", "10&&hẳn"], "label": "COM"}
+
+Về cơ bản thì Galaxy Note 9 sẽ sáng hơn điện thoại màn hình gập Galaxy Z Fold 4 .	Về cơ bản thì Galaxy Note 9 sẽ sáng hơn điện thoại màn hình gập Galaxy Z Fold 4 .
+{"subject": ["5&&Galaxy", "6&&Note", "7&&9"], "object": ["11&&điện", "12&&thoại", "13&&màn", "14&&hình", "15&&gập", "16&&Galaxy", "17&&Z", "18&&Fold", "19&&4"], "aspect": [], "predicate": ["9&&sáng", "10&&hơn"], "label": "COM"}
+
+Về cơ bản thì X90 sẽ vuông vắn hơn Z Fold 4 .	Về cơ bản thì X90 sẽ vuông vắn hơn Z Fold 4 .
+{"subject": ["5&&X90"], "object": ["10&&Z", "11&&Fold", "12&&4"], "aspect": [], "predicate": ["7&&vuông", "8&&vắn", "9&&hơn"], "label": "COM"}
+
+Về cơ bản thì sạc 65W sẽ ít cong hơn S23 + .	Về cơ bản thì sạc 65W sẽ ít cong hơn S23 + .
+{"subject": ["5&&sạc", "6&&65W"], "object": ["11&&S23", "12&&+"], "aspect": [], "predicate": ["8&&ít", "9&&cong", "10&&hơn"], "label": "COM"}
+
+Về cơ bản thì nó sẽ sáng hơn camera trước của điện thoại màn hình gập .	Về cơ bản thì nó sẽ sáng hơn camera trước của điện thoại màn hình gập .
+{"subject": ["5&&nó"], "object": ["9&&camera", "10&&trước", "11&&của", "12&&điện", "13&&thoại", "14&&màn", "15&&hình", "16&&gập"], "aspect": [], "predicate": ["7&&sáng", "8&&hơn"], "label": "COM"}
+
+Về cơ bản thì Motorola One Fusion + sẽ nhỏ gọn hơn các đời trước .	Về cơ bản thì Motorola One Fusion + sẽ nhỏ gọn hơn các đời trước .
+{"subject": ["5&&Motorola", "6&&One", "7&&Fusion", "8&&+"], "object": ["13&&các", "14&&đời", "15&&trước"], "aspect": [], "predicate": ["10&&nhỏ", "11&&gọn", "12&&hơn"], "label": "COM"}
+
+Về cơ bản thì nó sẽ ít cong hơn Galaxy Note20 Ultra .	Về cơ bản thì nó sẽ ít cong hơn Galaxy Note20 Ultra .
+{"subject": ["5&&nó"], "object": ["10&&Galaxy", "11&&Note20", "12&&Ultra"], "aspect": [], "predicate": ["7&&ít", "8&&cong", "9&&hơn"], "label": "COM"}
+
+Về cơ bản thì smartphone màn hình gập tốt nhất hiện nay của Samsung sẽ nhỏ gọn hơn các mẫu iPhone 6 / 7 / 8 Plus .	Về cơ bản thì smartphone màn hình gập tốt nhất hiện nay của Samsung sẽ nhỏ gọn hơn các mẫu iPhone 6 / 7 / 8 Plus .
+{"subject": ["5&&smartphone", "6&&màn", "7&&hình", "8&&gập", "9&&tốt", "10&&nhất", "11&&hiện", "12&&nay", "13&&của", "14&&Samsung"], "object": ["19&&các", "20&&mẫu", "21&&iPhone", "22&&6", "23&&/", "24&&7", "25&&/", "26&&8", "27&&Plus"], "aspect": [], "predicate": ["16&&nhỏ", "17&&gọn", "18&&hơn"], "label": "COM"}
+
+Về cơ bản thì Galaxy S23 Ultra sẽ ít cong hơn Galaxy S23 Ultra .	Về cơ bản thì Galaxy S23 Ultra sẽ ít cong hơn Galaxy S23 Ultra .
+{"subject": ["5&&Galaxy", "6&&S23", "7&&Ultra"], "object": ["12&&Galaxy", "13&&S23", "14&&Ultra"], "aspect": [], "predicate": ["9&&ít", "10&&cong", "11&&hơn"], "label": "COM"}
+
+Trong khi đó , Samsung Galaxy A53 đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và kích thước to hơn so vớ người anh em của mình .	Trong khi đó , Samsung Galaxy A53 đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và kích thước to hơn so vớ người anh em của mình .
+{"subject": ["5&&Samsung", "6&&Galaxy", "7&&A53"], "object": ["29&&người", "30&&anh", "31&&em", "32&&của", "33&&mình"], "aspect": ["23&&kích", "24&&thước"], "predicate": ["25&&to", "26&&hơn"], "label": "COM"}
+
+Trong khi đó , Galaxy S22 Ultra đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và chụp ảnh sáng hơn so vớ iPhone 15 Plus .	Trong khi đó , Galaxy S22 Ultra đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và chụp ảnh sáng hơn so vớ iPhone 15 Plus .
+{"subject": ["5&&Galaxy", "6&&S22", "7&&Ultra"], "object": ["29&&iPhone", "30&&15", "31&&Plus"], "aspect": ["23&&chụp", "24&&ảnh"], "predicate": ["25&&sáng", "26&&hơn"], "label": "COM"}
+
+Trong khi đó , tấm nền PLS đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và Hình ảnh sáng hơn so vớ màn hình 90Hz cùng chipset .	Trong khi đó , tấm nền PLS đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và Hình ảnh sáng hơn so vớ màn hình 90Hz cùng chipset .
+{"subject": ["5&&tấm", "6&&nền", "7&&PLS"], "object": ["29&&màn", "30&&hình", "31&&90Hz", "32&&cùng", "33&&chipset"], "aspect": ["23&&Hình", "24&&ảnh"], "predicate": ["25&&sáng", "26&&hơn"], "label": "COM"}
+
+Trong khi đó , Oppo A12 đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và kích thước nhỏ gọn hơn so vớ S23 Ultra .	Trong khi đó , Oppo A12 đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và kích thước nhỏ gọn hơn so vớ S23 Ultra .
+{"subject": ["5&&Oppo", "6&&A12"], "object": ["29&&S23", "30&&Ultra"], "aspect": ["22&&kích", "23&&thước"], "predicate": ["24&&nhỏ", "25&&gọn", "26&&hơn"], "label": "COM"}
+
+Trong khi đó , Samsung Galaxy A53 đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và tổng thể vuông vắn hơn so vớ P30 Pro .	Trong khi đó , Samsung Galaxy A53 đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và tổng thể vuông vắn hơn so vớ P30 Pro .
+{"subject": ["5&&Samsung", "6&&Galaxy", "7&&A53"], "object": ["30&&P30", "31&&Pro"], "aspect": ["23&&tổng", "24&&thể"], "predicate": ["25&&vuông", "26&&vắn", "27&&hơn"], "label": "COM"}
+
+Trong khi đó , Samsung S23 Ultra đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và Thiết kế độc đáo hơn so vớ Z Fold 4 .	Trong khi đó , Samsung S23 Ultra đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và Thiết kế độc đáo hơn so vớ Z Fold 4 .
+{"subject": ["5&&Samsung", "6&&S23", "7&&Ultra"], "object": ["30&&Z", "31&&Fold", "32&&4"], "aspect": ["23&&Thiết", "24&&kế"], "predicate": ["25&&độc", "26&&đáo", "27&&hơn"], "label": "COM"}
+
+Trong khi đó , nó đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và kích thước nhỏ gọn hơn so vớ Google Pixel 6 Pro .	Trong khi đó , nó đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và kích thước nhỏ gọn hơn so vớ Google Pixel 6 Pro .
+{"subject": ["5&&nó"], "object": ["28&&Google", "29&&Pixel", "30&&6", "31&&Pro"], "aspect": ["21&&kích", "22&&thước"], "predicate": ["23&&nhỏ", "24&&gọn", "25&&hơn"], "label": "COM"}
+
+Trong khi đó , Galaxy S10 Plus đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và thiết kế “ truyền thống ” hơn so vớ người tiền nhiệm Galaxy Fold .	Trong khi đó , Galaxy S10 Plus đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và thiết kế “ truyền thống ” hơn so vớ người tiền nhiệm Galaxy Fold .
+{"subject": ["5&&Galaxy", "6&&S10", "7&&Plus"], "object": ["32&&người", "33&&tiền", "34&&nhiệm", "35&&Galaxy", "36&&Fold"], "aspect": ["23&&thiết", "24&&kế"], "predicate": ["25&&“", "26&&truyền", "27&&thống", "28&&”", "29&&hơn"], "label": "COM"}
+
+Trong khi đó , Samsung A51 đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và màn hình nhỏ gọn hơn so vớ hai điện thoại còn lại .	Trong khi đó , Samsung A51 đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và màn hình nhỏ gọn hơn so vớ hai điện thoại còn lại .
+{"subject": ["5&&Samsung", "6&&A51"], "object": ["29&&hai", "30&&điện", "31&&thoại", "32&&còn", "33&&lại"], "aspect": ["22&&màn", "23&&hình"], "predicate": ["24&&nhỏ", "25&&gọn", "26&&hơn"], "label": "COM"}
+
+Trong khi đó , Phiên bản này đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và thiết kế “ truyền thống ” hơn so vớ thế hệ trước .	Trong khi đó , Phiên bản này đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và thiết kế “ truyền thống ” hơn so vớ thế hệ trước .
+{"subject": ["5&&Phiên", "6&&bản", "7&&này"], "object": ["32&&thế", "33&&hệ", "34&&trước"], "aspect": ["23&&thiết", "24&&kế"], "predicate": ["25&&“", "26&&truyền", "27&&thống", "28&&”", "29&&hơn"], "label": "COM"}
+
+Trong khi đó , A32 đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và chụp ảnh sáng hơn so vớ các đối thủ khác trong tầm giá .	Trong khi đó , A32 đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và chụp ảnh sáng hơn so vớ các đối thủ khác trong tầm giá .
+{"subject": ["5&&A32"], "object": ["27&&các", "28&&đối", "29&&thủ", "30&&khác", "31&&trong", "32&&tầm", "33&&giá"], "aspect": ["21&&chụp", "22&&ảnh"], "predicate": ["23&&sáng", "24&&hơn"], "label": "COM"}
+
+Trong khi đó , iPhone 13 Pro đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và Thiết kế độc đáo hơn so vớ hệ tiền nhiệm .	Trong khi đó , iPhone 13 Pro đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và Thiết kế độc đáo hơn so vớ hệ tiền nhiệm .
+{"subject": ["5&&iPhone", "6&&13", "7&&Pro"], "object": ["30&&hệ", "31&&tiền", "32&&nhiệm"], "aspect": ["23&&Thiết", "24&&kế"], "predicate": ["25&&độc", "26&&đáo", "27&&hơn"], "label": "COM"}
+
+đối thủ của nó năm ngoái có thể điều chỉnh phơi sáng nằm trong khoảng từ 10Hz đến 120Hz , nhưng iPhone 14 còn tối hơn .	đối thủ của nó năm ngoái có thể điều chỉnh phơi sáng nằm trong khoảng từ 10Hz đến 120Hz , nhưng iPhone 14 còn tối hơn .
+{"subject": ["22&&iPhone", "23&&14"], "object": ["1&&đối", "2&&thủ", "3&&của", "4&&nó"], "aspect": ["11&&phơi", "12&&sáng"], "predicate": ["25&&tối", "26&&hơn"], "label": "COM"}
+
+dòng Smartphone khác trên thị trường năm ngoái có thể điều chỉnh Thiết kế nằm trong khoảng từ 10Hz đến 120Hz , nhưng Galaxy S21 Ultra còn độc đáo hơn .	dòng Smartphone khác trên thị trường năm ngoái có thể điều chỉnh Thiết kế nằm trong khoảng từ 10Hz đến 120Hz , nhưng Galaxy S21 Ultra còn độc đáo hơn .
+{"subject": ["24&&Galaxy", "25&&S21", "26&&Ultra"], "object": ["1&&dòng", "2&&Smartphone", "3&&khác", "4&&trên", "5&&thị", "6&&trường"], "aspect": ["13&&Thiết", "14&&kế"], "predicate": ["28&&độc", "29&&đáo", "30&&hơn"], "label": "COM"}
+
+Galaxy Note20 Ultra năm ngoái có thể điều chỉnh kích thước nằm trong khoảng từ 10Hz đến 120Hz , nhưng máy còn to hơn .	Galaxy Note20 Ultra năm ngoái có thể điều chỉnh kích thước nằm trong khoảng từ 10Hz đến 120Hz , nhưng máy còn to hơn .
+{"subject": ["21&&máy"], "object": ["1&&Galaxy", "2&&Note20", "3&&Ultra"], "aspect": ["10&&kích", "11&&thước"], "predicate": ["23&&to", "24&&hơn"], "label": "COM"}
+
+camera của OPPO A74 năm ngoái có thể điều chỉnh tỷ lệ khung hình nằm trong khoảng từ 10Hz đến 120Hz , nhưng Xiaomi còn rộng hơn .	camera của OPPO A74 năm ngoái có thể điều chỉnh tỷ lệ khung hình nằm trong khoảng từ 10Hz đến 120Hz , nhưng Xiaomi còn rộng hơn .
+{"subject": ["24&&Xiaomi"], "object": ["1&&camera", "2&&của", "3&&OPPO", "4&&A74"], "aspect": ["11&&tỷ", "12&&lệ", "13&&khung", "14&&hình"], "predicate": ["26&&rộng", "27&&hơn"], "label": "COM"}
+
+điện thoại màn hình gập Galaxy Z Fold 4 năm ngoái có thể điều chỉnh chụp ảnh nằm trong khoảng từ 10Hz đến 120Hz , nhưng nó còn sáng hơn .	điện thoại màn hình gập Galaxy Z Fold 4 năm ngoái có thể điều chỉnh chụp ảnh nằm trong khoảng từ 10Hz đến 120Hz , nhưng nó còn sáng hơn .
+{"subject": ["27&&nó"], "object": ["1&&điện", "2&&thoại", "3&&màn", "4&&hình", "5&&gập", "6&&Galaxy", "7&&Z", "8&&Fold", "9&&4"], "aspect": ["16&&chụp", "17&&ảnh"], "predicate": ["29&&sáng", "30&&hơn"], "label": "COM"}
+
+A23 năm ngoái có thể điều chỉnh kích thước nằm trong khoảng từ 10Hz đến 120Hz , nhưng Galaxy M31 Prime còn hơn hẳn .	A23 năm ngoái có thể điều chỉnh kích thước nằm trong khoảng từ 10Hz đến 120Hz , nhưng Galaxy M31 Prime còn hơn hẳn .
+{"subject": ["19&&Galaxy", "20&&M31", "21&&Prime"], "object": ["1&&A23"], "aspect": ["8&&kích", "9&&thước"], "predicate": ["23&&hơn", "24&&hẳn"], "label": "COM"}
+
+Google Pixel 6 Pro năm ngoái có thể điều chỉnh độ sâu trường ảnh nằm trong khoảng từ 10Hz đến 120Hz , nhưng iPhone còn nông hơn trong một số bức ảnh .	Google Pixel 6 Pro năm ngoái có thể điều chỉnh độ sâu trường ảnh nằm trong khoảng từ 10Hz đến 120Hz , nhưng iPhone còn nông hơn trong một số bức ảnh .
+{"subject": ["24&&iPhone"], "object": ["1&&Google", "2&&Pixel", "3&&6", "4&&Pro"], "aspect": ["11&&độ", "12&&sâu", "13&&trường", "14&&ảnh"], "predicate": ["26&&nông", "27&&hơn", "28&&trong", "29&&một", "30&&số", "31&&bức", "32&&ảnh"], "label": "COM"}
+
+iPhone 13 năm ngoái có thể điều chỉnh tần số quét nằm trong khoảng từ 10Hz đến 120Hz , nhưng OPPO Find N2 Flip còn điều chỉnh hơn nữa .	iPhone 13 năm ngoái có thể điều chỉnh tần số quét nằm trong khoảng từ 10Hz đến 120Hz , nhưng OPPO Find N2 Flip còn điều chỉnh hơn nữa .
+{"subject": ["21&&OPPO", "22&&Find", "23&&N2", "24&&Flip"], "object": ["1&&iPhone", "2&&13"], "aspect": ["9&&tần", "10&&số", "11&&quét"], "predicate": ["26&&điều", "27&&chỉnh", "28&&hơn", "29&&nữa"], "label": "COM"}
+
+các dòng điện thoại trước đây năm ngoái có thể điều chỉnh tỷ lệ khung hình nằm trong khoảng từ 10Hz đến 120Hz , nhưng iPhone 13 Pro Max còn rộng hơn .	các dòng điện thoại trước đây năm ngoái có thể điều chỉnh tỷ lệ khung hình nằm trong khoảng từ 10Hz đến 120Hz , nhưng iPhone 13 Pro Max còn rộng hơn .
+{"subject": ["26&&iPhone", "27&&13", "28&&Pro", "29&&Max"], "object": ["1&&các", "2&&dòng", "3&&điện", "4&&thoại", "5&&trước", "6&&đây"], "aspect": ["13&&tỷ", "14&&lệ", "15&&khung", "16&&hình"], "predicate": ["31&&rộng", "32&&hơn"], "label": "COM"}
+
+Samsung A31 năm ngoái có thể điều chỉnh kích thước nằm trong khoảng từ 10Hz đến 120Hz , nhưng Samsung Galaxy M31 Prime còn hơn hẳn .	Samsung A31 năm ngoái có thể điều chỉnh kích thước nằm trong khoảng từ 10Hz đến 120Hz , nhưng Samsung Galaxy M31 Prime còn hơn hẳn .
+{"subject": ["20&&Samsung", "21&&Galaxy", "22&&M31", "23&&Prime"], "object": ["1&&Samsung", "2&&A31"], "aspect": ["9&&kích", "10&&thước"], "predicate": ["25&&hơn", "26&&hẳn"], "label": "COM"}
+
+iPhone 15 Plus năm ngoái có thể điều chỉnh màn hình nằm trong khoảng từ 10Hz đến 120Hz , nhưng những sản phẩm cùng phân khúc giá còn nhỏ gọn hơn .	iPhone 15 Plus năm ngoái có thể điều chỉnh màn hình nằm trong khoảng từ 10Hz đến 120Hz , nhưng những sản phẩm cùng phân khúc giá còn nhỏ gọn hơn .
+{"subject": ["21&&những", "22&&sản", "23&&phẩm", "24&&cùng", "25&&phân", "26&&khúc", "27&&giá"], "object": ["1&&iPhone", "2&&15", "3&&Plus"], "aspect": ["10&&màn", "11&&hình"], "predicate": ["29&&nhỏ", "30&&gọn", "31&&hơn"], "label": "COM"}
+
+Galaxy M32 5G năm ngoái có thể điều chỉnh thiết kế nằm trong khoảng từ 10Hz đến 120Hz , nhưng điện thoại này còn “ truyền thống ” hơn .	Galaxy M32 5G năm ngoái có thể điều chỉnh thiết kế nằm trong khoảng từ 10Hz đến 120Hz , nhưng điện thoại này còn “ truyền thống ” hơn .
+{"subject": ["21&&điện", "22&&thoại", "23&&này"], "object": ["1&&Galaxy", "2&&M32", "3&&5G"], "aspect": ["10&&thiết", "11&&kế"], "predicate": ["25&&“", "26&&truyền", "27&&thống", "28&&”", "29&&hơn"], "label": "COM"}
+
+tổng thể trên ROG Phone 2 đã được vuông vắn hơn khi so với Galaxy S10 Plus .	tổng thể trên ROG Phone 2 đã được vuông vắn hơn khi so với Galaxy S10 Plus .
+{"subject": ["4&&ROG", "5&&Phone", "6&&2"], "object": ["15&&Galaxy", "16&&S10", "17&&Plus"], "aspect": ["1&&tổng", "2&&thể"], "predicate": ["9&&vuông", "10&&vắn", "11&&hơn"], "label": "COM"}
+
+biến thể Ultra sở hữu kích thước hơn hẳn	biến thể Ultra sở hữu kích thước hơn hẳn
+{"subject": ["1&&biến", "2&&thể", "3&&Ultra"], "object": [], "aspect": ["6&&kích", "7&&thước"], "predicate": ["8&&hơn", "9&&hẳn"], "label": "COM"}
+
+Tuy nhiên , kích thước Galaxy M51 to hơn so với Galaxy A52s .	Tuy nhiên , kích thước Galaxy M51 to hơn so với Galaxy A52s .
+{"subject": ["6&&Galaxy", "7&&M51"], "object": ["12&&Galaxy", "13&&A52s"], "aspect": ["4&&kích", "5&&thước"], "predicate": ["8&&to", "9&&hơn"], "label": "COM"}
+
+Đối với trong điều kiện ánh sáng tốt , Galaxy A32 có xu hướng Thiết kế độc đáo hơn .	Đối với trong điều kiện ánh sáng tốt , Galaxy A32 có xu hướng Thiết kế độc đáo hơn .
+{"subject": ["10&&Galaxy", "11&&A32"], "object": [], "aspect": ["15&&Thiết", "16&&kế"], "predicate": ["17&&độc", "18&&đáo", "19&&hơn"], "label": "COM"}
+
+Trong khi iPhone 12 thiết kế “ truyền thống ” hơn .	Trong khi iPhone 12 thiết kế “ truyền thống ” hơn .
+{"subject": ["3&&iPhone", "4&&12"], "object": [], "aspect": ["5&&thiết", "6&&kế"], "predicate": ["7&&“", "8&&truyền", "9&&thống", "10&&”", "11&&hơn"], "label": "COM"}
+
+tổng thể Thiết bị vuông vắn hơn	tổng thể Thiết bị vuông vắn hơn
+{"subject": ["3&&Thiết", "4&&bị"], "object": [], "aspect": ["1&&tổng", "2&&thể"], "predicate": ["5&&vuông", "6&&vắn", "7&&hơn"], "label": "COM"}
+
+kích thước Galaxy A53 nhỉnh hơn đôi chút	kích thước Galaxy A53 nhỉnh hơn đôi chút
+{"subject": ["3&&Galaxy", "4&&A53"], "object": [], "aspect": ["1&&kích", "2&&thước"], "predicate": ["5&&nhỉnh", "6&&hơn", "7&&đôi", "8&&chút"], "label": "COM"}
+
+Camera tele có Thiết kế độc đáo hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .	Camera tele có Thiết kế độc đáo hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .
+{"subject": ["1&&Camera", "2&&tele"], "object": [], "aspect": ["4&&Thiết", "5&&kế"], "predicate": ["6&&độc", "7&&đáo", "8&&hơn"], "label": "COM"}
+
+nó có vẻ vuông vắn hơn iPhone 12 Pro Max .	nó có vẻ vuông vắn hơn iPhone 12 Pro Max .
+{"subject": ["1&&nó"], "object": ["7&&iPhone", "8&&12", "9&&Pro", "10&&Max"], "aspect": [], "predicate": ["4&&vuông", "5&&vắn", "6&&hơn"], "label": "COM"}
+
+Điều này có nghĩa là Nó có được Độ bo cong hai cạnh bên giảm bớt .	Điều này có nghĩa là Nó có được Độ bo cong hai cạnh bên giảm bớt .
+{"subject": ["6&&Nó"], "object": [], "aspect": ["9&&Độ", "10&&bo", "11&&cong", "12&&hai", "13&&cạnh", "14&&bên"], "predicate": ["15&&giảm", "16&&bớt"], "label": "COM"}
+
+Đó là một Tấm nền Super AMOLED được to hơn Adreno 612 của Snapdragon 675 cùng hệ thống 3 ống kính camera ở bên trong .	Đó là một Tấm nền Super AMOLED được to hơn Adreno 612 của Snapdragon 675 cùng hệ thống 3 ống kính camera ở bên trong .
+{"subject": ["4&&Tấm", "5&&nền", "6&&Super", "7&&AMOLED"], "object": ["11&&Adreno", "12&&612", "13&&của", "14&&Snapdragon", "15&&675"], "aspect": [], "predicate": ["9&&to", "10&&hơn"], "label": "COM"}
+
+điện thoại Galaxy S23 + đúng như tên gọi của nó là phiên bản với kích thước nhỏ gọn hơn của Samsung Galaxy A52 .	điện thoại Galaxy S23 + đúng như tên gọi của nó là phiên bản với kích thước nhỏ gọn hơn của Samsung Galaxy A52 .
+{"subject": ["1&&điện", "2&&thoại", "3&&Galaxy", "4&&S23", "5&&+"], "object": ["22&&Samsung", "23&&Galaxy", "24&&A52"], "aspect": ["16&&kích", "17&&thước"], "predicate": ["18&&nhỏ", "19&&gọn", "20&&hơn"], "label": "COM"}
+
+Về cơ bản thì Các bức ảnh chụp với S20 sẽ lớn và nặng hơn Xiaomi Mi 11 Ultra .	Về cơ bản thì Các bức ảnh chụp với S20 sẽ lớn và nặng hơn Xiaomi Mi 11 Ultra .
+{"subject": ["5&&Các", "6&&bức", "7&&ảnh", "8&&chụp", "9&&với", "10&&S20"], "object": ["16&&Xiaomi", "17&&Mi", "18&&11", "19&&Ultra"], "aspect": [], "predicate": ["12&&lớn", "13&&và", "14&&nặng", "15&&hơn"], "label": "COM"}
+
+Trong khi đó , camera Galaxy S23 Ultra đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và Thiết kế độc đáo hơn so vớ iPhone 13 Pro Max .	Trong khi đó , camera Galaxy S23 Ultra đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và Thiết kế độc đáo hơn so vớ iPhone 13 Pro Max .
+{"subject": ["5&&camera", "6&&Galaxy", "7&&S23", "8&&Ultra"], "object": ["31&&iPhone", "32&&13", "33&&Pro", "34&&Max"], "aspect": ["24&&Thiết", "25&&kế"], "predicate": ["26&&độc", "27&&đáo", "28&&hơn"], "label": "COM"}
+
+dòng iPhone X năm ngoái có thể điều chỉnh tần số quét nằm trong khoảng từ 10Hz đến 120Hz , nhưng Xiaomi còn điều chỉnh hơn nữa .	dòng iPhone X năm ngoái có thể điều chỉnh tần số quét nằm trong khoảng từ 10Hz đến 120Hz , nhưng Xiaomi còn điều chỉnh hơn nữa .
+{"subject": ["22&&Xiaomi"], "object": ["1&&dòng", "2&&iPhone", "3&&X"], "aspect": ["10&&tần", "11&&số", "12&&quét"], "predicate": ["24&&điều", "25&&chỉnh", "26&&hơn", "27&&nữa"], "label": "COM"}
+

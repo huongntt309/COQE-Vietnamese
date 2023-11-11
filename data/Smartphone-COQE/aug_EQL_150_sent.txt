@@ -1,0 +1,471 @@
+Nhìn chung , về bài so sánh của Galaxy Note 20 Ultra thì đồng hạng nhất so với phiên bản tiền nhiệm là A51 .	Nhìn chung , về bài so sánh của Galaxy Note 20 Ultra thì đồng hạng nhất so với phiên bản tiền nhiệm là A51 .
+{"subject": ["9&&Galaxy", "10&&Note", "11&&20", "12&&Ultra"], "object": ["24&&A51"], "aspect": ["5&&bài", "6&&so", "7&&sánh"], "predicate": ["14&&đồng", "15&&hạng", "16&&nhất"], "label": "EQL"}
+
+Tương tự , thì Samsung Galaxy A73 vẫn cùng trọng lượng với nhau cân nặng với 2 camera được đặt chéo nhau và được làm nhô lên so với mặt lưng của máy .	Tương tự , thì Samsung Galaxy A73 vẫn cùng trọng lượng với nhau cân nặng với 2 camera được đặt chéo nhau và được làm nhô lên so với mặt lưng của máy .
+{"subject": ["5&&Samsung", "6&&Galaxy", "7&&A73"], "object": [], "aspect": ["14&&cân", "15&&nặng"], "predicate": ["9&&cùng", "10&&trọng", "11&&lượng", "12&&với", "13&&nhau"], "label": "EQL"}
+
+Tương tự , thì ống kính góc rộng đều được sử dụng chip Snapdragon 8 Gen 2 mới nhất của Qualcomm với các lõi được ép xung so với S20 Series .	Tương tự , thì ống kính góc rộng đều được sử dụng chip Snapdragon 8 Gen 2 mới nhất của Qualcomm với các lõi được ép xung so với S20 Series .
+{"subject": ["5&&ống", "6&&kính", "7&&góc", "8&&rộng"], "object": ["30&&S20", "31&&Series"], "aspect": [], "predicate": ["9&&đều", "10&&được", "11&&sử", "12&&dụng", "13&&chip", "14&&Snapdragon", "15&&8", "16&&Gen", "17&&2", "18&&mới", "19&&nhất", "20&&của", "21&&Qualcomm", "22&&với", "23&&các", "24&&lõi", "25&&được", "26&&ép", "27&&xung"], "label": "EQL"}
+
+f / 4.9 trên full-frame không có quá nhiều chênh lệch khả năng tiết kiệm điện năng như nhau .	f / 4.9 trên full-frame không có quá nhiều chênh lệch khả năng tiết kiệm điện năng như nhau .
+{"subject": ["1&&f", "2&&/", "3&&4.9", "4&&trên", "5&&full-frame"], "object": ["1&&f", "2&&/", "3&&4.9", "4&&trên", "5&&full-frame"], "aspect": ["12&&khả", "13&&năng", "14&&tiết", "15&&kiệm", "16&&điện", "17&&năng"], "predicate": ["6&&không", "7&&có", "8&&quá", "9&&nhiều", "10&&chênh", "11&&lệch"], "label": "EQL"}
+
+những mẫu của năm ngoái đều có cảm biến vân tay cạnh viền chỉ mất đến 70 phút là sạc đầy pin với công nghệ sạc nhanh Super Fast Charging 25W .	những mẫu của năm ngoái đều có cảm biến vân tay cạnh viền chỉ mất đến 70 phút là sạc đầy pin với công nghệ sạc nhanh Super Fast Charging 25W .
+{"subject": ["1&&những", "2&&mẫu", "3&&của", "4&&năm", "5&&ngoái"], "object": ["1&&những", "2&&mẫu", "3&&của", "4&&năm", "5&&ngoái"], "aspect": ["8&&cảm", "9&&biến", "10&&vân", "11&&tay", "12&&cạnh", "13&&viền"], "predicate": ["6&&đều", "7&&có"], "label": "EQL"}
+
+hai mẫu điện thoại trên và Galaxy S23 Ultra không hề kém cạnh phẩn mềm , 2 Nano SIM , Wi-Fi ( Wi-Fi Direct , Wi-Fi hotspo , Dual-band 2.4 GHz / 5 GHz ) , Wi-Fi 802.11 a / b / g / n / ac / ax ) , GPS , Bluetooth ( A2D , PLE , v5.0 ) , cổng Type - C , jack tai nghe Type - C .	hai mẫu điện thoại trên và Galaxy S23 Ultra không hề kém cạnh phẩn mềm , 2 Nano SIM , Wi-Fi ( Wi-Fi Direct , Wi-Fi hotspo , Dual-band 2.4 GHz / 5 GHz ) , Wi-Fi 802.11 a / b / g / n / ac / ax ) , GPS , Bluetooth ( A2D , PLE , v5.0 ) , cổng Type - C , jack tai nghe Type - C .
+{"subject": ["1&&hai", "2&&mẫu", "3&&điện", "4&&thoại", "5&&trên"], "object": ["7&&Galaxy", "8&&S23", "9&&Ultra"], "aspect": ["14&&phẩn", "15&&mềm"], "predicate": ["10&&không", "11&&hề", "12&&kém", "13&&cạnh"], "label": "EQL"}
+
+Find N2 Flip đều có Mức pin gần bằng nhau .	Find N2 Flip đều có Mức pin gần bằng nhau .
+{"subject": ["1&&Find", "2&&N2", "3&&Flip"], "object": ["1&&Find", "2&&N2", "3&&Flip"], "aspect": ["6&&Mức", "7&&pin"], "predicate": ["8&&gần", "9&&bằng", "10&&nhau"], "label": "EQL"}
+
+Như đã nói , Galaxy Note 20 Ultra được trang bị bộ nhớ trong 256GB đều sử dụng với Z Fold3 gồm 3 ống kính chính , tele và siêu rộng đều có độ phân giải 12 Mp . Ngay cả camera trước cũng sẽ cùng thông số là 12 MP .	Như đã nói , Galaxy Note 20 Ultra được trang bị bộ nhớ trong 256GB đều sử dụng với Z Fold3 gồm 3 ống kính chính , tele và siêu rộng đều có độ phân giải 12 Mp . Ngay cả camera trước cũng sẽ cùng thông số là 12 MP .
+{"subject": ["5&&Galaxy", "6&&Note", "7&&20", "8&&Ultra"], "object": ["20&&Z", "21&&Fold3"], "aspect": ["12&&bộ", "13&&nhớ", "14&&trong", "15&&256GB"], "predicate": ["16&&đều", "17&&sử", "18&&dụng"], "label": "EQL"}
+
+Về công nghệ tấm nền OLED mới nhất của Samsung thì chiếc Galaxy S10e năm ngoái đều đều sử dụng .	Về công nghệ tấm nền OLED mới nhất của Samsung thì chiếc Galaxy S10e năm ngoái đều đều sử dụng .
+{"subject": ["12&&chiếc", "13&&Galaxy", "14&&S10e", "15&&năm", "16&&ngoái"], "object": ["12&&chiếc", "13&&Galaxy", "14&&S10e", "15&&năm", "16&&ngoái"], "aspect": ["2&&công", "3&&nghệ", "4&&tấm", "5&&nền", "6&&OLED", "7&&mới", "8&&nhất", "9&&của", "10&&Samsung"], "predicate": ["18&&đều", "19&&sử", "20&&dụng"], "label": "EQL"}
+
+Về kích thước , Z Flip 4 có kích thước tương đối giống nhau .	Về kích thước , Z Flip 4 có kích thước tương đối giống nhau .
+{"subject": ["5&&Z", "6&&Flip", "7&&4"], "object": ["5&&Z", "6&&Flip", "7&&4"], "aspect": ["2&&kích", "3&&thước"], "predicate": ["11&&tương", "12&&đối", "13&&giống", "14&&nhau"], "label": "EQL"}
+
+Về chi tiết , Samsung Z Fold 4 và ống kính full-frame f / 6.5 sẽ gần giống .	Về chi tiết , Samsung Z Fold 4 và ống kính full-frame f / 6.5 sẽ gần giống .
+{"subject": ["5&&Samsung", "6&&Z", "7&&Fold", "8&&4"], "object": ["10&&ống", "11&&kính", "12&&full-frame", "13&&f", "14&&/", "15&&6.5"], "aspect": ["2&&chi", "3&&tiết"], "predicate": ["17&&gần", "18&&giống"], "label": "EQL"}
+
+đều có thể về hoạt động trên giao diện One UI 4 của Galaxy A11 .	đều có thể về hoạt động trên giao diện One UI 4 của Galaxy A11 .
+{"subject": ["14&&Galaxy", "15&&A11"], "object": ["14&&Galaxy", "15&&A11"], "aspect": ["5&&hoạt", "6&&động", "7&&trên", "8&&giao", "9&&diện", "10&&One", "11&&UI", "12&&4"], "predicate": ["1&&đều", "2&&có", "3&&thể"], "label": "EQL"}
+
+Nếu như dòng iPhone X được trang bị bộ xử lý A12 Bionic thì Redmi Note 11 gần như là giống hệt .	Nếu như dòng iPhone X được trang bị bộ xử lý A12 Bionic thì Redmi Note 11 gần như là giống hệt .
+{"subject": ["15&&Redmi", "16&&Note", "17&&11"], "object": ["15&&Redmi", "16&&Note", "17&&11"], "aspect": [], "predicate": ["18&&gần", "19&&như", "20&&là", "21&&giống", "22&&hệt"], "label": "EQL"}
+
+A12 đều tích hợp chức năng chống nước và bụi IP68 .	A12 đều tích hợp chức năng chống nước và bụi IP68 .
+{"subject": ["1&&A12"], "object": ["1&&A12"], "aspect": ["7&&chống", "8&&nước", "9&&và", "10&&bụi", "11&&IP68"], "predicate": ["2&&đều", "3&&tích", "4&&hợp"], "label": "EQL"}
+
+des : Pixel 7 Pro đều được hỗ trợ chức năng sạc nhanh có dây 45W	des : Pixel 7 Pro đều được hỗ trợ chức năng sạc nhanh có dây 45W
+{"subject": ["3&&Pixel", "4&&7", "5&&Pro"], "object": ["3&&Pixel", "4&&7", "5&&Pro"], "aspect": ["12&&sạc", "13&&nhanh", "14&&có", "15&&dây", "16&&45W"], "predicate": ["6&&đều", "7&&được", "8&&hỗ", "9&&trợ"], "label": "EQL"}
+
+Không chỉ là 2 dòng điện thoại này nói riêng mà Z Fold3 không chênh lệch nhau nhiều hiệu năng .	Không chỉ là 2 dòng điện thoại này nói riêng mà Z Fold3 không chênh lệch nhau nhiều hiệu năng .
+{"subject": ["12&&Z", "13&&Fold3"], "object": ["12&&Z", "13&&Fold3"], "aspect": ["19&&hiệu", "20&&năng"], "predicate": ["14&&không", "15&&chênh", "16&&lệch", "17&&nhau", "18&&nhiều"], "label": "EQL"}
+
+Thì giờ đây , thiết kế này trên Samsung Galaxy S22 Ultra và Galaxy S10e đã đều có .	Thì giờ đây , thiết kế này trên Samsung Galaxy S22 Ultra và Galaxy S10e đã đều có .
+{"subject": ["9&&Samsung", "10&&Galaxy", "11&&S22", "12&&Ultra"], "object": ["14&&Galaxy", "15&&S10e"], "aspect": ["5&&thiết", "6&&kế", "7&&này"], "predicate": ["17&&đều", "18&&có"], "label": "EQL"}
+
+Tất nhiên , việc sử dụng thiết kế mới sẽ khiến người dùng không thể dùng chung ốp lưng cho Xiaomi và ống kính full-frame f / 6.5 , dù có hiệu suất mạnh mẽ tương tự .	Tất nhiên , việc sử dụng thiết kế mới sẽ khiến người dùng không thể dùng chung ốp lưng cho Xiaomi và ống kính full-frame f / 6.5 , dù có hiệu suất mạnh mẽ tương tự .
+{"subject": ["21&&Xiaomi"], "object": ["23&&ống", "24&&kính", "25&&full-frame", "26&&f", "27&&/", "28&&6.5"], "aspect": ["32&&hiệu", "33&&suất"], "predicate": ["34&&mạnh", "35&&mẽ", "36&&tương", "37&&tự"], "label": "EQL"}
+
+Trên Galaxy A52s và những mẫu của năm ngoái tốt nhất trên thị trường cho người dùng camera gồm xanh lục , tím , đen và kem .	Trên Galaxy A52s và những mẫu của năm ngoái tốt nhất trên thị trường cho người dùng camera gồm xanh lục , tím , đen và kem .
+{"subject": ["2&&Galaxy", "3&&A52s"], "object": ["5&&những", "6&&mẫu", "7&&của", "8&&năm", "9&&ngoái"], "aspect": ["18&&camera"], "predicate": ["10&&tốt", "11&&nhất", "12&&trên", "13&&thị", "14&&trường"], "label": "EQL"}
+
+f / 4.9 trên full-frame không chênh lệch nhiều Cấu hình vì đạt hơn 2000 nits .	f / 4.9 trên full-frame không chênh lệch nhiều Cấu hình vì đạt hơn 2000 nits .
+{"subject": ["1&&f", "2&&/", "3&&4.9", "4&&trên", "5&&full-frame"], "object": ["1&&f", "2&&/", "3&&4.9", "4&&trên", "5&&full-frame"], "aspect": ["10&&Cấu", "11&&hình"], "predicate": ["6&&không", "7&&chênh", "8&&lệch", "9&&nhiều"], "label": "EQL"}
+
+Samsung giống như đáp ứng đủ nhu cầu thay vì Exynos tại một số thị trường .	Samsung giống như đáp ứng đủ nhu cầu thay vì Exynos tại một số thị trường .
+{"subject": ["1&&Samsung"], "object": [], "aspect": ["4&&đáp", "5&&ứng", "6&&đủ", "7&&nhu", "8&&cầu"], "predicate": ["2&&giống", "3&&như"], "label": "EQL"}
+
+cấu hình màu sắc Samsung S23 + và một quyển sách thực sự khá giống .	cấu hình màu sắc Samsung S23 + và một quyển sách thực sự khá giống .
+{"subject": ["5&&Samsung", "6&&S23", "7&&+"], "object": ["9&&một", "10&&quyển", "11&&sách"], "aspect": ["1&&cấu", "2&&hình", "3&&màu", "4&&sắc"], "predicate": ["12&&thực", "13&&sự", "14&&khá", "15&&giống"], "label": "EQL"}
+
+Kết quả thử nghiệm trên Geekbench cho thấy , chiếc S10 Plus mang đến mặt sau bằng nhựa sáng bóng đều có .	Kết quả thử nghiệm trên Geekbench cho thấy , chiếc S10 Plus mang đến mặt sau bằng nhựa sáng bóng đều có .
+{"subject": ["10&&chiếc", "11&&S10", "12&&Plus"], "object": ["10&&chiếc", "11&&S10", "12&&Plus"], "aspect": ["15&&mặt", "16&&sau", "17&&bằng", "18&&nhựa", "19&&sáng", "20&&bóng"], "predicate": ["21&&đều", "22&&có"], "label": "EQL"}
+
+Samsung Galaxy A73 và những chiếc S20 giữ nguyên thiết kế . Đây là con chip phổ biến trong phân khúc , giúp xử lý tác vụ ổn định , tiết kiệm điện năng hiệu quả , để bạn có thể “ chiến ” các tựa game phổ biến như Liên Quân hay PUBG .	Samsung Galaxy A73 và những chiếc S20 giữ nguyên thiết kế . Đây là con chip phổ biến trong phân khúc , giúp xử lý tác vụ ổn định , tiết kiệm điện năng hiệu quả , để bạn có thể “ chiến ” các tựa game phổ biến như Liên Quân hay PUBG .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A73"], "object": ["5&&những", "6&&chiếc", "7&&S20"], "aspect": ["10&&thiết", "11&&kế"], "predicate": ["8&&giữ", "9&&nguyên"], "label": "EQL"}
+
+Chính vì vậy , Cả hai điện thoại không có sự khác biệt gì quá nhiều để thiết kế .	Chính vì vậy , Cả hai điện thoại không có sự khác biệt gì quá nhiều để thiết kế .
+{"subject": ["5&&Cả", "6&&hai", "7&&điện", "8&&thoại"], "object": [], "aspect": ["18&&thiết", "19&&kế"], "predicate": ["9&&không", "10&&có", "11&&sự", "12&&khác", "13&&biệt", "14&&gì", "15&&quá", "16&&nhiều"], "label": "EQL"}
+
+Mặc dù Xiaomi Mi 10 Pro không chênh lệch nhiều hiệu năng , nhưng cả Samsung Galaxy A31 và Samsung Galaxy A51 vẫn thu hút người dùng .	Mặc dù Xiaomi Mi 10 Pro không chênh lệch nhiều hiệu năng , nhưng cả Samsung Galaxy A31 và Samsung Galaxy A51 vẫn thu hút người dùng .
+{"subject": ["3&&Xiaomi", "4&&Mi", "5&&10", "6&&Pro"], "object": [], "aspect": ["11&&hiệu", "12&&năng"], "predicate": ["7&&không", "8&&chênh", "9&&lệch", "10&&nhiều"], "label": "EQL"}
+
+những chiếc điện thoại bình thường đều có cùng mức giá với các đường vát chia cắt mặt sau cho hiệu ứng ánh sáng bắt mắt .	những chiếc điện thoại bình thường đều có cùng mức giá với các đường vát chia cắt mặt sau cho hiệu ứng ánh sáng bắt mắt .
+{"subject": ["1&&những", "2&&chiếc", "3&&điện", "4&&thoại", "5&&bình", "6&&thường"], "object": ["1&&những", "2&&chiếc", "3&&điện", "4&&thoại", "5&&bình", "6&&thường"], "aspect": ["10&&mức", "11&&giá"], "predicate": ["7&&đều", "8&&có", "9&&cùng"], "label": "EQL"}
+
+Về kích thước , S21 Ultra có hiệu suất mạnh mẽ tương tự , không chênh lệch quá nhiều , A31 là 6.4 inch , còn A51 là 6.5 inch .	Về kích thước , S21 Ultra có hiệu suất mạnh mẽ tương tự , không chênh lệch quá nhiều , A31 là 6.4 inch , còn A51 là 6.5 inch .
+{"subject": ["5&&S21", "6&&Ultra"], "object": [], "aspect": ["8&&hiệu", "9&&suất"], "predicate": ["10&&mạnh", "11&&mẽ", "12&&tương", "13&&tự"], "label": "EQL"}
+
+des : Mức pin của iPhone 13 năm trước gần bằng nhau	des : Mức pin của iPhone 13 năm trước gần bằng nhau
+{"subject": ["6&&iPhone", "7&&13", "8&&năm", "9&&trước"], "object": ["6&&iPhone", "7&&13", "8&&năm", "9&&trước"], "aspect": ["3&&Mức", "4&&pin"], "predicate": ["10&&gần", "11&&bằng", "12&&nhau"], "label": "EQL"}
+
+RAM 8GB của Samsung Galaxy A73 đều có .	RAM 8GB của Samsung Galaxy A73 đều có .
+{"subject": ["4&&Samsung", "5&&Galaxy", "6&&A73"], "object": ["4&&Samsung", "5&&Galaxy", "6&&A73"], "aspect": ["1&&RAM", "2&&8GB"], "predicate": ["7&&đều", "8&&có"], "label": "EQL"}
+
+des : Những bức ảnh chụp ra trên OPPO Find X6 Pro và OPPO A57 tương đương nhau kích thước	des : Những bức ảnh chụp ra trên OPPO Find X6 Pro và OPPO A57 tương đương nhau kích thước
+{"subject": ["3&&Những", "4&&bức", "5&&ảnh", "6&&chụp", "7&&ra", "8&&trên", "9&&OPPO", "10&&Find", "11&&X6", "12&&Pro"], "object": ["14&&OPPO", "15&&A57"], "aspect": ["19&&kích", "20&&thước"], "predicate": ["16&&tương", "17&&đương", "18&&nhau"], "label": "EQL"}
+
+Camera và các thế hệ tiền nhiệm thừa hưởng thiết kế .	Camera và các thế hệ tiền nhiệm thừa hưởng thiết kế .
+{"subject": ["1&&Camera"], "object": ["3&&các", "4&&thế", "5&&hệ", "6&&tiền", "7&&nhiệm"], "aspect": ["10&&thiết", "11&&kế"], "predicate": ["8&&thừa", "9&&hưởng"], "label": "EQL"}
+
+Về Android 11 , Samsung Galaxy S10 Plus có đều chạy .	Về Android 11 , Samsung Galaxy S10 Plus có đều chạy .
+{"subject": ["5&&Samsung", "6&&Galaxy", "7&&S10", "8&&Plus"], "object": [], "aspect": ["2&&Android", "3&&11"], "predicate": ["10&&đều", "11&&chạy"], "label": "EQL"}
+
+Cả Samsung A31 và những mẫu của năm ngoái đều trang bị cổng kết nối Lightning dùng để sạc pin .	Cả Samsung A31 và những mẫu của năm ngoái đều trang bị cổng kết nối Lightning dùng để sạc pin .
+{"subject": ["2&&Samsung", "3&&A31"], "object": ["5&&những", "6&&mẫu", "7&&của", "8&&năm", "9&&ngoái"], "aspect": ["13&&cổng", "14&&kết", "15&&nối", "16&&Lightning", "17&&dùng", "18&&để", "19&&sạc", "20&&pin"], "predicate": ["10&&đều", "11&&trang", "12&&bị"], "label": "EQL"}
+
+Cả Samsung A31 và S20 Series giống như .	Cả Samsung A31 và S20 Series giống như .
+{"subject": ["2&&Samsung", "3&&A31"], "object": ["5&&S20", "6&&Series"], "aspect": [], "predicate": ["7&&giống", "8&&như"], "label": "EQL"}
+
+Galaxy A51 có thông số giống như với Z Fold3 .	Galaxy A51 có thông số giống như với Z Fold3 .
+{"subject": ["1&&Galaxy", "2&&A51"], "object": ["9&&Z", "10&&Fold3"], "aspect": ["4&&thông", "5&&số"], "predicate": ["6&&giống", "7&&như"], "label": "EQL"}
+
+chúng chắc chắn đều sử dụng với chipset Apple A14 Bionic .	chúng chắc chắn đều sử dụng với chipset Apple A14 Bionic .
+{"subject": ["1&&chúng"], "object": ["8&&chipset", "9&&Apple", "10&&A14", "11&&Bionic"], "aspect": [], "predicate": ["4&&đều", "5&&sử", "6&&dụng"], "label": "EQL"}
+
+8 Gen 2 thông thường đều hỗ trợ bút cảm ứng S Pen , kết hợp chắc chắn với nhau nhờ vật liệu cao cấp .	8 Gen 2 thông thường đều hỗ trợ bút cảm ứng S Pen , kết hợp chắc chắn với nhau nhờ vật liệu cao cấp .
+{"subject": ["1&&8", "2&&Gen", "3&&2", "4&&thông", "5&&thường"], "object": ["1&&8", "2&&Gen", "3&&2", "4&&thông", "5&&thường"], "aspect": ["9&&bút", "10&&cảm", "11&&ứng", "12&&S", "13&&Pen"], "predicate": ["6&&đều", "7&&hỗ", "8&&trợ"], "label": "EQL"}
+
+Cụ thể , điện thoại Samsung Galaxy A13 được sử dụng giống như như chiếc Galaxy S10e năm ngoái ở đáp ứng đủ nhu cầu .	Cụ thể , điện thoại Samsung Galaxy A13 được sử dụng giống như như chiếc Galaxy S10e năm ngoái ở đáp ứng đủ nhu cầu .
+{"subject": ["4&&điện", "5&&thoại", "6&&Samsung", "7&&Galaxy", "8&&A13"], "object": ["15&&chiếc", "16&&Galaxy", "17&&S10e", "18&&năm", "19&&ngoái"], "aspect": ["21&&đáp", "22&&ứng", "23&&đủ", "24&&nhu", "25&&cầu"], "predicate": ["12&&giống", "13&&như"], "label": "EQL"}
+
+các mẫu điện thoại tầm trung giá rẻ khác của Samsung đều có RAM 8GB .	các mẫu điện thoại tầm trung giá rẻ khác của Samsung đều có RAM 8GB .
+{"subject": ["1&&các", "2&&mẫu", "3&&điện", "4&&thoại", "5&&tầm", "6&&trung", "7&&giá", "8&&rẻ", "9&&khác", "10&&của", "11&&Samsung"], "object": ["1&&các", "2&&mẫu", "3&&điện", "4&&thoại", "5&&tầm", "6&&trung", "7&&giá", "8&&rẻ", "9&&khác", "10&&của", "11&&Samsung"], "aspect": ["14&&RAM", "15&&8GB"], "predicate": ["12&&đều", "13&&có"], "label": "EQL"}
+
+Về đáp ứng tốt các tác vụ hàng ngày ở mức tốt nhất , Xiaomi 13 Pro đều có thể .	Về đáp ứng tốt các tác vụ hàng ngày ở mức tốt nhất , Xiaomi 13 Pro đều có thể .
+{"subject": ["15&&Xiaomi", "16&&13", "17&&Pro"], "object": ["15&&Xiaomi", "16&&13", "17&&Pro"], "aspect": ["2&&đáp", "3&&ứng", "4&&tốt", "5&&các", "6&&tác", "7&&vụ", "8&&hàng", "9&&ngày", "10&&ở", "11&&mức", "12&&tốt", "13&&nhất"], "predicate": ["18&&đều", "19&&có", "20&&thể"], "label": "EQL"}
+
+iPhone X đều hệ thông camera tương tự .	iPhone X đều hệ thông camera tương tự .
+{"subject": ["1&&iPhone", "2&&X"], "object": [], "aspect": ["4&&hệ", "5&&thông", "6&&camera"], "predicate": ["7&&tương", "8&&tự"], "label": "EQL"}
+
+Galaxy A52s và các mẫu điện thoại tầm trung giá rẻ khác của Samsung đều có sức mạnh từ cụm camera ấn tượng .	Galaxy A52s và các mẫu điện thoại tầm trung giá rẻ khác của Samsung đều có sức mạnh từ cụm camera ấn tượng .
+{"subject": ["1&&Galaxy", "2&&A52s"], "object": ["4&&các", "5&&mẫu", "6&&điện", "7&&thoại", "8&&tầm", "9&&trung", "10&&giá", "11&&rẻ", "12&&khác", "13&&của", "14&&Samsung"], "aspect": ["20&&cụm", "21&&camera", "22&&ấn", "23&&tượng"], "predicate": ["15&&đều", "16&&có"], "label": "EQL"}
+
+Trong khi Realme 8 5G như thiết kế màn hình gập nhưng RAM 12GB .	Trong khi Realme 8 5G như thiết kế màn hình gập nhưng RAM 12GB .
+{"subject": ["3&&Realme", "4&&8", "5&&5G"], "object": [], "aspect": ["7&&thiết", "8&&kế", "9&&màn", "10&&hình", "11&&gập"], "predicate": ["6&&như"], "label": "EQL"}
+
+Khi nói đến chipset Mediatek Dimensity 700 , Galaxy A12 đều sử dụng .	Khi nói đến chipset Mediatek Dimensity 700 , Galaxy A12 đều sử dụng .
+{"subject": ["9&&Galaxy", "10&&A12"], "object": ["9&&Galaxy", "10&&A12"], "aspect": ["4&&chipset", "5&&Mediatek", "6&&Dimensity", "7&&700"], "predicate": ["11&&đều", "12&&sử", "13&&dụng"], "label": "EQL"}
+
+Nhìn chung , MediaTek đều sử dụng .	Nhìn chung , MediaTek đều sử dụng .
+{"subject": ["4&&MediaTek"], "object": ["4&&MediaTek"], "aspect": [], "predicate": ["5&&đều", "6&&sử", "7&&dụng"], "label": "EQL"}
+
+Với điện thoại camera của Galaxy S22 Ultra người sử dụng được sở hữu một chiếc điện thoại với thiết kế thời thượng lấy cảm hứng từ flagship Galaxy S23 series , đặc biệt là tính năng chụp ảnh Single Take của máy cũng sở hữu hệ S23 tiêu chuẩn .	Với điện thoại camera của Galaxy S22 Ultra người sử dụng được sở hữu một chiếc điện thoại với thiết kế thời thượng lấy cảm hứng từ flagship Galaxy S23 series , đặc biệt là tính năng chụp ảnh Single Take của máy cũng sở hữu hệ S23 tiêu chuẩn .
+{"subject": ["4&&camera", "5&&của", "6&&Galaxy", "7&&S22", "8&&Ultra"], "object": ["47&&hệ", "48&&S23", "49&&tiêu", "50&&chuẩn"], "aspect": ["36&&tính", "37&&năng", "38&&chụp", "39&&ảnh", "40&&Single", "41&&Take"], "predicate": ["44&&cũng", "45&&sở", "46&&hữu"], "label": "EQL"}
+
+Cả tất cả các điện thoại này và các thế hệ tiền nhiệm cũng có khung và mặt lưng làm từ nhựa .	Cả tất cả các điện thoại này và các thế hệ tiền nhiệm cũng có khung và mặt lưng làm từ nhựa .
+{"subject": ["2&&tất", "3&&cả", "4&&các", "5&&điện", "6&&thoại", "7&&này"], "object": ["9&&các", "10&&thế", "11&&hệ", "12&&tiền", "13&&nhiệm"], "aspect": ["16&&khung", "17&&và", "18&&mặt", "19&&lưng", "20&&làm", "21&&từ", "22&&nhựa"], "predicate": ["14&&cũng", "15&&có"], "label": "EQL"}
+
+Phần cứng camera của Xiaomi 13 Pro thoại tương đương , đều đem đến cho người sử dụng cảm giác mỏng nhẹ và dễ dàng cầm nắm .	Phần cứng camera của Xiaomi 13 Pro thoại tương đương , đều đem đến cho người sử dụng cảm giác mỏng nhẹ và dễ dàng cầm nắm .
+{"subject": ["5&&Xiaomi", "6&&13", "7&&Pro"], "object": ["5&&Xiaomi", "6&&13", "7&&Pro"], "aspect": ["1&&Phần", "2&&cứng", "3&&camera"], "predicate": ["9&&tương", "10&&đương"], "label": "EQL"}
+
+cụm camera kép ở mặt sau của Samsung A31 đều sẽ sở hữu với Xiaomi 13 Pro nhưng có camera chính 50 MP .	cụm camera kép ở mặt sau của Samsung A31 đều sẽ sở hữu với Xiaomi 13 Pro nhưng có camera chính 50 MP .
+{"subject": ["8&&Samsung", "9&&A31"], "object": ["15&&Xiaomi", "16&&13", "17&&Pro"], "aspect": ["1&&cụm", "2&&camera", "3&&kép", "4&&ở", "5&&mặt", "6&&sau"], "predicate": ["10&&đều", "11&&sẽ", "12&&sở", "13&&hữu"], "label": "EQL"}
+
+Nếu bạn đang tìm một chiếc điện thoại có thể dùng cả ngày mà không cần phải sạc thì bộ vi xử lý của S23 Ultra gần như là giống hệt với dung lượng pin 5000 mAh và hỗ trợ sạc 15W .	Nếu bạn đang tìm một chiếc điện thoại có thể dùng cả ngày mà không cần phải sạc thì bộ vi xử lý của S23 Ultra gần như là giống hệt với dung lượng pin 5000 mAh và hỗ trợ sạc 15W .
+{"subject": ["25&&S23", "26&&Ultra"], "object": ["25&&S23", "26&&Ultra"], "aspect": ["20&&bộ", "21&&vi", "22&&xử", "23&&lý"], "predicate": ["27&&gần", "28&&như", "29&&là", "30&&giống", "31&&hệt"], "label": "EQL"}
+
+S21 FE đều mang lại hiệu năng mạnh mẽ với mở khóa bằng khuôn mặt và bằng vân tay cạnh viền .	S21 FE đều mang lại hiệu năng mạnh mẽ với mở khóa bằng khuôn mặt và bằng vân tay cạnh viền .
+{"subject": ["1&&S21", "2&&FE"], "object": ["1&&S21", "2&&FE"], "aspect": ["6&&hiệu", "7&&năng", "8&&mạnh", "9&&mẽ"], "predicate": ["3&&đều", "4&&mang", "5&&lại"], "label": "EQL"}
+
+des : chipset Apple A14 Bionic đều cung cấp sạc không dây ngược 4,5W	des : chipset Apple A14 Bionic đều cung cấp sạc không dây ngược 4,5W
+{"subject": ["3&&chipset", "4&&Apple", "5&&A14", "6&&Bionic"], "object": ["3&&chipset", "4&&Apple", "5&&A14", "6&&Bionic"], "aspect": ["10&&sạc", "11&&không", "12&&dây", "13&&ngược", "14&&4,5W"], "predicate": ["7&&đều", "8&&cung", "9&&cấp"], "label": "EQL"}
+
+Galaxy S23 đều cung cấp cùng bộ nhớ .	Galaxy S23 đều cung cấp cùng bộ nhớ .
+{"subject": ["1&&Galaxy", "2&&S23"], "object": ["1&&Galaxy", "2&&S23"], "aspect": ["7&&bộ", "8&&nhớ"], "predicate": ["3&&đều", "4&&cung", "5&&cấp", "6&&cùng"], "label": "EQL"}
+
+Khoảng cách 4 năm khiến Galaxy A13 , A33 , A53 hay thậm chí là A73 có sạc không dây ngược 4,5W đều cung cấp .	Khoảng cách 4 năm khiến Galaxy A13 , A33 , A53 hay thậm chí là A73 có sạc không dây ngược 4,5W đều cung cấp .
+{"subject": ["6&&Galaxy", "7&&A13", "8&&,", "9&&A33", "10&&,", "11&&A53", "12&&hay", "13&&thậm", "14&&chí", "15&&là", "16&&A73"], "object": ["6&&Galaxy", "7&&A13", "8&&,", "9&&A33", "10&&,", "11&&A53", "12&&hay", "13&&thậm", "14&&chí", "15&&là", "16&&A73"], "aspect": ["18&&sạc", "19&&không", "20&&dây", "21&&ngược", "22&&4,5W"], "predicate": ["23&&đều", "24&&cung", "25&&cấp"], "label": "EQL"}
+
+Không nói đâu xa , ngoài Samsung A31 thì chúng còn Galaxy A53 5G không có gì khác biệt cùng một phong cách thiết kế .	Không nói đâu xa , ngoài Samsung A31 thì chúng còn Galaxy A53 5G không có gì khác biệt cùng một phong cách thiết kế .
+{"subject": ["7&&Samsung", "8&&A31"], "object": ["12&&Galaxy", "13&&A53", "14&&5G"], "aspect": ["22&&phong", "23&&cách", "24&&thiết", "25&&kế"], "predicate": ["15&&không", "16&&có", "17&&gì", "18&&khác", "19&&biệt"], "label": "EQL"}
+
+Samsung S23 + giống nhau Samsung Galaxy M52 5G	Samsung S23 + giống nhau Samsung Galaxy M52 5G
+{"subject": ["1&&Samsung", "2&&S23", "3&&+"], "object": ["6&&Samsung", "7&&Galaxy", "8&&M52", "9&&5G"], "aspect": [], "predicate": ["4&&giống", "5&&nhau"], "label": "EQL"}
+
+Realme 6 Pro đều có Huawei	Realme 6 Pro đều có Huawei
+{"subject": ["1&&Realme", "2&&6", "3&&Pro"], "object": ["6&&Huawei"], "aspect": [], "predicate": ["4&&đều", "5&&có"], "label": "EQL"}
+
+chipset Apple A14 Bionic sinh trắc học Không có sự thay đổi , nhưng việc sở hữu ngoại hình đẳng cấp cùng nhiều tính năng cao cấp khiến chúng trở nên hấp dẫn với nhiều người dùng .	chipset Apple A14 Bionic sinh trắc học Không có sự thay đổi , nhưng việc sở hữu ngoại hình đẳng cấp cùng nhiều tính năng cao cấp khiến chúng trở nên hấp dẫn với nhiều người dùng .
+{"subject": ["1&&chipset", "2&&Apple", "3&&A14", "4&&Bionic"], "object": ["1&&chipset", "2&&Apple", "3&&A14", "4&&Bionic"], "aspect": ["5&&sinh", "6&&trắc", "7&&học"], "predicate": ["8&&Không", "9&&có", "10&&sự", "11&&thay", "12&&đổi"], "label": "EQL"}
+
+Giúp người dùng thoải mái lướt web , chơi game , xem phim . . . Thực tế iPhone 8 đều bắt được chi tiết rất tốt so với Exynos 1280 của A53 .	Giúp người dùng thoải mái lướt web , chơi game , xem phim . . . Thực tế iPhone 8 đều bắt được chi tiết rất tốt so với Exynos 1280 của A53 .
+{"subject": ["19&&iPhone", "20&&8"], "object": ["30&&Exynos", "31&&1280", "32&&của", "33&&A53"], "aspect": [], "predicate": ["21&&đều", "22&&bắt", "23&&được", "24&&chi", "25&&tiết", "26&&rất", "27&&tốt"], "label": "EQL"}
+
+Galaxy S21 Ultra tương tự nhau trải nghiệm màn hình nhờ trang bị tần số quét 1 - 120Hz .	Galaxy S21 Ultra tương tự nhau trải nghiệm màn hình nhờ trang bị tần số quét 1 - 120Hz .
+{"subject": ["1&&Galaxy", "2&&S21", "3&&Ultra"], "object": ["1&&Galaxy", "2&&S21", "3&&Ultra"], "aspect": ["7&&trải", "8&&nghiệm", "9&&màn", "10&&hình"], "predicate": ["4&&tương", "5&&tự", "6&&nhau"], "label": "EQL"}
+
+Thậm chí Galaxy A52s có thể tốt nhất trên thị trường với Xr .	Thậm chí Galaxy A52s có thể tốt nhất trên thị trường với Xr .
+{"subject": ["3&&Galaxy", "4&&A52s"], "object": ["13&&Xr"], "aspect": [], "predicate": ["7&&tốt", "8&&nhất", "9&&trên", "10&&thị", "11&&trường"], "label": "EQL"}
+
+Màn hình lớn sẽ giúp bạn có không gian giải trí tuyệt vời và dù thế nào thì một quyển sách đều được làm bằng khung thép không gỉ , cho chất lượng hiển thị sắc nét và chân thực .	Màn hình lớn sẽ giúp bạn có không gian giải trí tuyệt vời và dù thế nào thì một quyển sách đều được làm bằng khung thép không gỉ , cho chất lượng hiển thị sắc nét và chân thực .
+{"subject": ["19&&một", "20&&quyển", "21&&sách"], "object": ["19&&một", "20&&quyển", "21&&sách"], "aspect": ["26&&khung", "27&&thép", "28&&không", "29&&gỉ"], "predicate": ["22&&đều", "23&&được", "24&&làm", "25&&bằng"], "label": "EQL"}
+
+Vì Galaxy A53 đều cung cấp .	Vì Galaxy A53 đều cung cấp .
+{"subject": ["2&&Galaxy", "3&&A53"], "object": ["2&&Galaxy", "3&&A53"], "aspect": [], "predicate": ["4&&đều", "5&&cung", "6&&cấp"], "label": "EQL"}
+
+Về Cấu hình , 8 Gen 2 thông thường không chênh lệch nhiều .	Về Cấu hình , 8 Gen 2 thông thường không chênh lệch nhiều .
+{"subject": ["5&&8", "6&&Gen", "7&&2", "8&&thông", "9&&thường"], "object": ["5&&8", "6&&Gen", "7&&2", "8&&thông", "9&&thường"], "aspect": ["2&&Cấu", "3&&hình"], "predicate": ["10&&không", "11&&chênh", "12&&lệch", "13&&nhiều"], "label": "EQL"}
+
+những mẫu của năm ngoái gần như không đáng kể sự chênh lệch về hiệu năng giúp người dùng được liên tục cập nhật mọi tin tức mới nhất .	những mẫu của năm ngoái gần như không đáng kể sự chênh lệch về hiệu năng giúp người dùng được liên tục cập nhật mọi tin tức mới nhất .
+{"subject": ["1&&những", "2&&mẫu", "3&&của", "4&&năm", "5&&ngoái"], "object": ["1&&những", "2&&mẫu", "3&&của", "4&&năm", "5&&ngoái"], "aspect": ["11&&sự", "12&&chênh", "13&&lệch", "14&&về", "15&&hiệu", "16&&năng"], "predicate": ["6&&gần", "7&&như", "8&&không", "9&&đáng", "10&&kể"], "label": "EQL"}
+
+Nên ở trọng lượng , Galaxy A53 5G đều đồng trọng lượng .	Nên ở trọng lượng , Galaxy A53 5G đều đồng trọng lượng .
+{"subject": ["6&&Galaxy", "7&&A53", "8&&5G"], "object": ["6&&Galaxy", "7&&A53", "8&&5G"], "aspect": ["3&&trọng", "4&&lượng"], "predicate": ["9&&đều", "10&&đồng", "11&&trọng", "12&&lượng"], "label": "EQL"}
+
+Về cơ bản thì sạc không dây 15W được tích hợp trong những chiếc S20 đều được hỗ trợ .	Về cơ bản thì sạc không dây 15W được tích hợp trong những chiếc S20 đều được hỗ trợ .
+{"subject": ["13&&những", "14&&chiếc", "15&&S20"], "object": ["13&&những", "14&&chiếc", "15&&S20"], "aspect": ["5&&sạc", "6&&không", "7&&dây", "8&&15W"], "predicate": ["16&&đều", "17&&được", "18&&hỗ", "19&&trợ"], "label": "EQL"}
+
+des : Galaxy S23 Ultra kích thước chênh lệch rất ít màn hình	des : Galaxy S23 Ultra kích thước chênh lệch rất ít màn hình
+{"subject": ["3&&Galaxy", "4&&S23", "5&&Ultra"], "object": ["3&&Galaxy", "4&&S23", "5&&Ultra"], "aspect": ["12&&màn", "13&&hình"], "predicate": ["6&&kích", "7&&thước", "8&&chênh", "9&&lệch", "10&&rất", "11&&ít"], "label": "EQL"}
+
+Galaxy S23 đều có cùng mức giá .	Galaxy S23 đều có cùng mức giá .
+{"subject": ["1&&Galaxy", "2&&S23"], "object": ["1&&Galaxy", "2&&S23"], "aspect": ["6&&mức", "7&&giá"], "predicate": ["3&&đều", "4&&có", "5&&cùng"], "label": "EQL"}
+
+Về phần hiệu suất , Galaxy Note 20 Ultra và những thiết bị khác của Apple mạnh mẽ tương tự với màn hình “ giọt nước ” 6.56 inch trên tấm nền LCD , cho không gian thao tác thoải mái .	Về phần hiệu suất , Galaxy Note 20 Ultra và những thiết bị khác của Apple mạnh mẽ tương tự với màn hình “ giọt nước ” 6.56 inch trên tấm nền LCD , cho không gian thao tác thoải mái .
+{"subject": ["6&&Galaxy", "7&&Note", "8&&20", "9&&Ultra"], "object": ["11&&những", "12&&thiết", "13&&bị", "14&&khác", "15&&của", "16&&Apple"], "aspect": ["3&&hiệu", "4&&suất"], "predicate": ["17&&mạnh", "18&&mẽ", "19&&tương", "20&&tự"], "label": "EQL"}
+
+Redmi Note 11 cũng đều hỗ trợ về công nghệ sạc nhanh tối đa 25 W .	Redmi Note 11 cũng đều hỗ trợ về công nghệ sạc nhanh tối đa 25 W .
+{"subject": ["1&&Redmi", "2&&Note", "3&&11"], "object": ["1&&Redmi", "2&&Note", "3&&11"], "aspect": ["9&&công", "10&&nghệ", "11&&sạc", "12&&nhanh", "13&&tối", "14&&đa", "15&&25", "16&&W"], "predicate": ["5&&đều", "6&&hỗ", "7&&trợ"], "label": "EQL"}
+
+Là hai mẫu điện thoại dành cho người dùng trẻ , cả ống kính f / 1.8 của X90 Pro và những chiếc smartphone cao cấp trên thị trường đều có thiết lập camera bốn phía sau , giúp người dùng sử dụng thoải mái cả ngày dài .	Là hai mẫu điện thoại dành cho người dùng trẻ , cả ống kính f / 1.8 của X90 Pro và những chiếc smartphone cao cấp trên thị trường đều có thiết lập camera bốn phía sau , giúp người dùng sử dụng thoải mái cả ngày dài .
+{"subject": ["13&&ống", "14&&kính", "15&&f", "16&&/", "17&&1.8", "18&&của", "19&&X90", "20&&Pro"], "object": ["22&&những", "23&&chiếc", "24&&smartphone", "25&&cao", "26&&cấp", "27&&trên", "28&&thị", "29&&trường"], "aspect": ["34&&camera", "35&&bốn", "36&&phía", "37&&sau"], "predicate": ["30&&đều", "31&&có", "32&&thiết", "33&&lập"], "label": "EQL"}
+
+Samsung Galaxy A32 không sự khác biệt kích thước với khung nhôm ( S21 Ultra ) và thép không gỉ ( 12 Pro Max ) .	Samsung Galaxy A32 không sự khác biệt kích thước với khung nhôm ( S21 Ultra ) và thép không gỉ ( 12 Pro Max ) .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A32"], "object": ["1&&Samsung", "2&&Galaxy", "3&&A32"], "aspect": ["8&&kích", "9&&thước"], "predicate": ["4&&không", "5&&sự", "6&&khác", "7&&biệt"], "label": "EQL"}
+
+Galaxy S21 Ultra sử dụng S23 thì iPhone 12 Pro Max đi kèm với Vivo V19 đều có .	Galaxy S21 Ultra sử dụng S23 thì iPhone 12 Pro Max đi kèm với Vivo V19 đều có .
+{"subject": ["6&&S23"], "object": ["15&&Vivo", "16&&V19"], "aspect": [], "predicate": ["17&&đều", "18&&có"], "label": "EQL"}
+
+iPhone 13 năm trước đều được hoàn thiện từ một chất liệu cao cấp nhất và không có tùy chọn mở rộng .	iPhone 13 năm trước đều được hoàn thiện từ một chất liệu cao cấp nhất và không có tùy chọn mở rộng .
+{"subject": ["1&&iPhone", "2&&13", "3&&năm", "4&&trước"], "object": ["1&&iPhone", "2&&13", "3&&năm", "4&&trước"], "aspect": ["11&&chất", "12&&liệu", "13&&cao", "14&&cấp", "15&&nhất"], "predicate": ["5&&đều", "6&&được", "7&&hoàn", "8&&thiện", "9&&từ"], "label": "EQL"}
+
+Về sinh trắc học Face ID đến từ Nhà Táo , Galaxy A11 đều được trang bị .	Về sinh trắc học Face ID đến từ Nhà Táo , Galaxy A11 đều được trang bị .
+{"subject": ["12&&Galaxy", "13&&A11"], "object": ["12&&Galaxy", "13&&A11"], "aspect": ["2&&sinh", "3&&trắc", "4&&học", "5&&Face", "6&&ID", "7&&đến", "8&&từ", "9&&Nhà", "10&&Táo"], "predicate": ["14&&đều", "15&&được", "16&&trang", "17&&bị"], "label": "EQL"}
+
+các dòng máy gập đã ra mắt đều sử dụng pin lõi Li-po dung lượng 5000mAh ( OIS ) .	các dòng máy gập đã ra mắt đều sử dụng pin lõi Li-po dung lượng 5000mAh ( OIS ) .
+{"subject": ["1&&các", "2&&dòng", "3&&máy", "4&&gập", "5&&đã", "6&&ra", "7&&mắt"], "object": ["1&&các", "2&&dòng", "3&&máy", "4&&gập", "5&&đã", "6&&ra", "7&&mắt"], "aspect": ["11&&pin", "12&&lõi", "13&&Li-po", "14&&dung", "15&&lượng", "16&&5000mAh"], "predicate": ["8&&đều", "9&&sử", "10&&dụng"], "label": "EQL"}
+
+Nếu bạn thích sử dụng không gian lớn hơn thì vẫn có thể sử Google Pixel 7 Pro với thiết kế lớn lên đến 7,6 inch không có sự khác biệt gì quá nhiều Huawei P30 Pro .	Nếu bạn thích sử dụng không gian lớn hơn thì vẫn có thể sử Google Pixel 7 Pro với thiết kế lớn lên đến 7,6 inch không có sự khác biệt gì quá nhiều Huawei P30 Pro .
+{"subject": ["15&&Google", "16&&Pixel", "17&&7", "18&&Pro"], "object": ["35&&Huawei", "36&&P30", "37&&Pro"], "aspect": ["20&&thiết", "21&&kế"], "predicate": ["27&&không", "28&&có", "29&&sự", "30&&khác", "31&&biệt", "32&&gì", "33&&quá", "34&&nhiều"], "label": "EQL"}
+
+Đối với tiện ích nổi bật của hãng , Note 20 Ultra đều có khi cùng sở hữu tốc độ làm mới 120Hz , cho phản hồi nhanh và linh hoạt .	Đối với tiện ích nổi bật của hãng , Note 20 Ultra đều có khi cùng sở hữu tốc độ làm mới 120Hz , cho phản hồi nhanh và linh hoạt .
+{"subject": ["10&&Note", "11&&20", "12&&Ultra"], "object": ["10&&Note", "11&&20", "12&&Ultra"], "aspect": ["3&&tiện", "4&&ích", "5&&nổi", "6&&bật", "7&&của", "8&&hãng"], "predicate": ["13&&đều", "14&&có"], "label": "EQL"}
+
+Realme 8 5G sở hữu Mức dung lượng lưu trữ giống như Note 10 +	Realme 8 5G sở hữu Mức dung lượng lưu trữ giống như Note 10 +
+{"subject": ["1&&Realme", "2&&8", "3&&5G"], "object": ["13&&Note", "14&&10", "15&&+"], "aspect": ["6&&Mức", "7&&dung", "8&&lượng", "9&&lưu", "10&&trữ"], "predicate": ["11&&giống", "12&&như"], "label": "EQL"}
+
+Nhìn chung , iPhone 14 Pro Max đều đồng trọng lượng trọng lượng .	Nhìn chung , iPhone 14 Pro Max đều đồng trọng lượng trọng lượng .
+{"subject": ["4&&iPhone", "5&&14", "6&&Pro", "7&&Max"], "object": ["4&&iPhone", "5&&14", "6&&Pro", "7&&Max"], "aspect": ["12&&trọng", "13&&lượng"], "predicate": ["8&&đều", "9&&đồng", "10&&trọng", "11&&lượng"], "label": "EQL"}
+
+Về hiệu năng , mặc dù nền tảng iOS trên những chiếc điện thoại bình thường khá tốt , nhưng máy cũng nhỉnh hơn nhưng không nhiều .	Về hiệu năng , mặc dù nền tảng iOS trên những chiếc điện thoại bình thường khá tốt , nhưng máy cũng nhỉnh hơn nhưng không nhiều .
+{"subject": ["21&&máy"], "object": ["11&&những", "12&&chiếc", "13&&điện", "14&&thoại", "15&&bình", "16&&thường"], "aspect": ["2&&hiệu", "3&&năng"], "predicate": ["23&&nhỉnh", "24&&hơn", "25&&nhưng", "26&&không", "27&&nhiều"], "label": "EQL"}
+
+bảo mật nâng cao khoá vân tay dưới màn hình trên hai đối thủ còn lại đều có .	bảo mật nâng cao khoá vân tay dưới màn hình trên hai đối thủ còn lại đều có .
+{"subject": ["12&&hai", "13&&đối", "14&&thủ", "15&&còn", "16&&lại"], "object": ["12&&hai", "13&&đối", "14&&thủ", "15&&còn", "16&&lại"], "aspect": ["1&&bảo", "2&&mật", "3&&nâng", "4&&cao", "5&&khoá", "6&&vân", "7&&tay", "8&&dưới", "9&&màn", "10&&hình"], "predicate": ["17&&đều", "18&&có"], "label": "EQL"}
+
+Về khả năng tiết kiệm điện năng , mẫu iPhone đắt tiền hơn ngày hôm nay Không có nhiều sự khác biệt với giao diện tùy chỉnh riêng của mỗi hãng .	Về khả năng tiết kiệm điện năng , mẫu iPhone đắt tiền hơn ngày hôm nay Không có nhiều sự khác biệt với giao diện tùy chỉnh riêng của mỗi hãng .
+{"subject": ["9&&mẫu", "10&&iPhone", "11&&đắt", "12&&tiền", "13&&hơn"], "object": ["9&&mẫu", "10&&iPhone", "11&&đắt", "12&&tiền", "13&&hơn"], "aspect": ["2&&khả", "3&&năng", "4&&tiết", "5&&kiệm", "6&&điện", "7&&năng"], "predicate": ["17&&Không", "18&&có", "19&&nhiều", "20&&sự", "21&&khác", "22&&biệt"], "label": "EQL"}
+
+Mặc dù có chip Snapdragon 888 đều sử dụng Xr nhưng Galaxy A13 có camera tele với zoom quang học 2x .	Mặc dù có chip Snapdragon 888 đều sử dụng Xr nhưng Galaxy A13 có camera tele với zoom quang học 2x .
+{"subject": ["12&&Galaxy", "13&&A13"], "object": ["10&&Xr"], "aspect": ["4&&chip", "5&&Snapdragon", "6&&888"], "predicate": ["7&&đều", "8&&sử", "9&&dụng"], "label": "EQL"}
+
+Về thiết kế này của cả hai dòng sản phẩm Cả 2 mẫu flagship này và iPhone 13 năm trước đều có khi bộ đôi này đều được trang bị viên pin có dung lượng lên đến 5000 mAh , tích hợp hỗ trợ sạc nhanh lên đến 15 W cho bạn thoải mái sử dụng .	Về thiết kế này của cả hai dòng sản phẩm Cả 2 mẫu flagship này và iPhone 13 năm trước đều có khi bộ đôi này đều được trang bị viên pin có dung lượng lên đến 5000 mAh , tích hợp hỗ trợ sạc nhanh lên đến 15 W cho bạn thoải mái sử dụng .
+{"subject": ["11&&Cả", "12&&2", "13&&mẫu", "14&&flagship", "15&&này"], "object": ["17&&iPhone", "18&&13", "19&&năm", "20&&trước"], "aspect": ["2&&thiết", "3&&kế", "4&&này"], "predicate": ["21&&đều", "22&&có"], "label": "EQL"}
+
+Nhìn chung , hai chiếc hai mẫu điện thoại trên và Google Pixel 5 có đều .	Nhìn chung , hai chiếc hai mẫu điện thoại trên và Google Pixel 5 có đều .
+{"subject": ["6&&hai", "7&&mẫu", "8&&điện", "9&&thoại", "10&&trên"], "object": ["12&&Google", "13&&Pixel", "14&&5"], "aspect": [], "predicate": ["16&&đều"], "label": "EQL"}
+
+des : Nhìn chung Z Fold3 đều rất sắc nét	des : Nhìn chung Z Fold3 đều rất sắc nét
+{"subject": ["5&&Z", "6&&Fold3"], "object": ["5&&Z", "6&&Fold3"], "aspect": [], "predicate": ["7&&đều", "8&&rất", "9&&sắc", "10&&nét"], "label": "EQL"}
+
+Con số này của Samsung Z Fold 4 thì tiệm cận với iPhone 11 Pro , không có gì cải thiện nhiều .	Con số này của Samsung Z Fold 4 thì tiệm cận với iPhone 11 Pro , không có gì cải thiện nhiều .
+{"subject": ["5&&Samsung", "6&&Z", "7&&Fold", "8&&4"], "object": ["13&&iPhone", "14&&11", "15&&Pro"], "aspect": ["1&&Con", "2&&số", "3&&này"], "predicate": ["10&&tiệm", "11&&cận"], "label": "EQL"}
+
+Nhưng đối với Samsung thì vấn đề đó đã được giải quyết , mặc dù nó mang trong mình viên pin 7000 mAh nhưng thông số màn hình chính của nó cũng chỉ không có nhiều sự khác biệt như Galaxy S21 Ultra mà thôi .	Nhưng đối với Samsung thì vấn đề đó đã được giải quyết , mặc dù nó mang trong mình viên pin 7000 mAh nhưng thông số màn hình chính của nó cũng chỉ không có nhiều sự khác biệt như Galaxy S21 Ultra mà thôi .
+{"subject": ["4&&Samsung"], "object": ["41&&Galaxy", "42&&S21", "43&&Ultra"], "aspect": ["25&&thông", "26&&số", "27&&màn", "28&&hình", "29&&chính"], "predicate": ["34&&không", "35&&có", "36&&nhiều", "37&&sự", "38&&khác", "39&&biệt"], "label": "EQL"}
+
+Như thường lệ Samsung Galaxy S21 FE đều chạy trên hệ điều hành Android 11 .	Như thường lệ Samsung Galaxy S21 FE đều chạy trên hệ điều hành Android 11 .
+{"subject": ["4&&Samsung", "5&&Galaxy", "6&&S21", "7&&FE"], "object": [], "aspect": [], "predicate": ["8&&đều", "9&&chạy", "10&&trên", "11&&hệ", "12&&điều", "13&&hành", "14&&Android", "15&&11"], "label": "EQL"}
+
+So sánh một chút với chiếc Realme 6 hoặc Realme 7 có tốc độ làm mới 90Hz . Hay một sản phẩm của Xiaomi là POCO X2 có tốc độ 120 Hz . Hơn nữa giá của Galaxy Z Fold2 là ngang với iPhone 14 Pro Max .	So sánh một chút với chiếc Realme 6 hoặc Realme 7 có tốc độ làm mới 90Hz . Hay một sản phẩm của Xiaomi là POCO X2 có tốc độ 120 Hz . Hơn nữa giá của Galaxy Z Fold2 là ngang với iPhone 14 Pro Max .
+{"subject": ["38&&Galaxy", "39&&Z", "40&&Fold2"], "object": ["44&&iPhone", "45&&14", "46&&Pro", "47&&Max"], "aspect": ["36&&giá"], "predicate": ["42&&ngang"], "label": "EQL"}
+
+Tiếp tục là chiếc Oppo A12 cũng có những ưu và nhược điểm riêng đều có .	Tiếp tục là chiếc Oppo A12 cũng có những ưu và nhược điểm riêng đều có .
+{"subject": ["5&&Oppo", "6&&A12"], "object": [], "aspect": ["9&&những", "10&&ưu", "11&&và", "12&&nhược", "13&&điểm", "14&&riêng"], "predicate": ["15&&đều", "16&&có"], "label": "EQL"}
+
+Samsung mang tới một camera chính và một camera góc siêu rộng , S20 Series Đều được sử dụng màn hình có độ phân giải Full HD + và tần số quét 120Hz .	Samsung mang tới một camera chính và một camera góc siêu rộng , S20 Series Đều được sử dụng màn hình có độ phân giải Full HD + và tần số quét 120Hz .
+{"subject": ["14&&S20", "15&&Series"], "object": ["14&&S20", "15&&Series"], "aspect": ["20&&màn", "21&&hình", "22&&có", "23&&độ", "24&&phân", "25&&giải", "26&&Full", "27&&HD", "28&&+", "29&&và", "30&&tần", "31&&số", "32&&quét", "33&&120Hz"], "predicate": ["16&&Đều", "17&&được", "18&&sử", "19&&dụng"], "label": "EQL"}
+
+Theo kết quả đo đạc , thì mặt lưng của chiếc điện thoại này sẽ gần như giống y Redmi Note 11 .	Theo kết quả đo đạc , thì mặt lưng của chiếc điện thoại này sẽ gần như giống y Redmi Note 11 .
+{"subject": ["11&&chiếc", "12&&điện", "13&&thoại", "14&&này"], "object": ["20&&Redmi", "21&&Note", "22&&11"], "aspect": ["8&&mặt", "9&&lưng"], "predicate": ["16&&gần", "17&&như", "18&&giống", "19&&y"], "label": "EQL"}
+
+Tuy nhiên Samsung Galaxy A52s mới khiến chúng ta ngạc nhiên khi tạp ra thực hiện tốt các tác vụ hằng ngày đẹp mắt và có đều với Galaxy S20 Ultra .	Tuy nhiên Samsung Galaxy A52s mới khiến chúng ta ngạc nhiên khi tạp ra thực hiện tốt các tác vụ hằng ngày đẹp mắt và có đều với Galaxy S20 Ultra .
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&A52s"], "object": ["29&&Galaxy", "30&&S20", "31&&Ultra"], "aspect": ["15&&thực", "16&&hiện", "17&&tốt", "18&&các", "19&&tác", "20&&vụ", "21&&hằng", "22&&ngày"], "predicate": ["27&&đều"], "label": "EQL"}
+
+chiếc điện thoại trước đó đều đi kèm với Android được phần mềm và mỗi sản phẩm đều làm tốt công việc cân bằng giữa bóng và chi tiết nổi bật .	chiếc điện thoại trước đó đều đi kèm với Android được phần mềm và mỗi sản phẩm đều làm tốt công việc cân bằng giữa bóng và chi tiết nổi bật .
+{"subject": ["1&&chiếc", "2&&điện", "3&&thoại", "4&&trước", "5&&đó"], "object": ["1&&chiếc", "2&&điện", "3&&thoại", "4&&trước", "5&&đó"], "aspect": ["12&&phần", "13&&mềm"], "predicate": ["6&&đều", "7&&đi", "8&&kèm", "9&&với", "10&&Android"], "label": "EQL"}
+
+iPhone 13 năm trước đều cung cấp các thông số kỹ thuật sạc , một kỹ thuật xử lý hình ảnh được thiết kế để giúp cải thiện độ chi tiết trong các bức ảnh chụp ánh sáng trung bình đến thiếu sáng .	iPhone 13 năm trước đều cung cấp các thông số kỹ thuật sạc , một kỹ thuật xử lý hình ảnh được thiết kế để giúp cải thiện độ chi tiết trong các bức ảnh chụp ánh sáng trung bình đến thiếu sáng .
+{"subject": ["1&&iPhone", "2&&13", "3&&năm", "4&&trước"], "object": ["1&&iPhone", "2&&13", "3&&năm", "4&&trước"], "aspect": ["8&&các", "9&&thông", "10&&số", "11&&kỹ", "12&&thuật", "13&&sạc"], "predicate": ["5&&đều", "6&&cung", "7&&cấp"], "label": "EQL"}
+
+Màn hình Infinity Flex có thể gập lại của Galaxy Z Fold2 có kích thước khi mở ra lên tới 7.6 inch , lúc này Google Pixel 7 Pro sẽ cùng Samsung Galaxy A32 .	Màn hình Infinity Flex có thể gập lại của Galaxy Z Fold2 có kích thước khi mở ra lên tới 7.6 inch , lúc này Google Pixel 7 Pro sẽ cùng Samsung Galaxy A32 .
+{"subject": ["26&&Google", "27&&Pixel", "28&&7", "29&&Pro"], "object": ["32&&Samsung", "33&&Galaxy", "34&&A32"], "aspect": [], "predicate": ["31&&cùng"], "label": "EQL"}
+
+Chuyển tới khả năng nhiếp ảnh , cả hai sở hữu một bông hoa bao gồm 3 ống kính ở phía sau với thông số lần lượt là 12MP cho camera chính tương tự như của Galaxy A53 .	Chuyển tới khả năng nhiếp ảnh , cả hai sở hữu một bông hoa bao gồm 3 ống kính ở phía sau với thông số lần lượt là 12MP cho camera chính tương tự như của Galaxy A53 .
+{"subject": ["8&&cả", "9&&hai"], "object": ["37&&Galaxy", "38&&A53"], "aspect": ["13&&bông", "14&&hoa"], "predicate": ["33&&tương", "34&&tự"], "label": "EQL"}
+
+Sau bài thử nghiệm , dù được Samsung quảng cáo về việc hợp tác với Qualcomm để tuỳ biến con chip Snapdragon 8 Gen 2 dành riêng cho S23 Series , kết quả thực tế cho thấy hệ thống camera giống như so với một chiếc tablet 7 inch thứ thiệt .	Sau bài thử nghiệm , dù được Samsung quảng cáo về việc hợp tác với Qualcomm để tuỳ biến con chip Snapdragon 8 Gen 2 dành riêng cho S23 Series , kết quả thực tế cho thấy hệ thống camera giống như so với một chiếc tablet 7 inch thứ thiệt .
+{"subject": ["38&&hệ", "39&&thống", "40&&camera"], "object": ["45&&một", "46&&chiếc", "47&&tablet", "48&&7", "49&&inch", "50&&thứ", "51&&thiệt"], "aspect": [], "predicate": ["41&&giống", "42&&như"], "label": "EQL"}
+
+S23 và Galaxy A13 có cụm camera ấn tượng đều có .	S23 và Galaxy A13 có cụm camera ấn tượng đều có .
+{"subject": ["1&&S23"], "object": ["3&&Galaxy", "4&&A13"], "aspect": ["6&&cụm", "7&&camera", "8&&ấn", "9&&tượng"], "predicate": ["10&&đều", "11&&có"], "label": "EQL"}
+
+Mặc dù cả các cổng kết nối cùng nút bấm và một chiếc máy tính bảng đều được sử dụng chip Snapdragon 8 Gen 2 mới nhất của Qualcomm với các lõi được ép xung Cấu hình .	Mặc dù cả các cổng kết nối cùng nút bấm và một chiếc máy tính bảng đều được sử dụng chip Snapdragon 8 Gen 2 mới nhất của Qualcomm với các lõi được ép xung Cấu hình .
+{"subject": ["4&&các", "5&&cổng", "6&&kết", "7&&nối", "8&&cùng", "9&&nút", "10&&bấm"], "object": ["12&&một", "13&&chiếc", "14&&máy", "15&&tính", "16&&bảng"], "aspect": ["36&&Cấu", "37&&hình"], "predicate": ["17&&đều", "18&&được", "19&&sử", "20&&dụng", "21&&chip", "22&&Snapdragon", "23&&8", "24&&Gen", "25&&2", "26&&mới", "27&&nhất", "28&&của", "29&&Qualcomm", "30&&với", "31&&các", "32&&lõi", "33&&được", "34&&ép", "35&&xung"], "label": "EQL"}
+
+Nhìn chung , tính năng chụp ảnh Single Take Flagship Xiaomi 13 Pro mới nhất cũng sở hữu so với Google Pixel 7 Pro .	Nhìn chung , tính năng chụp ảnh Single Take Flagship Xiaomi 13 Pro mới nhất cũng sở hữu so với Google Pixel 7 Pro .
+{"subject": ["10&&Flagship", "11&&Xiaomi", "12&&13", "13&&Pro", "14&&mới", "15&&nhất"], "object": ["21&&Google", "22&&Pixel", "23&&7", "24&&Pro"], "aspect": ["4&&tính", "5&&năng", "6&&chụp", "7&&ảnh", "8&&Single", "9&&Take"], "predicate": ["16&&cũng", "17&&sở", "18&&hữu"], "label": "EQL"}
+
+Nhìn Cấu hình Samsung Galaxy A53 đều được sử dụng chip Snapdragon 8 Gen 2 mới nhất của Qualcomm với các lõi được ép xung so với A51 .	Nhìn Cấu hình Samsung Galaxy A53 đều được sử dụng chip Snapdragon 8 Gen 2 mới nhất của Qualcomm với các lõi được ép xung so với A51 .
+{"subject": ["4&&Samsung", "5&&Galaxy", "6&&A53"], "object": ["28&&A51"], "aspect": ["2&&Cấu", "3&&hình"], "predicate": ["7&&đều", "8&&được", "9&&sử", "10&&dụng", "11&&chip", "12&&Snapdragon", "13&&8", "14&&Gen", "15&&2", "16&&mới", "17&&nhất", "18&&của", "19&&Qualcomm", "20&&với", "21&&các", "22&&lõi", "23&&được", "24&&ép", "25&&xung"], "label": "EQL"}
+
+Trong khi đó , chiếc máy này lại có cùng phiên bản kế nhiệm đều đã có như những điện thoại hàng đầu của Samsung năm nay là 8GB / 12GB RAM cùng bộ nhớ trong 128GB / 256GB / 512GB .	Trong khi đó , chiếc máy này lại có cùng phiên bản kế nhiệm đều đã có như những điện thoại hàng đầu của Samsung năm nay là 8GB / 12GB RAM cùng bộ nhớ trong 128GB / 256GB / 512GB .
+{"subject": ["5&&chiếc", "6&&máy", "7&&này"], "object": ["19&&những", "20&&điện", "21&&thoại", "22&&hàng", "23&&đầu", "24&&của", "25&&Samsung", "26&&năm", "27&&nay"], "aspect": ["11&&phiên", "12&&bản", "13&&kế", "14&&nhiệm"], "predicate": ["15&&đều", "16&&đã", "17&&có"], "label": "EQL"}
+
+S21 FE đều tích hợp Smart HDR .	S21 FE đều tích hợp Smart HDR .
+{"subject": ["1&&S21", "2&&FE"], "object": ["1&&S21", "2&&FE"], "aspect": ["4&&tích", "5&&hợp", "6&&Smart", "7&&HDR"], "predicate": ["3&&đều"], "label": "EQL"}
+
+Z Flip 4 gần như tương đồng Ảnh đủ sáng .	Z Flip 4 gần như tương đồng Ảnh đủ sáng .
+{"subject": ["1&&Z", "2&&Flip", "3&&4"], "object": ["1&&Z", "2&&Flip", "3&&4"], "aspect": ["8&&Ảnh", "9&&đủ", "10&&sáng"], "predicate": ["4&&gần", "5&&như", "6&&tương", "7&&đồng"], "label": "EQL"}
+
+Cả Flagship Xiaomi 13 Pro mới nhất và iPhone 14 Pro Max đều giúp bạn sử dụng hàng giờ liên tục hoặc cả ngày dài mà không cần sạc .	Cả Flagship Xiaomi 13 Pro mới nhất và iPhone 14 Pro Max đều giúp bạn sử dụng hàng giờ liên tục hoặc cả ngày dài mà không cần sạc .
+{"subject": ["2&&Flagship", "3&&Xiaomi", "4&&13", "5&&Pro", "6&&mới", "7&&nhất"], "object": ["9&&iPhone", "10&&14", "11&&Pro", "12&&Max"], "aspect": ["16&&sử", "17&&dụng", "18&&hàng", "19&&giờ", "20&&liên", "21&&tục", "22&&hoặc", "23&&cả", "24&&ngày", "25&&dài", "26&&mà", "27&&không", "28&&cần", "29&&sạc"], "predicate": ["13&&đều", "14&&giúp", "15&&bạn"], "label": "EQL"}
+
+Về tích hợp Smart HDR , iPhone 13 năm trước đều .	Về tích hợp Smart HDR , iPhone 13 năm trước đều .
+{"subject": ["7&&iPhone", "8&&13", "9&&năm", "10&&trước"], "object": ["7&&iPhone", "8&&13", "9&&năm", "10&&trước"], "aspect": ["2&&tích", "3&&hợp", "4&&Smart", "5&&HDR"], "predicate": ["11&&đều"], "label": "EQL"}
+
+Galaxy A52s khá giống Ảnh , nhưng chỉ có Vico mang thương hiệu Zeiss trên ống kính .	Galaxy A52s khá giống Ảnh , nhưng chỉ có Vico mang thương hiệu Zeiss trên ống kính .
+{"subject": ["1&&Galaxy", "2&&A52s"], "object": [], "aspect": ["5&&Ảnh"], "predicate": ["3&&khá", "4&&giống"], "label": "EQL"}
+
+Nếu bạn tính đến định dạng cảm biến và so sánh , thì điện thoại Samsung Galaxy A13 không đẹp và đối xứng như Galaxy Note 10 + .	Nếu bạn tính đến định dạng cảm biến và so sánh , thì điện thoại Samsung Galaxy A13 không đẹp và đối xứng như Galaxy Note 10 + .
+{"subject": ["14&&điện", "15&&thoại", "16&&Samsung", "17&&Galaxy", "18&&A13"], "object": ["25&&Galaxy", "26&&Note", "27&&10", "28&&+"], "aspect": [], "predicate": ["19&&không", "20&&đẹp", "21&&và", "22&&đối", "23&&xứng", "24&&như"], "label": "EQL"}
+
+Còn Samsung Galaxy A52s 5G khá giống với Google Pixel 5 .	Còn Samsung Galaxy A52s 5G khá giống với Google Pixel 5 .
+{"subject": ["2&&Samsung", "3&&Galaxy", "4&&A52s", "5&&5G"], "object": ["9&&Google", "10&&Pixel", "11&&5"], "aspect": [], "predicate": ["6&&khá", "7&&giống"], "label": "EQL"}
+
+cả hai có những ưu và nhược điểm riêng đều có hai đối thủ còn lại .	cả hai có những ưu và nhược điểm riêng đều có hai đối thủ còn lại .
+{"subject": ["1&&cả", "2&&hai"], "object": ["12&&hai", "13&&đối", "14&&thủ", "15&&còn", "16&&lại"], "aspect": ["4&&những", "5&&ưu", "6&&và", "7&&nhược", "8&&điểm", "9&&riêng"], "predicate": ["10&&đều", "11&&có"], "label": "EQL"}
+
+Samsung Galaxy A73 đều cho chất lượng tốt Ảnh chụp đêm , từ IP68 cho đến kính cường lực cao cấp .	Samsung Galaxy A73 đều cho chất lượng tốt Ảnh chụp đêm , từ IP68 cho đến kính cường lực cao cấp .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A73"], "object": ["1&&Samsung", "2&&Galaxy", "3&&A73"], "aspect": ["9&&Ảnh", "10&&chụp", "11&&đêm"], "predicate": ["4&&đều", "5&&cho", "6&&chất", "7&&lượng", "8&&tốt"], "label": "EQL"}
+
+Là hai chiếc flagship đỉnh cao nhất nên dễ hiểu khi cả Realme 8 5G và Galaxy A53 5G tương tự trải nghiệm giao diện .	Là hai chiếc flagship đỉnh cao nhất nên dễ hiểu khi cả Realme 8 5G và Galaxy A53 5G tương tự trải nghiệm giao diện .
+{"subject": ["13&&Realme", "14&&8", "15&&5G"], "object": ["17&&Galaxy", "18&&A53", "19&&5G"], "aspect": ["22&&trải", "23&&nghiệm", "24&&giao", "25&&diện"], "predicate": ["20&&tương", "21&&tự"], "label": "EQL"}
+
+iPhone 13 năm trước gần như tương đồng độ sáng với phiên bản phần mềm ngay từ lúc khui hộp , nhằm tránh đi sự sai lệch về khả năng thực tế do 2 mẫu smartphone này có thời điểm ra mắt khác nhau .	iPhone 13 năm trước gần như tương đồng độ sáng với phiên bản phần mềm ngay từ lúc khui hộp , nhằm tránh đi sự sai lệch về khả năng thực tế do 2 mẫu smartphone này có thời điểm ra mắt khác nhau .
+{"subject": ["1&&iPhone", "2&&13", "3&&năm", "4&&trước"], "object": ["1&&iPhone", "2&&13", "3&&năm", "4&&trước"], "aspect": ["9&&độ", "10&&sáng"], "predicate": ["5&&gần", "6&&như", "7&&tương", "8&&đồng"], "label": "EQL"}
+
+Vậy nên iPhone 13 năm trước đều cho tốc độ mở khóa không thấy sự chênh lệch đáng kể .	Vậy nên iPhone 13 năm trước đều cho tốc độ mở khóa không thấy sự chênh lệch đáng kể .
+{"subject": ["3&&iPhone", "4&&13", "5&&năm", "6&&trước"], "object": ["3&&iPhone", "4&&13", "5&&năm", "6&&trước"], "aspect": ["9&&tốc", "10&&độ", "11&&mở", "12&&khóa"], "predicate": ["13&&không", "14&&thấy", "15&&sự", "16&&chênh", "17&&lệch", "18&&đáng", "19&&kể"], "label": "EQL"}
+
+Samsung Galaxy A11 và Galaxy A13 giữ nguyên thiết kế , nhưng 2 máy hướng đến 2 trường phái khác nhau khi chụp .	Samsung Galaxy A11 và Galaxy A13 giữ nguyên thiết kế , nhưng 2 máy hướng đến 2 trường phái khác nhau khi chụp .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A11"], "object": ["5&&Galaxy", "6&&A13"], "aspect": ["9&&thiết", "10&&kế"], "predicate": ["7&&giữ", "8&&nguyên"], "label": "EQL"}
+
+Theo DxOMark , S21 Ultra là chiếc điện thoại có thiết kế thừa hưởng .	Theo DxOMark , S21 Ultra là chiếc điện thoại có thiết kế thừa hưởng .
+{"subject": ["4&&S21", "5&&Ultra"], "object": [], "aspect": ["11&&thiết", "12&&kế"], "predicate": ["13&&thừa", "14&&hưởng"], "label": "EQL"}
+
+Khi cập nhật lên Android 10 , Samsung Galaxy S21 FE được giữ nguyên khẩu độ thời thượng tương tự như những mẫu của năm ngoái .	Khi cập nhật lên Android 10 , Samsung Galaxy S21 FE được giữ nguyên khẩu độ thời thượng tương tự như những mẫu của năm ngoái .
+{"subject": ["8&&Samsung", "9&&Galaxy", "10&&S21", "11&&FE"], "object": ["22&&những", "23&&mẫu", "24&&của", "25&&năm", "26&&ngoái"], "aspect": ["15&&khẩu", "16&&độ"], "predicate": ["12&&được", "13&&giữ", "14&&nguyên"], "label": "EQL"}
+
+Ngoài ra , các camera bốn phía sau có trên iPhone 11 và S20 Series đều có thiết lập , trong đó màu mới là màu tím , bên cạnh ba màu cũ là vàng , bạc và đen .	Ngoài ra , các camera bốn phía sau có trên iPhone 11 và S20 Series đều có thiết lập , trong đó màu mới là màu tím , bên cạnh ba màu cũ là vàng , bạc và đen .
+{"subject": ["11&&iPhone", "12&&11"], "object": ["14&&S20", "15&&Series"], "aspect": ["5&&camera", "6&&bốn", "7&&phía", "8&&sau"], "predicate": ["16&&đều", "17&&có", "18&&thiết", "19&&lập"], "label": "EQL"}
+
+Nhìn chung những hình ảnh thực của chiếc iPhone 14 Pro chất lượng gần giống so với hai đối thủ còn lại .	Nhìn chung những hình ảnh thực của chiếc iPhone 14 Pro chất lượng gần giống so với hai đối thủ còn lại .
+{"subject": ["9&&iPhone", "10&&14", "11&&Pro"], "object": ["18&&hai", "19&&đối", "20&&thủ", "21&&còn", "22&&lại"], "aspect": ["3&&những", "4&&hình", "5&&ảnh", "6&&thực"], "predicate": ["12&&chất", "13&&lượng", "14&&gần", "15&&giống"], "label": "EQL"}
+
+Qualcomm và các đàn anh có viên pin 5.000mAh đều có .	Qualcomm và các đàn anh có viên pin 5.000mAh đều có .
+{"subject": ["1&&Qualcomm"], "object": ["3&&các", "4&&đàn", "5&&anh"], "aspect": ["7&&viên", "8&&pin", "9&&5.000mAh"], "predicate": ["10&&đều", "11&&có"], "label": "EQL"}
+
+Google Pixel 5 này tương đương nhau Bộ xử lý .	Google Pixel 5 này tương đương nhau Bộ xử lý .
+{"subject": ["1&&Google", "2&&Pixel", "3&&5"], "object": ["1&&Google", "2&&Pixel", "3&&5"], "aspect": ["8&&Bộ", "9&&xử", "10&&lý"], "predicate": ["5&&tương", "6&&đương", "7&&nhau"], "label": "EQL"}
+
+Các 128 GB ROM của Samsung Galaxy S21 FE và A16 Bionic trên iPhone 14 đều có .	Các 128 GB ROM của Samsung Galaxy S21 FE và A16 Bionic trên iPhone 14 đều có .
+{"subject": ["6&&Samsung", "7&&Galaxy", "8&&S21", "9&&FE"], "object": ["11&&A16", "12&&Bionic", "13&&trên", "14&&iPhone", "15&&14"], "aspect": ["2&&128", "3&&GB", "4&&ROM"], "predicate": ["16&&đều", "17&&có"], "label": "EQL"}
+
+Về cơ bản , hiệu năng mạnh mẽ của Z Flip 4 đều mang lại .	Về cơ bản , hiệu năng mạnh mẽ của Z Flip 4 đều mang lại .
+{"subject": ["10&&Z", "11&&Flip", "12&&4"], "object": ["10&&Z", "11&&Flip", "12&&4"], "aspect": ["5&&hiệu", "6&&năng", "7&&mạnh", "8&&mẽ"], "predicate": ["13&&đều", "14&&mang", "15&&lại"], "label": "EQL"}
+
+Tuy nhiên chiếc S10 Plus cùng được sản xuất trên tiến trình 4nm nhưng thời lượng pin lại gần như ngang nhau khi duyệt web .	Tuy nhiên chiếc S10 Plus cùng được sản xuất trên tiến trình 4nm nhưng thời lượng pin lại gần như ngang nhau khi duyệt web .
+{"subject": ["3&&chiếc", "4&&S10", "5&&Plus"], "object": ["3&&chiếc", "4&&S10", "5&&Plus"], "aspect": ["15&&thời", "16&&lượng", "17&&pin"], "predicate": ["19&&gần", "20&&như", "21&&ngang", "22&&nhau", "23&&khi", "24&&duyệt", "25&&web"], "label": "EQL"}
+
+Theo thông lệ , Galaxy S23 Ultra đều sở hữu viên pin có dung lượng tương đương , hứa hẹn những bước tiến lớn về hiệu suất và độ tiết kiệm năng lượng .	Theo thông lệ , Galaxy S23 Ultra đều sở hữu viên pin có dung lượng tương đương , hứa hẹn những bước tiến lớn về hiệu suất và độ tiết kiệm năng lượng .
+{"subject": ["5&&Galaxy", "6&&S23", "7&&Ultra"], "object": ["5&&Galaxy", "6&&S23", "7&&Ultra"], "aspect": ["11&&viên", "12&&pin", "13&&có", "14&&dung", "15&&lượng", "16&&tương", "17&&đương"], "predicate": ["8&&đều", "9&&sở", "10&&hữu"], "label": "EQL"}
+
+Samsung S23 + không đẹp và đối xứng như camera trước – một chất liệu thường thấy trên Galaxy .	Samsung S23 + không đẹp và đối xứng như camera trước – một chất liệu thường thấy trên Galaxy .
+{"subject": ["1&&Samsung", "2&&S23", "3&&+"], "object": ["19&&Galaxy"], "aspect": ["10&&camera", "11&&trước"], "predicate": ["4&&không", "5&&đẹp", "6&&và", "7&&đối", "8&&xứng", "9&&như"], "label": "EQL"}
+
+Bên cạnh đó , hệ thống camera đều có thiết lập camera bốn phía sau .	Bên cạnh đó , hệ thống camera đều có thiết lập camera bốn phía sau .
+{"subject": ["5&&hệ", "6&&thống", "7&&camera"], "object": [], "aspect": ["12&&camera", "13&&bốn", "14&&phía", "15&&sau"], "predicate": ["8&&đều", "9&&có", "10&&thiết", "11&&lập"], "label": "EQL"}
+
+Về tổng quan , bông hoa của Samsung Galaxy A52s 5G tương tự với iPhone 11 với các cạnh và mặt được vát phẳng , tạo hình vuông vắn .	Về tổng quan , bông hoa của Samsung Galaxy A52s 5G tương tự với iPhone 11 với các cạnh và mặt được vát phẳng , tạo hình vuông vắn .
+{"subject": ["8&&Samsung", "9&&Galaxy", "10&&A52s", "11&&5G"], "object": ["15&&iPhone", "16&&11"], "aspect": ["5&&bông", "6&&hoa"], "predicate": ["12&&tương", "13&&tự"], "label": "EQL"}
+
+Samsung Galaxy S23 Plus và Galaxy S21 Ultra có bộ xử lý tương đương nhau , với các cạnh được bo tròn giúp dễ cầm nắm .	Samsung Galaxy S23 Plus và Galaxy S21 Ultra có bộ xử lý tương đương nhau , với các cạnh được bo tròn giúp dễ cầm nắm .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S23", "4&&Plus"], "object": ["6&&Galaxy", "7&&S21", "8&&Ultra"], "aspect": ["10&&bộ", "11&&xử", "12&&lý"], "predicate": ["13&&tương", "14&&đương", "15&&nhau"], "label": "EQL"}
+
+des : Realme 8 5G và Galaxy A13 , A33 , A53 hay thậm chí là A73 có những ưu và nhược điểm riêng đều có	des : Realme 8 5G và Galaxy A13 , A33 , A53 hay thậm chí là A73 có những ưu và nhược điểm riêng đều có
+{"subject": ["3&&Realme", "4&&8", "5&&5G"], "object": ["7&&Galaxy", "8&&A13", "9&&,", "10&&A33", "11&&,", "12&&A53", "13&&hay", "14&&thậm", "15&&chí", "16&&là", "17&&A73"], "aspect": ["19&&những", "20&&ưu", "21&&và", "22&&nhược", "23&&điểm", "24&&riêng"], "predicate": ["25&&đều", "26&&có"], "label": "EQL"}
+
+Samsung Galaxy A73 và một chiếc máy tính bảng có thiết kế hiện đại và sang trọng đều có .	Samsung Galaxy A73 và một chiếc máy tính bảng có thiết kế hiện đại và sang trọng đều có .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A73"], "object": ["5&&một", "6&&chiếc", "7&&máy", "8&&tính", "9&&bảng"], "aspect": ["11&&thiết", "12&&kế", "13&&hiện", "14&&đại", "15&&và", "16&&sang", "17&&trọng"], "predicate": ["18&&đều", "19&&có"], "label": "EQL"}
+
+Thật tuyệt vời khi model iPhone SE 2022 5G giá rẻ mới nhất đều sở hữu màn hình gập dọc dạng vỏ sò với bản lề nằm chính giữa , đạt độ phân giải Full HD + và độ sáng 800 nits .	Thật tuyệt vời khi model iPhone SE 2022 5G giá rẻ mới nhất đều sở hữu màn hình gập dọc dạng vỏ sò với bản lề nằm chính giữa , đạt độ phân giải Full HD + và độ sáng 800 nits .
+{"subject": ["5&&model", "6&&iPhone", "7&&SE", "8&&2022", "9&&5G", "10&&giá", "11&&rẻ", "12&&mới", "13&&nhất"], "object": ["5&&model", "6&&iPhone", "7&&SE", "8&&2022", "9&&5G", "10&&giá", "11&&rẻ", "12&&mới", "13&&nhất"], "aspect": ["17&&màn", "18&&hình", "19&&gập", "20&&dọc", "21&&dạng", "22&&vỏ", "23&&sò", "24&&với", "25&&bản", "26&&lề", "27&&nằm", "28&&chính", "29&&giữa"], "predicate": ["14&&đều", "15&&sở", "16&&hữu"], "label": "EQL"}
+
+des : Realme 6 Pro và Z Fold3 đều trang bị kết nối tai nghe	des : Realme 6 Pro và Z Fold3 đều trang bị kết nối tai nghe
+{"subject": ["3&&Realme", "4&&6", "5&&Pro"], "object": ["7&&Z", "8&&Fold3"], "aspect": ["12&&kết", "13&&nối", "14&&tai", "15&&nghe"], "predicate": ["9&&đều", "10&&trang", "11&&bị"], "label": "EQL"}
+
+Samsung Galaxy A52s 5G và những điện thoại hàng đầu của Samsung năm nay không có gì khác biệt phong cách thiết kế .	Samsung Galaxy A52s 5G và những điện thoại hàng đầu của Samsung năm nay không có gì khác biệt phong cách thiết kế .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A52s", "4&&5G"], "object": ["6&&những", "7&&điện", "8&&thoại", "9&&hàng", "10&&đầu", "11&&của", "12&&Samsung", "13&&năm", "14&&nay"], "aspect": ["20&&phong", "21&&cách", "22&&thiết", "23&&kế"], "predicate": ["15&&không", "16&&có", "17&&gì", "18&&khác", "19&&biệt"], "label": "EQL"}
+
+Realme 8 5G và phiên bản Pro Max được đánh giá là " kẻ tám lạng người nửa cân " khi đều có tính năng ổn định hình ảnh quang học mạnh mẽ .	Realme 8 5G và phiên bản Pro Max được đánh giá là " kẻ tám lạng người nửa cân " khi đều có tính năng ổn định hình ảnh quang học mạnh mẽ .
+{"subject": ["1&&Realme", "2&&8", "3&&5G"], "object": ["5&&phiên", "6&&bản", "7&&Pro", "8&&Max"], "aspect": ["24&&tính", "25&&năng", "26&&ổn", "27&&định", "28&&hình", "29&&ảnh", "30&&quang", "31&&học"], "predicate": ["22&&đều", "23&&có"], "label": "EQL"}
+
+des : iPhone 14 và những điện thoại hàng đầu của Samsung năm nay được đánh giá là giống như	des : iPhone 14 và những điện thoại hàng đầu của Samsung năm nay được đánh giá là giống như
+{"subject": ["3&&iPhone", "4&&14"], "object": ["6&&những", "7&&điện", "8&&thoại", "9&&hàng", "10&&đầu", "11&&của", "12&&Samsung", "13&&năm", "14&&nay"], "aspect": [], "predicate": ["19&&giống", "20&&như"], "label": "EQL"}
+
+Samsung Galaxy A24 và dòng Galaxy A của Samsung được đánh giá là khá giống .	Samsung Galaxy A24 và dòng Galaxy A của Samsung được đánh giá là khá giống .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A24"], "object": ["5&&dòng", "6&&Galaxy", "7&&A", "8&&của", "9&&Samsung"], "aspect": [], "predicate": ["14&&khá", "15&&giống"], "label": "EQL"}
+
+Có thể chắc chắn rằng , Samsung Galaxy M51 đều là những chiếc smartphone trang bị camera tốt nhất hiện nay có thể camera .	Có thể chắc chắn rằng , Samsung Galaxy M51 đều là những chiếc smartphone trang bị camera tốt nhất hiện nay có thể camera .
+{"subject": ["7&&Samsung", "8&&Galaxy", "9&&M51"], "object": [], "aspect": ["24&&camera"], "predicate": ["10&&đều", "11&&là", "12&&những", "13&&chiếc", "14&&smartphone", "15&&trang", "16&&bị", "17&&camera", "18&&tốt", "19&&nhất", "20&&hiện", "21&&nay"], "label": "EQL"}
+
+cụm camera trên chipset Apple A14 Bionic cho chất lượng gần như là giống hệt với nhau .	cụm camera trên chipset Apple A14 Bionic cho chất lượng gần như là giống hệt với nhau .
+{"subject": ["4&&chipset", "5&&Apple", "6&&A14", "7&&Bionic"], "object": ["4&&chipset", "5&&Apple", "6&&A14", "7&&Bionic"], "aspect": ["1&&cụm", "2&&camera"], "predicate": ["11&&gần", "12&&như", "13&&là", "14&&giống", "15&&hệt"], "label": "EQL"}
+
+sinh trắc học trên Galaxy đều dựa vào máy quét dấu vân tay dưới màn hình .	sinh trắc học trên Galaxy đều dựa vào máy quét dấu vân tay dưới màn hình .
+{"subject": ["5&&Galaxy"], "object": ["5&&Galaxy"], "aspect": ["1&&sinh", "2&&trắc", "3&&học"], "predicate": ["6&&đều", "7&&dựa", "8&&vào", "9&&máy", "10&&quét", "11&&dấu", "12&&vân", "13&&tay", "14&&dưới", "15&&màn", "16&&hình"], "label": "EQL"}
+
+Về trải nghiệm màn hình , Galaxy S20 Ultra tương tự nhau .	Về trải nghiệm màn hình , Galaxy S20 Ultra tương tự nhau .
+{"subject": ["7&&Galaxy", "8&&S20", "9&&Ultra"], "object": ["7&&Galaxy", "8&&S20", "9&&Ultra"], "aspect": ["2&&trải", "3&&nghiệm", "4&&màn", "5&&hình"], "predicate": ["10&&tương", "11&&tự", "12&&nhau"], "label": "EQL"}
+
+Xiaomi 13 Pro đều được hoàn thiện từ chất liệu cao cấp nhất .	Xiaomi 13 Pro đều được hoàn thiện từ chất liệu cao cấp nhất .
+{"subject": ["1&&Xiaomi", "2&&13", "3&&Pro"], "object": ["1&&Xiaomi", "2&&13", "3&&Pro"], "aspect": ["9&&chất", "10&&liệu", "11&&cao", "12&&cấp", "13&&nhất"], "predicate": ["4&&đều", "5&&được", "6&&hoàn", "7&&thiện", "8&&từ"], "label": "EQL"}
+
+Và khi so sánh với Galaxy S23 Ultra ( có HBM là 1.200 nits ) , thì những chiếc S20 cho ra bộ vi xử lý gần như là giống hệt .	Và khi so sánh với Galaxy S23 Ultra ( có HBM là 1.200 nits ) , thì những chiếc S20 cho ra bộ vi xử lý gần như là giống hệt .
+{"subject": ["18&&những", "19&&chiếc", "20&&S20"], "object": ["18&&những", "19&&chiếc", "20&&S20"], "aspect": ["23&&bộ", "24&&vi", "25&&xử", "26&&lý"], "predicate": ["27&&gần", "28&&như", "29&&là", "30&&giống", "31&&hệt"], "label": "EQL"}
+
+khả năng quay phim của Find N2 Flip sấp sỉ nhau và sẽ mang lại cho bạn trải nghiệm ấn tượng .	khả năng quay phim của Find N2 Flip sấp sỉ nhau và sẽ mang lại cho bạn trải nghiệm ấn tượng .
+{"subject": ["6&&Find", "7&&N2", "8&&Flip"], "object": ["6&&Find", "7&&N2", "8&&Flip"], "aspect": ["1&&khả", "2&&năng", "3&&quay", "4&&phim"], "predicate": ["9&&sấp", "10&&sỉ", "11&&nhau"], "label": "EQL"}
+
+Với dung lượng RAM lớn Galaxy S20 Ultra gần như ngang bằng nhau mức giá .	Với dung lượng RAM lớn Galaxy S20 Ultra gần như ngang bằng nhau mức giá .
+{"subject": ["6&&Galaxy", "7&&S20", "8&&Ultra"], "object": ["6&&Galaxy", "7&&S20", "8&&Ultra"], "aspect": ["14&&mức", "15&&giá"], "predicate": ["9&&gần", "10&&như", "11&&ngang", "12&&bằng", "13&&nhau"], "label": "EQL"}
+
+Trên Snapdragon 888 / Exynos 2100 và Galaxy A53 cũng sở hữu tính năng chụp ảnh Single Take cho khả năng kết nối internet ấn tượng , tốc độ cao .	Trên Snapdragon 888 / Exynos 2100 và Galaxy A53 cũng sở hữu tính năng chụp ảnh Single Take cho khả năng kết nối internet ấn tượng , tốc độ cao .
+{"subject": ["2&&Snapdragon", "3&&888", "4&&/", "5&&Exynos", "6&&2100"], "object": ["8&&Galaxy", "9&&A53"], "aspect": ["13&&tính", "14&&năng", "15&&chụp", "16&&ảnh", "17&&Single", "18&&Take"], "predicate": ["10&&cũng", "11&&sở", "12&&hữu"], "label": "EQL"}
+
+Trên những chiếc S20 đều cho chi tiết rõ ràng .	Trên những chiếc S20 đều cho chi tiết rõ ràng .
+{"subject": ["2&&những", "3&&chiếc", "4&&S20"], "object": ["2&&những", "3&&chiếc", "4&&S20"], "aspect": ["7&&chi", "8&&tiết", "9&&rõ", "10&&ràng"], "predicate": ["5&&đều", "6&&cho"], "label": "EQL"}
+
+Chỉ nhìn vào khả năng kết nối mạng di động hỗ trợ 5G cho A21s , có vẻ như đều có so với A51 .	Chỉ nhìn vào khả năng kết nối mạng di động hỗ trợ 5G cho A21s , có vẻ như đều có so với A51 .
+{"subject": ["15&&A21s"], "object": ["24&&A51"], "aspect": ["4&&khả", "5&&năng", "6&&kết", "7&&nối", "8&&mạng", "9&&di", "10&&động", "11&&hỗ", "12&&trợ", "13&&5G"], "predicate": ["20&&đều", "21&&có"], "label": "EQL"}
+
+Sản phẩm Samsung Galaxy A03s tương tự phần mềm từ Samsung Galaxy M52 5G .	Sản phẩm Samsung Galaxy A03s tương tự phần mềm từ Samsung Galaxy M52 5G .
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&A03s"], "object": ["11&&Samsung", "12&&Galaxy", "13&&M52", "14&&5G"], "aspect": ["8&&phần", "9&&mềm"], "predicate": ["6&&tương", "7&&tự"], "label": "EQL"}
+
+Về trải nghiệm giao diện , Realme 8 5G tương tự với giao diện tùy chỉnh riêng của mỗi hãng .	Về trải nghiệm giao diện , Realme 8 5G tương tự với giao diện tùy chỉnh riêng của mỗi hãng .
+{"subject": ["7&&Realme", "8&&8", "9&&5G"], "object": [], "aspect": ["2&&trải", "3&&nghiệm", "4&&giao", "5&&diện"], "predicate": ["10&&tương", "11&&tự"], "label": "EQL"}
+
+Samsung Galaxy S21 FE và model Z Fold3 tương đương nhau .	Samsung Galaxy S21 FE và model Z Fold3 tương đương nhau .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S21", "4&&FE"], "object": ["7&&Z", "8&&Fold3"], "aspect": [], "predicate": ["9&&tương", "10&&đương", "11&&nhau"], "label": "EQL"}
+
+Tuy nhiên , một lưu ý rằng nó vẫn mang đến kích thước tương đương nhau như Galaxy S23 Ultra .	Tuy nhiên , một lưu ý rằng nó vẫn mang đến kích thước tương đương nhau như Galaxy S23 Ultra .
+{"subject": ["8&&nó"], "object": ["18&&Galaxy", "19&&S23", "20&&Ultra"], "aspect": ["12&&kích", "13&&thước"], "predicate": ["14&&tương", "15&&đương", "16&&nhau"], "label": "EQL"}
+
