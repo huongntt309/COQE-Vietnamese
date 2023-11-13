@@ -174,6 +174,7 @@ Tóm lại, thì iPhone 14 sở hữu những tính năng cao cấp mà người
 
 Nếu bạn muốn sở hữu chiếc Smartphone siêu khủng này thì hãy liên hệ cửa hàng Mobileworld, sẽ có rất nhiều ưu đãi và quà tặng hấp dẫn dành cho bạn đấy!	Nếu bạn muốn sở hữu chiếc Smartphone siêu khủng này thì hãy liên hệ cửa hàng Mobileworld , sẽ có rất nhiều ưu đãi và quà tặng hấp dẫn dành cho bạn đấy !
 
+
 Title: Chụp đêm với iPhone 14 Pro Max: Màu sắc chính xác, chất lượng xuất sắc, đẹp "ngất ngây" nhưng chỉ với camera chính	Title : Chụp đêm với iPhone 14 Pro Max : Màu sắc chính xác , chất lượng xuất sắc , đẹp " ngất ngây " nhưng chỉ với camera chính
 
 Trong bài viết trước mình đã có những chia sẻ và đánh giá nhanh về chất lượng camera của iPhone 14 Pro Max trong chuyến du lịch Tây Bắc, trong bài viết này mình tiếp tục đánh giá chi tiết hơn về chất lượng chụp ảnh ban đêm trên mẫu iPhone cao cấp này.	Trong bài viết trước mình đã có những chia sẻ và đánh giá nhanh về chất lượng camera của iPhone 14 Pro Max trong chuyến du lịch Tây Bắc , trong bài viết này mình tiếp tục đánh giá chi tiết hơn về chất lượng chụp ảnh ban đêm trên mẫu iPhone cao cấp này .
@@ -326,6 +327,7 @@ Riêng về khả năng tái tạo màu sắc chính xác và ổn định trong
 {"subject": [], "object": ["25&&chiếc", "26&&điện", "27&&thoại", "28&&nào", "29&&trên", "30&&thị", "31&&trường"], "aspect": ["3&&khả", "4&&năng", "5&&tái", "6&&tạo", "7&&màu", "8&&sắc", "9&&chính", "10&&xác", "11&&và", "12&&ổn", "13&&định", "14&&trong", "15&&hầu", "16&&hết", "17&&mọi", "18&&điều", "19&&kiện"], "predicate": ["23&&hiếm", "24&&có", "25&&chiếc", "26&&điện", "27&&thoại", "28&&nào", "29&&trên", "30&&thị", "31&&trường", "32&&có", "33&&thể", "34&&làm", "35&&được"], "label": "DIF"}
 
 Tuy nhiên vì giới hạn vật lý, camera góc siêu rộng và camera tele vẫn chỉ phù hợp trong các điều kiện đủ sáng hoặc thiếu sáng vừa phải.	Tuy nhiên vì giới hạn vật lý , camera góc siêu rộng và camera tele vẫn chỉ phù hợp trong các điều kiện đủ sáng hoặc thiếu sáng vừa phải .
+
 
 title: “Đập hộp” Galaxy S20 Ultra: choáng ngợp với những tính năng khủng	title : “ Đập hộp ” Galaxy S20 Ultra : choáng ngợp với những tính năng khủng
 
@@ -492,6 +494,7 @@ Hãy đặt mua ngay để không bỏ lỡ những ưu đãi hấp dẫn này n
 Tham gia Hoàng Hà Mobile Group để cập nhật những chương trình và ưu đãi sớm nhất	Tham gia Hoàng Hà Mobile Group để cập nhật những chương trình và ưu đãi sớm nhất
 
 Cùng Follow kênh Youtube của Hoàng Hà Mobile để cập nhật những tin tức mới nhất, sinh động nhất nhé!	Cùng Follow kênh Youtube của Hoàng Hà Mobile để cập nhật những tin tức mới nhất , sinh động nhất nhé !
+
 
 title: So sánh điện thoại Samsung Galaxy A53 và A73, máy nào tốt hơn?	title : So sánh điện thoại Samsung Galaxy A53 và A73 , máy nào tốt hơn ?
 
@@ -700,6 +703,7 @@ Bạn thấy thông tin trên có bổ ích hay không?	Bạn thấy thông tin 
 
 Đừng quên chia sẻ cho chúng tôi biết với nhé!	Đừng quên chia sẻ cho chúng tôi biết với nhé !
 
+
 Title: iPhone SE (2016) chính là món “hàng hiếm” đáng sở hữu nhất trong năm nay	Title : iPhone SE ( 2016 ) chính là món “ hàng hiếm ” đáng sở hữu nhất trong năm nay
 
 Nếu như bạn đang muốn tìm kiểm một mẫu iPhone cũ để dùng làm máy phụ thì iPhone SE 2016 chính là mẫu máy đáng sở hữu nhất, bởi nó hội tụ đầy đủ các yếu tố trong một mức giá ở thời điểm hiện tại có lẽ là cực kì hợp lý.	Nếu như bạn đang muốn tìm kiểm một mẫu iPhone cũ để dùng làm máy phụ thì iPhone SE 2016 chính là mẫu máy đáng sở hữu nhất , bởi nó hội tụ đầy đủ các yếu tố trong một mức giá ở thời điểm hiện tại có lẽ là cực kì hợp lý .
@@ -770,6 +774,7 @@ Vì đã ra mắt từ cách đây 4 năm, thế nên pin của iPhone SE 2016 c
 Chọn iPhone SE 2016 tức là bạn sẽ xác đĩnh trước là phải sống chung với những củ sạc hoặc pin dự phòng.	Chọn iPhone SE 2016 tức là bạn sẽ xác đĩnh trước là phải sống chung với những củ sạc hoặc pin dự phòng .
 
 Và có lẽ, iOS 14 sẽ chính là phiên bản nâng cấp hệ điều hành cuối cùng dành cho iPhone SE 2016, vì nó cũng đã hoàn thành rất tốt sứ mệnh của mình rồi.	Và có lẽ , iOS 14 sẽ chính là phiên bản nâng cấp hệ điều hành cuối cùng dành cho iPhone SE 2016 , vì nó cũng đã hoàn thành rất tốt sứ mệnh của mình rồi .
+
 
 title: Google Pixel 6 Pro vs iPhone 13 Pro: camera của smartphone nào đỉnh hơn ?	title : Google Pixel 6 Pro vs iPhone 13 Pro : camera của smartphone nào đỉnh hơn ?
 
@@ -852,6 +857,7 @@ Bạn thấy chiếc smartphone nào chụp ảnh tốt hơn?	Bạn thấy chi�
 Google Pixel 6 Pro hay iPhone 13 Pro?	Google Pixel 6 Pro hay iPhone 13 Pro ?
 
 Bình luận chia sẻ ở phần commnet các bạn nhé!	Bình luận chia sẻ ở phần commnet các bạn nhé !
+
 
 Title: Nên mua iPhone nào tốt nhất 2022: Đâu là sự lựa chọn phù hợp?	Title : Nên mua iPhone nào tốt nhất 2022 : Đâu là sự lựa chọn phù hợp ?
 
@@ -1217,6 +1223,7 @@ Nhìn chung, các dòng điện thoại của thương hiệu Apple đều đư�
 
 Với những thông tin so sánh các dòng iPhone ở trên, DIGIPHONE hi vọng rằng có thể giúp bạn đọc phần nào thông tin để có thể lựa chọn chiếc điện thoại phù hợp cho bản thân.	Với những thông tin so sánh các dòng iPhone ở trên , DIGIPHONE hi vọng rằng có thể giúp bạn đọc phần nào thông tin để có thể lựa chọn chiếc điện thoại phù hợp cho bản thân .
 
+
 title: So sánh Galaxy S22 Ultra 5G vs Z Fold 3: Nội đấu giữa hai sản phẩm đầu bảng của Samsung	title : So sánh Galaxy S22 Ultra 5G vs Z Fold 3 : Nội đấu giữa hai sản phẩm đầu bảng của Samsung
 
 Galaxy S22 Ultra 5G là chiếc điện thoại dòng S cao cấp nhất của Samsung sẽ như thế nào khi so sánh với Galaxy Fold 3	Galaxy S22 Ultra 5G là chiếc điện thoại dòng S cao cấp nhất của Samsung sẽ như thế nào khi so sánh với Galaxy Fold 3
@@ -1390,6 +1397,7 @@ Tuy nhiên, vẫn nhiều người dùng thích dòng điện thoại Fold vì n
 
 Nếu thiết kế điện thoại không phải là điểm hấp dẫn đối với bạn thì đừng chần chờ mà chọn ngay điện thoại dòng S.	Nếu thiết kế điện thoại không phải là điểm hấp dẫn đối với bạn thì đừng chần chờ mà chọn ngay điện thoại dòng S .
 
+
 Title: iPhone 12 Pro Max được trang DisplayMate “chấm” là chiếc smartphone có màn hình đẹp nhất hiện nay	Title : iPhone 12 Pro Max được trang DisplayMate “ chấm ” là chiếc smartphone có màn hình đẹp nhất hiện nay
 {"subject": ["3&&iPhone", "4&&12", "5&&Pro", "6&&Max"], "object": [], "aspect": ["17&&màn", "18&&hình"], "predicate": ["19&&đẹp", "20&&nhất", "21&&hiện", "22&&nay"], "label": "SUP+"}
 
@@ -1430,6 +1438,7 @@ Tạm kết	Tạm kết
 Vậy cuối cùng bạn đọc có suy nghĩ và nhận xét như thế nào về chất lượng hiển thị của iPhone 12 Pro Max nói riêng và của iPhone 12 Series nói chung?	Vậy cuối cùng bạn đọc có suy nghĩ và nhận xét như thế nào về chất lượng hiển thị của iPhone 12 Pro Max nói riêng và của iPhone 12 Series nói chung ?
 
 Hãy để lại comment của bạn dưới phần bình luận và cũng đừng quên theo dõi Hoàng Hà Mobile để cập nhật các tin tức công nghệ mới nhất nhé.	Hãy để lại comment của bạn dưới phần bình luận và cũng đừng quên theo dõi Hoàng Hà Mobile để cập nhật các tin tức công nghệ mới nhất nhé .
+
 
 title: Sự khác biệt giữa Galaxy S23 Plus và Galaxy S23 Ultra là gì?	title : Sự khác biệt giữa Galaxy S23 Plus và Galaxy S23 Ultra là gì ?
 
@@ -1639,6 +1648,7 @@ XTmobile.vn	XTmobile.vn
 
 Gửi	Gửi
 
+
 title: So sánh Samsung Galaxy A03s và Vivo Y21: Điện thoại nào dành cho bạn?	title : So sánh Samsung Galaxy A03s và Vivo Y21 : Điện thoại nào dành cho bạn ?
 
 Trên thị trường hiện tại có hai tân binh giá rẻ mới là Samsung Galaxy A03s và Vivo Y21 với mức giá lần lượt 3.69 triệu và 4.29 triệu.	Trên thị trường hiện tại có hai tân binh giá rẻ mới là Samsung Galaxy A03s và Vivo Y21 với mức giá lần lượt 3.69 triệu và 4.29 triệu .
@@ -1747,6 +1757,7 @@ Vậy chọn điện thoại nào sẽ phụ thuộc vào bạn thích thiết k
 Trên Galaxy A03s là tinh tế, hiện đại; trên Vivo Y21 là nổi bật, thời thượng.	Trên Galaxy A03s là tinh tế , hiện đại ; trên Vivo Y21 là nổi bật , thời thượng .
 
 Riêng cá nhân mình, thì mình sẽ nghiêng về Galaxy A03s vì sẽ tiết kiệm được một số ngân sách. Còn bạn, bạn chọn điện thoại nào, chia sẻ với mình nhé!	Riêng cá nhân mình , thì mình sẽ nghiêng về Galaxy A03s vì sẽ tiết kiệm được một số ngân sách . Còn bạn , bạn chọn điện thoại nào , chia sẻ với mình nhé !
+
 
 Title: So sánh khả năng nhiếp ảnh giữa iPhone 12 Pro, Galaxy Note20 Ultra và Google Pixel 5, ai sẽ là quán quân?	Title : So sánh khả năng nhiếp ảnh giữa iPhone 12 Pro , Galaxy Note20 Ultra và Google Pixel 5 , ai sẽ là quán quân ?
 
@@ -1857,6 +1868,7 @@ Cuối cùng, dù iPhone 12 Pro không phải là mẫu điện thoại có came
 {"subject": ["36&&đây"], "object": [], "aspect": ["32&&tính", "33&&ổn", "34&&định"], "predicate": ["45&&tốt", "46&&số", "47&&1", "48&&trong", "49&&thế", "50&&giới", "51&&smartphone", "52&&hiện", "53&&nay"], "label": "SUP+"}
 
 Và sau cùng thì đây chỉ là một bài so sánh mang tính chất tham khảo là chính, cái chính là chúng ta vẫn phải cần tới một trải nghiệm trên tay thực tế thì mới có được đánh giá chính xác nhất về camera của từng thiết bị.	Và sau cùng thì đây chỉ là một bài so sánh mang tính chất tham khảo là chính , cái chính là chúng ta vẫn phải cần tới một trải nghiệm trên tay thực tế thì mới có được đánh giá chính xác nhất về camera của từng thiết bị .
+
 
 title: So sánh Samsung A31 và Samsung A51 chi tiết - Dòng nào đáng mua hơn?	title : So sánh Samsung A31 và Samsung A51 chi tiết - Dòng nào đáng mua hơn ?
 
@@ -2074,6 +2086,7 @@ Cảm ơn bạn đã dành thời gian đọc bài viết.	Cảm ơn bạn đã 
 
 Hẹn gặp lại ở những bài viết tiếp theo!	Hẹn gặp lại ở những bài viết tiếp theo !
 
+
 title: Camera Xiaomi Mi 10 Pro và Galaxy S20 Ultra: Ngôi vương là ai?	title : Camera Xiaomi Mi 10 Pro và Galaxy S20 Ultra : Ngôi vương là ai ?
 
 Galaxy S20 Ultra ra mắt được không lâu thì lại phải đối mặt với đối thủ mới.	Galaxy S20 Ultra ra mắt được không lâu thì lại phải đối mặt với đối thủ mới .
@@ -2187,6 +2200,7 @@ Thông số camera của Mi 10 Pro và Samsung Galaxy S20 Ultra thực sự ấn
 
 Bạn yêu thích hình ảnh chụp bởi điện thoại nào hơn?	Bạn yêu thích hình ảnh chụp bởi điện thoại nào hơn ?
 
+
 title: So sánh Galaxy S23 Ultra và Xiaomi 13 Pro: Xiaomi có theo kịp?	title : So sánh Galaxy S23 Ultra và Xiaomi 13 Pro : Xiaomi có theo kịp ?
 
 Galaxy S23 Ultra và Xiaomi 13 Pro, đâu là flagship Android tốt hơn.	Galaxy S23 Ultra và Xiaomi 13 Pro , đâu là flagship Android tốt hơn .
@@ -2260,7 +2274,7 @@ Kích thước màn hình là một trong những khác biệt dễ nh
 Điện thoại nhà Samsung sử dụng màn hình 6,8 inch lớn hơn 1 inch so với màn hình 6,7 inch.	Điện thoại nhà Samsung sử dụng màn hình 6,8 inch lớn hơn 1 inch so với màn hình 6,7 inch .
 {"subject": ["1&&Điện", "2&&thoại", "3&&nhà", "4&&Samsung"], "object": [], "aspect": ["7&&màn", "8&&hình"], "predicate": ["11&&lớn", "12&&hơn"], "label": "COM+"}
 
-Tuy nhiên, khi trải nghiệm bạn sẽ thấy màn hình Galaxy S23 Ultra lớn hơn đáng kể.	Tuy nhiên , khi trải nghiệm bạn sẽ thấy màn hình Galaxy S23 Ultra lớn hơn đáng kể .
+Tuy nhiên, khi trải nghiệm bạn sẽ̃thấy màn hình Galaxy S23 Ultra lớn hơn đáng kể.	Tuy nhiên , khi trải nghiệm bạn sẽ thấy màn hình Galaxy S23 Ultra lớn hơn đáng kể .
 {"subject": ["12&&Galaxy", "13&&S23", "14&&Ultra"], "object": [], "aspect": ["10&&màn", "11&&hình"], "predicate": ["15&&lớn", "16&&hơn", "17&&đáng", "18&&kể"], "label": "COM+"}
 
 Nhờ tỷ lệ khung hình 19,3:9 rộng hơn 20:9 trên Xiaomi 13 Pro.	Nhờ tỷ lệ khung hình 19,3 : 9 rộng hơn 20 : 9 trên Xiaomi 13 Pro .
@@ -2448,6 +2462,7 @@ Nếu bạn thích cái gì mới mẻ hơn một chút thì có thể
 
 Liên hệ XTmobile để sở hữu các thiết bị cao cấp với mức giá tốt nhất!	Liên hệ XTmobile để sở hữu các thiết bị cao cấp với mức giá tốt nhất !
 
+
 title: Đánh giá điện thoại Samsung Galaxy A24 vừa trình làng tại Việt Nam: Có đáng mua năm 2023?	title : Đánh giá điện thoại Samsung Galaxy A24 vừa trình làng tại Việt Nam : Có đáng mua năm 2023 ?
 
 Nếu như bạn đang cân nhắc không biết có nên mua điện thoại Samsung Galaxy A24 hay không thì những thông tin dưới đây có thể giúp ích cho bạn.	Nếu như bạn đang cân nhắc không biết có nên mua điện thoại Samsung Galaxy A24 hay không thì những thông tin dưới đây có thể giúp ích cho bạn .
@@ -2550,6 +2565,7 @@ Với giá bán từ 6 triệu đồng trên thị trường hiện nay cùng v�
 
 Do đó, nếu như bạn đang cần mua điện thoại trong tầm giá 6 triệu đồng trên thị trường thì chắc chắn model Galaxy A24 sẽ là lựa chọn “đáng đồng tiền bát gạo” dành cho bạn.	Do đó , nếu như bạn đang cần mua điện thoại trong tầm giá 6 triệu đồng trên thị trường thì chắc chắn model Galaxy A24 sẽ là lựa chọn “ đáng đồng tiền bát gạo ” dành cho bạn .
 
+
 Title: So sánh iPhone 15 Plus và Google Pixel 7 Pro: Máy nào ngon hơn?	Title : So sánh iPhone 15 Plus và Google Pixel 7 Pro : Máy nào ngon hơn ?
 
 Dù iPhone 15 series chưa ra mắt nhưng sự quan tâm của người dùng với các sản phẩm này chưa bao giờ hạ nhiệt.	Dù iPhone 15 series chưa ra mắt nhưng sự quan tâm của người dùng với các sản phẩm này chưa bao giờ hạ nhiệt .
@@ -2647,6 +2663,7 @@ Mọi người chọn mua smartphone cũng rất quan tâm tới mức giá bán
 Trong thời điểm này, iPhone 15 Plus dự kiến có giá bán khoảng 23,5 triệu đồng, cao hơn so với Pixel 7 Pro giá khoảng 21 triệu đồng.	Trong thời điểm này , iPhone 15 Plus dự kiến có giá bán khoảng 23,5 triệu đồng , cao hơn so với Pixel 7 Pro giá khoảng 21 triệu đồng .
 
 Mức chênh lệch có thể nhận thấy là không nhiều, nhưng chúng ta cần chờ ngày iPhone 15 series ra mắt chính thức để biết được giá chính xác.	Mức chênh lệch có thể nhận thấy là không nhiều , nhưng chúng ta cần chờ ngày iPhone 15 series ra mắt chính thức để biết được giá chính xác .
+
 
 title: So sánh Samsung Galaxy A12 và Galaxy A13, điện thoại nào tốt hơn?	title : So sánh Samsung Galaxy A12 và Galaxy A13 , điện thoại nào tốt hơn ?
 
@@ -2907,6 +2924,7 @@ Bài viết trên đây đã so sánh điện thoại Samsung Galaxy A12 và Sam
 
 Với những thông tin về đặc điểm của 2 dòng điện thoại, hy vọng có thể giúp bạn lựa chọn một điện thoại phù hợp.	Với những thông tin về đặc điểm của 2 dòng điện thoại , hy vọng có thể giúp bạn lựa chọn một điện thoại phù hợp .
 
+
 title: Galaxy Note 9 và Galaxy A23: Liệu cũ có phải là không tốt?	title : Galaxy Note 9 và Galaxy A23 : Liệu cũ có phải là không tốt ?
 
 Cùng mức giá, Galaxy Note 9 hay Galaxy A23 tốt hơn?	Cùng mức giá , Galaxy Note 9 hay Galaxy A23 tốt hơn ?
@@ -3049,6 +3067,7 @@ Hiện Galaxy A23 đang bán tại XTmobile với cấu hình 4GB/128GB có mứ
 {"subject": ["25&&Galaxy", "26&&Note", "27&&9"], "object": ["2&&Galaxy", "3&&A23"], "aspect": ["15&&mức", "16&&giá"], "predicate": ["35&&mắc", "36&&hơn", "37&&1", "38&&chút"], "label": "COM-"}
 
 Vậy đâu sẽ là sự lựa chọn của bạn?	Vậy đâu sẽ là sự lựa chọn của bạn ?
+
 
 title: Galaxy S20 Ultra so với ROG Phone 2: Quái thú 120Hz nào đáng mua?	title : Galaxy S20 Ultra so với ROG Phone 2 : Quái thú 120Hz nào đáng mua ?
 
@@ -3264,6 +3283,7 @@ Tuy vậy, ROG Phone 2 vẫn là một trong những điện thoại tốt nhấ
 {"subject": ["4&&ROG", "5&&Phone", "6&&2"], "object": [], "aspect": [], "predicate": ["9&&một", "10&&trong", "11&&những", "12&&điện", "13&&thoại", "14&&tốt", "15&&nhất"], "label": "SUP+"}
 
 Nếu bạn không quá bận tâm đến camera, smartphone này thực sự đáng đồng tiền bát gạo đấy.	Nếu bạn không quá bận tâm đến camera , smartphone này thực sự đáng đồng tiền bát gạo đấy .
+
 
 title: Galaxy S23 Ultra và Galaxy Z Fold 4: Cuộc chiến giữa các chiến binh Samsung	title : Galaxy S23 Ultra và Galaxy Z Fold 4 : Cuộc chiến giữa các chiến binh Samsung
 
@@ -3485,6 +3505,7 @@ Nhưng lại đáp ứng nhu cầu thông tin giải trí của một người k
 
 Vì vậy sự lựa chọn tập trung vào yếu tố hiển thị.	Vì vậy sự lựa chọn tập trung vào yếu tố hiển thị .
 
+
 title: So sánh OPPO A74 và Samsung Galaxy A32: Chọn lựa nào hợp lý khi có cùng giá 6.69 triệu đồng?	title : So sánh OPPO A74 và Samsung Galaxy A32 : Chọn lựa nào hợp lý khi có cùng giá 6.69 triệu đồng ?
 
 Galaxy A32 và OPPO A74 thuộc dòng A của hai thương hiệu lớn là Samsung và OPPO.	Galaxy A32 và OPPO A74 thuộc dòng A của hai thương hiệu lớn là Samsung và OPPO .
@@ -3602,6 +3623,7 @@ Vì cả hai đều là sản phẩm ấn tượng trong phân khúc của chín
 {"subject": ["2&&cả", "3&&hai"], "object": ["2&&cả", "3&&hai"], "aspect": [], "predicate": ["4&&đều", "5&&là", "6&&sản", "7&&phẩm", "8&&ấn", "9&&tượng", "10&&trong", "11&&phân", "12&&khúc", "13&&của", "14&&chính", "15&&nó"], "label": "EQL"}
 
 Mẫu điện thoại tầm trung OPPO A77s được nhiều tín đồ săn đón sẽ không làm bạn thất vọng, cùng tìm hiểu thử nhé!	Mẫu điện thoại tầm trung OPPO A77s được nhiều tín đồ săn đón sẽ không làm bạn thất vọng , cùng tìm hiểu thử nhé !
+
 
 title: So sánh điện thoại Samsung Galaxy A23 và A32, nên lựa chọn loại nào?	title : So sánh điện thoại Samsung Galaxy A23 và A32 , nên lựa chọn loại nào ?
 
@@ -3805,6 +3827,7 @@ Hy vọng sau khi tham khảo bài viết này bạn đã có những thông tin
 
 Hẹn gặp lại bạn ở các bài viết sau!	Hẹn gặp lại bạn ở các bài viết sau !
 
+
 title: So sánh OPPO A57 và Samsung Galaxy A13: Nên chọn điện thoại nào?	title : So sánh OPPO A57 và Samsung Galaxy A13 : Nên chọn điện thoại nào ?
 
 OPPO A57 và Samsung Galaxy A13 là hai mẫu điện thoại đang cạnh tranh trong tầm giá 4 triệu hơn.	OPPO A57 và Samsung Galaxy A13 là hai mẫu điện thoại đang cạnh tranh trong tầm giá 4 triệu hơn .
@@ -3914,6 +3937,7 @@ Tuy nhiên, nếu bạn thích camera tốt, màn hình, bộ nhớ nhiều hơn
 
 Bạn sẽ chọn Galaxy A13 hay OPPO A57, chia sẻ với mình bằng cách bình luận phía dưới nhé!	Bạn sẽ chọn Galaxy A13 hay OPPO A57 , chia sẻ với mình bằng cách bình luận phía dưới nhé !
 
+
 So sánh nhanh bộ đôi smartphone siêu khủng Galaxy S21 Ultra và iPhone 12 Pro Max	So sánh nhanh bộ đôi smartphone siêu khủng Galaxy S21 Ultra và iPhone 12 Pro Max
 
 "Samsung Galaxy S21 Ultra và iPhone 12 Pro Max hiện đang là hai sản phẩm đang hot nhất hiện nay nằm trong phân khúc smartphone cao cấp.	" Samsung Galaxy S21 Ultra và iPhone 12 Pro Max hiện đang là hai sản phẩm đang hot nhất hiện nay nằm trong phân khúc smartphone cao cấp .
@@ -4013,6 +4037,7 @@ Cả hai thiết bị đều có cùng mức giá smartphone cao cấp dù Galax
 {"subject": ["14&&Galaxy", "15&&S21"], "object": [], "aspect": ["8&&mức", "9&&giá"], "predicate": ["16&&đắt", "17&&hơn", "18&&khoảng", "19&&$100"], "label": "COM+"}
 
 Trong khi iPhone 12 Pro Max bắt đầu từ mức giá $1,099 thì Galaxy S21 bắt đầu với giá $1,199."	Trong khi iPhone 12 Pro Max bắt đầu từ mức giá $1,099 thì Galaxy S21 bắt đầu với giá $1,199 . "
+
 
 title: So sánh Galaxy Z Fold 4 và iPhone 13 Pro Max: Flagship nào hấp dẫn hơn?	title : So sánh Galaxy Z Fold 4 và iPhone 13 Pro Max : Flagship nào hấp dẫn hơn ?
 
@@ -4177,6 +4202,7 @@ Trong khi đó, điện thoại iPhone 13 Pro Max là một mẫu flagship 
 
 Tùy vào nhu cầu cũng như sở thích mà mà chúng ta có thể lựa chọn thiết bị hấp dẫn cho riêng mình.	Tùy vào nhu cầu cũng như sở thích mà mà chúng ta có thể lựa chọn thiết bị hấp dẫn cho riêng mình .
 
+
 title: So sánh Galaxy M31 Prime với Motorola One Fusion+ và Realme 6 Pro	title : So sánh Galaxy M31 Prime với Motorola One Fusion + và Realme 6 Pro
 
 Với mức giá phải chăng và các thông số kỹ thuật khá tốt, đây là một trong những lựa chọn hấp dẫn của của người dùng ở phân khúc smartphone tầm trung.	Với mức giá phải chăng và các thông số kỹ thuật khá tốt , đây là một trong những lựa chọn hấp dẫn của của người dùng ở phân khúc smartphone tầm trung .
@@ -4290,6 +4316,7 @@ Motorola One Fusion+ nằm ở giữa với pin lớn hơn Realme 6 Pro, nhưng 
 {"subject": ["1&&Motorola", "2&&One", "3&&Fusion", "4&&+"], "object": [], "aspect": ["23&&camera"], "predicate": ["24&&kém", "25&&hơn"], "label": "COM-"}
 
 Bạn sẽ chọn smartphone nào?	Bạn sẽ chọn smartphone nào ?
+
 
 title: So sánh Samsung Galaxy A21s vs Galaxy A12: Đâu là lựa chọn hợp lý?	title : So sánh Samsung Galaxy A21s vs Galaxy A12 : Đâu là lựa chọn hợp lý ?
 
@@ -4433,6 +4460,7 @@ Trên đây bài viết đã so sánh giữa Samsung Galaxy A21s với Galaxy A1
 Hy vọng bạn sẽ chọn được sản phẩm phù hợp!	Hy vọng bạn sẽ chọn được sản phẩm phù hợp !
 
 Hẹn gặp lại các bạn trong các bài viết tiếp theo nhé.	Hẹn gặp lại các bạn trong các bài viết tiếp theo nhé .
+
 
 Title: Đánh giá iPhone SE 2022: Khoan...	Title : Đánh giá iPhone SE 2022 : Khoan . . .
 
@@ -4674,6 +4702,7 @@ Có thể sẽ có người nói rằng tầm giá của iPhone SE 2022 sẽ có
 Việc đó đã có iPhone 13, 13 mini và những chiếc iPhone khác lo.	Việc đó đã có iPhone 13 , 13 mini và những chiếc iPhone khác lo .
 
 iPhone SE 2022 được sinh ra là để hướng tới những đối tượng người dùng đặc biệt hơn, cụ thể ở đây là yêu thích sự nhỏ gọn, tiện lợi, đơn giản và không yêu cầu quá cao, giống như những gì mà iPhone SE thế hệ cũ hướng tới.	iPhone SE 2022 được sinh ra là để hướng tới những đối tượng người dùng đặc biệt hơn , cụ thể ở đây là yêu thích sự nhỏ gọn , tiện lợi , đơn giản và không yêu cầu quá cao , giống như những gì mà iPhone SE thế hệ cũ hướng tới .
+
 
 title: Đánh giá Samsung Galaxy M51: Pin rất khủng, màn hình đẹp, giá rẻ	title : Đánh giá Samsung Galaxy M51 : Pin rất khủng , màn hình đẹp , giá rẻ
 
@@ -5215,6 +5244,7 @@ Chụp ảnh cũng đẹp và đa năng với chụp macro nổi bật và chi t
 {"subject": [], "object": [], "aspect": ["9&&chụp", "10&&macro"], "predicate": ["14&&chi", "15&&tiết", "16&&nhiều", "17&&hơn"], "label": "COM+"}
 {"subject": ["9&&chụp", "10&&macro"], "object": [], "aspect": ["14&&chi", "15&&tiết"], "predicate": ["16&&nhiều", "17&&hơn"], "label": "COM+"}
 
+
 title: Đánh giá Galaxy Z Flip: Đột phá trong thiết kế của Samsung	title : Đánh giá Galaxy Z Flip : Đột phá trong thiết kế của Samsung
 
 Galaxy Z Flip đang là một trong những smartphone đắt nhất của Samsung.	Galaxy Z Flip đang là một trong những smartphone đắt nhất của Samsung .
@@ -5488,6 +5518,7 @@ Nó thực sự đẹp, nhưng bạn sẽ không thể mong chờ độ bền �
 
 Dù sao đây vẫn smartphone gập rẻ và bền nhất bạn có thể mua ở thời điểm hiện tại.	Dù sao đây vẫn smartphone gập rẻ và bền nhất bạn có thể mua ở thời điểm hiện tại .
 
+
 title: So sánh camera iPhone SE 2022 và iPhone 13 Pro: Chất lượng ảnh như thế nào?	title : So sánh camera iPhone SE 2022 và iPhone 13 Pro : Chất lượng ảnh như thế nào ?
 
 Chất lượng chụp ảnh trên camera iPhone SE 2022 5G so với iPhone 13 Pro series sẽ như thế nào?	Chất lượng chụp ảnh trên camera iPhone SE 2022 5G so với iPhone 13 Pro series sẽ như thế nào ?
@@ -5616,6 +5647,7 @@ Mặc dù điện thoại đắt tiền hơn của Apple có một số lợi
 
 Nhưng iPhone SE 2022 5G vẫn khiến chúng ta ngạc nhiên khi mang đến chất lượng chụp ảnh cũng khác tốt.	Nhưng iPhone SE 2022 5G vẫn khiến chúng ta ngạc nhiên khi mang đến chất lượng chụp ảnh cũng khác tốt .
 
+
 title: Trên tay Galaxy Z Fold2: Siêu phẩm định hình tương lai của Samsung	title : Trên tay Galaxy Z Fold2 : Siêu phẩm định hình tương lai của Samsung
 
 Samsung Galaxy Z Fold2 – mẫu điện thoại màn hình gập thế hệ mới của Samsung, mang tới nhiều nâng cấp và cải tiến hơn rất nhiều so với người tiền nhiệm Galaxy Fold.	Samsung Galaxy Z Fold2 – mẫu điện thoại màn hình gập thế hệ mới của Samsung , mang tới nhiều nâng cấp và cải tiến hơn rất nhiều so với người tiền nhiệm Galaxy Fold .
@@ -5739,6 +5771,7 @@ Màn hình phụ lớn hơn, màn hình chính cũng được tăng kích thư�
 
 Samsung Galaxy Z Fold2 sẽ bắt đầu được mở bán từ ngày 18/9 tới đây tại hơn 40 quốc gia cùng mức giá niêm yết khởi điểm là $1.999, tức là sẽ rơi vào khoảng hơn 46 triệu đồng.	Samsung Galaxy Z Fold2 sẽ bắt đầu được mở bán từ ngày 18 / 9 tới đây tại hơn 40 quốc gia cùng mức giá niêm yết khởi điểm là $1.999 , tức là sẽ rơi vào khoảng hơn 46 triệu đồng .
 
+
 title: So sánh hiệu năng giữa Galaxy S23 và Xiaomi 13: Snapdragon 8 Gen 2 for Galaxy khác biệt thế nào?	title : So sánh hiệu năng giữa Galaxy S23 và Xiaomi 13 : Snapdragon 8 Gen 2 for Galaxy khác biệt thế nào ?
 
 Tại sự kiện Galaxy Unpacked 2023 vừa qua, bên cạnh những nâng cấp mới về camera, Samsung còn nhấn rất mạnh vào hiệu năng của thế hệ Galaxy S23 Series mới nhất, đặc biệt là khả năng tản nhiệt buồng hơi và con chip Snapdragon 8 Gen 2 tuỳ biến riêng dành cho Galaxy (8 Gen 2 for Galaxy).	Tại sự kiện Galaxy Unpacked 2023 vừa qua , bên cạnh những nâng cấp mới về camera , Samsung còn nhấn rất mạnh vào hiệu năng của thế hệ Galaxy S23 Series mới nhất , đặc biệt là khả năng tản nhiệt buồng hơi và con chip Snapdragon 8 Gen 2 tuỳ biến riêng dành cho Galaxy ( 8 Gen 2 for Galaxy ) .
@@ -5810,6 +5843,7 @@ Ngoài ra, còn một yếu tố nữa chính là việc chiếc Galaxy S23 là 
 {"subject": ["13&&Galaxy", "14&&S23"], "object": [], "aspect": ["25&&diện", "26&&tích", "27&&tản", "28&&nhiệt"], "predicate": ["30&&thấp", "31&&hơn"], "label": "COM-"}
 
 Cùng hy vọng Samsung có thể nhanh chóng phát hành các bản cập nhật phần mềm mới; tối ưu tốt và ổn định hơn để có thể vận dụng tối đa sức mạnh của con chip Snapdragon 8 Gen 2 for Galaxy.	Cùng hy vọng Samsung có thể nhanh chóng phát hành các bản cập nhật phần mềm mới ; tối ưu tốt và ổn định hơn để có thể vận dụng tối đa sức mạnh của con chip Snapdragon 8 Gen 2 for Galaxy .
+
 
 title: So sánh Xiaomi Redmi Note 11 Pro+ và Samsung Galaxy M32 5G	title : So sánh Xiaomi Redmi Note 11 Pro + và Samsung Galaxy M32 5G
 
@@ -5914,6 +5948,7 @@ Còn với Galaxy M52 5G, smartphone này có thiết kế bắt mắt hơn, pin
 {"subject": ["7&&smartphone", "8&&này"], "object": [], "aspect": ["19&&camera"], "predicate": ["20&&linh", "21&&hoạt", "22&&hơn"], "label": "COM+"}
 
 Bạn sẽ mua điện thoại nào?	Bạn sẽ mua điện thoại nào ?
+
 
 title: So sánh Galaxy Note 20 Ultra vs Galaxy Note 10+: Nâng cấp liệu có đáng?	title : So sánh Galaxy Note 20 Ultra vs Galaxy Note 10 + : Nâng cấp liệu có đáng ?
 
@@ -6056,6 +6091,7 @@ Tuy nhiên, Galaxy Note 10+ cũng được đánh giá cao ở thời điểm n�
 
 Do đó, tùy vào sở thích và nhu cầu cũng như là túi tiền của mình mà bạn có thể chọn cho mình mẫu điện thoại hợp lý.	Do đó , tùy vào sở thích và nhu cầu cũng như là túi tiền của mình mà bạn có thể chọn cho mình mẫu điện thoại hợp lý .
 
+
 title: So sánh Samsung Galaxy S21 Ultra và Galaxy Z Fold3: smartphone nào xứng đáng ngôi vương của hãng?	title : So sánh Samsung Galaxy S21 Ultra và Galaxy Z Fold3 : smartphone nào xứng đáng ngôi vương của hãng ?
 
 Galaxy S21 Ultra đã trở thành chiếc điện thoại hot nhất của Samsung vào cuối năm ngoái nhưng hiện tại đã có một đối thủ mới là Galaxy Z Fold3.	Galaxy S21 Ultra đã trở thành chiếc điện thoại hot nhất của Samsung vào cuối năm ngoái nhưng hiện tại đã có một đối thủ mới là Galaxy Z Fold3 .
@@ -6144,6 +6180,7 @@ Trong khi Z Fold3 sẽ là một trải nghiệm thực sự đặc biệt cho b
 
 Vì vậy, việc lựa chọn smartphone thích hợp với bản thân còn phụ thuộc vào nhiều yếu tố đến từ mỗi người dùng.	Vì vậy , việc lựa chọn smartphone thích hợp với bản thân còn phụ thuộc vào nhiều yếu tố đến từ mỗi người dùng .
 
+
 Title: So sánh chi tiết bộ đôi smartphone Xiaomi Mi 11 và Apple iPhone 12	Title : So sánh chi tiết bộ đôi smartphone Xiaomi Mi 11 và Apple iPhone 12
 
 Xiaomi Mi 11 và Apple iPhone 12 là những thiết bị có điểm chung quan trọng: cả hai đều là những chiếc flagship giá cả phải chăng và chúng không có bộ sạc đi kèm.	Xiaomi Mi 11 và Apple iPhone 12 là những thiết bị có điểm chung quan trọng : cả hai đều là những chiếc flagship giá cả phải chăng và chúng không có bộ sạc đi kèm .
@@ -6199,6 +6236,7 @@ iPhone 12 có giá niêm yết khởi điểm là 1.129 USD.	iPhone 12 có giá 
 Trên đây là phần so sánh về hai dòng smartphone hot nhất hiện nay.	Trên đây là phần so sánh về hai dòng smartphone hot nhất hiện nay .
 
 Đừng quên để lại suy nghĩ của bạn bên dưới để xem có bao nhiêu người có cùng ý kiến nhé!	Đừng quên để lại suy nghĩ của bạn bên dưới để xem có bao nhiêu người có cùng ý kiến nhé !
+
 
 title: Camera nào sẽ chiến thắng: Vivo X90 Pro hay Galaxy S23 Ultra?	title : Camera nào sẽ chiến thắng : Vivo X90 Pro hay Galaxy S23 Ultra ?
 
@@ -6346,6 +6384,7 @@ Samsung và Vivo đều nhận thức rõ rằng máy ảnh không chỉ là c�
 Và S23 Ultra dường như có tất cả các bộ phận tạo nên hệ thống hình ảnh đồng bộ hoá tốt hơn X90 Pro.	Và S23 Ultra dường như có tất cả các bộ phận tạo nên hệ thống hình ảnh đồng bộ hoá tốt hơn X90 Pro .
 {"subject": ["2&&S23", "3&&Ultra"], "object": ["23&&X90", "24&&Pro"], "aspect": ["10&&bộ", "11&&phận", "12&&tạo", "13&&nên", "14&&hệ", "15&&thống", "16&&hình", "17&&ảnh", "18&&đồng", "19&&bộ", "20&&hoá"], "predicate": ["21&&tốt", "22&&hơn"], "label": "COM+"}
 
+
 title: Đánh giá chi tiết Samsung Galaxy A14 5G: Có gì đáng để mong đợi?	title : Đánh giá chi tiết Samsung Galaxy A14 5G : Có gì đáng để mong đợi ?
 
 Điện thoại Samsung  là thương hiệu nổi tiếng đến từ Hàn Quốc, với nhiều dòng  điện thoại  nổi tiếng ở nhiều phân khúc khác nhau.	Điện thoại Samsung là thương hiệu nổi tiếng đến từ Hàn Quốc , với nhiều dòng điện thoại nổi tiếng ở nhiều phân khúc khác nhau .
@@ -6463,6 +6502,7 @@ Bài viết trên đây đã giúp bạn đánh giá chi tiết Samsung Galaxy A
 
 Hẹn gặp lại bạn ở các bài viết sau!	Hẹn gặp lại bạn ở các bài viết sau !
 
+
 Title: So sánh ảnh chụp thực tế của iPhone 13 với các thế hệ iPhone tiền nhiệm	Title : So sánh ảnh chụp thực tế của iPhone 13 với các thế hệ iPhone tiền nhiệm
 
 Chất lượng camera của iPhone 13 được so sánh với các thế hệ iPhone tiền nhiệm của chúng dựa trên những bức ảnh chụp đến từ người sở hữu sớm, một lần nữa khẳng định việc nâng cấp đời smartphone mới là vô cùng xứng đáng!	Chất lượng camera của iPhone 13 được so sánh với các thế hệ iPhone tiền nhiệm của chúng dựa trên những bức ảnh chụp đến từ người sở hữu sớm , một lần nữa khẳng định việc nâng cấp đời smartphone mới là vô cùng xứng đáng !
@@ -6513,6 +6553,7 @@ Con chip cho phép người dùng sử dụng nhiều tính năng quay phim ch�
 {"subject": [], "object": [], "aspect": ["12&&quay", "13&&phim", "14&&chụp", "15&&ảnh"], "predicate": ["16&&chuyên", "17&&nghiệp", "18&&hơn"], "label": "COM+"}
 
 Apple đã cải tiến bộ phận camera vốn đã hoàn chỉnh với các cảm biến mới hỗ trợ người dùng có những bức ảnh đẹp nhất.	Apple đã cải tiến bộ phận camera vốn đã hoàn chỉnh với các cảm biến mới hỗ trợ người dùng có những bức ảnh đẹp nhất .
+
 
 Title: So sánh iPhone 14 Pro Max và OPPO Find X6 Pro: màn lột xác của flagship OPPO!	Title : So sánh iPhone 14 Pro Max và OPPO Find X6 Pro : màn lột xác của flagship OPPO !
 
@@ -6695,6 +6736,7 @@ OPPO sẽ phù hợp nếu bạn yêu cầu một chiếc máy với ngôn ngữ
 Còn iPhone 14 Pro Max vẫn sẽ là sự lựa chọn an toàn nhờ hệ điều hành iOS ổn định, lâu dài cùng thương hiệu tốt hơn.	Còn iPhone 14 Pro Max vẫn sẽ là sự lựa chọn an toàn nhờ hệ điều hành iOS ổn định , lâu dài cùng thương hiệu tốt hơn .
 {"subject": ["2&&iPhone", "3&&14", "4&&Pro", "5&&Max"], "object": [], "aspect": ["15&&hệ", "16&&điều", "17&&hành", "18&&iOS"], "predicate": ["19&&ổn", "20&&định", "21&&,", "22&&lâu", "23&&dài", "24&&cùng", "25&&thương", "26&&hiệu", "27&&tốt", "28&&hơn"], "label": "COM+"}
 
+
 Title: iPhone 12 Mini và 12 Pro Max: Người khổng lồ cùng bé tí hon, có gì đặc biệt?	Title : iPhone 12 Mini và 12 Pro Max : Người khổng lồ cùng bé tí hon , có gì đặc biệt ?
 
 Trong bài viết ngày hôm nay, chúng ta hãy cùng đi so sánh iPhone 12 Mini và iPhone 12 Pro Max, để xem giữa một “gã khổng lồ” khi đứng cạnh một “chú bé” tí hon thì có gì thú vị nhé.	Trong bài viết ngày hôm nay , chúng ta hãy cùng đi so sánh iPhone 12 Mini và iPhone 12 Pro Max , để xem giữa một “ gã khổng lồ ” khi đứng cạnh một “ chú bé ” tí hon thì có gì thú vị nhé .
@@ -6744,6 +6786,7 @@ alt:iphone-12-mini-va-12-pro-5	alt : iphone - 12 - mini-va - 12 - pro - 5
 des: Từ trái sang phải: iPhone 12 Mini, 12 Pro, 12 Pro Max	des : Từ trái sang phải : iPhone 12 Mini , 12 Pro , 12 Pro Max
 
 Được biết, bộ đôi iPhone 12 Mini và Pro Max sẽ cùng được lên kệ vào ngày 13/11 tới đây với mức giá khởi điểm lần lượt từ $729 cho bản Mini và $1.099 cho bản Pro Max.	Được biết , bộ đôi iPhone 12 Mini và Pro Max sẽ cùng được lên kệ vào ngày 13 / 11 tới đây với mức giá khởi điểm lần lượt từ $729 cho bản Mini và $1.099 cho bản Pro Max .
+
 
 title: So sánh camera giữa Galaxy S10 Plus và Huawei P30 Pro	title : So sánh camera giữa Galaxy S10 Plus và Huawei P30 Pro
 
@@ -6877,6 +6920,7 @@ Huawei P30 Pro cho hình ấm áp hơn, còn Samsung Galaxy S10 Plus đi theo h�
 {"subject": ["1&&Huawei", "2&&P30", "3&&Pro"], "object": ["11&&Samsung", "12&&Galaxy", "13&&S10"], "aspect": ["5&&hình"], "predicate": ["6&&ấm", "7&&áp", "8&&hơn"], "label": "COM+"}
 {"subject": ["11&&Samsung", "12&&Galaxy", "13&&S10"], "object": ["1&&Huawei", "2&&P30", "3&&Pro"], "aspect": [], "predicate": ["18&&tươi", "19&&sáng", "20&&nhiều", "21&&hơn"], "label": "COM+"}
 
+
 Title: Cùng phân khúc, nên mua iPhone 13 Pro Max hay Xiaomi Mi 11 Ultra?	Title : Cùng phân khúc , nên mua iPhone 13 Pro Max hay Xiaomi Mi 11 Ultra ?
 
 Trong bài viết ngày hôm nay, hãy cùng FPTShop so sánh hai chiếc smartphone cao cấp có thể nói là tốt nhất trên thị trường hiện nay là iPhone 13 Pro Max và Galaxy S21 Ultra để xem đâu mới là lựa chọn tốt hơn cho người dùng nhé!	Trong bài viết ngày hôm nay , hãy cùng FPTShop so sánh hai chiếc smartphone cao cấp có thể nói là tốt nhất trên thị trường hiện nay là iPhone 13 Pro Max và Galaxy S21 Ultra để xem đâu mới là lựa chọn tốt hơn cho người dùng nhé !
@@ -6989,6 +7033,7 @@ Nếu bạn muốn sở hữu một chiếc điện thoại thiết kế đẹp,
 
 Ngược lại, Mi 11 Ultra sẽ phù hợp với người dùng yêu thích thiết kế mới lạ với màn hình phụ ở mặt lưng và hệ thống camera cực kỳ chất lượng.	Ngược lại , Mi 11 Ultra sẽ phù hợp với người dùng yêu thích thiết kế mới lạ với màn hình phụ ở mặt lưng và hệ thống camera cực kỳ chất lượng .
 
+
 title: Lý do Galaxy S10 Plus vẫn là một chiếc flagship đáng mua: Vô địch tầm giá dưới 12 triệu về thiết kế và camera	title : Lý do Galaxy S10 Plus vẫn là một chiếc flagship đáng mua : Vô địch tầm giá dưới 12 triệu về thiết kế và camera
 
 Với mức giá đã “mềm” hơn, cùng những thông số phần cứng của một chiếc flagship, rất nhiều người đang phân vân có nên mua Galaxy S10 Plus và đây là câu trả lời.	Với mức giá đã “ mềm ” hơn , cùng những thông số phần cứng của một chiếc flagship , rất nhiều người đang phân vân có nên mua Galaxy S10 Plus và đây là câu trả lời .
@@ -7098,6 +7143,7 @@ Máy cũng được tích hợp sạc nhanh, sạc không dây và cả sạc ng
 Tổng kết lại, Galaxy S10 Plus là một chiếc flagship rất đáng mua và có thể đáp ứng được tất cả những người dùng đa dạng của người dùng.	Tổng kết lại , Galaxy S10 Plus là một chiếc flagship rất đáng mua và có thể đáp ứng được tất cả những người dùng đa dạng của người dùng .
 
 Đây thực sự là chiếc máy dành cho những người đề cao tính thẩm mỹ và tiện dụng của điện thoại di động.	Đây thực sự là chiếc máy dành cho những người đề cao tính thẩm mỹ và tiện dụng của điện thoại di động .
+
 
 title: Không phải Z Fold3, Galaxy S22 Ultra là smartphone tốt nhất của Samsung?	title : Không phải Z Fold3 , Galaxy S22 Ultra là smartphone tốt nhất của Samsung ?
 
@@ -7217,6 +7263,7 @@ Bạn sẽ khó tìm thấy một thiết bị di động có khả năng hoạt
 Nếu bạn thích ghi chú bằng tay hoặc bạn là một nghệ sĩ có những ý tưởng tuyệt vời khi di chuyển, S-Pen giờ đây luôn bên bạn và đủ linh hoạt để hỗ trợ chuyển đổi từ chữ viết tay sang văn bản, tạo tác phẩm nghệ thuật.	Nếu bạn thích ghi chú bằng tay hoặc bạn là một nghệ sĩ có những ý tưởng tuyệt vời khi di chuyển , S-Pen giờ đây luôn bên bạn và đủ linh hoạt để hỗ trợ chuyển đổi từ chữ viết tay sang văn bản , tạo tác phẩm nghệ thuật .
 
 Hệ thống camera ở đây rất tuyệt vời và sẽ cho phép bạn chụp những hình ảnh sát với những điều mắt bạn có thể nhìn thấy.	Hệ thống camera ở đây rất tuyệt vời và sẽ cho phép bạn chụp những hình ảnh sát với những điều mắt bạn có thể nhìn thấy .
+
 
 Title: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	Title : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
 
@@ -7430,6 +7477,7 @@ Hy vọng với nội dung đánh giá iPhone 14 series trên, bạn sẽ hiểu
 alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
 
 des:	des :
+
 
 title: Đánh giá Samsung Galaxy A11: Giá rẻ, 3 camera sau cùng pin khỏe	title : Đánh giá Samsung Galaxy A11 : Giá rẻ , 3 camera sau cùng pin khỏe
 
@@ -7862,6 +7910,7 @@ Và chiếc Samsung Galaxy A11 này đáp ứng được những điều kiện 
 
 Bởi vậy nó trở thành những lựa chọn tuyệt vời cho mức giá tầm 3 triệu đồng.	Bởi vậy nó trở thành những lựa chọn tuyệt vời cho mức giá tầm 3 triệu đồng .
 
+
 title: So sánh Oppo Find N2 Flip và Samsung Galaxy Z Flip 4: Nên mua máy nào?	title : So sánh Oppo Find N2 Flip và Samsung Galaxy Z Flip 4 : Nên mua máy nào ?
 
 Bên cạnh việc là  smartphone  nắp gập đầu tiên của thương hiệu, đây cũng sẽ là điện thoại màn hình gập đầu tiên của Oppo tung ra thị trường toàn cầu.	Bên cạnh việc là smartphone nắp gập đầu tiên của thương hiệu , đây cũng sẽ là điện thoại màn hình gập đầu tiên của Oppo tung ra thị trường toàn cầu .
@@ -8020,6 +8069,7 @@ Bài viết trên đây đã giúp bạn so sánh Oppo Find N2 Flip và Samsung 
 
 Hẹn gặp lại bạn ở các bài viết sau!	Hẹn gặp lại bạn ở các bài viết sau !
 
+
 title: Những lý do bạn nên sở hữu Samsung Galaxy S23 ngay hôm nay	title : Những lý do bạn nên sở hữu Samsung Galaxy S23 ngay hôm nay
 
 Samsung đã chính thức trình làng dòng điện thoại Galaxy S23 mới nhất của mình trong sự kiện Unpacked 2023 vừa rồi.	Samsung đã chính thức trình làng dòng điện thoại Galaxy S23 mới nhất của mình trong sự kiện Unpacked 2023 vừa rồi .
@@ -8164,6 +8214,7 @@ Nhưng chúng ta còn phải chờ xem liệu rằng khi người dùng thật s
 
 Tuy nhiên, nếu bạn đang tìm kiếm một chiếc điện thoại có khả năng chụp ảnh ban đêm với độ chi tiết hoàn hảo; chắc chắn một điều rằng, S23 là dòng điện thoại mà bạn không nên bỏ qua.	Tuy nhiên , nếu bạn đang tìm kiếm một chiếc điện thoại có khả năng chụp ảnh ban đêm với độ chi tiết hoàn hảo ; chắc chắn một điều rằng , S23 là dòng điện thoại mà bạn không nên bỏ qua .
 
+
 title: Samsung Galaxy A73 5G ra mắt khi nào? Giá bao nhiêu? Có nên mua không?	title : Samsung Galaxy A73 5G ra mắt khi nào ? Giá bao nhiêu ? Có nên mua không ?
 
 Vào tháng 04/2022,  Samsung  cho ra mắt Samsung Galaxy A73 5G tại thị trường Việt Nam.	Vào tháng 04 / 2022 , Samsung cho ra mắt Samsung Galaxy A73 5G tại thị trường Việt Nam .
@@ -8296,7 +8347,7 @@ Nên mua không?	Nên mua không ?
 Dù sở hữu nhiều tính năng vượt trội so với các sản phẩm khác trong cùng phân khúc nhưng Samsung Galaxy A73 5G có mức giá thành rất hợp lý.	Dù sở hữu nhiều tính năng vượt trội so với các sản phẩm khác trong cùng phân khúc nhưng Samsung Galaxy A73 5G có mức giá thành rất hợp lý .
 {"subject": ["20&&Samsung", "21&&Galaxy", "22&&A73", "23&&5G"], "object": ["11&&các", "12&&sản", "13&&phẩm", "14&&khác", "15&&trong", "16&&cùng", "17&&phân", "18&&khúc"], "aspect": ["4&&nhiều", "5&&tính", "6&&năng"], "predicate": ["7&&vượt", "8&&trội"], "label": "COM+"}
 
-Tóm lại đây là một mẫu điện thoại vô cùng chất lượng có thể đáp ứng mọi yêu cầu từ mọi đối tượng.	Tóm lại đây là một mẫu điện thoại vô cùng chất lượng có thể đáp ứng mọi yêu cầu từ mọi đối tượng .
+Tóm lại đây là một mẫu điện thoại vô cùng chất lượng có thể đáp ứng mọi yêu cầu từ mọi đối tượng.	Tóm lại đây là̀một mẫu điện thoại vô cùng chất lượng có thể đáp ứng mọi yêu cầu từ mọi đối tượng .
 
 Dù bạn là sinh viên hay nhân viên văn phòng và kể cả là doanh nhân, chiếc điện thoại này đều có thể phục vụ tối đa các yêu cầu từ cơ bản đến nâng cao của bạn.	Dù bạn là sinh viên hay nhân viên văn phòng và kể cả là doanh nhân , chiếc điện thoại này đều có thể phục vụ tối đa các yêu cầu từ cơ bản đến nâng cao của bạn .
 
@@ -8315,6 +8366,7 @@ Giá bán điện thoại Samsung Galaxy A73 5G bao nhiêu?	Giá bán điện th
 Bài viết đã giới thiệu đến bạn một số thông tin và giá bán của điện thoại Samsung Galaxy A73 5G.	Bài viết đã giới thiệu đến bạn một số thông tin và giá bán của điện thoại Samsung Galaxy A73 5G .
 
 Hy vọng bạn sẽ chọn được sản phẩm phù hợp khi có nhu cầu mua điện thoại.	Hy vọng bạn sẽ chọn được sản phẩm phù hợp khi có nhu cầu mua điện thoại .
+
 
 title: So sánh Samsung Galaxy A52s 5G và Galaxy A53 5G	title : So sánh Samsung Galaxy A52s 5G và Galaxy A53 5G
 
@@ -8524,6 +8576,7 @@ Xin cảm ơn bạn đọc đã theo dõi bài viết trên.	Xin cảm ơn bạn
 
 Hy vọng việc so sánh Samsung Galaxy A52s 5G và Galaxy A53 5G đã cung cấp cho bạn những thông tin hữu ích trong việc chọn mua sản phẩm.	Hy vọng việc so sánh Samsung Galaxy A52s 5G và Galaxy A53 5G đã cung cấp cho bạn những thông tin hữu ích trong việc chọn mua sản phẩm .
 
+
 title: So sánh 3 mẫu flagship Android cao cấp: Xiaomi 13 Ultra, Galaxy S23 Ultra và OPPO Find X6 Pro	title : So sánh 3 mẫu flagship Android cao cấp : Xiaomi 13 Ultra , Galaxy S23 Ultra và OPPO Find X6 Pro
 
 Trong những năm trở lại đây, cuộc đua camera trên điện thoại cao cấp ngày càng khốc liệt và hấp dẫn hơn.	Trong những năm trở lại đây , cuộc đua camera trên điện thoại cao cấp ngày càng khốc liệt và hấp dẫn hơn .
@@ -8730,6 +8783,7 @@ Tuy nhiên, điểm khác biệt ở đây là hiện chỉ có Galaxy S23 Ultra
 
 Thế nhưng OPPO Find X6 Pro và Xiaomi 13 Ultra vẫn sẽ là hai sản phẩm đáng để chúng ta trải nghiệm nhờ thiết kế mới, hiệu năng mạnh và camera xuất sắc.	Thế nhưng OPPO Find X6 Pro và Xiaomi 13 Ultra vẫn sẽ là hai sản phẩm đáng để chúng ta trải nghiệm nhờ thiết kế mới , hiệu năng mạnh và camera xuất sắc .
 
+
 title: So sánh Samsung Galaxy A73 và Samsung Galaxy S21 Fe nên mua gì?	title : So sánh Samsung Galaxy A73 và Samsung Galaxy S21 Fe nên mua gì ?
 
 Một số mẫu điện thoại Samsung đang kinh doanh tại Thế Giới Di Động:	Một số mẫu điện thoại Samsung đang kinh doanh tại Thế Giới Di Động :
@@ -8930,6 +8984,7 @@ Chính sách có thể thay đổi theo thời gian, để xem chi tiết chính
 
 Trên đây là những so sánh Samsung Galaxy A73 5G và Samsung Galaxy S21 FE, hy vọng bài viết có thể giúp bạn hiểu rõ chi tiết hơn về hai phiên bản này và đưa ra lựa chọn phù hợp.	Trên đây là những so sánh Samsung Galaxy A73 5G và Samsung Galaxy S21 FE , hy vọng bài viết có thể giúp bạn hiểu rõ chi tiết hơn về hai phiên bản này và đưa ra lựa chọn phù hợp .
 
+
 title: Có nên mua Samsung Galaxy S22 Ultra thời điểm này? Câu trả lời là…	title : Có nên mua Samsung Galaxy S22 Ultra thời điểm này ? Câu trả lời là …
 
 Samsung Galaxy S22 Ultra là sản phẩm tốt nhất thế giới Android hiện nay.	Samsung Galaxy S22 Ultra là sản phẩm tốt nhất thế giới Android hiện nay .
@@ -8944,9 +8999,6 @@ Hi vọng bài viết sau đây của Hoàng Hà Mobile sẽ giúp khách hàng 
 Màn hình độ sáng & độ mượt tuyệt vời!	Màn hình độ sáng & độ mượt tuyệt vời !
 
 Độ sáng cực cao đến 1.750 nits	Độ sáng cực cao đến 1.750 nits
-
-Dòng Galaxy S22 series tự hào có một số cải tiến về hiển thị, nổi bật là nỗ lực tạo ra màn hình sáng nhất trên bất kỳ điện thoại thông minh nào.Trong trường hợp của Galaxy S22 Ultra, điều đó có nghĩa là màn hình hứa hẹn có độ sáng cao nhất là 1.750 nits.	Dòng Galaxy S22 series tự hào có một số cải tiến về hiển thị , nổi bật là nỗ lực tạo ra màn hình sáng nhất trên bất kỳ điện thoại thông minh nào.Trong trường hợp của Galaxy S22 Ultra , điều đó có nghĩa là màn hình hứa hẹn có độ sáng cao nhất là 1.750 nits .
-{"subject": ["1&&Dòng", "2&&Galaxy", "3&&S22", "4&&series"], "object": [], "aspect": ["23&&màn", "24&&hình"], "predicate": ["25&&sáng", "26&&nhất", "27&&trên", "28&&bất", "29&&kỳ", "30&&điện", "31&&thoại", "32&&thông", "33&&minh", "34&&nào.Trong"], "label": "SUP+"}
 
 Và với tính năng Vision Booster của Samsung, Galaxy S22 Ultra sẽ điều chỉnh màn hình hiển thị và cân bằng màu sắc dựa trên ánh sáng xung quanh.	Và với tính năng Vision Booster của Samsung , Galaxy S22 Ultra sẽ điều chỉnh màn hình hiển thị và cân bằng màu sắc dựa trên ánh sáng xung quanh .
 
@@ -9079,6 +9131,7 @@ Sản phẩm cao cấp nhất của thế giới Android hiện nay	Sản phẩm
 
 - Mức giá cực tốt cùng nhiều ưu đãi	- Mức giá cực tốt cùng nhiều ưu đãi
 
+
 title: Đánh giá Samsung Galaxy A24: Camera 50 MP cùng chip MediaTek Helio G99	title : Đánh giá Samsung Galaxy A24 : Camera 50 MP cùng chip MediaTek Helio G99
 
 Nói đến  điện thoại thông minh  không thể không nói đến  điện thoại Samsung .	Nói đến điện thoại thông minh không thể không nói đến điện thoại Samsung .
@@ -9117,7 +9170,7 @@ Giống với các sản phẩm thuộc dòng Galaxy A, khung viền quan
 
 Hơn nữa kích thước của máy cũng vừa vặn không quá to phù hợp cho mọi đối tượng kể cả nam và nữ đều sử dụng được.	Hơn nữa kích thước của máy cũng vừa vặn không quá to phù hợp cho mọi đối tượng kể cả nam và nữ đều sử dụng được .
 
-Các phiên bản màu sắc gồm có đen, xanh lá, bạc, đỏ những màu này đều làm toát lên vẻ hiện đại, trẻ trung và thời trang cho cả sản phẩm lẫn người dùng.	Các phiên bản màu sắc gồm có đen , xanh lá , bạc , đỏ những màu này đều làm toát lên vẻ hiện đại , trẻ trung và thời trang cho cả sản phẩm lẫn người dùng .
+Các phiên bản màu sắc gồm có đen, xanh lá, bạc, đỏ những màu này đều làm toát lên vẻ hiện đại, trẻ trung và thời trang cho cả sản phẩm lẫn người dùng.	Các phiên bản màu sắc gồm có đen , xanh lá , bạc , đỏ̉những màu này đều làm toát lên vẻ hiện đại , trẻ trung và thời trang cho cả sản phẩm lẫn người dùng .
 
 alt: Diện mạo của sản phẩm thừa hưởng những thiết kế hiện đại và độc đáo từ dòng Galaxy A	alt : Diện mạo của sản phẩm thừa hưởng những thiết kế hiện đại và độc đáo từ dòng Galaxy A
 
@@ -9223,6 +9276,7 @@ Trên đây là bài viết đánh giá chi tiết về Samsung Galaxy A2
 
 Hy vọng bài viết mang đến những thông tin hữu ích với bạn.	Hy vọng bài viết mang đến những thông tin hữu ích với bạn .
 
+
 Samsung Galaxy S20 FE là đối thủ của iPhone 12?	Samsung Galaxy S20 FE là đối thủ của iPhone 12 ?
 
 "Trong sự kiện Unpacked Phiên bản Đặc biệt mới dành riêng cho fan được tổ chức online diễn ra vào 23/9, Samsung Việt Nam đã chính thức ra mắt Galaxy S20 Fan Edition (hay còn gọi là Samsung Galaxy S20 FE.	" Trong sự kiện Unpacked Phiên bản Đặc biệt mới dành riêng cho fan được tổ chức online diễn ra vào 23 / 9 , Samsung Việt Nam đã chính thức ra mắt Galaxy S20 Fan Edition ( hay còn gọi là Samsung Galaxy S20 FE .
@@ -9253,6 +9307,7 @@ So sánh Samsung Galaxy S20 FE và iPhone 12	So sánh Samsung Galaxy S20 FE và 
 Đến thời điểm này, mọi thông tin về iPhone 12 đang được các tín đồ công nghệ trông ngóng.	Đến thời điểm này , mọi thông tin về iPhone 12 đang được các tín đồ công nghệ trông ngóng .
 
 Dưới đây là bảng so sánh các tính năng giữa Galaxy S20 FE và 2 phiên bản iPhone 12 mini và iPhone 12 theo dự đoán.	Dưới đây là bảng so sánh các tính năng giữa Galaxy S20 FE và 2 phiên bản iPhone 12 mini và iPhone 12 theo dự đoán .
+
 
 title: So sánh Redmi Note 11 với Galaxy M32 5G và Realme 8 5G	title : So sánh Redmi Note 11 với Galaxy M32 5G và Realme 8 5G
 
@@ -9371,6 +9426,7 @@ Bạn có nghĩ vậy không?	Bạn có nghĩ vậy không ?
 
 Mẫu điện thoại kế nhiệm mới được ra mắt từ nhà Realme có tên là  Realme 10  đang được mở bán tại FPTShop, tham khảo để có thêm nhiều đánh giá, lựa chọn hơn cho bạn nhé!	Mẫu điện thoại kế nhiệm mới được ra mắt từ nhà Realme có tên là Realme 10 đang được mở bán tại FPTShop , tham khảo để có thêm nhiều đánh giá , lựa chọn hơn cho bạn nhé !
 
+
 title: iPhone 14 Pro Max hay Pixel 7 Pro có thời lượng pin tốt hơn?	title : iPhone 14 Pro Max hay Pixel 7 Pro có thời lượng pin tốt hơn ?
 
 So sánh thời lượng pin iPhone 14 Pro Max và Google Pixel 7 Pro, model nào giành chiến thắng?	So sánh thời lượng pin iPhone 14 Pro Max và Google Pixel 7 Pro , model nào giành chiến thắng ?
@@ -9428,4 +9484,5 @@ Tuy nhiên, một lưu ý rằng Google Pixel 7 Pro vẫn mang đến hiê�
 {"subject": ["8&&Google", "9&&Pixel", "10&&7", "11&&Pro"], "object": ["22&&các", "23&&đối", "24&&thủ", "25&&Android", "26&&hiện", "27&&nay"], "aspect": ["15&&hiệu", "16&&suất"], "predicate": ["17&&mạnh", "18&&mẽ", "19&&tương", "20&&tự"], "label": "EQL"}
 
 Có vẻ như, Apple đã tối ưu khá tốt giữa phần cứng và phần mềm giúp thời lượng pin trên flagship của mình trở nên tốt hơn.	Có vẻ như , Apple đã tối ưu khá tốt giữa phần cứng và phần mềm giúp thời lượng pin trên flagship của mình trở nên tốt hơn .
+
 

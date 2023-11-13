@@ -1056,13 +1056,18 @@ class ElementEvaluation(BaseEvaluation):
 
 
 class PairEvaluation(BaseEvaluation):
-    def __init__(self, config, candidate_pair_col, gold_pair_col, elem_col, ids_to_tags, save_model=False, fold=0):
+    def __init__(self, config, candidate_pair_col, gold_pair_col, elem_col, ids_to_tags, save_model=False,
+                 test_tokens=None, test_sent=None, fold=0):
         super(PairEvaluation, self).__init__(
             config, elem_col=elem_col, ids_to_tags=ids_to_tags, save_model=save_model, fold=fold
         )
 
         self.candidate_pair_col = candidate_pair_col
         self.gold_pair_col = gold_pair_col
+
+        # sentence and bert token
+        self.test_tokens = test_tokens
+        self.test_sent = test_sent
 
         self.y_hat = []
         self.polarity_hat = []
@@ -1086,6 +1091,19 @@ class PairEvaluation(BaseEvaluation):
         predict_tuple_pair_col = self.get_predict_truth_tuple_pair(self.candidate_pair_col)
 
         assert len(self.gold_pair_col) == len(predict_tuple_pair_col), "data length error!"
+
+        if polarity and self.test_tokens and self.test_sent:
+            with open("output_quintuples_baseline.txt", 'w', encoding='utf-8') as file:
+                for i in range(len(self.gold_pair_col)):
+                    sentence = ', '.join([f"'{x}'" for x in self.test_sent[i]])
+                    sent = ', '.join([f"'{x}'" for x in self.test_tokens[i]])
+                    sent_2 = ', '.join([f"'{x}'" for x in predict_tuple_pair_col[i]])
+                    sent_3 = ', '.join([f"'{x}'" for x in self.gold_pair_col[i]])
+                    file.write(f"[{sentence}]\n")
+                    file.write(f"[{sent}]\n")
+                    file.write(f"[{sent_2}]\n")
+                    file.write(f"[{sent_3}]\n")
+                    file.write("\n")
 
         # calculate elem dict.
         # tuple_str = ""
