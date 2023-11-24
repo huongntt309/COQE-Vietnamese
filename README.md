@@ -1,38 +1,58 @@
 # Comparative Opinion Mining from Vietnamese Product Reviews
 
-## Team members:
+This repo contains the data sets and source code of our NLP final project.
+Slide: (https://docs.google.com/presentation/d/1ZYOEaSgauSUvIJM182SJvfRREXZRvO3Czr9JSP4E5GI/edit#slide=id.g261b6a04064_0_60)
+
+## Team members
 - 21020467 Nguyễn Thị Thúy Hường
 - 21020522 Hoàng Hùng Mạnh
   
 ## Task
 This task aims to create models that can find opinions from product reviews. Each review has sentences that compare different parts of products.
-![image](https://github.com/huongntt309/COQE-Vietnamese/assets/126147857/d375cba5-0fae-468c-bb0b-76c126dd9540)
+<p align="center">
+<img src="image/table1.png" width="50%" />
+</p>
 
-## Dataset: VLSP2023 ComOM shared task
+## Dataset
+The dataset is released by VLSP 2023 challenge on
+Comparative Opinion Mining from Vietnamese Product
+Reviews. Each review contains comparative sentences,
+and the corresponding quintuples are annotated.
 The following table shows the statistics of the comparative quintuple corpora.
-![image](https://github.com/huongntt309/COQE-Vietnamese/assets/126147857/5640989b-f17c-4f91-84d6-0f53b5c10f7c)
-
+<p align="center">
+<img src="image/table2.png" width="50%" />
+</p>
 
 ## Approach
 ### Stage 1: CEE + CSI
-![image](https://github.com/huongntt309/COQE-Vietnamese/assets/126147857/a4e94a29-081a-4ca7-8531-1d60b81e189f)
-
+<p align="center">
+<img src="image/stage1.png" width="50%" />
+</p>
 
 ### Stage 2, 3: Combination, Filtering + CLC
 **Combination**
-![image](https://github.com/huongntt309/COQE-Vietnamese/assets/126147857/c727d95b-819b-4d63-b903-44f16a3b0b84)
+<p align="center">
+<img src="image/stage2_combi.png" width="50%" />
+</p>
 
 **Filtering**
-![image](https://github.com/huongntt309/COQE-Vietnamese/assets/126147857/dd96beb4-3855-46da-bd52-e668bcac0666)
+<p align="center">
+<img src="image/stage2_filter.png" width="50%" />
+</p>
 
 **CLC**
-![image](https://github.com/huongntt309/COQE-Vietnamese/assets/126147857/d6a5e99a-b6a7-4999-baa4-311130aa2a47)
+<p align="center">
+<img src="image/stage2_clc.png" width="50%" />
+</p>
 
 **Output**
-![image](https://github.com/huongntt309/COQE-Vietnamese/assets/126147857/81390c25-d7ae-464a-9acc-18595e1bf129)
-
+<p align="center">
+<img src="image/stage2_output.png" width="50%" />
+</p>
 
 ## Result
-The Results of different approaches for CEE T4 and T5 under the Exact Match metric:
-![image](https://github.com/huongntt309/COQE-Vietnamese/assets/126147857/d0494791-15ef-4cdf-b84d-ecd6770ec7a8)
+The Results of different approaches for CEE, T4 and T5 under the Exact Match metric:
+<p align="center">
+<img src="image/result.png" width="50%" />
+</p>
 
